@@ -15,6 +15,7 @@
       padding-bottom: env(safe-area-inset-bottom);
     }
 
+    /* ---- Header ---- */
     header {
       padding: 16px 32px;
       padding-left: max(32px, env(safe-area-inset-left));
@@ -30,6 +31,64 @@
     }
     header h1 { font-size: 1.3rem; font-weight: 700; }
     header span { font-size: .8rem; color: #64748b; }
+
+    /* ---- Filter bar ---- */
+    .filter-bar {
+      position: sticky;
+      top: 53px;
+      background: #0f1117;
+      z-index: 9;
+      border-bottom: 1px solid #1e2535;
+      padding: 10px 32px;
+      padding-left: max(32px, env(safe-area-inset-left));
+      padding-right: max(32px, env(safe-area-inset-right));
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .filter-row::-webkit-scrollbar { display: none; }
+    .filter-label {
+      font-size: .8rem;
+      flex-shrink: 0;
+    }
+    .chips {
+      display: flex;
+      gap: 6px;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 5px 10px;
+      border-radius: 20px;
+      border: 1px solid #1e2535;
+      background: transparent;
+      color: #475569;
+      font-size: .75rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: all .15s;
+      letter-spacing: .3px;
+    }
+    .chip.active {
+      background: #1e2535;
+      color: #e2e8f0;
+      border-color: #334155;
+    }
+    .chip-change { font-size: .68rem; font-weight: 700; }
+    .chip-change.up   { color: #34d399; }
+    .chip-change.down { color: #f87171; }
+    .chip-change.flat { color: #94a3b8; }
 
     /* ---- Section ---- */
     .section { padding: 28px 32px 8px; }
@@ -171,6 +230,11 @@
       }
       header h1 { font-size: 1.1rem; }
 
+      .filter-bar {
+        top: 46px;
+        padding: 8px 12px;
+      }
+
       .section { padding: 20px 12px 8px; }
 
       .grid {
@@ -188,6 +252,17 @@
     <h1>Stock Tracker</h1>
     <span id="updated"></span>
   </header>
+
+  <div class="filter-bar">
+    <div class="filter-row">
+      <span class="filter-label">🇺🇸</span>
+      <div class="chips" id="chips-us"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">🇹🇭</span>
+      <div class="chips" id="chips-thai"></div>
+    </div>
+  </div>
 
   <div class="section">
     <div class="section-title us-title">🇺🇸 US Stocks</div>
@@ -217,10 +292,33 @@
     ];
 
     const TH_STOCKS = [
-      { ticker: "PTT",   name: "ปตท.", symbol: "PTT.BK" },
-      { ticker: "KBANK", name: "กสิกรไทย", symbol: "KBANK.BK" },
-      { ticker: "AOT",   name: "ท่าอากาศยานไทย", symbol: "AOT.BK" },
+      { ticker: "PTT",   name: "ปตท.",              symbol: "PTT.BK" },
+      { ticker: "KBANK", name: "กสิกรไทย",          symbol: "KBANK.BK" },
+      { ticker: "AOT",   name: "ท่าอากาศยานไทย",   symbol: "AOT.BK" },
     ];
+
+    /* ---- Chip management ---- */
+    function makeChip(ticker, cardId, containerId) {
+      const chip = document.createElement("button");
+      chip.className = "chip active";
+      chip.dataset.cardId = cardId;
+      chip.innerHTML = `<span>${ticker}</span><span class="chip-change" id="chip-chg-${ticker}"></span>`;
+      chip.addEventListener("click", () => {
+        const active = chip.classList.toggle("active");
+        const card = document.getElementById(cardId);
+        if (card) card.style.display = active ? "" : "none";
+      });
+      document.getElementById(containerId).appendChild(chip);
+    }
+
+    function updateChip(ticker, dp) {
+      const el = document.getElementById(`chip-chg-${ticker}`);
+      if (!el || dp == null) return;
+      const sign = dp > 0 ? "▲" : dp < 0 ? "▼" : "";
+      const cls  = dp > 0 ? "up" : dp < 0 ? "down" : "flat";
+      el.className = `chip-change ${cls}`;
+      el.textContent = `${sign}${Math.abs(dp).toFixed(1)}%`;
+    }
 
     /* ---- Helpers ---- */
     function toDateStr(d) { return d.toISOString().slice(0, 10); }
@@ -259,7 +357,7 @@
         (viewMoreHref ? `<a class="view-more" href="${viewMoreHref}" target="_blank" rel="noopener">ดูข่าวเพิ่มเติม →</a>` : "");
     }
 
-    function makeCard(id, ticker, name, badgeClass, priceBox, countryTag) {
+    function makeCard(id, ticker, name, badgeClass, countryTag) {
       const card = document.createElement("div");
       card.className = "card";
       card.id = `card-${id}`;
@@ -272,7 +370,6 @@
               ${countryTag ? `<span class="country-tag">${countryTag}</span>` : ""}
             </div>
           </div>
-          ${priceBox || ""}
         </div>
         <div class="news-list"><div class="loading">กำลังโหลดข่าว…</div></div>`;
       return card;
@@ -338,7 +435,8 @@
     async function renderUS() {
       const grid = document.getElementById("grid-us");
       const cards = US_STOCKS.map(s => {
-        const card = makeCard(s.ticker, s.ticker, s.name, "badge-us", "", "🇺🇸 NASDAQ/NYSE");
+        makeChip(s.ticker, `card-${s.ticker}`, "chips-us");
+        const card = makeCard(s.ticker, s.ticker, s.name, "badge-us", "🇺🇸 NASDAQ/NYSE");
         grid.appendChild(card);
         return { stock: s, card };
       });
@@ -353,6 +451,7 @@
           card.querySelector(".card-header").insertAdjacentHTML(
             "beforeend", priceHTML(quote.c, quote.dp, "$")
           );
+          updateChip(stock.ticker, quote.dp);
         }
         card.querySelector(".news-list").innerHTML = newsHTML(
           news,
@@ -364,7 +463,8 @@
     async function renderThai() {
       const grid = document.getElementById("grid-thai");
       const cards = TH_STOCKS.map(s => {
-        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", "", "🇹🇭 SET");
+        makeChip(s.ticker, `card-${s.symbol}`, "chips-thai");
+        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", "🇹🇭 SET");
         grid.appendChild(card);
         return { stock: s, card };
       });
@@ -379,6 +479,7 @@
           card.querySelector(".card-header").insertAdjacentHTML(
             "beforeend", priceHTML(quote.price, quote.dp, "฿")
           );
+          updateChip(stock.ticker, quote.dp);
         }
         card.querySelector(".news-list").innerHTML = newsHTML(
           news,
@@ -399,7 +500,6 @@
     function applyBearAlerts(alerts) {
       for (const [ticker, items] of Object.entries(alerts)) {
         if (!items.length) continue;
-        // Try both card-TICKER and card-TICKER.BK
         const card = document.getElementById(`card-${ticker}`) ||
                      document.getElementById(`card-${ticker}.BK`);
         if (!card) continue;
