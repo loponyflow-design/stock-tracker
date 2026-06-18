@@ -104,6 +104,8 @@ def fetch_google_news(query: str) -> list:
 # ── Telegram ──────────────────────────────────────────────────────────────
 
 def send_telegram(text: str):
+    if len(text) > 4000:
+        text = text[:4000] + '...'
     r = requests.post(
         f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
         json={"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML"},
