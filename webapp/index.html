@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stock Tracker</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0f1117;
+      color: #e2e8f0;
+      min-height: 100vh;
+    }
+
+    header {
+      padding: 20px 32px;
+      border-bottom: 1px solid #1e2535;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header h1 { font-size: 1.3rem; font-weight: 700; }
+    header span { font-size: .8rem; color: #64748b; }
+
+    /* ---- Section ---- */
+    .section { padding: 28px 32px 8px; }
+    .section-title {
+      font-size: .7rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-title::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: #1e2535;
+    }
+    .us-title   { color: #60a5fa; }
+    .thai-title { color: #34d399; }
+
+    /* ---- Grid ---- */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+
+    /* ---- Card ---- */
+    .card {
+      background: #161b27;
+      border: 1px solid #1e2535;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: border-color .2s;
+    }
+    .card:hover { border-color: #334155; }
+    .card.bear-active { border-color: #ef4444 !important; }
+
+    /* Bear alert banner */
+    .bear-banner {
+      background: #1f0a0a;
+      border-bottom: 1px solid #7f1d1d;
+      padding: 8px 16px;
+    }
+    .bear-item {
+      display: flex;
+      gap: 6px;
+      align-items: flex-start;
+      padding: 5px 0;
+      border-bottom: 1px solid #2d1515;
+      font-size: .77rem;
+      line-height: 1.4;
+    }
+    .bear-item:last-child { border-bottom: none; }
+    .bear-item-icon { flex-shrink: 0; }
+    .bear-item-body { color: #fca5a5; }
+    .bear-item-body a { color: #f87171; font-size: .72rem; }
+    .bear-item-body a:hover { color: #fca5a5; }
+    .bear-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
+
+    .card-header {
+      padding: 14px 16px 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .card-left { display: flex; align-items: center; gap: 10px; }
+
+    .badge {
+      font-weight: 700;
+      font-size: .8rem;
+      padding: 3px 9px;
+      border-radius: 6px;
+      letter-spacing: .5px;
+    }
+    .badge-us   { background: #1e3a5f; color: #60a5fa; }
+    .badge-thai { background: #064e3b; color: #34d399; }
+
+    .company-name { font-size: .88rem; font-weight: 600; color: #cbd5e1; }
+
+    .price-box { text-align: right; line-height: 1.3; }
+    .price     { font-size: .9rem; font-weight: 700; }
+    .change    { font-size: .75rem; }
+    .up   { color: #34d399; }
+    .down { color: #f87171; }
+    .flat { color: #94a3b8; }
+
+    /* ---- News ---- */
+    .news-list { padding: 0 16px 14px; }
+    .news-item {
+      padding: 7px 0;
+      border-top: 1px solid #1e2535;
+    }
+    .news-item a {
+      color: #cbd5e1;
+      text-decoration: none;
+      font-size: .79rem;
+      line-height: 1.45;
+      display: block;
+    }
+    .news-item a:hover { color: #60a5fa; }
+    .news-meta { font-size: .7rem; color: #475569; margin-top: 2px; }
+
+    .loading { color: #475569; font-size: .78rem; padding: 10px 16px; }
+    .no-news  { color: #475569; font-size: .78rem; padding: 10px 16px; }
+
+    .view-more {
+      display: block;
+      text-align: center;
+      font-size: .72rem;
+      color: #475569;
+      padding: 6px 0 2px;
+      text-decoration: none;
+      border-top: 1px solid #1e2535;
+    }
+    .view-more:hover { color: #94a3b8; }
+
+    .country-tag {
+      font-size: .65rem;
+      font-weight: 600;
+      letter-spacing: .4px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: #1e2535;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Stock Tracker</h1>
+    <span id="updated"></span>
+  </header>
+
+  <div class="section">
+    <div class="section-title us-title">🇺🇸 US Stocks</div>
+    <div class="grid" id="grid-us"></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title thai-title">🇹🇭 Thai Stocks (SET)</div>
+    <div class="grid" id="grid-thai"></div>
+  </div>
+
+  <script src="./config.js"></script>
+  <script>
+    const FINNHUB_KEY = window.FINNHUB_KEY || "";
+    const RSS2JSON    = "https://api.rss2json.com/v1/api.json?rss_url=";
+
+    const US_STOCKS = [
+      { ticker: "AAPL",  name: "Apple" },
+      { ticker: "ARM",   name: "Arm Holdings" },
+      { ticker: "CVX",   name: "Chevron" },
+      { ticker: "GOOGL", name: "Alphabet" },
+      { ticker: "MSFT",  name: "Microsoft" },
+      { ticker: "NVDA",  name: "NVIDIA" },
+      { ticker: "O",     name: "Realty Income" },
+      { ticker: "SPCX",  name: "SPCX ETF" },
+      { ticker: "TSLA",  name: "Tesla" },
+    ];
+
+    const TH_STOCKS = [
+      { ticker: "PTT",   name: "ปตท.", symbol: "PTT.BK" },
+      { ticker: "KBANK", name: "กสิกรไทย", symbol: "KBANK.BK" },
+      { ticker: "AOT",   name: "ท่าอากาศยานไทย", symbol: "AOT.BK" },
+    ];
+
+    /* ---- Helpers ---- */
+    function toDateStr(d) { return d.toISOString().slice(0, 10); }
+
+    function relTime(ts) {
+      const diff = Math.floor((Date.now() / 1000) - ts);
+      if (diff < 3600)  return `${Math.floor(diff / 60)} นาทีที่แล้ว`;
+      if (diff < 86400) return `${Math.floor(diff / 3600)} ชม.ที่แล้ว`;
+      return `${Math.floor(diff / 86400)} วันที่แล้ว`;
+    }
+
+    function changeClass(dp) {
+      if (dp > 0) return "up";
+      if (dp < 0) return "down";
+      return "flat";
+    }
+    function changeSign(dp) { return dp > 0 ? "+" : ""; }
+
+    function priceHTML(price, dp, currency) {
+      if (price == null) return "";
+      const cls = changeClass(dp);
+      return `
+        <div class="price-box">
+          <div class="price">${currency}${price.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}</div>
+          <div class="change ${cls}">${changeSign(dp)}${dp?.toFixed(2)}%</div>
+        </div>`;
+    }
+
+    function newsHTML(items, viewMoreHref) {
+      if (!items.length) return `<div class="no-news">ไม่มีข่าวใน 7 วันที่ผ่านมา</div>`;
+      return items.map(i => `
+        <div class="news-item">
+          <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
+          <div class="news-meta">${i.source}${i.time ? " · " + i.time : ""}</div>
+        </div>`).join("") +
+        (viewMoreHref ? `<a class="view-more" href="${viewMoreHref}" target="_blank" rel="noopener">ดูข่าวเพิ่มเติม →</a>` : "");
+    }
+
+    function makeCard(id, ticker, name, badgeClass, priceBox, countryTag) {
+      const card = document.createElement("div");
+      card.className = "card";
+      card.id = `card-${id}`;
+      card.innerHTML = `
+        <div class="card-header">
+          <div class="card-left">
+            <span class="badge ${badgeClass}">${ticker}</span>
+            <div>
+              <span class="company-name">${name}</span>
+              ${countryTag ? `<span class="country-tag">${countryTag}</span>` : ""}
+            </div>
+          </div>
+          ${priceBox || ""}
+        </div>
+        <div class="news-list"><div class="loading">กำลังโหลดข่าว…</div></div>`;
+      return card;
+    }
+
+    /* ---- US: Finnhub ---- */
+    async function fetchFinnhubQuote(ticker) {
+      const r = await fetch(`https://finnhub.io/api/v1/quote?symbol=${ticker}&token=${FINNHUB_KEY}`);
+      return r.ok ? r.json() : null;
+    }
+
+    async function fetchFinnhubNews(ticker) {
+      const to   = new Date();
+      const from = new Date(Date.now() - 7 * 86400 * 1000);
+      const r = await fetch(
+        `https://finnhub.io/api/v1/company-news?symbol=${ticker}&from=${toDateStr(from)}&to=${toDateStr(to)}&token=${FINNHUB_KEY}`
+      );
+      if (!r.ok) return [];
+      const data = await r.json();
+      return data.slice(0, 4).map(a => ({
+        title: a.headline,
+        url:   a.url,
+        source: a.source,
+        time:  relTime(a.datetime),
+      }));
+    }
+
+    /* ---- Thai: Yahoo Finance + Google News RSS ---- */
+    async function fetchYahooQuote(symbol) {
+      try {
+        const r = await fetch(
+          `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=1d`
+        );
+        if (!r.ok) return null;
+        const d = await r.json();
+        const m = d?.chart?.result?.[0]?.meta;
+        if (!m) return null;
+        const price = m.regularMarketPrice;
+        const prev  = m.previousClose || m.chartPreviousClose;
+        const dp    = prev ? ((price - prev) / prev) * 100 : null;
+        return { price, dp };
+      } catch { return null; }
+    }
+
+    async function fetchGoogleNews(query) {
+      try {
+        const rss = encodeURIComponent(
+          `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=th-TH&gl=TH&ceid=TH:th`
+        );
+        const r = await fetch(RSS2JSON + rss);
+        if (!r.ok) return [];
+        const d = await r.json();
+        return (d.items || []).slice(0, 4).map(i => ({
+          title:  i.title,
+          url:    i.link,
+          source: i.author || "Google News",
+          time:   "",
+        }));
+      } catch { return []; }
+    }
+
+    /* ---- Render ---- */
+    async function renderUS() {
+      const grid = document.getElementById("grid-us");
+      const cards = US_STOCKS.map(s => {
+        const card = makeCard(s.ticker, s.ticker, s.name, "badge-us", "", "🇺🇸 NASDAQ/NYSE");
+        grid.appendChild(card);
+        return { stock: s, card };
+      });
+
+      await Promise.allSettled(cards.map(async ({ stock, card }) => {
+        const [quote, news] = await Promise.all([
+          fetchFinnhubQuote(stock.ticker),
+          fetchFinnhubNews(stock.ticker),
+        ]);
+
+        if (quote) {
+          card.querySelector(".card-header").insertAdjacentHTML(
+            "beforeend", priceHTML(quote.c, quote.dp, "$")
+          );
+        }
+        card.querySelector(".news-list").innerHTML = newsHTML(
+          news,
+          `https://finance.yahoo.com/quote/${stock.ticker}/news/`
+        );
+      }));
+    }
+
+    async function renderThai() {
+      const grid = document.getElementById("grid-thai");
+      const cards = TH_STOCKS.map(s => {
+        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", "", "🇹🇭 SET");
+        grid.appendChild(card);
+        return { stock: s, card };
+      });
+
+      await Promise.allSettled(cards.map(async ({ stock, card }) => {
+        const [quote, news] = await Promise.all([
+          fetchYahooQuote(stock.symbol),
+          fetchGoogleNews(`${stock.ticker} หุ้น`),
+        ]);
+
+        if (quote) {
+          card.querySelector(".card-header").insertAdjacentHTML(
+            "beforeend", priceHTML(quote.price, quote.dp, "฿")
+          );
+        }
+        card.querySelector(".news-list").innerHTML = newsHTML(
+          news,
+          `https://finance.yahoo.com/quote/${stock.symbol}/news/`
+        );
+      }));
+    }
+
+    /* ---- Bear alerts ---- */
+    async function loadBearAlerts() {
+      try {
+        const r = await fetch("./bear_alerts.json?t=" + Date.now());
+        if (!r.ok) return {};
+        return (await r.json()).alerts || {};
+      } catch { return {}; }
+    }
+
+    function applyBearAlerts(alerts) {
+      for (const [ticker, items] of Object.entries(alerts)) {
+        if (!items.length) continue;
+        // Try both card-TICKER and card-TICKER.BK
+        const card = document.getElementById(`card-${ticker}`) ||
+                     document.getElementById(`card-${ticker}.BK`);
+        if (!card) continue;
+
+        card.classList.add("bear-active");
+
+        const banner = document.createElement("div");
+        banner.className = "bear-banner";
+        banner.innerHTML = items.map(a => `
+          <div class="bear-item">
+            <span class="bear-item-icon">⚠️</span>
+            <div class="bear-item-body">
+              ${a.headline}
+              <a href="${a.url}" target="_blank" rel="noopener"> — ตรวจสอบ</a>
+              <div class="bear-condition">📌 ${a.condition}</div>
+            </div>
+          </div>`).join("");
+
+        const newsEl = card.querySelector(".news-list");
+        card.insertBefore(banner, newsEl);
+      }
+    }
+
+    /* ---- Init ---- */
+    document.getElementById("updated").textContent =
+      "อัปเดต " + new Date().toLocaleTimeString("th-TH");
+
+    renderUS();
+    renderThai();
+    loadBearAlerts().then(applyBearAlerts);
+  </script>
+</body>
+</html>

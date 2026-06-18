@@ -1,0 +1,37 @@
+name: Daily Stock News Alert
+
+on:
+  schedule:
+    - cron: '0 1 * * 1-5'   # 08:00 Bangkok (UTC+7), วันจันทร์-ศุกร์
+  workflow_dispatch:          # กด run ด้วยมือได้จาก GitHub UI
+
+permissions:
+  contents: write             # อนุญาต push bear_alerts.json กลับ repo
+
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news alert
+        run: python scripts/news_alert.py
+        env:
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          TG_TOKEN:    ${{ secrets.TG_TOKEN }}
+          TG_CHAT:     ${{ secrets.TG_CHAT }}
+
+      - name: Commit bear_alerts.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add webapp/bear_alerts.json
+          git diff --cached --quiet || git commit -m "chore: update bear alerts [skip ci]"
+          git push
