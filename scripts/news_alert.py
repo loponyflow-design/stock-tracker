@@ -104,11 +104,13 @@ def fetch_google_news(query: str) -> list:
 # ── Telegram ──────────────────────────────────────────────────────────────
 
 def send_telegram(text: str):
-    requests.post(
+    r = requests.post(
         f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
         json={"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML"},
         timeout=10,
-    ).raise_for_status()
+    )
+    print(r.text)
+    r.raise_for_status()
 
 
 # ── bear_alerts.json ───────────────────────────────────────────────────────
