@@ -6,7 +6,7 @@ from urllib.parse import quote
 
 FINNHUB_KEY = os.environ["FINNHUB_KEY"]
 TG_TOKEN    = os.environ["TG_TOKEN"]
-TG_CHAT     = os.environ["TG_CHAT"]
+TG_CHAT     = int(os.environ["TG_CHAT"])
 
 US_TICKERS = ["AAPL", "ARM", "CVX", "GOOGL", "MSFT", "NVDA", "O", "SPCX", "TSLA"]
 TH_TICKERS = [
