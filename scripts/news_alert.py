@@ -15,44 +15,45 @@ TH_TICKERS = [
     {"ticker": "AOT",   "name": "ท่าอากาศยานไทย"},
 ]
 
-# ── Bear signal extraction ─────────────────────────────────────────────────
+# ── Signal extraction ─────────────────────────────────────────────────────
 
-def load_bear_signals(ticker: str) -> dict:
-    """Extract keywords from Bear Case + Kill Conditions sections of brief."""
-    brief = Path(f"briefs/{ticker}.md")
-    if not brief.exists():
-        return {"conditions": [], "keywords": []}
+def _extract_section(content: str, label: str) -> str:
+    m = re.search(rf'\*\*{label}\*\*\n((?:- .+\n?)+)', content)
+    return m.group(1) if m else ""
 
-    content = brief.read_text(encoding="utf-8")
-
-    # Bear Case bullets
-    bear_match = re.search(r'\*\*Bear\*\*\n((?:- .+\n?)+)', content)
-    bear_text  = bear_match.group(1) if bear_match else ""
-
-    # Kill Conditions section (has the clearest bold keywords)
-    kill_match = re.search(r'## 5\. Kill conditions.*?\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
-    kill_text  = kill_match.group(1) if kill_match else ""
-
-    combined = bear_text + "\n" + kill_text
-
-    # Conditions: clean bullet text from bear section
+def _build_signals(section_text: str, extra_text: str = "") -> dict:
+    combined   = section_text + "\n" + extra_text
     conditions = [
         re.sub(r'\*\*(.+?)\*\*', r'\1', b.lstrip('- ').strip())
-        for b in bear_text.strip().split('\n')
-        if b.strip().startswith('-')
+        for b in section_text.strip().split('\n') if b.strip().startswith('-')
     ]
-
-    # Keywords: bold phrases + English acronyms (NPL, NIM, LNG, etc.)
-    keywords = re.findall(r'\*\*([^*\n]+)\*\*', combined)
+    keywords  = re.findall(r'\*\*([^*\n]+)\*\*', combined)
     keywords += re.findall(r'\b[A-Z]{2,}\b', combined)
-
     return {
         "conditions": conditions,
         "keywords": list(set(k.strip() for k in keywords if len(k.strip()) > 2)),
     }
 
+def load_signals(ticker: str) -> dict:
+    """Return {"bull": ..., "bear": ...} extracted from brief."""
+    empty = {"conditions": [], "keywords": []}
+    brief = Path(f"briefs/{ticker}.md")
+    if not brief.exists():
+        return {"bull": empty, "bear": empty}
 
-def check_bear(headline: str, summary: str, signals: dict) -> tuple[bool, str]:
+    content    = brief.read_text(encoding="utf-8")
+    bull_text  = _extract_section(content, "Bull")
+    bear_text  = _extract_section(content, "Bear")
+    kill_match = re.search(r'## 5\. Kill conditions.*?\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
+    kill_text  = kill_match.group(1) if kill_match else ""
+
+    return {
+        "bull": _build_signals(bull_text),
+        "bear": _build_signals(bear_text, kill_text),
+    }
+
+
+def check_signal(headline: str, summary: str, signals: dict) -> tuple[bool, str]:
     """Returns (is_bear_related, matched_condition_text)."""
     if not signals["keywords"]:
         return False, ""
@@ -163,61 +164,68 @@ def update_bear_json(new_alerts: dict, now: datetime):
 
 # ── Main ──────────────────────────────────────────────────────────────────
 
-def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int]:
-    signals  = load_bear_signals(ticker)
+def _classify_article(headline: str, url: str, summary: str, ts_label: str,
+                       signals: dict, ticker: str, now: datetime,
+                       new_bear_alerts: dict,
+                       news_lines: list, bull_signal_lines: list, bear_lines: list):
+    is_bear, bear_cond = check_signal(headline, summary, signals["bear"])
+    if is_bear:
+        bear_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{bear_cond[:120]}</i>", ""]
+        new_bear_alerts.setdefault(ticker, []).append(
+            {"headline": headline, "url": url, "condition": bear_cond, "detected_at": now.isoformat()}
+        )
+        return
+
+    is_bull, bull_cond = check_signal(headline, summary, signals["bull"])
+    if is_bull:
+        bull_signal_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>อ่านต่อ</a>", f"📌 <i>{bull_cond[:120]}</i>", ""]
+        return
+
+    news_lines += ([f"[{ts_label}] • {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""] if ts_label
+                   else [f"• {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""])
+
+
+def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int, int]:
+    signals  = load_signals(ticker)
     articles = fetch_finnhub_news(ticker, since, now)
-    bull_lines, bear_lines = [], []
+    news_lines, bull_signal_lines, bear_lines = [], [], []
 
     for a in articles:
-        ts       = datetime.fromtimestamp(a["datetime"], tz=timezone.utc).strftime("%H:%M UTC")
-        headline = a.get("headline", "")
-        url      = a.get("url", "")
-        summary  = a.get("summary", "")
-        is_bear, condition = check_bear(headline, summary, signals)
+        ts = datetime.fromtimestamp(a["datetime"], tz=timezone.utc).strftime("%H:%M UTC")
+        _classify_article(a.get("headline", ""), a.get("url", ""), a.get("summary", ""),
+                          ts, signals, ticker, now, new_bear_alerts,
+                          news_lines, bull_signal_lines, bear_lines)
 
-        if is_bear:
-            bear_lines += [f"📰 {headline} [{ts}]", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{condition[:120]}</i>", ""]
-            new_bear_alerts.setdefault(ticker, []).append(
-                {"headline": headline, "url": url, "condition": condition, "detected_at": now.isoformat()}
-            )
-        else:
-            bull_lines += [f"[{ts}] • {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""]
-
-    if bull_lines:
-        send_telegram(f"🇺🇸 <b>${ticker}</b> — {date_str}\n\n" + "\n".join(bull_lines))
+    if news_lines:
+        send_telegram(f"🇺🇸 <b>${ticker}</b> — {date_str}\n\n" + "\n".join(news_lines))
+    if bull_signal_lines:
+        send_telegram(f"🟢 <b>BULL SIGNAL — ${ticker}</b> — {date_str}\n\n" + "\n".join(bull_signal_lines))
     if bear_lines:
         send_telegram(f"⚠️ <b>BEAR ALERT — ${ticker}</b> — {date_str}\n\n" + "\n".join(bear_lines))
 
-    return len(bull_lines) // 3, len(bear_lines) // 4
+    return len(news_lines) // 3, len(bull_signal_lines) // 4, len(bear_lines) // 4
 
 
-def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int]:
+def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int, int]:
     ticker   = stock["ticker"]
     name     = stock["name"]
-    signals  = load_bear_signals(ticker)
+    signals  = load_signals(ticker)
     entries  = fetch_google_news(f"{ticker} หุ้น")
-    bull_lines, bear_lines = [], []
+    news_lines, bull_signal_lines, bear_lines = [], [], []
 
     for e in entries:
-        headline = e.title
-        url      = e.link
-        summary  = getattr(e, "summary", "")
-        is_bear, condition = check_bear(headline, summary, signals)
+        _classify_article(e.title, e.link, getattr(e, "summary", ""),
+                          "", signals, ticker, now, new_bear_alerts,
+                          news_lines, bull_signal_lines, bear_lines)
 
-        if is_bear:
-            bear_lines += [f"📰 {headline}", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{condition[:120]}</i>", ""]
-            new_bear_alerts.setdefault(ticker, []).append(
-                {"headline": headline, "url": url, "condition": condition, "detected_at": now.isoformat()}
-            )
-        else:
-            bull_lines += [f"• {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""]
-
-    if bull_lines:
-        send_telegram(f"🇹🇭 <b>{ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(bull_lines))
+    if news_lines:
+        send_telegram(f"🇹🇭 <b>{ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(news_lines))
+    if bull_signal_lines:
+        send_telegram(f"🟢 <b>BULL SIGNAL — {ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(bull_signal_lines))
     if bear_lines:
         send_telegram(f"⚠️ <b>BEAR ALERT — {ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(bear_lines))
 
-    return len(bull_lines) // 3, len(bear_lines) // 4
+    return len(news_lines) // 3, len(bull_signal_lines) // 4, len(bear_lines) // 4
 
 
 def main():
@@ -225,18 +233,18 @@ def main():
     since    = now - timedelta(hours=24)
     date_str = now.strftime("%d %b %Y")
     new_bear_alerts: dict = {}
-    n_regular = n_bear = 0
+    n_news = n_bull = n_bear = 0
 
     for ticker in US_TICKERS:
-        r, b = process_ticker_us(ticker, since, now, date_str, new_bear_alerts)
-        n_regular += r; n_bear += b
+        r, bu, be = process_ticker_us(ticker, since, now, date_str, new_bear_alerts)
+        n_news += r; n_bull += bu; n_bear += be
 
     for stock in TH_TICKERS:
-        r, b = process_ticker_th(stock, now, date_str, new_bear_alerts)
-        n_regular += r; n_bear += b
+        r, bu, be = process_ticker_th(stock, now, date_str, new_bear_alerts)
+        n_news += r; n_bull += bu; n_bear += be
 
     update_bear_json(new_bear_alerts, now)
-    print(f"Done — regular: {n_regular}, bear alerts: {n_bear}")
+    print(f"Done — news: {n_news}, bull signals: {n_bull}, bear alerts: {n_bear}")
 
 
 if __name__ == "__main__":
