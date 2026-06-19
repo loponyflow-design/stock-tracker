@@ -104,15 +104,31 @@ def fetch_google_news(query: str) -> list:
 # ── Telegram ──────────────────────────────────────────────────────────────
 
 def send_telegram(text: str):
-    if len(text) > 4000:
-        text = text[:4000] + '...'
-    r = requests.post(
-        f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-        json={"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML"},
-        timeout=10,
-    )
-    print(r.text)
-    r.raise_for_status()
+    # Split at article boundaries (\n\n) so each chunk stays under Telegram's 4096-char limit
+    LIMIT = 3800
+    if len(text) <= LIMIT:
+        chunks = [text]
+    else:
+        chunks, current = [], ""
+        for para in text.split("\n\n"):
+            candidate = (current + "\n\n" + para).lstrip("\n") if current else para
+            if len(candidate) > LIMIT:
+                if current:
+                    chunks.append(current)
+                current = para
+            else:
+                current = candidate
+        if current:
+            chunks.append(current)
+
+    for chunk in chunks:
+        r = requests.post(
+            f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+            json={"chat_id": TG_CHAT, "text": chunk, "parse_mode": "HTML"},
+            timeout=10,
+        )
+        print(r.text)
+        r.raise_for_status()
 
 
 # ── bear_alerts.json ───────────────────────────────────────────────────────
