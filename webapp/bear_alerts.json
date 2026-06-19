@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-06-19T13:41:03.369415+00:00",
+  "last_updated": "2026-06-19T13:47:52.091900+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple: Memory Crisis Should Not Unravel Its Advance",
+        "url": "https://finnhub.io/api/news?id=a4ee27cbc0e4920a5dcfbbf95616bc4a2dbfd86539c476400cb1bfb096ff1397",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-06-19T13:47:52.091900+00:00"
+      },
       {
         "headline": "Apple: Memory Crisis Should Not Unravel Its Advance",
         "url": "https://finnhub.io/api/news?id=a4ee27cbc0e4920a5dcfbbf95616bc4a2dbfd86539c476400cb1bfb096ff1397",
@@ -28,31 +34,31 @@
         "headline": "2 โบรกเชียร์ซื้อ KBANK เป้าสูง 245 บาท ชูสินเชื่อฟื้น-ปันผลเด่น 5.8% - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wWlVSLUlVamVfQjF5cTlMUFRkWDYxeUlBek42T01LUUlBaWJxTldtaTZvZjZPZjhIOVp4Qlh0VUlxcWN6eTVlTGVOdw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-19T13:41:03.369415+00:00"
+        "detected_at": "2026-06-19T13:47:52.091900+00:00"
       },
       {
-        "headline": "โบรกแนะ 4 หุ้นพื้นฐานเด่น BH-CPALL-KBANK-SCB - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fWWhRVVNhdlZ5azJFRGJhRG5abTVUUWZLR2Q5WU1nUi1SaUJJUE5lN3Brc3BYd0w4Y0VEd2kzSTFiOURka3laUFBHRXJsaTQyR2pDelZkWWxMbnRtNDdCR3Ewaw?oc=5",
+        "headline": "หุ้นไทยวันนี้(16 มิ.ย.) ลบ 3.67 จุด ขาย DELTA-GULF ซื้อ KBANK - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDUmNlS3lfUWVlbXY2MzFTSjl3NWRrYm0wcnVzeDhNdkJSWWVPc0F6NzViWWRnNkhDWVpscG02VkctM2FreXBNWjhOSU03UVk1bl83c3paRWpON2dIRUhFZw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-19T13:41:03.369415+00:00"
+        "detected_at": "2026-06-19T13:47:52.091900+00:00"
+      },
+      {
+        "headline": "ผ่าหุ้นแบงก์ไตรมาส2 KBANK-SCB ปันผลฟู - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00TVlTMVBCNGt1ckJBUnlQVzVnMUxwZmRjT0FVY09ydkx6YjBKQVE4Qzk0UlhPYWdSQTJCazBjNXU1YVdqckU1MXplX1M4Q1VDYmhNamdUQQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-06-19T13:47:52.091900+00:00"
       },
       {
         "headline": "เงิน 1 แสนบาท ซื้อหุ้น KTB หรือ KBANK ปีนี้ใครจะให้ปันผลมากกว่ากัน? - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxPTXhpaVkxTjFCUzV2U3FZOXY0UUxoNHYwd3pFajFLWkkwQzhiLUZyal9aTTFSOGFjLWJrUGFyMjZERGtoM2t6Mk9sTE9TbmFXSjR1NWkyVzlvbENnZHVkYlVCbTN4MDZKREVzeVo4QmNUSGlqTk5SVkFwdHJsM25XcGdja3NjQVFoT0oxRkFnenRqS2lfczRJc1dwS3BVZ2xDZTJlSjI5aHNmNC1Xa3dOU1BXdmFzZUUtX2tXVXhjV1hSV3hxcUlTN2dkNHNRWEpPOFlNcVZqcHJEb0RfbktJWWlZOXFjQW5wX0c4dHNMdWdYVkR5LVNCeG5naEZxd1J3a0hEcTd6QWNIVzZCQWE4UkQ2NVFmaGU4cVRTaGxleDR4WXR6NmNrSlBDRFh3bExQdDlUaG9JVVZfR2NMVTNON1Z3aVAzSVA4YUNsYVhVT2tEbEs4ZDFxZmp4NDYtU2I4eHJQbzhEaHNPdDduY1JjUWlHMnhtMDJRVm9pMVZDb0JLcnBGNlJBTm80R3dqM21YTFFQdGV5ZjZRUWVvMjhIcHYxaTNZdjdGSmcxVkFac3FHNEhjdHJUTURsMUtaSlBuUVZwM25OT2pHZGU4X003WVVRYk5kZUtwd3VVa3EtRnBJbU9ETnhRdG1Kd2x0Um1uQUJiZUwzdWtnVV9tcHBsVHBidk5OaEJ0a0NXX2FUWjFlN0d2WFNBUWNYbEhySVRVLXNMY2Vxb2s5NktncDBLWFE1LUpySEtSVGoybW5LOE5nWUhhRW5xSDlWMGtfM0dZcjlxQTNNNmNsYWlxaXppcGthdEtLU3NmdE45Y0NfM2sxVElITm9LdDdaNE1nelExWk0taHo4bDcwUDB1UlFYNzlUeGE0dWJZZ2NsT1JDZ0JpSlp2SEpwOVBraVNkQzg2TFVROGVaWnhXWWJ5SWc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-19T13:41:03.369415+00:00"
+        "detected_at": "2026-06-19T13:47:52.091900+00:00"
       },
       {
-        "headline": "หุ้นไทยพักเที่ยงวันนี้(16 มิ.ย.) ลบ 2.69 จุด ขาย DELTA ซื้อ SCB-KBANK - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxOTUZvN3RTWVRSNDhiaFdTcUhiRUcySjRJWWJ5T2RDdlgxbEVtMldwTURQb01WY0swaHpEazRBR2UwdzVGVW1LcEtHS3IzZGhodXhGU2V1dENSek5HTEpCZzRMRUxzSEw0RkIwRW11QjB6LTIwMjcyNXZlMmZYRF92c1lya3dlZnRLbFBhZlREdEdSUFRWNDJsdkxuOWxaWVF6TkNGZThmTUVSN2hHOUhzZ1REczNTanZJOURfV2JSV0VfMFpEOVdmVkVHT0JXQVltMk02aDcyT09YSDVKczZyT1NPWERHdk9QeXRYWndhbzg2TTFPb0R6RktRMWkzUGFVQS1XVUduU1NHNVVRS0NXNncxUjlmNDBTQWo2eDRvaWZkRlZPWmxaWEx2TldUZnZ4WTlHVlBJbWdIaFBLSFhhNDNsaXVrdUp4N1pXS3Y0NmJiZmhCR1VDQ1praXFTNEo5N2dlOVBTT29DSlZKa1o4MHpjc3dVSUtSeEVxaWtYbGxjeFlncS05Y09TN2xMb3QxbGZFOFlJMS1vbVRhSVVfMEw3SUFaLTE2UnB0ZEV6V0NzRDB6UHlyTW9yZVlRTTRGcGEzRGlPb0RrdmJjTldIRU1VbWtfX1ZPNzFiSkxEZmVoZUQ5ZXdDLXVDZnFSd3ZWYTkzbF9CMXdnYmh3QmhrODFOVjdOanFJUlluNnZfa0JwajFIOTNienlBRHl0M0FVSmx5dkVxb2JmclpOLVFPb3FCX3F2dmNhQVNYbFJmR2FYc2JRVHJfcGd4bU5RMmhHVUE?oc=5",
+        "headline": "2 โบรกเชียร์ซื้อ KBANK เป้าสูง 245 บาท ชูสินเชื่อฟื้น-ปันผลเด่น 5.8% - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wWlVSLUlVamVfQjF5cTlMUFRkWDYxeUlBek42T01LUUlBaWJxTldtaTZvZjZPZjhIOVp4Qlh0VUlxcWN6eTVlTGVOdw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-06-19T13:41:03.369415+00:00"
-      },
-      {
-        "headline": "เปิด 5 อันดับหุ้นต่างชาติซื้อสุทธิผ่าน NVDR จัดหนัก KBANK สูงสุด 1.33 พันล้านบาท - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQnlBUEpBSU9PbmVfQVEzanNGdEVmc3ZnYkdYR2JCTzU0RE9lalNmRDBnRTVmSkV1d3NrRVM4WmdWM2l0OERDYllrNA?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-18T17:00:08.627749+00:00"
       }
     ]
   }
