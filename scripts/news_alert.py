@@ -163,88 +163,78 @@ def update_bear_json(new_alerts: dict, now: datetime):
 
 # ── Main ──────────────────────────────────────────────────────────────────
 
+def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int]:
+    signals  = load_bear_signals(ticker)
+    articles = fetch_finnhub_news(ticker, since, now)
+    bull_lines, bear_lines = [], []
+
+    for a in articles:
+        ts       = datetime.fromtimestamp(a["datetime"], tz=timezone.utc).strftime("%H:%M UTC")
+        headline = a.get("headline", "")
+        url      = a.get("url", "")
+        summary  = a.get("summary", "")
+        is_bear, condition = check_bear(headline, summary, signals)
+
+        if is_bear:
+            bear_lines += [f"📰 {headline} [{ts}]", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{condition[:120]}</i>", ""]
+            new_bear_alerts.setdefault(ticker, []).append(
+                {"headline": headline, "url": url, "condition": condition, "detected_at": now.isoformat()}
+            )
+        else:
+            bull_lines += [f"[{ts}] • {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""]
+
+    if bull_lines:
+        send_telegram(f"🇺🇸 <b>${ticker}</b> — {date_str}\n\n" + "\n".join(bull_lines))
+    if bear_lines:
+        send_telegram(f"⚠️ <b>BEAR ALERT — ${ticker}</b> — {date_str}\n\n" + "\n".join(bear_lines))
+
+    return len(bull_lines) // 3, len(bear_lines) // 4
+
+
+def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int]:
+    ticker   = stock["ticker"]
+    name     = stock["name"]
+    signals  = load_bear_signals(ticker)
+    entries  = fetch_google_news(f"{ticker} หุ้น")
+    bull_lines, bear_lines = [], []
+
+    for e in entries:
+        headline = e.title
+        url      = e.link
+        summary  = getattr(e, "summary", "")
+        is_bear, condition = check_bear(headline, summary, signals)
+
+        if is_bear:
+            bear_lines += [f"📰 {headline}", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{condition[:120]}</i>", ""]
+            new_bear_alerts.setdefault(ticker, []).append(
+                {"headline": headline, "url": url, "condition": condition, "detected_at": now.isoformat()}
+            )
+        else:
+            bull_lines += [f"• {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""]
+
+    if bull_lines:
+        send_telegram(f"🇹🇭 <b>{ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(bull_lines))
+    if bear_lines:
+        send_telegram(f"⚠️ <b>BEAR ALERT — {ticker}</b> ({name}) — {date_str}\n\n" + "\n".join(bear_lines))
+
+    return len(bull_lines) // 3, len(bear_lines) // 4
+
+
 def main():
     now      = datetime.now(timezone.utc)
     since    = now - timedelta(hours=24)
     date_str = now.strftime("%d %b %Y")
-
-    regular_lines = [f"📰 <b>Stock News — {date_str}</b>\n"]
-    bear_lines    = []
     new_bear_alerts: dict = {}
     n_regular = n_bear = 0
 
-    # US stocks via Finnhub
     for ticker in US_TICKERS:
-        signals  = load_bear_signals(ticker)
-        articles = fetch_finnhub_news(ticker, since, now)
-        for a in articles:
-            ts       = datetime.fromtimestamp(a["datetime"], tz=timezone.utc).strftime("%H:%M UTC")
-            headline = a.get("headline", "")
-            url      = a.get("url", "")
-            summary  = a.get("summary", "")
+        r, b = process_ticker_us(ticker, since, now, date_str, new_bear_alerts)
+        n_regular += r; n_bear += b
 
-            is_bear, condition = check_bear(headline, summary, signals)
-
-            if is_bear:
-                bear_lines += [
-                    f"⚠️ <b>BEAR ALERT — ${ticker}</b> [{ts}]",
-                    f"📰 {headline}",
-                    f"🔗 <a href='{url}'>ตรวจสอบ</a>",
-                    f"📌 <i>{condition[:120]}</i>\n",
-                ]
-                new_bear_alerts.setdefault(ticker, []).append(
-                    {"headline": headline, "url": url,
-                     "condition": condition, "detected_at": now.isoformat()}
-                )
-                n_bear += 1
-            else:
-                regular_lines += [
-                    f"🇺🇸 <b>${ticker}</b> [{ts}]",
-                    f"• {headline}",
-                    f"  <a href='{url}'>อ่านต่อ</a>\n",
-                ]
-                n_regular += 1
-
-    # Thai stocks via Google News
     for stock in TH_TICKERS:
-        ticker   = stock["ticker"]
-        signals  = load_bear_signals(ticker)
-        entries  = fetch_google_news(f"{ticker} หุ้น")
-        for e in entries:
-            headline = e.title
-            url      = e.link
-            summary  = getattr(e, "summary", "")
+        r, b = process_ticker_th(stock, now, date_str, new_bear_alerts)
+        n_regular += r; n_bear += b
 
-            is_bear, condition = check_bear(headline, summary, signals)
-
-            if is_bear:
-                bear_lines += [
-                    f"⚠️ <b>BEAR ALERT — {ticker}</b> ({stock['name']})",
-                    f"📰 {headline}",
-                    f"🔗 <a href='{url}'>ตรวจสอบ</a>",
-                    f"📌 <i>{condition[:120]}</i>\n",
-                ]
-                new_bear_alerts.setdefault(ticker, []).append(
-                    {"headline": headline, "url": url,
-                     "condition": condition, "detected_at": now.isoformat()}
-                )
-                n_bear += 1
-            else:
-                regular_lines += [
-                    f"🇹🇭 <b>{ticker}</b> ({stock['name']})",
-                    f"• {headline}",
-                    f"  <a href='{url}'>อ่านต่อ</a>\n",
-                ]
-                n_regular += 1
-
-    # Send messages
-    if n_regular > 0:
-        send_telegram("\n".join(regular_lines))
-
-    if n_bear > 0:
-        send_telegram(f"🚨 <b>BEAR ALERTS — {date_str}</b>\n\n" + "\n".join(bear_lines))
-
-    # Update bear_alerts.json
     update_bear_json(new_bear_alerts, now)
     print(f"Done — regular: {n_regular}, bear alerts: {n_bear}")
 
