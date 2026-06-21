@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-21T04:09:59.101083+00:00",
+  "last_updated": "2026-06-21T13:51:01.045048+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นเช้านี้เปิดบวก 1.35 จุด ซื้อ PTT ขาย DELTA-PTTEP- GULF - Hoonsmart",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Edmx6cnc2aWczMnR0Um03YlBPZ1lmYktYcHBnLW84SHJZXy13ZTU0Q0M5eEFqWlhxTENVaXYydVRYZHFqb0VPSUZreW9vdw?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      },
+      {
+        "headline": "PTT-PTTEP นำกลุ่มพลังงานร่วง! รับแรงกดดันน้ำมันดิบวูบใกล้ 80 เหรียญ หลังฮอร์มุซคลี่คลาย - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CcmxNcFY0X2pfc2dpSno2aWFfWXo5QWhRc3J3NEk1TzVSMERpZk1xWmQweC1Hdk5DMlVETUFna0d4MDBTUmg5OEhUUG9WZUJzbkZFVktn?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      },
       {
         "headline": "หุ้นเช้านี้เปิดบวก 1.35 จุด ซื้อ PTT ขาย DELTA-PTTEP- GULF - Hoonsmart",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Edmx6cnc2aWczMnR0Um03YlBPZ1lmYktYcHBnLW84SHJZXy13ZTU0Q0M5eEFqWlhxTENVaXYydVRYZHFqb0VPSUZreW9vdw?oc=5",

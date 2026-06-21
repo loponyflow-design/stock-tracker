@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T04:09:59.101083+00:00",
+  "last_updated": "2026-06-21T13:51:01.045048+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,18 @@
     ],
     "TSLA": [
       {
+        "headline": "Tesla (TSLA) Faces EU FSD Split As Musk Lifts Voting Stake To 20%",
+        "url": "https://finnhub.io/api/news?id=e9dfe1ce9ddbe57f72ea469734054bc72f1e1d2c9ceefa512ed66178feafcea2",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      },
+      {
+        "headline": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
+        "url": "https://finnhub.io/api/news?id=accef81a09c80cae0d4b08b7511d0543f1147025d3a3f71b9b65ab1c512620ca",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      },
+      {
         "headline": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
         "url": "https://finnhub.io/api/news?id=accef81a09c80cae0d4b08b7511d0543f1147025d3a3f71b9b65ab1c512620ca",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -51,44 +63,62 @@
         "url": "https://finnhub.io/api/news?id=e264f337f7cfe64af4e9a269cda20ad967ceaf412754d0aef5019126e5eee9e7",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-06-21T04:09:59.101083+00:00"
-      },
-      {
-        "headline": "SpaceX Looks Like Meme Stock To Some. Is That A Good Or Bad Thing?",
-        "url": "https://finnhub.io/api/news?id=cbe5bdba53320f0abf339ac34d10d5e964cae8148b025ac749d43ff678259197",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-06-18T17:00:08.627749+00:00"
       }
     ],
     "KBANK": [
       {
-        "headline": "KBANK มองกรอบเงินบาทสัปดาห์หน้า 32.50-33.10 บ. จับตาตัวเลขส่งออก-กนง. | ข่าวหุ้นธุรกิจ - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZVFnN0tGQVFvVVN4SW5CY2tKZC1RaDRIN2hybDhpZGdiM1R4NjBtdkp0SnpqVmFYMGZXOWRnbG0yNjV2bXUteGUwbUNsWG1rMHRXSGdR?oc=5",
+        "headline": "KBANK คาดกรอบบาทสัปดาห์นี้ 32.50-33.10 จับตาตัวเลขส่งออก-ประชุม กนง.-สถานการณ์ ตอ.กลาง - ผู้จัดการออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ic3VNZHRpdlBzYWgxb1hvYVZUVkhaOEE0YVU4NVhYQnhZdGVyUGt3ZEwxNFk3TUMzRWFDME1nS3lsX005dFZLWnR0RUFZOEVuZ21QaHRIOGlJVlVvV3ZtNEZ4SXI?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-21T04:09:59.101083+00:00"
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
       },
       {
         "headline": "KBANK โบรกชี้ 4 ปัจจัยบวกหนุน ชูหุ้นเด่นกลุ่มแบงก์ - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VQnlQYWI3bUhha2dDWnBVQzFuX1ZHTGpsNmZ3T3Z6aXdVYy1rc0tKdWJuMU9aWkhRbU5vaFdUUWtidDduZW5NVVNsRUNWR1B6?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-21T04:09:59.101083+00:00"
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      },
+      {
+        "headline": "KBANK มองกรอบเงินบาทสัปดาห์หน้า 32.50-33.10 บ. จับตาตัวเลขส่งออก-กนง. | ข่าวหุ้นธุรกิจ - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZVFnN0tGQVFvVVN4SW5CY2tKZC1RaDRIN2hybDhpZGdiM1R4NjBtdkp0SnpqVmFYMGZXOWRnbG0yNjV2bXUteGUwbUNsWG1rMHRXSGdR?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
       },
       {
         "headline": "เงิน 1 แสนบาท ซื้อหุ้น KTB หรือ KBANK ปีนี้ใครจะให้ปันผลมากกว่ากัน? - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxPTXhpaVkxTjFCUzV2U3FZOXY0UUxoNHYwd3pFajFLWkkwQzhiLUZyal9aTTFSOGFjLWJrUGFyMjZERGtoM2t6Mk9sTE9TbmFXSjR1NWkyVzlvbENnZHVkYlVCbTN4MDZKREVzeVo4QmNUSGlqTk5SVkFwdHJsM25XcGdja3NjQVFoT0oxRkFnenRqS2lfczRJc1dwS3BVZ2xDZTJlSjI5aHNmNC1Xa3dOU1BXdmFzZUUtX2tXVXhjV1hSV3hxcUlTN2dkNHNRWEpPOFlNcVZqcHJEb0RfbktJWWlZOXFjQW5wX0c4dHNMdWdYVkR5LVNCeG5naEZxd1J3a0hEcTd6QWNIVzZCQWE4UkQ2NVFmaGU4cVRTaGxleDR4WXR6NmNrSlBDRFh3bExQdDlUaG9JVVZfR2NMVTNON1Z3aVAzSVA4YUNsYVhVT2tEbEs4ZDFxZmp4NDYtU2I4eHJQbzhEaHNPdDduY1JjUWlHMnhtMDJRVm9pMVZDb0JLcnBGNlJBTm80R3dqM21YTFFQdGV5ZjZRUWVvMjhIcHYxaTNZdjdGSmcxVkFac3FHNEhjdHJUTURsMUtaSlBuUVZwM25OT2pHZGU4X003WVVRYk5kZUtwd3VVa3EtRnBJbU9ETnhRdG1Kd2x0Um1uQUJiZUwzdWtnVV9tcHBsVHBidk5OaEJ0a0NXX2FUWjFlN0d2WFNBUWNYbEhySVRVLXNMY2Vxb2s5NktncDBLWFE1LUpySEtSVGoybW5LOE5nWUhhRW5xSDlWMGtfM0dZcjlxQTNNNmNsYWlxaXppcGthdEtLU3NmdE45Y0NfM2sxVElITm9LdDdaNE1nelExWk0taHo4bDcwUDB1UlFYNzlUeGE0dWJZZ2NsT1JDZ0JpSlp2SEpwOVBraVNkQzg2TFVROGVaWnhXWWJ5SWc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-21T04:09:59.101083+00:00"
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
       },
       {
-        "headline": "ผ่าหุ้นแบงก์ไตรมาส2 KBANK-SCB ปันผลฟู - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00TVlTMVBCNGt1ckJBUnlQVzVnMUxwZmRjT0FVY09ydkx6YjBKQVE4Qzk0UlhPYWdSQTJCazBjNXU1YVdqckU1MXplX1M4Q1VDYmhNamdUQQ?oc=5",
+        "headline": "KBANK มองกรอบเงินบาทสัปดาห์หน้า 32.50-33.10 บ. จับตาตัวเลขส่งออก-กนง. | ข่าวหุ้นธุรกิจ - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZVFnN0tGQVFvVVN4SW5CY2tKZC1RaDRIN2hybDhpZGdiM1R4NjBtdkp0SnpqVmFYMGZXOWRnbG0yNjV2bXUteGUwbUNsWG1rMHRXSGdR?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-06-21T04:09:59.101083+00:00"
-      },
+      }
+    ],
+    "COST": [
       {
-        "headline": "2 โบรกเชียร์ซื้อ KBANK เป้าสูง 245 บาท ชูสินเชื่อฟื้น-ปันผลเด่น 5.8% - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wWlVSLUlVamVfQjF5cTlMUFRkWDYxeUlBek42T01LUUlBaWJxTldtaTZvZjZPZjhIOVp4Qlh0VUlxcWN6eTVlTGVOdw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-19T14:00:23.292227+00:00"
+        "headline": "Costco (COST) Is Tackling Parking And Checkout Pain Points In Its Warehouses",
+        "url": "https://finnhub.io/api/news?id=db8b19d8a7111fcedbf7a29e411d20cdf4b9f2320409f1f7798aea9cfc911365",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "The Dividend Growth Path That Turns $500,000 Into a Six-Figure Income Stream",
+        "url": "https://finnhub.io/api/news?id=d1560fede7c35a7b857d61d97ac65a13dae5b23f478e8b1139775d2033f8eb14",
+        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "The Dividend Growth Path That Turns $500,000 Into a Six-Figure Income Stream",
+        "url": "https://finnhub.io/api/news?id=d1560fede7c35a7b857d61d97ac65a13dae5b23f478e8b1139775d2033f8eb14",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-06-21T13:51:01.045048+00:00"
       }
     ]
   }
