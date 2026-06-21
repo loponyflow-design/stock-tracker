@@ -180,6 +180,30 @@
     .bear-item-body a:hover { color: #fca5a5; }
     .bear-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
 
+    /* Bull signal banner (green, mirror of bear) */
+    .card.bull-active { border-color: #16a34a; }
+    .card.bull-active.bear-active { border-color: #ef4444 !important; }
+    .bull-banner {
+      background: #07180f;
+      border-bottom: 1px solid #166534;
+      padding: 8px 16px;
+    }
+    .bull-item {
+      display: flex;
+      gap: 6px;
+      align-items: flex-start;
+      padding: 5px 0;
+      border-bottom: 1px solid #122c1c;
+      font-size: .77rem;
+      line-height: 1.4;
+    }
+    .bull-item:last-child { border-bottom: none; }
+    .bull-item-icon { flex-shrink: 0; }
+    .bull-item-body { color: #86efac; }
+    .bull-item-body a { color: #4ade80; font-size: .72rem; }
+    .bull-item-body a:hover { color: #86efac; }
+    .bull-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
+
     .card-header {
       padding: 13px 16px 10px;
       display: flex;
@@ -295,6 +319,7 @@
       font-weight: 700;
     }
     .sb-badge.alert { background: #7f1d1d; color: #fca5a5; }
+    .sb-badge.bull  { background: #14532d; color: #86efac; }
 
     .sb-chevron {
       font-size: .58rem;
@@ -380,6 +405,11 @@
       padding: 1px 7px;
       border-radius: 10px;
     }
+
+    /* Bull variant of sidebar alert item */
+    .sb-alert-item.bull:hover { background: #07180f; }
+    .sb-alert-item.bull .sb-alert-ticker { color: #86efac; }
+    .sb-alert-item.bull .sb-alert-cnt { background: #14532d; color: #86efac; }
 
     .sb-empty { padding: 10px 14px; font-size: .74rem; color: var(--muted); }
 
@@ -681,10 +711,22 @@
           </div>
         </div>
 
-        <!-- ALERTS -->
+        <!-- BULL SIGNALS -->
         <div class="sb-sec">
           <button class="sb-sec-hd" onclick="toggleSbSec(this)">
-            <span>🚨 Active Alerts</span>
+            <span>🟢 Bull Signals</span>
+            <span class="sb-badge bull" id="bull-sb-badge">—</span>
+            <span class="sb-chevron">▼</span>
+          </button>
+          <div class="sb-body" id="sb-bull-body">
+            <div class="sb-empty">กำลังโหลด…</div>
+          </div>
+        </div>
+
+        <!-- BEAR ALERTS -->
+        <div class="sb-sec">
+          <button class="sb-sec-hd" onclick="toggleSbSec(this)">
+            <span>🚨 Bear Alerts</span>
             <span class="sb-badge alert" id="alert-sb-badge">—</span>
             <span class="sb-chevron">▼</span>
           </button>
@@ -1132,23 +1174,88 @@
             ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
           </div>
           <span class="sb-alert-cnt">${items.length}</span>`;
-        btn.onclick = () => scrollToAlert(ticker);
+        btn.onclick = () => scrollToCard(ticker, "#ef4444");
         body.appendChild(btn);
       });
     }
 
-    function scrollToAlert(ticker) {
+    function scrollToCard(ticker, color = "#ef4444") {
       const card = document.getElementById(`card-${ticker}`) ||
                    document.getElementById(`card-${ticker}.BK`);
       if (card) {
         card.scrollIntoView({ behavior: "smooth", block: "center" });
         const prev = card.style.outline;
-        card.style.outline = "2px solid #ef4444";
+        card.style.outline = `2px solid ${color}`;
         setTimeout(() => { card.style.outline = prev; }, 2200);
       }
       if (window.innerWidth <= 800) {
         document.getElementById("sidebar").classList.remove("open");
       }
+    }
+
+    /* ─────────────────────────────────────────────────
+       BULL SIGNALS  (mirror of bear)
+    ───────────────────────────────────────────────── */
+    async function loadBullAlerts() {
+      try {
+        const r = await fetch("./bull_alerts.json?t=" + Date.now());
+        if (!r.ok) return {};
+        return (await r.json()).alerts || {};
+      } catch { return {}; }
+    }
+
+    function applyBullAlerts(alerts) {
+      for (const [ticker, items] of Object.entries(alerts)) {
+        if (!items.length) continue;
+        const card = document.getElementById(`card-${ticker}`) ||
+                     document.getElementById(`card-${ticker}.BK`);
+        if (!card) continue;
+        card.classList.add("bull-active");
+
+        const banner = document.createElement("div");
+        banner.className = "bull-banner";
+        banner.innerHTML = items.map(a => `
+          <div class="bull-item">
+            <span class="bull-item-icon">🟢</span>
+            <div class="bull-item-body">
+              ${a.headline}
+              <a href="${a.url}" target="_blank" rel="noopener"> — อ่านต่อ</a>
+              <div class="bull-condition">📌 ${a.condition}</div>
+            </div>
+          </div>`).join("");
+        // Insert below any bear banner but above the news list
+        card.insertBefore(banner, card.querySelector(".news-list"));
+      }
+
+      buildBullSidebar(alerts);
+    }
+
+    function buildBullSidebar(alerts) {
+      const body  = document.getElementById("sb-bull-body");
+      const badge = document.getElementById("bull-sb-badge");
+      const active = Object.entries(alerts).filter(([, items]) => items.length > 0);
+
+      badge.textContent = active.length || "0";
+
+      if (!active.length) {
+        body.innerHTML = `<div class="sb-empty">ไม่มี bull signal ในขณะนี้</div>`;
+        return;
+      }
+
+      body.innerHTML = "";
+      active.forEach(([ticker, items]) => {
+        const stock = ALL_STOCKS.find(s => s.ticker === ticker);
+        const btn = document.createElement("button");
+        btn.className = "sb-alert-item bull";
+        btn.innerHTML = `
+          <div class="sb-alert-left">
+            <span class="sb-alert-ticker">🟢 ${ticker}</span>
+            ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
+          </div>
+          <span class="sb-alert-cnt">${items.length}</span>`;
+        btn.onclick = () => scrollToCard(ticker, "#16a34a");
+        body.appendChild(btn);
+      });
     }
 
     /* ─────────────────────────────────────────────────
@@ -1160,7 +1267,10 @@
     buildBriefTree();
     renderUS();
     renderThai();
-    loadBearAlerts().then(applyBearAlerts);
+    // Apply bear first (banner sits on top), then bull below it
+    loadBearAlerts()
+      .then(applyBearAlerts)
+      .then(() => loadBullAlerts().then(applyBullAlerts));
   </script>
 </body>
 </html>

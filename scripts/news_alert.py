@@ -132,10 +132,10 @@ def send_telegram(text: str):
         r.raise_for_status()
 
 
-# ── bear_alerts.json ───────────────────────────────────────────────────────
+# ── alerts json (bear + bull) ───────────────────────────────────────────────
 
-def update_bear_json(new_alerts: dict, now: datetime):
-    path = Path("webapp/bear_alerts.json")
+def update_alerts_json(path_str: str, new_alerts: dict, now: datetime):
+    path = Path(path_str)
     existing: dict = {}
     if path.exists():
         try:
@@ -166,7 +166,7 @@ def update_bear_json(new_alerts: dict, now: datetime):
 
 def _classify_article(headline: str, url: str, summary: str, ts_label: str,
                        signals: dict, ticker: str, now: datetime,
-                       new_bear_alerts: dict,
+                       new_bear_alerts: dict, new_bull_alerts: dict,
                        news_lines: list, bull_signal_lines: list, bear_lines: list):
     is_bear, bear_cond = check_signal(headline, summary, signals["bear"])
     if is_bear:
@@ -179,13 +179,16 @@ def _classify_article(headline: str, url: str, summary: str, ts_label: str,
     is_bull, bull_cond = check_signal(headline, summary, signals["bull"])
     if is_bull:
         bull_signal_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>อ่านต่อ</a>", f"📌 <i>{bull_cond[:120]}</i>", ""]
+        new_bull_alerts.setdefault(ticker, []).append(
+            {"headline": headline, "url": url, "condition": bull_cond, "detected_at": now.isoformat()}
+        )
         return
 
     news_lines += ([f"[{ts_label}] • {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""] if ts_label
                    else [f"• {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""])
 
 
-def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int, int]:
+def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict, new_bull_alerts: dict) -> tuple[int, int, int]:
     signals  = load_signals(ticker)
     articles = fetch_finnhub_news(ticker, since, now)
     news_lines, bull_signal_lines, bear_lines = [], [], []
@@ -193,7 +196,7 @@ def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str
     for a in articles:
         ts = datetime.fromtimestamp(a["datetime"], tz=timezone.utc).strftime("%H:%M UTC")
         _classify_article(a.get("headline", ""), a.get("url", ""), a.get("summary", ""),
-                          ts, signals, ticker, now, new_bear_alerts,
+                          ts, signals, ticker, now, new_bear_alerts, new_bull_alerts,
                           news_lines, bull_signal_lines, bear_lines)
 
     if news_lines:
@@ -206,7 +209,7 @@ def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str
     return len(news_lines) // 3, len(bull_signal_lines) // 4, len(bear_lines) // 4
 
 
-def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts: dict) -> tuple[int, int, int]:
+def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts: dict, new_bull_alerts: dict) -> tuple[int, int, int]:
     ticker   = stock["ticker"]
     name     = stock["name"]
     signals  = load_signals(ticker)
@@ -215,7 +218,7 @@ def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts
 
     for e in entries:
         _classify_article(e.title, e.link, getattr(e, "summary", ""),
-                          "", signals, ticker, now, new_bear_alerts,
+                          "", signals, ticker, now, new_bear_alerts, new_bull_alerts,
                           news_lines, bull_signal_lines, bear_lines)
 
     if news_lines:
@@ -233,17 +236,19 @@ def main():
     since    = now - timedelta(hours=24)
     date_str = now.strftime("%d %b %Y")
     new_bear_alerts: dict = {}
+    new_bull_alerts: dict = {}
     n_news = n_bull = n_bear = 0
 
     for ticker in US_TICKERS:
-        r, bu, be = process_ticker_us(ticker, since, now, date_str, new_bear_alerts)
+        r, bu, be = process_ticker_us(ticker, since, now, date_str, new_bear_alerts, new_bull_alerts)
         n_news += r; n_bull += bu; n_bear += be
 
     for stock in TH_TICKERS:
-        r, bu, be = process_ticker_th(stock, now, date_str, new_bear_alerts)
+        r, bu, be = process_ticker_th(stock, now, date_str, new_bear_alerts, new_bull_alerts)
         n_news += r; n_bull += bu; n_bear += be
 
-    update_bear_json(new_bear_alerts, now)
+    update_alerts_json("webapp/bear_alerts.json", new_bear_alerts, now)
+    update_alerts_json("webapp/bull_alerts.json", new_bull_alerts, now)
     print(f"Done — news: {n_news}, bull signals: {n_bull}, bear alerts: {n_bear}")
 
 
