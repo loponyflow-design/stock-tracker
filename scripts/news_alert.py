@@ -8,7 +8,8 @@ FINNHUB_KEY = os.environ["FINNHUB_KEY"]
 TG_TOKEN    = os.environ["TG_TOKEN"]
 TG_CHAT     = int(os.environ["TG_CHAT"])
 
-US_TICKERS = ["AAPL", "ARM", "CVX", "GOOGL", "HEI.A", "JNJ", "MSFT", "NVDA", "O", "SPCX", "TSLA"]
+US_TICKERS = ["AAPL", "ABBV", "ARM", "BRK.B", "COST", "CVX", "GOOGL", "HEI.A", "JNJ", "KO",
+              "MSFT", "NVDA", "O", "PG", "SPCX", "TSLA", "V"]
 TH_TICKERS = [
     {"ticker": "PTT",   "name": "ปตท."},
     {"ticker": "KBANK", "name": "กสิกรไทย"},
