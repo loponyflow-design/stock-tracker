@@ -20,6 +20,11 @@ jobs:
         run: |
           echo "window.FINNHUB_KEY = \"${{ secrets.FINNHUB_KEY }}\";" > webapp/config.js
 
+      - name: Copy briefs into webapp
+        run: |
+          mkdir -p webapp/briefs
+          cp briefs/*.md webapp/briefs/ 2>/dev/null || true
+
       - name: Deploy webapp/ to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:

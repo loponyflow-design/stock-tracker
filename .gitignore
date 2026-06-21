@@ -2,6 +2,13 @@
 .env
 webapp/config.js
 
+# Internal Claude Code config
+.claude/
+
+# Raw SEC filings (large, not needed in repo)
+sources/**/*.htm
+sources/**/*.html
+
 # Windows
 Thumbs.db
 desktop.ini
