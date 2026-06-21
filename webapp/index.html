@@ -1075,42 +1075,60 @@
     }
 
     /* ─────────────────────────────────────────────────
-       RENDER
+       RENDER  (build once, refresh repeatedly)
     ───────────────────────────────────────────────── */
-    async function renderUS() {
-      const grid = document.getElementById("grid-us");
-      const cards = US_STOCKS.map(s => {
+    let usCards = [];
+    let thCards = [];
+
+    function buildCards() {
+      const usGrid = document.getElementById("grid-us");
+      usCards = US_STOCKS.map(s => {
         makeChip(s.ticker, `card-${s.ticker}`, "chips-us");
         const card = makeCard(s.ticker, s.ticker, s.name, "badge-us", false);
-        grid.appendChild(card);
+        usGrid.appendChild(card);
         return { s, card };
       });
-      await Promise.allSettled(cards.map(async ({ s, card }) => {
+
+      const thGrid = document.getElementById("grid-thai");
+      thCards = TH_STOCKS.map(s => {
+        makeChip(s.ticker, `card-${s.symbol}`, "chips-thai");
+        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", true);
+        thGrid.appendChild(card);
+        return { s, card };
+      });
+    }
+
+    // Replace price box in place (avoid stacking on refresh)
+    function setPrice(card, html) {
+      const hdr = card.querySelector(".card-header");
+      const old = hdr.querySelector(".price-box");
+      if (old) old.remove();
+      if (html) hdr.insertAdjacentHTML("beforeend", html);
+    }
+
+    async function refreshUS() {
+      await Promise.allSettled(usCards.map(async ({ s, card }) => {
         const [q, news] = await Promise.all([finnhubQuote(s.ticker), finnhubNews(s.ticker)]);
-        if (q) {
-          card.querySelector(".card-header").insertAdjacentHTML("beforeend", priceHTML(q.c, q.dp, "$"));
-          updateChip(s.ticker, q.dp);
-        }
+        if (q) { setPrice(card, priceHTML(q.c, q.dp, "$")); updateChip(s.ticker, q.dp); }
         card.querySelector(".news-list").innerHTML = newsHTML(news, `https://finance.yahoo.com/quote/${s.ticker}/news/`);
       }));
     }
 
-    async function renderThai() {
-      const grid = document.getElementById("grid-thai");
-      const cards = TH_STOCKS.map(s => {
-        makeChip(s.ticker, `card-${s.symbol}`, "chips-thai");
-        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", true);
-        grid.appendChild(card);
-        return { s, card };
-      });
-      await Promise.allSettled(cards.map(async ({ s, card }) => {
+    async function refreshThai() {
+      await Promise.allSettled(thCards.map(async ({ s, card }) => {
         const [q, news] = await Promise.all([yahooQuote(s.symbol), googleNews(`${s.ticker} หุ้น`)]);
-        if (q) {
-          card.querySelector(".card-header").insertAdjacentHTML("beforeend", priceHTML(q.price, q.dp, "฿"));
-          updateChip(s.ticker, q.dp);
-        }
+        if (q) { setPrice(card, priceHTML(q.price, q.dp, "฿")); updateChip(s.ticker, q.dp); }
         card.querySelector(".news-list").innerHTML = newsHTML(news, `https://finance.yahoo.com/quote/${s.symbol}/news/`);
       }));
+    }
+
+    let lastRefresh = 0;
+
+    async function refreshData() {
+      await Promise.allSettled([refreshUS(), refreshThai()]);
+      lastRefresh = Date.now();
+      document.getElementById("updated").textContent =
+        "อัปเดต " + new Date().toLocaleTimeString("th-TH");
     }
 
     /* ─────────────────────────────────────────────────
@@ -1261,16 +1279,27 @@
     /* ─────────────────────────────────────────────────
        INIT
     ───────────────────────────────────────────────── */
-    document.getElementById("updated").textContent =
-      "อัปเดต " + new Date().toLocaleTimeString("th-TH");
+    const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh ทุก 15 นาที
 
     buildBriefTree();
-    renderUS();
-    renderThai();
-    // Apply bear first (banner sits on top), then bull below it
-    loadBearAlerts()
-      .then(applyBearAlerts)
-      .then(() => loadBullAlerts().then(applyBullAlerts));
+    buildCards();
+
+    // First load: fetch data, then overlay alerts (bear on top, bull below)
+    refreshData().then(() =>
+      loadBearAlerts()
+        .then(applyBearAlerts)
+        .then(() => loadBullAlerts().then(applyBullAlerts))
+    );
+
+    // Periodic refresh — skip while tab is hidden to save API quota
+    setInterval(() => {
+      if (!document.hidden) refreshData();
+    }, REFRESH_MS);
+
+    // Returning to a stale tab → refresh immediately
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden && Date.now() - lastRefresh > REFRESH_MS) refreshData();
+    });
   </script>
 </body>
 </html>
