@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-06-22T13:52:54.175200+00:00",
+  "last_updated": "2026-06-22T14:00:35.738852+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Why Apple (AAPL) Is Tying Its AI Comeback to Devices, Services, and Siri",
+        "url": "https://finnhub.io/api/news?id=199908b578e14d62f382455d6d4dd3ddd1b0937d32b4c5e82ad12193eb8ed214",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-06-22T14:00:35.738852+00:00"
+      },
       {
         "headline": "Why Apple (AAPL) Is Tying Its AI Comeback to Devices, Services, and Siri",
         "url": "https://finnhub.io/api/news?id=199908b578e14d62f382455d6d4dd3ddd1b0937d32b4c5e82ad12193eb8ed214",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=a4ee27cbc0e4920a5dcfbbf95616bc4a2dbfd86539c476400cb1bfb096ff1397",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-06-19T13:47:52.091900+00:00"
-      },
-      {
-        "headline": "Apple: Memory Crisis Should Not Unravel Its Advance",
-        "url": "https://finnhub.io/api/news?id=a4ee27cbc0e4920a5dcfbbf95616bc4a2dbfd86539c476400cb1bfb096ff1397",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-06-19T13:41:03.369415+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Musk Effectively Bought Cursor At Half Price In An 'Incredible Deal,' Says Chamath — Tesla-SpaceX Merger Is Next",
+        "url": "https://finnhub.io/api/news?id=5d06c1656d0d9c859fbbe0663dede547c006e4d641e1480f070d7f439892fef6",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-06-22T14:00:35.738852+00:00"
+      },
       {
         "headline": "Musk Effectively Bought Cursor At Half Price In An 'Incredible Deal,' Says Chamath — Tesla-SpaceX Merger Is Next",
         "url": "https://finnhub.io/api/news?id=5d06c1656d0d9c859fbbe0663dede547c006e4d641e1480f070d7f439892fef6",
@@ -55,12 +61,6 @@
       {
         "headline": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
         "url": "https://finnhub.io/api/news?id=accef81a09c80cae0d4b08b7511d0543f1147025d3a3f71b9b65ab1c512620ca",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-06-21T04:09:59.101083+00:00"
-      },
-      {
-        "headline": "Elon Musk Just Told Investors to Be (Really) Patient With Optimus and Robotaxi",
-        "url": "https://finnhub.io/api/news?id=adc1dee4f3d0c74df615ac7f81d6cf25a555a0a7072e4b7eb3b9a6267a59fdc5",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-06-21T04:09:59.101083+00:00"
       }
@@ -102,6 +102,12 @@
         "headline": "Costco (COST) Is Tackling Parking And Checkout Pain Points In Its Warehouses",
         "url": "https://finnhub.io/api/news?id=db8b19d8a7111fcedbf7a29e411d20cdf4b9f2320409f1f7798aea9cfc911365",
         "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-06-22T14:00:35.738852+00:00"
+      },
+      {
+        "headline": "Costco (COST) Is Tackling Parking And Checkout Pain Points In Its Warehouses",
+        "url": "https://finnhub.io/api/news?id=db8b19d8a7111fcedbf7a29e411d20cdf4b9f2320409f1f7798aea9cfc911365",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
         "detected_at": "2026-06-22T13:52:54.175200+00:00"
       },
       {
@@ -120,6 +126,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "The Dividend Growth Path That Turns $500,000 Into a Six-Figure Income Stream",
+        "url": "https://finnhub.io/api/news?id=d1560fede7c35a7b857d61d97ac65a13dae5b23f478e8b1139775d2033f8eb14",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-06-22T14:00:35.738852+00:00"
+      },
       {
         "headline": "The Dividend Growth Path That Turns $500,000 Into a Six-Figure Income Stream",
         "url": "https://finnhub.io/api/news?id=d1560fede7c35a7b857d61d97ac65a13dae5b23f478e8b1139775d2033f8eb14",
