@@ -11,9 +11,9 @@ TG_CHAT     = int(os.environ["TG_CHAT"])
 US_TICKERS = ["AAPL", "ABBV", "ARM", "BRK.B", "COST", "CVX", "GOOGL", "HEI.A", "JNJ", "KO",
               "MSFT", "NVDA", "O", "PG", "SPCX", "TSLA", "V"]
 TH_TICKERS = [
-    {"ticker": "PTT",   "name": "ปตท."},
-    {"ticker": "KBANK", "name": "กสิกรไทย"},
-    {"ticker": "AOT",   "name": "ท่าอากาศยานไทย"},
+    {"ticker": "PTT",   "name": "PTT"},
+    {"ticker": "KBANK", "name": "KBank"},
+    {"ticker": "AOT",   "name": "Airports of Thailand"},
 ]
 
 # ── Signal extraction ─────────────────────────────────────────────────────
@@ -171,7 +171,7 @@ def _classify_article(headline: str, url: str, summary: str, ts_label: str,
                        news_lines: list, bull_signal_lines: list, bear_lines: list):
     is_bear, bear_cond = check_signal(headline, summary, signals["bear"])
     if is_bear:
-        bear_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>ตรวจสอบ</a>", f"📌 <i>{bear_cond[:120]}</i>", ""]
+        bear_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>Verify</a>", f"📌 <i>{bear_cond[:120]}</i>", ""]
         new_bear_alerts.setdefault(ticker, []).append(
             {"headline": headline, "url": url, "condition": bear_cond, "detected_at": now.isoformat()}
         )
@@ -179,14 +179,14 @@ def _classify_article(headline: str, url: str, summary: str, ts_label: str,
 
     is_bull, bull_cond = check_signal(headline, summary, signals["bull"])
     if is_bull:
-        bull_signal_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>อ่านต่อ</a>", f"📌 <i>{bull_cond[:120]}</i>", ""]
+        bull_signal_lines += [f"📰 {headline}{' [' + ts_label + ']' if ts_label else ''}", f"🔗 <a href='{url}'>Read more</a>", f"📌 <i>{bull_cond[:120]}</i>", ""]
         new_bull_alerts.setdefault(ticker, []).append(
             {"headline": headline, "url": url, "condition": bull_cond, "detected_at": now.isoformat()}
         )
         return
 
-    news_lines += ([f"[{ts_label}] • {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""] if ts_label
-                   else [f"• {headline}", f"  <a href='{url}'>อ่านต่อ</a>", ""])
+    news_lines += ([f"[{ts_label}] • {headline}", f"  <a href='{url}'>Read more</a>", ""] if ts_label
+                   else [f"• {headline}", f"  <a href='{url}'>Read more</a>", ""])
 
 
 def process_ticker_us(ticker: str, since: datetime, now: datetime, date_str: str, new_bear_alerts: dict, new_bull_alerts: dict) -> tuple[int, int, int]:
@@ -214,7 +214,7 @@ def process_ticker_th(stock: dict, now: datetime, date_str: str, new_bear_alerts
     ticker   = stock["ticker"]
     name     = stock["name"]
     signals  = load_signals(ticker)
-    entries  = fetch_google_news(f"{ticker} หุ้น")
+    entries  = fetch_google_news(f"{ticker} stock SET")
     news_lines, bull_signal_lines, bear_lines = [], [], []
 
     for e in entries:

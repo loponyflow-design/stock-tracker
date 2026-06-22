@@ -719,7 +719,7 @@
             <span class="sb-chevron">▼</span>
           </button>
           <div class="sb-body" id="sb-bull-body">
-            <div class="sb-empty">กำลังโหลด…</div>
+            <div class="sb-empty">Loading…</div>
           </div>
         </div>
 
@@ -731,7 +731,7 @@
             <span class="sb-chevron">▼</span>
           </button>
           <div class="sb-body" id="sb-alerts-body">
-            <div class="sb-empty">กำลังโหลด…</div>
+            <div class="sb-empty">Loading…</div>
           </div>
         </div>
 
@@ -785,9 +785,9 @@
     ];
 
     const TH_STOCKS = [
-      { ticker: "PTT",   name: "ปตท.",            symbol: "PTT.BK" },
-      { ticker: "KBANK", name: "กสิกรไทย",        symbol: "KBANK.BK" },
-      { ticker: "AOT",   name: "ท่าอากาศยานไทย", symbol: "AOT.BK" },
+      { ticker: "PTT",   name: "PTT",                  symbol: "PTT.BK" },
+      { ticker: "KBANK", name: "KBank",                symbol: "KBANK.BK" },
+      { ticker: "AOT",   name: "Airports of Thailand", symbol: "AOT.BK" },
     ];
 
     const HAS_BRIEF = new Set([
@@ -864,7 +864,7 @@
       badge.textContent  = ticker;
       badge.className    = "brief-dh-badge" + (isThai ? " thai" : "");
       nameEl.textContent = name;
-      mdEl.innerHTML     = '<div class="brief-loading">กำลังโหลด brief…</div>';
+      mdEl.innerHTML     = '<div class="brief-loading">Loading brief…</div>';
 
       drawer.classList.add("open");
       overlay.classList.add("visible");
@@ -885,7 +885,7 @@
         mdEl.innerHTML = html;
         styleBriefMd(mdEl);
       } catch {
-        mdEl.innerHTML = `<p style="color:#64748b;padding:20px 0">ไม่พบ brief สำหรับ <strong>${ticker}</strong></p>`;
+        mdEl.innerHTML = `<p style="color:#64748b;padding:20px 0">Brief not found for <strong>${ticker}</strong></p>`;
       }
     }
 
@@ -979,9 +979,9 @@
 
     function relTime(ts) {
       const diff = Math.floor(Date.now() / 1000 - ts);
-      if (diff < 3600)  return `${Math.floor(diff / 60)} นาทีที่แล้ว`;
-      if (diff < 86400) return `${Math.floor(diff / 3600)} ชม.ที่แล้ว`;
-      return `${Math.floor(diff / 86400)} วันที่แล้ว`;
+      if (diff < 3600)  return `${Math.floor(diff / 60)} min ago`;
+      if (diff < 86400) return `${Math.floor(diff / 3600)} hr ago`;
+      return `${Math.floor(diff / 86400)} d ago`;
     }
 
     function priceFmt(p, decimals = 2) {
@@ -1001,13 +1001,13 @@
     }
 
     function newsHTML(items, moreHref) {
-      if (!items.length) return `<div class="no-news">ไม่มีข่าวใน 7 วันที่ผ่านมา</div>`;
+      if (!items.length) return `<div class="no-news">No news in the past 7 days</div>`;
       return items.map(i => `
         <div class="news-item">
           <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
           <div class="news-meta">${i.source}${i.time ? " · " + i.time : ""}</div>
         </div>`).join("") +
-        (moreHref ? `<a class="view-more" href="${moreHref}" target="_blank" rel="noopener">ดูข่าวเพิ่มเติม →</a>` : "");
+        (moreHref ? `<a class="view-more" href="${moreHref}" target="_blank" rel="noopener">View more →</a>` : "");
     }
 
     function makeCard(id, ticker, name, badgeClass, isThai) {
@@ -1029,7 +1029,7 @@
             </div>
           </div>
         </div>
-        <div class="news-list"><div class="loading">กำลังโหลดข่าว…</div></div>`;
+        <div class="news-list"><div class="loading">Loading news…</div></div>`;
       return card;
     }
 
@@ -1125,7 +1125,7 @@
 
     async function refreshThai() {
       await Promise.allSettled(thCards.map(async ({ s, card }) => {
-        const [q, news] = await Promise.all([yahooQuote(s.symbol), googleNews(`${s.ticker} หุ้น`)]);
+        const [q, news] = await Promise.all([yahooQuote(s.symbol), googleNews(`${s.ticker} stock SET`)]);
         if (q) { setPrice(card, priceHTML(q.price, q.dp, "฿")); updateChip(s.ticker, q.dp); }
         card.querySelector(".news-list").innerHTML = newsHTML(news, `https://finance.yahoo.com/quote/${s.symbol}/news/`);
       }));
@@ -1137,7 +1137,7 @@
       await Promise.allSettled([refreshUS(), refreshThai()]);
       lastRefresh = Date.now();
       document.getElementById("updated").textContent =
-        "อัปเดต " + new Date().toLocaleTimeString("th-TH");
+        "Updated " + new Date().toLocaleTimeString("en-US");
     }
 
     /* ─────────────────────────────────────────────────
@@ -1167,7 +1167,7 @@
             <span class="bear-item-icon">⚠️</span>
             <div class="bear-item-body">
               ${a.headline}
-              <a href="${a.url}" target="_blank" rel="noopener"> — ตรวจสอบ</a>
+              <a href="${a.url}" target="_blank" rel="noopener"> — Verify</a>
               <div class="bear-condition">📌 ${a.condition}</div>
             </div>
           </div>`).join("");
@@ -1186,7 +1186,7 @@
       badge.textContent = active.length || "0";
 
       if (!active.length) {
-        body.innerHTML = `<div class="sb-empty">ไม่มี alert ที่ active ในขณะนี้</div>`;
+        body.innerHTML = `<div class="sb-empty">No active alerts</div>`;
         return;
       }
 
@@ -1246,7 +1246,7 @@
             <span class="bull-item-icon">🟢</span>
             <div class="bull-item-body">
               ${a.headline}
-              <a href="${a.url}" target="_blank" rel="noopener"> — อ่านต่อ</a>
+              <a href="${a.url}" target="_blank" rel="noopener"> — Read more</a>
               <div class="bull-condition">📌 ${a.condition}</div>
             </div>
           </div>`).join("");
@@ -1265,7 +1265,7 @@
       badge.textContent = active.length || "0";
 
       if (!active.length) {
-        body.innerHTML = `<div class="sb-empty">ไม่มี bull signal ในขณะนี้</div>`;
+        body.innerHTML = `<div class="sb-empty">No active bull signals</div>`;
         return;
       }
 
@@ -1288,7 +1288,7 @@
     /* ─────────────────────────────────────────────────
        INIT
     ───────────────────────────────────────────────── */
-    const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh ทุก 15 นาที
+    const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh every 15 min
 
     buildBriefTree();
     buildCards();
