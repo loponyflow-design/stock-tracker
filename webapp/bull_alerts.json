@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T14:00:35.738852+00:00",
+  "last_updated": "2026-06-22T21:51:32.676222+00:00",
   "alerts": {
     "PTT": [
       {
@@ -39,6 +39,14 @@
         "url": "https://finnhub.io/api/news?id=c220c8b93ffe9e8047b1b9d6d27017a0034a9bf856cb5f05aff2f568827b8972",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-06-22T13:52:54.175200+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Johnson & Johnson (JNJ) Is Spending More Than $1 Billion On Jacksonville Vision Expansion",
+        "url": "https://finnhub.io/api/news?id=9fd0c0d40813d31762cf3252ee9b2fbf6ba8eed035df9f05fc87a3cc788fe2ee",
+        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
+        "detected_at": "2026-06-22T21:51:32.676222+00:00"
       }
     ]
   }
