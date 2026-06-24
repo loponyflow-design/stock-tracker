@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T21:06:35.084210+00:00",
+  "last_updated": "2026-06-24T01:00:29.140220+00:00",
   "alerts": {
     "PTT": [
       {
@@ -62,6 +62,18 @@
       }
     ],
     "V": [
+      {
+        "headline": "Visa (V) Launches AI Driven Everyday Cashback In UAE With Mashreq And Rezolve AI",
+        "url": "https://finnhub.io/api/news?id=7a4fe26530a2b9d1beca811687075bda062685bffd3aa239b96cc51af0ce41ad",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-06-24T01:00:29.140220+00:00"
+      },
+      {
+        "headline": "Visa's AI-Driven Rewards Push: A Small Move With Strategic Value",
+        "url": "https://finnhub.io/api/news?id=5d38792fd346a1604a94af806fc012501257d6e6b48ad0e64de2a374119b7b4c",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-06-24T01:00:29.140220+00:00"
+      },
       {
         "headline": "Visa (V) Launches AI Driven Everyday Cashback In UAE With Mashreq And Rezolve AI",
         "url": "https://finnhub.io/api/news?id=7a4fe26530a2b9d1beca811687075bda062685bffd3aa239b96cc51af0ce41ad",
