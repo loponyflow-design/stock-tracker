@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-06-27T17:45:37.852597+00:00",
+  "last_updated": "2026-06-28T01:00:32.061072+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple (AAPL) Plans Mac Chip Roadmap Shift Toward AI-Focused M7",
+        "url": "https://finnhub.io/api/news?id=feb629ed2d86e17212e50f13bf05e71fc67d71e4f99857dc36c713e1c2353f1f",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "KGI Securities Downgrades Apple (AAPL) to Hold – Here’s Why",
+        "url": "https://finnhub.io/api/news?id=3606b9783d82d5cac165736e05ed18637aa8dd01caeba91c65423aff42630782",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "Apple Just Did Something It Wouldn’t Even Do During COVID, and Wall Street Is Freaking Out",
+        "url": "https://finnhub.io/api/news?id=a84317a2eb5b45fc6d8416e01573b227e72c04ea79a1e4a44bc8262f241f6184",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
       {
         "headline": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays — ON, AAPL, SLS, INFQ, NKE in Focus",
         "url": "https://finnhub.io/api/news?id=4feee06a415ef9bfb21c2f6485283f458e0db5b094997ad8b2624b604c8a72a6",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=0eae4e947b04acdb8d9e6439e8be8e9b99defc02f10f4fa2144a98a3064965ab",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-06-27T01:00:29.494012+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Stock Trades Down, Here Is Why",
-        "url": "https://finnhub.io/api/news?id=e1b5e9e28554c4c6c84e15604bd7e3dc0b3685624c33561cac94ce60b692725a",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-06-26T01:00:33.178411+00:00"
-      },
-      {
-        "headline": "Big Tech stocks tumble while Micron continues to gain on Q3 earnings",
-        "url": "https://finnhub.io/api/news?id=6156b9c7e94fbc96f2c772f6ca588b01f30909829d24a93ad278d456696ed7ee",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-06-25T21:02:04.627221+00:00"
-      },
-      {
-        "headline": "Memory's price surge threatens Apple's 'magic formula' — and the economy: WSJ reporter",
-        "url": "https://finnhub.io/api/news?id=3f3b3c466dc2a12819b4fa7d6f1f6129403b3f8885d940a4b2f2fef32e982478",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-06-23T01:00:29.321333+00:00"
       }
     ],
     "TSLA": [
@@ -70,6 +70,24 @@
         "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #SET #บล.กรุงศรี กลยุทธ์ลงทุนวันนี้ หุ้นแนะนำ KBANK BH ICHI - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxPT19LN04yYTR0WThxd2JyMkdIWkhnNkRMT3hvY2p4dHNVcmJOcVFvNkxfNkVVWUQ0Qk1iN1JBUjBGUE9RUnVIbEhQZ29WMjlXbUhxRUVzb1FaeEs1VGE2bFdidzFvb0JYSkU4ZlB5RnRZY0ZrV1pETTBrRE9sQXZ1dmlJWWZoaTFyWktXSG9FWXpzT1ZEa3VBTDh3VnZKdDJVU0lVTlBwUWxUZTFIb2tTV1lFNEdlZnBvUWZuQm00YUgwNzk4dmtaXzRVazlVaWFweDZ1dm80RlhnYzdjMHgyamhwbFJnWWxTdTM1ZWVUbGhjdUFRVmFDUWtJM3lGSndkM2wzdUFyQ1N0cWRkekplNDZQX3A5OHRyWmRJSFVvYUx3WXhMVlktdU1sS0JTZTFmVUFhRWdETEpoRm4tUzNtRlFJQnpiSFdiczhtOHNka3dZU280WG1TdzR0YTFheHkzWmlVdXNKX3dmWGxfc0VSS3BCS0stS3k0Wm5iOXV0OE5iZlpSVTVnN1l3Y1BXcC10UXVaY2V5VDVZZWFsMHJTOFU3YV9Xa3RiTTdHb3BycEVPellieDJPMWFxQ3BBeFhRWlZRbEFSNzJranJHZ3RmVXYwdHkxQlcxdUU4Qjl1ZzVhcjAtZVdzcy1IanU2b1gtWFFLaklhdlNjMk1yMUdXeWY5RFBLLWlESXppaTl0X2JVR25kSzhpa2FVcnIzcDAzbmNRcGNOTkJNblhVcWYxUUFvbmFjUWc0eElkQUhua1h0VXdhYkZreXRVdTZnUnE3aFN2Z3V0ME11VDFWdlk4VkhaVlJXOTVkRGh1bWhxNlF2LWgzbmNuOEpsNGtBZlQ4SFpYQTBDc3BaNmd1SkphWkhKX01YYmZLNkFwYWtoZmVEWWdOV2xiMjk0U0l4N01wWUtBMjVlbTd1UGlYT3JTNEkwUW54RWRxcmFXMUxTcjVTS1FObmE1YURiR3E0bGwzY3lWTnA5UzlIX3Y0Q09TbEoxcnl3TTRSbktzNkVKc2VVY1VTZEV5ckdjd1BzazFXenc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "กรุงศรี คาด SET วันนี้ “ฟื้นตัว” เคาะ GULF-ADVANC- KBANK เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNWjJsNmlMRENzQUVud2taMmsyT2xzM3BSR1p1aTR0NGR6Y3E2NmN1ZFEzRFZabmVNSzlpb3pJTnB2aS1wY0MyOE00RHNXd0N5UFhib09CLWtTMHJQd3FTeXFJMHlUa0dIYWdaOVAwdXRRMmhhQmZ5empJRmJOMXB6X2lHal8wV05QVEhkck1zeGZwVUk4cndJNktxVFl0dGlDMF9sVzlXbWRsU1AzNHNMRkMwaFlhSTF6WTIydjJaUGR1OHBUQ0tKVlF0SE5ieE90ZllGSXFQOHZNT19PNWRZRHpPTlZTRjdISTBwTVlBUHJSd21NblRsUGp0a3dKU0FYMVZRdnI2Yk4xUXJMbTc4WUU4cDFuRTZaQ1JYYzZlQmd4UnZfR05oSkpJQ3VHcVVYZ0gza0dNQnYxODhURTlxWWJJS1Y0QzBXWjdjNHln?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "KSS มอง SET สัปดาห์นี้ Sideways Up จับตา PMI-กนง.-ส่งออกไทย ชู BH-GULF-KBANK หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GZkRkTmRORlBjd2x4dEE1TUFGakZ0cmsxYVpUY3VpbmxWSGd6NUVacE1qVHlDTV9jWndWRWliRzJ5NU4tU3dsRTU1Yw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #SET #บล.กรุงศรี กลยุทธ์ลงทุนวันนี้ หุ้นแนะนำ KBANK BH ICHI - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxPT19LN04yYTR0WThxd2JyMkdIWkhnNkRMT3hvY2p4dHNVcmJOcVFvNkxfNkVVWUQ0Qk1iN1JBUjBGUE9RUnVIbEhQZ29WMjlXbUhxRUVzb1FaeEs1VGE2bFdidzFvb0JYSkU4ZlB5RnRZY0ZrV1pETTBrRE9sQXZ1dmlJWWZoaTFyWktXSG9FWXpzT1ZEa3VBTDh3VnZKdDJVU0lVTlBwUWxUZTFIb2tTV1lFNEdlZnBvUWZuQm00YUgwNzk4dmtaXzRVazlVaWFweDZ1dm80RlhnYzdjMHgyamhwbFJnWWxTdTM1ZWVUbGhjdUFRVmFDUWtJM3lGSndkM2wzdUFyQ1N0cWRkekplNDZQX3A5OHRyWmRJSFVvYUx3WXhMVlktdU1sS0JTZTFmVUFhRWdETEpoRm4tUzNtRlFJQnpiSFdiczhtOHNka3dZU280WG1TdzR0YTFheHkzWmlVdXNKX3dmWGxfc0VSS3BCS0stS3k0Wm5iOXV0OE5iZlpSVTVnN1l3Y1BXcC10UXVaY2V5VDVZZWFsMHJTOFU3YV9Xa3RiTTdHb3BycEVPellieDJPMWFxQ3BBeFhRWlZRbEFSNzJranJHZ3RmVXYwdHkxQlcxdUU4Qjl1ZzVhcjAtZVdzcy1IanU2b1gtWFFLaklhdlNjMk1yMUdXeWY5RFBLLWlESXppaTl0X2JVR25kSzhpa2FVcnIzcDAzbmNRcGNOTkJNblhVcWYxUUFvbmFjUWc0eElkQUhua1h0VXdhYkZreXRVdTZnUnE3aFN2Z3V0ME11VDFWdlk4VkhaVlJXOTVkRGh1bWhxNlF2LWgzbmNuOEpsNGtBZlQ4SFpYQTBDc3BaNmd1SkphWkhKX01YYmZLNkFwYWtoZmVEWWdOV2xiMjk0U0l4N01wWUtBMjVlbTd1UGlYT3JTNEkwUW54RWRxcmFXMUxTcjVTS1FObmE1YURiR3E0bGwzY3lWTnA5UzlIX3Y0Q09TbEoxcnl3TTRSbktzNkVKc2VVY1VTZEV5ckdjd1BzazFXenc?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-06-27T17:45:37.852597+00:00"
       },
       {
@@ -77,24 +95,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNWjJsNmlMRENzQUVud2taMmsyT2xzM3BSR1p1aTR0NGR6Y3E2NmN1ZFEzRFZabmVNSzlpb3pJTnB2aS1wY0MyOE00RHNXd0N5UFhib09CLWtTMHJQd3FTeXFJMHlUa0dIYWdaOVAwdXRRMmhhQmZ5empJRmJOMXB6X2lHal8wV05QVEhkck1zeGZwVUk4cndJNktxVFl0dGlDMF9sVzlXbWRsU1AzNHNMRkMwaFlhSTF6WTIydjJaUGR1OHBUQ0tKVlF0SE5ieE90ZllGSXFQOHZNT19PNWRZRHpPTlZTRjdISTBwTVlBUHJSd21NblRsUGp0a3dKU0FYMVZRdnI2Yk4xUXJMbTc4WUU4cDFuRTZaQ1JYYzZlQmd4UnZfR05oSkpJQ3VHcVVYZ0gza0dNQnYxODhURTlxWWJJS1Y0QzBXWjdjNHln?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-06-27T17:45:37.852597+00:00"
-      },
-      {
-        "headline": "KSS มอง SET สัปดาห์นี้ Sideways Up จับตา PMI-กนง.-ส่งออกไทย ชู BH-GULF-KBANK หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GZkRkTmRORlBjd2x4dEE1TUFGakZ0cmsxYVpUY3VpbmxWSGd6NUVacE1qVHlDTV9jWndWRWliRzJ5NU4tU3dsRTU1Yw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-27T17:45:37.852597+00:00"
-      },
-      {
-        "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #SET #บล.กรุงศรี กลยุทธ์ลงทุนวันนี้ หุ้นแนะนำ KBANK BH ICHI - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxPT19LN04yYTR0WThxd2JyMkdIWkhnNkRMT3hvY2p4dHNVcmJOcVFvNkxfNkVVWUQ0Qk1iN1JBUjBGUE9RUnVIbEhQZ29WMjlXbUhxRUVzb1FaeEs1VGE2bFdidzFvb0JYSkU4ZlB5RnRZY0ZrV1pETTBrRE9sQXZ1dmlJWWZoaTFyWktXSG9FWXpzT1ZEa3VBTDh3VnZKdDJVU0lVTlBwUWxUZTFIb2tTV1lFNEdlZnBvUWZuQm00YUgwNzk4dmtaXzRVazlVaWFweDZ1dm80RlhnYzdjMHgyamhwbFJnWWxTdTM1ZWVUbGhjdUFRVmFDUWtJM3lGSndkM2wzdUFyQ1N0cWRkekplNDZQX3A5OHRyWmRJSFVvYUx3WXhMVlktdU1sS0JTZTFmVUFhRWdETEpoRm4tUzNtRlFJQnpiSFdiczhtOHNka3dZU280WG1TdzR0YTFheHkzWmlVdXNKX3dmWGxfc0VSS3BCS0stS3k0Wm5iOXV0OE5iZlpSVTVnN1l3Y1BXcC10UXVaY2V5VDVZZWFsMHJTOFU3YV9Xa3RiTTdHb3BycEVPellieDJPMWFxQ3BBeFhRWlZRbEFSNzJranJHZ3RmVXYwdHkxQlcxdUU4Qjl1ZzVhcjAtZVdzcy1IanU2b1gtWFFLaklhdlNjMk1yMUdXeWY5RFBLLWlESXppaTl0X2JVR25kSzhpa2FVcnIzcDAzbmNRcGNOTkJNblhVcWYxUUFvbmFjUWc0eElkQUhua1h0VXdhYkZreXRVdTZnUnE3aFN2Z3V0ME11VDFWdlk4VkhaVlJXOTVkRGh1bWhxNlF2LWgzbmNuOEpsNGtBZlQ4SFpYQTBDc3BaNmd1SkphWkhKX01YYmZLNkFwYWtoZmVEWWdOV2xiMjk0U0l4N01wWUtBMjVlbTd1UGlYT3JTNEkwUW54RWRxcmFXMUxTcjVTS1FObmE1YURiR3E0bGwzY3lWTnA5UzlIX3Y0Q09TbEoxcnl3TTRSbktzNkVKc2VVY1VTZEV5ckdjd1BzazFXenc?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-27T01:00:29.494012+00:00"
-      },
-      {
-        "headline": "KSS มอง SET สัปดาห์นี้ Sideways Up จับตา PMI-กนง.-ส่งออกไทย ชู BH-GULF-KBANK หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GZkRkTmRORlBjd2x4dEE1TUFGakZ0cmsxYVpUY3VpbmxWSGd6NUVacE1qVHlDTV9jWndWRWliRzJ5NU4tU3dsRTU1Yw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-27T01:00:29.494012+00:00"
       }
     ],
     "COST": [
@@ -180,6 +180,12 @@
         "headline": "Forget Pepsi: As Volatility Tests Consumer Staples, This Global Household Name Wins Every Time",
         "url": "https://finnhub.io/api/news?id=e4ac391ae41b2cd1a2faf9e72c3161b2c5ec495b695e9a53bb7446b931674998",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-06-28T01:00:32.061072+00:00"
+      },
+      {
+        "headline": "Forget Pepsi: As Volatility Tests Consumer Staples, This Global Household Name Wins Every Time",
+        "url": "https://finnhub.io/api/news?id=e4ac391ae41b2cd1a2faf9e72c3161b2c5ec495b695e9a53bb7446b931674998",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-06-27T17:45:37.852597+00:00"
       },
       {
@@ -199,12 +205,6 @@
         "url": "https://finnhub.io/api/news?id=1cf582d199680ee1fc134e4323a19b17b11423e22867671507653e8c8c718d2c",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-06-25T21:02:04.627221+00:00"
-      },
-      {
-        "headline": "SNPD ETF Targets Next Dividend Aristocrats With 10-year Growth Screen",
-        "url": "https://finnhub.io/api/news?id=557494f2e3432b378d9a222b05984bdfa9e31d6074526698aa3bf0bf3fac2b41",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-06-25T01:00:33.702134+00:00"
       }
     ],
     "ABBV": [
