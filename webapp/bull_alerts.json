@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T21:04:43.526307+00:00",
+  "last_updated": "2026-07-01T01:00:34.143066+00:00",
   "alerts": {
     "PTT": [
       {
@@ -15,38 +15,6 @@
         "url": "https://finnhub.io/api/news?id=20d327bd408e5fc6c28ca16c526eee128e5357eaeec3acc60fdd761316d0eed8",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-06-29T01:00:30.244691+00:00"
-      },
-      {
-        "headline": "67 With $1.5 Million. Here Are My 3 Defensive Anchors",
-        "url": "https://finnhub.io/api/news?id=8ccaa9da20397fe0776110589db82a3b8cd47ebe89460c9e8495872bacfaf39c",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-06-23T21:06:35.084210+00:00"
-      }
-    ],
-    "V": [
-      {
-        "headline": "Visa (V) Launches AI Driven Everyday Cashback In UAE With Mashreq And Rezolve AI",
-        "url": "https://finnhub.io/api/news?id=7a4fe26530a2b9d1beca811687075bda062685bffd3aa239b96cc51af0ce41ad",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-06-24T01:00:29.140220+00:00"
-      },
-      {
-        "headline": "Visa's AI-Driven Rewards Push: A Small Move With Strategic Value",
-        "url": "https://finnhub.io/api/news?id=5d38792fd346a1604a94af806fc012501257d6e6b48ad0e64de2a374119b7b4c",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-06-24T01:00:29.140220+00:00"
-      },
-      {
-        "headline": "Visa (V) Launches AI Driven Everyday Cashback In UAE With Mashreq And Rezolve AI",
-        "url": "https://finnhub.io/api/news?id=7a4fe26530a2b9d1beca811687075bda062685bffd3aa239b96cc51af0ce41ad",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-06-23T21:06:35.084210+00:00"
-      },
-      {
-        "headline": "Visa's AI-Driven Rewards Push: A Small Move With Strategic Value",
-        "url": "https://finnhub.io/api/news?id=5d38792fd346a1604a94af806fc012501257d6e6b48ad0e64de2a374119b7b4c",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-06-23T21:06:35.084210+00:00"
       }
     ]
   }
