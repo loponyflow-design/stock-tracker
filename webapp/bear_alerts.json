@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T01:00:34.143066+00:00",
+  "last_updated": "2026-07-01T20:29:59.317526+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -70,31 +70,31 @@
         "headline": "KSS มอง SET สัปดาห์นี้แกว่งกรอบ 1,530-1,567 จุด ชู BH-MTC-KBANK เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3N1dkREcmNMOFhRYnVyNWU0aXpZUVV2VVEtcVIzMGs0ZjB5cUR2dWZuR2V0VGdHdjYtemc5Rm51aHgya05VWTllYmxhajAxVHBOZHNn?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-01T01:00:34.143066+00:00"
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
       },
       {
         "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #SET #บล.กรุงศรี กลยุทธ์ลงทุนวันนี้ หุ้นแนะนำ KBANK BH ICHI - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxPT19LN04yYTR0WThxd2JyMkdIWkhnNkRMT3hvY2p4dHNVcmJOcVFvNkxfNkVVWUQ0Qk1iN1JBUjBGUE9RUnVIbEhQZ29WMjlXbUhxRUVzb1FaeEs1VGE2bFdidzFvb0JYSkU4ZlB5RnRZY0ZrV1pETTBrRE9sQXZ1dmlJWWZoaTFyWktXSG9FWXpzT1ZEa3VBTDh3VnZKdDJVU0lVTlBwUWxUZTFIb2tTV1lFNEdlZnBvUWZuQm00YUgwNzk4dmtaXzRVazlVaWFweDZ1dm80RlhnYzdjMHgyamhwbFJnWWxTdTM1ZWVUbGhjdUFRVmFDUWtJM3lGSndkM2wzdUFyQ1N0cWRkekplNDZQX3A5OHRyWmRJSFVvYUx3WXhMVlktdU1sS0JTZTFmVUFhRWdETEpoRm4tUzNtRlFJQnpiSFdiczhtOHNka3dZU280WG1TdzR0YTFheHkzWmlVdXNKX3dmWGxfc0VSS3BCS0stS3k0Wm5iOXV0OE5iZlpSVTVnN1l3Y1BXcC10UXVaY2V5VDVZZWFsMHJTOFU3YV9Xa3RiTTdHb3BycEVPellieDJPMWFxQ3BBeFhRWlZRbEFSNzJranJHZ3RmVXYwdHkxQlcxdUU4Qjl1ZzVhcjAtZVdzcy1IanU2b1gtWFFLaklhdlNjMk1yMUdXeWY5RFBLLWlESXppaTl0X2JVR25kSzhpa2FVcnIzcDAzbmNRcGNOTkJNblhVcWYxUUFvbmFjUWc0eElkQUhua1h0VXdhYkZreXRVdTZnUnE3aFN2Z3V0ME11VDFWdlk4VkhaVlJXOTVkRGh1bWhxNlF2LWgzbmNuOEpsNGtBZlQ4SFpYQTBDc3BaNmd1SkphWkhKX01YYmZLNkFwYWtoZmVEWWdOV2xiMjk0U0l4N01wWUtBMjVlbTd1UGlYT3JTNEkwUW54RWRxcmFXMUxTcjVTS1FObmE1YURiR3E0bGwzY3lWTnA5UzlIX3Y0Q09TbEoxcnl3TTRSbktzNkVKc2VVY1VTZEV5ckdjd1BzazFXenc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-01T01:00:34.143066+00:00"
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
       },
       {
         "headline": "จับตาหุ้นแบงก์จ่ายปันผล ชี้เป้า SCB - KBANK - ยีลด์สูง - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUWJoTXhUc3Q5U3M4YXFjV0JCSHQxbWdzS19FeHFFN2dWS21rTlBScDZZTjhENWt2VzFyWkwwVlVCWnhiSEhDdmk2TFMyakJJOXBvYWFZanZvVlNGSEFiVGxwVUJheWZ4eXdrZTBOTGZiTk5mcDRNNUs2djVxREJPZUR5Yk5ZbVNQU21HNnNjQ2d6cVdZNW9yOUlrdU0yWHRlMkIzSFhiOGtCclU1ckVTaEI5Y3dzNE1JUjdNUXRNYVBlTzdJcURYUzRlT0VtWnIxb2preFlsdE9fbms3YlJwZkctWmhpLVFiemtxS3AtUXJURXQ5TUt4em92cWNKS2taVm0zdWNaQWpjVmlXMk9qY1pVSjJFenJ2Z1ZFUVpCWWRndzd4SkFqdkV1NE9JNklzcm5saDgxeDJzellScnA1NERYM0h3TkNBN1hpS092SFdwTU9W?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-01T01:00:34.143066+00:00"
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
+      },
+      {
+        "headline": "KSS มอง SET สัปดาห์นี้ Sideways Up จับตา PMI-กนง.-ส่งออกไทย ชู BH-GULF-KBANK หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GZkRkTmRORlBjd2x4dEE1TUFGakZ0cmsxYVpUY3VpbmxWSGd6NUVacE1qVHlDTV9jWndWRWliRzJ5NU4tU3dsRTU1Yw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
       },
       {
         "headline": "KSS มอง SET สัปดาห์นี้แกว่งกรอบ 1,530-1,567 จุด ชู BH-MTC-KBANK เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3N1dkREcmNMOFhRYnVyNWU0aXpZUVV2VVEtcVIzMGs0ZjB5cUR2dWZuR2V0VGdHdjYtemc5Rm51aHgya05VWTllYmxhajAxVHBOZHNn?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-30T21:04:43.526307+00:00"
-      },
-      {
-        "headline": "จับตาหุ้นแบงก์จ่ายปันผล ชี้เป้า SCB - KBANK - ยีลด์สูง - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUWJoTXhUc3Q5U3M4YXFjV0JCSHQxbWdzS19FeHFFN2dWS21rTlBScDZZTjhENWt2VzFyWkwwVlVCWnhiSEhDdmk2TFMyakJJOXBvYWFZanZvVlNGSEFiVGxwVUJheWZ4eXdrZTBOTGZiTk5mcDRNNUs2djVxREJPZUR5Yk5ZbVNQU21HNnNjQ2d6cVdZNW9yOUlrdU0yWHRlMkIzSFhiOGtCclU1ckVTaEI5Y3dzNE1JUjdNUXRNYVBlTzdJcURYUzRlT0VtWnIxb2preFlsdE9fbms3YlJwZkctWmhpLVFiemtxS3AtUXJURXQ5TUt4em92cWNKS2taVm0zdWNaQWpjVmlXMk9qY1pVSjJFenJ2Z1ZFUVpCWWRndzd4SkFqdkV1NE9JNklzcm5saDgxeDJzellScnA1NERYM0h3TkNBN1hpS092SFdwTU9W?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-06-30T21:04:43.526307+00:00"
+        "detected_at": "2026-07-01T01:00:34.143066+00:00"
       }
     ],
     "COST": [
@@ -130,6 +130,18 @@
       }
     ],
     "JNJ": [
+      {
+        "headline": "Johnson & Johnson (JNJ) Expands Cancer Pipeline As Talc Verdict Eases One Risk",
+        "url": "https://finnhub.io/api/news?id=8d1382cd210a15e47704403828aa99de9dce5b7455ea1992f9139623fa1c0f0e",
+        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
+      },
+      {
+        "headline": "J&J's Innovative Medicine Business in Q2: Here's What to Watch",
+        "url": "https://finnhub.io/api/news?id=e2749f58987f30e37f1829e51d353bb5b68f73ac9e497b0da9b369012ed605a6",
+        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
+        "detected_at": "2026-07-01T20:29:59.317526+00:00"
+      },
       {
         "headline": "SNPD ETF Targets Next Dividend Aristocrats With 10-year Growth Screen",
         "url": "https://finnhub.io/api/news?id=557494f2e3432b378d9a222b05984bdfa9e31d6074526698aa3bf0bf3fac2b41",
