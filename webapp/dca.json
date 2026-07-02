@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-07-02T14:30:29.723Z",
+  "unrealized_pl_pct": -96.7,
+  "xirr_pct": null,
+  "allocation": {
+    "core_pct": 43.9,
+    "satellite_pct": 56.1
+  },
+  "rebalance_alert": {
+    "triggered": true,
+    "message": "VOO ต่ำกว่าเป้า 6.1pt, AAPL สูงกว่าเป้า 6.4pt"
+  },
+  "holdings": [
+    {
+      "ticker": "VOO",
+      "market": "US",
+      "allocation_pct": 43.9
+    },
+    {
+      "ticker": "MSFT",
+      "market": "US",
+      "allocation_pct": 24.6
+    },
+    {
+      "ticker": "AAPL",
+      "market": "US",
+      "allocation_pct": 31.4
+    }
+  ]
+}
