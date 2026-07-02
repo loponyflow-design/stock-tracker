@@ -80,53 +80,37 @@
       min-width: 0;
     }
 
-    /* ─── FILTER BAR ─────────────────────────────── */
-    .filter-bar {
+    /* ─── TOOLBAR ────────────────────────────────── */
+    .toolbar {
       position: sticky;
       top: 0;
       background: var(--bg);
       z-index: 9;
       border-bottom: 1px solid var(--border);
-      padding: 9px 24px;
-      display: flex;
-      flex-direction: column;
-      gap: 7px;
-    }
-    .filter-row {
+      padding: 12px 24px;
       display: flex;
       align-items: center;
-      gap: 8px;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
+      gap: 14px;
     }
-    .filter-row::-webkit-scrollbar { display: none; }
-    .filter-label { font-size: .8rem; flex-shrink: 0; }
-    .chips { display: flex; gap: 6px; }
-    .chip {
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      padding: 4px 10px;
-      border-radius: 20px;
+    .search-input {
+      flex: 1;
+      max-width: 340px;
+      background: var(--bg-card);
       border: 1px solid var(--border);
-      background: transparent;
-      color: var(--dim);
-      font-size: .74rem;
-      font-weight: 600;
-      cursor: pointer;
-      white-space: nowrap;
-      flex-shrink: 0;
-      transition: all .15s;
-      letter-spacing: .3px;
+      color: var(--text);
+      font-size: .82rem;
+      padding: 8px 12px;
+      border-radius: 8px;
+      outline: none;
+      transition: border-color .15s;
     }
-    .chip.active { background: #1e2535; color: var(--text); border-color: #334155; }
-    .chip-change { font-size: .67rem; font-weight: 700; }
-    .chip-change.up   { color: var(--green); }
-    .chip-change.down { color: var(--red); }
-    .chip-change.flat { color: #94a3b8; }
+    .search-input::placeholder { color: var(--muted); }
+    .search-input:focus { border-color: var(--blue); }
+    .stats-line { font-size: .76rem; color: var(--muted); white-space: nowrap; }
+    .stats-line .n-alert { color: #fca5a5; font-weight: 600; }
+    .stats-line .n-bull  { color: #86efac; font-weight: 600; }
 
-    /* ─── SECTION & GRID ─────────────────────────── */
+    /* ─── SECTION & TABLE ─────────────────────────── */
     .section { padding: 22px 24px 8px; }
     .section-title {
       font-size: .68rem;
@@ -141,28 +125,65 @@
     .section-title::after { content: ""; flex: 1; height: 1px; background: var(--border); }
     .us-title   { color: var(--blue); }
     .thai-title { color: var(--green); }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-      gap: 13px;
-      margin-bottom: 22px;
-    }
 
-    /* ─── CARD ───────────────────────────────────── */
-    .card {
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 12px;
+    .table-wrap { margin-bottom: 26px; overflow-x: auto; }
+    table.watchlist {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .82rem;
+    }
+    table.watchlist thead th {
+      text-align: left;
+      font-size: .68rem;
+      font-weight: 700;
+      letter-spacing: .8px;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 0 12px 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    table.watchlist th.num, table.watchlist td.w-price, table.watchlist td.w-chg { text-align: right; }
+    table.watchlist th.icon-col, table.watchlist td.w-alert { text-align: center; width: 34px; }
+
+    tr.w-row {
+      cursor: pointer;
+      border-bottom: 1px solid var(--border);
+      border-left: 3px solid transparent;
+      transition: background .12s, border-color .12s;
+    }
+    tr.w-row:hover { background: var(--bg-card); }
+    tr.w-row.row-bear { border-left-color: #ef4444; }
+    tr.w-row.row-bull { border-left-color: #16a34a; }
+    tr.w-row.row-bear.row-bull { border-left-color: #ef4444; }
+    tr.w-row td { padding: 10px 12px; }
+
+    .w-ticker { font-weight: 700; color: var(--blue); white-space: nowrap; }
+    tr.thai .w-ticker { color: var(--green); }
+    .w-name {
+      color: #cbd5e1;
+      max-width: 260px;
       overflow: hidden;
-      transition: border-color .2s;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
-    .card:hover { border-color: #334155; }
-    .card.bear-active { border-color: #ef4444 !important; }
+    .w-price { font-weight: 600; white-space: nowrap; }
+    .w-chg   { font-weight: 600; white-space: nowrap; }
+    .w-chg.up   { color: var(--green); }
+    .w-chg.down { color: var(--red); }
+    .w-chg.flat { color: #94a3b8; }
+    .w-alert-icon { font-size: .82rem; }
 
+    tr.w-detail td { padding: 0; border-bottom: 1px solid var(--border); }
+    tr.w-detail.hidden { display: none; }
+    .w-detail-inner { background: var(--bg-dark); padding: 4px 12px 10px; }
+
+    /* ─── ALERT BANNERS (inside expanded row) ─────── */
     .bear-banner {
       background: #1f0a0a;
-      border-bottom: 1px solid #7f1d1d;
+      border: 1px solid #7f1d1d;
+      border-radius: 8px;
       padding: 8px 16px;
+      margin: 8px 0;
     }
     .bear-item {
       display: flex;
@@ -181,12 +202,12 @@
     .bear-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
 
     /* Bull signal banner (green, mirror of bear) */
-    .card.bull-active { border-color: #16a34a; }
-    .card.bull-active.bear-active { border-color: #ef4444 !important; }
     .bull-banner {
       background: #07180f;
-      border-bottom: 1px solid #166534;
+      border: 1px solid #166534;
+      border-radius: 8px;
       padding: 8px 16px;
+      margin: 8px 0;
     }
     .bull-item {
       display: flex;
@@ -204,27 +225,6 @@
     .bull-item-body a:hover { color: #86efac; }
     .bull-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
 
-    .card-header {
-      padding: 13px 16px 10px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-    .card-left { display: flex; align-items: center; gap: 10px; }
-    .badge {
-      font-weight: 700;
-      font-size: .78rem;
-      padding: 3px 9px;
-      border-radius: 6px;
-      letter-spacing: .5px;
-      flex-shrink: 0;
-    }
-    .badge-us   { background: #1e3a5f; color: var(--blue); }
-    .badge-thai { background: #064e3b; color: var(--green); }
-    .company-name { font-size: .86rem; font-weight: 600; color: #cbd5e1; }
-
     .brief-btn {
       display: inline-flex;
       align-items: center;
@@ -237,18 +237,11 @@
       cursor: pointer;
       background: none;
       transition: all .15s;
-      margin-top: 3px;
+      margin-left: 8px;
     }
     .brief-btn:hover { color: var(--blue); border-color: #3b5ea6; background: #0f1b2d; }
 
-    .price-box { text-align: right; line-height: 1.3; margin-left: auto; }
-    .price  { font-size: .88rem; font-weight: 700; }
-    .change { font-size: .73rem; }
-    .up   { color: var(--green); }
-    .down { color: var(--red); }
-    .flat { color: #94a3b8; }
-
-    .news-list { padding: 0 16px 12px; }
+    .news-list { padding: 4px 0 0; }
     .news-item { padding: 9px 0; border-top: 1px solid var(--border); }
     .news-item a {
       color: #cbd5e1;
@@ -635,10 +628,25 @@
 
       .brief-drawer { width: 100vw; }
       header { padding: 0 12px 0 16px; }
-      .filter-bar { padding: 8px 16px; }
+      .toolbar { padding: 10px 16px; }
       .section { padding: 18px 16px 8px; }
-      .grid { grid-template-columns: 1fr; gap: 12px; }
       .brief-scroll { padding: 20px 18px 40px; }
+
+      /* Stack ticker/price/chg on one line, wrap company name below it */
+      table.watchlist thead { display: none; }
+      tr.w-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2px 10px;
+        padding: 10px 12px;
+      }
+      tr.w-row td { display: block; padding: 0; border: none; }
+      .w-ticker { order: 1; }
+      .w-price  { order: 2; margin-left: auto; }
+      .w-chg    { order: 3; min-width: 56px; }
+      .w-alert  { order: 4; width: auto; }
+      .w-name   { order: 5; flex: 1 1 100%; max-width: none; white-space: normal; font-size: .78rem; }
     }
   </style>
 </head>
@@ -658,25 +666,46 @@
     <!-- ── MAIN ───────────────────────────────────── -->
     <div class="main-content">
 
-      <div class="filter-bar">
-        <div class="filter-row">
-          <span class="filter-label">🇺🇸</span>
-          <div class="chips" id="chips-us"></div>
-        </div>
-        <div class="filter-row">
-          <span class="filter-label">🇹🇭</span>
-          <div class="chips" id="chips-thai"></div>
-        </div>
+      <div class="toolbar">
+        <input class="search-input" id="search-input" type="text"
+               placeholder="🔍 Search ticker or company…" oninput="filterRows(this.value)" />
+        <span class="stats-line" id="stats-line"></span>
       </div>
 
       <div class="section">
         <div class="section-title us-title">🇺🇸 US Stocks</div>
-        <div class="grid" id="grid-us"></div>
+        <div class="table-wrap">
+          <table class="watchlist">
+            <thead>
+              <tr>
+                <th>Ticker</th>
+                <th>Company</th>
+                <th class="num">Price</th>
+                <th class="num">Chg</th>
+                <th class="icon-col"></th>
+              </tr>
+            </thead>
+            <tbody id="tbody-us"></tbody>
+          </table>
+        </div>
       </div>
 
       <div class="section">
         <div class="section-title thai-title">🇹🇭 Thai Stocks (SET)</div>
-        <div class="grid" id="grid-thai"></div>
+        <div class="table-wrap">
+          <table class="watchlist">
+            <thead>
+              <tr>
+                <th>Ticker</th>
+                <th>Company</th>
+                <th class="num">Price</th>
+                <th class="num">Chg</th>
+                <th class="icon-col"></th>
+              </tr>
+            </thead>
+            <tbody id="tbody-thai"></tbody>
+          </table>
+        </div>
       </div>
 
     </div><!-- /main-content -->
@@ -932,28 +961,16 @@
     }
 
     /* ─────────────────────────────────────────────────
-       CHIP MANAGEMENT
+       SEARCH FILTER
     ───────────────────────────────────────────────── */
-    function makeChip(ticker, cardId, containerId) {
-      const chip = document.createElement("button");
-      chip.className = "chip active";
-      chip.dataset.cardId = cardId;
-      chip.innerHTML = `<span>${ticker}</span><span class="chip-change" id="chip-chg-${ticker}"></span>`;
-      chip.addEventListener("click", () => {
-        const visible = chip.classList.toggle("active");
-        const card = document.getElementById(cardId);
-        if (card) card.style.display = visible ? "" : "none";
+    function filterRows(query) {
+      const q = query.trim().toLowerCase();
+      [...usRows, ...thRows].forEach(({ s, tr, detailTr }) => {
+        const match = !q || s.ticker.toLowerCase().includes(q) || s.name.toLowerCase().includes(q);
+        tr.style.display = match ? "" : "none";
+        detailTr.style.display = match ? "" : "none";
+        if (!match) detailTr.classList.add("hidden");
       });
-      document.getElementById(containerId).appendChild(chip);
-    }
-
-    function updateChip(ticker, dp) {
-      const el = document.getElementById(`chip-chg-${ticker}`);
-      if (!el || dp == null) return;
-      const sign = dp > 0 ? "▲" : dp < 0 ? "▼" : "";
-      const cls  = dp > 0 ? "up" : dp < 0 ? "down" : "flat";
-      el.className = `chip-change ${cls}`;
-      el.textContent = `${sign}${Math.abs(dp).toFixed(1)}%`;
     }
 
     /* ─────────────────────────────────────────────────
@@ -975,13 +992,15 @@
     function changeClass(dp) { return dp > 0 ? "up" : dp < 0 ? "down" : "flat"; }
     function changeSign(dp)  { return dp > 0 ? "+" : ""; }
 
-    function priceHTML(price, dp, cur) {
-      if (price == null) return "";
-      const cls = changeClass(dp);
-      return `<div class="price-box">
-        <div class="price">${cur}${priceFmt(price)}</div>
-        <div class="change ${cls}">${changeSign(dp)}${dp?.toFixed(2)}%</div>
-      </div>`;
+    function setPriceChange(id, price, dp, cur) {
+      if (price == null) return;
+      const priceEl = document.getElementById(`price-${id}`);
+      const chgEl   = document.getElementById(`chg-${id}`);
+      if (priceEl) priceEl.textContent = `${cur}${priceFmt(price)}`;
+      if (chgEl) {
+        chgEl.className   = `w-chg ${changeClass(dp)}`;
+        chgEl.textContent = dp == null ? "—" : `${changeSign(dp)}${dp.toFixed(2)}%`;
+      }
     }
 
     function newsHTML(items, moreHref) {
@@ -994,27 +1013,35 @@
         (moreHref ? `<a class="view-more" href="${moreHref}" target="_blank" rel="noopener">View more →</a>` : "");
     }
 
-    function makeCard(id, ticker, name, badgeClass, isThai) {
-      const card = document.createElement("div");
-      card.className = "card";
-      card.id = `card-${id}`;
+    // Row is collapsed by default; click toggles the detail row (news + alerts) below it.
+    function toggleRow(id) {
+      const d = document.getElementById(`detail-${id}`);
+      if (d) d.classList.toggle("hidden");
+    }
+
+    function makeRow(id, ticker, name, isThai) {
+      const tr = document.createElement("tr");
+      tr.className = "w-row" + (isThai ? " thai" : "");
+      tr.id = `row-${id}`;
+      tr.onclick = () => toggleRow(id);
 
       const briefBtn = HAS_BRIEF.has(ticker)
-        ? `<button class="brief-btn" onclick="openBrief('${ticker}','${name.replace(/'/g, "\\'")}',${isThai})">📋 Brief</button>`
+        ? `<button class="brief-btn" onclick="event.stopPropagation(); openBrief('${ticker}','${name.replace(/'/g, "\\'")}',${isThai})">📋 Brief</button>`
         : "";
 
-      card.innerHTML = `
-        <div class="card-header">
-          <div class="card-left">
-            <span class="badge ${badgeClass}">${ticker}</span>
-            <div>
-              <div class="company-name">${name}</div>
-              ${briefBtn}
-            </div>
-          </div>
-        </div>
-        <div class="news-list"><div class="loading">Loading news…</div></div>`;
-      return card;
+      tr.innerHTML = `
+        <td class="w-ticker">${ticker}</td>
+        <td class="w-name">${name}${briefBtn}</td>
+        <td class="w-price" id="price-${id}">—</td>
+        <td class="w-chg"   id="chg-${id}">—</td>
+        <td class="w-alert" id="alert-${id}"></td>`;
+
+      const detailTr = document.createElement("tr");
+      detailTr.className = "w-detail hidden";
+      detailTr.id = `detail-${id}`;
+      detailTr.innerHTML = `<td colspan="5"><div class="w-detail-inner"><div class="news-list"><div class="loading">Loading news…</div></div></div></td>`;
+
+      return { tr, detailTr };
     }
 
     /* ─────────────────────────────────────────────────
@@ -1070,48 +1097,45 @@
     /* ─────────────────────────────────────────────────
        RENDER  (build once, refresh repeatedly)
     ───────────────────────────────────────────────── */
-    let usCards = [];
-    let thCards = [];
+    let usRows = [];
+    let thRows = [];
 
-    function buildCards() {
-      const usGrid = document.getElementById("grid-us");
-      usCards = US_STOCKS.map(s => {
-        makeChip(s.ticker, `card-${s.ticker}`, "chips-us");
-        const card = makeCard(s.ticker, s.ticker, s.name, "badge-us", false);
-        usGrid.appendChild(card);
-        return { s, card };
+    function buildTables() {
+      const usBody = document.getElementById("tbody-us");
+      usRows = US_STOCKS.map(s => {
+        const { tr, detailTr } = makeRow(s.ticker, s.ticker, s.name, false);
+        usBody.appendChild(tr);
+        usBody.appendChild(detailTr);
+        return { s, id: s.ticker, tr, detailTr };
       });
 
-      const thGrid = document.getElementById("grid-thai");
-      thCards = TH_STOCKS.map(s => {
-        makeChip(s.ticker, `card-${s.symbol}`, "chips-thai");
-        const card = makeCard(s.symbol, s.ticker, s.name, "badge-thai", true);
-        thGrid.appendChild(card);
-        return { s, card };
+      const thBody = document.getElementById("tbody-thai");
+      thRows = TH_STOCKS.map(s => {
+        const { tr, detailTr } = makeRow(s.symbol, s.ticker, s.name, true);
+        thBody.appendChild(tr);
+        thBody.appendChild(detailTr);
+        return { s, id: s.symbol, tr, detailTr };
       });
     }
 
-    // Replace price box in place (avoid stacking on refresh)
-    function setPrice(card, html) {
-      const hdr = card.querySelector(".card-header");
-      const old = hdr.querySelector(".price-box");
-      if (old) old.remove();
-      if (html) hdr.insertAdjacentHTML("beforeend", html);
+    function setNews(id, html) {
+      const inner = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+      if (inner) inner.innerHTML = html;
     }
 
     async function refreshUS() {
-      await Promise.allSettled(usCards.map(async ({ s, card }) => {
+      await Promise.allSettled(usRows.map(async ({ s, id }) => {
         const [q, news] = await Promise.all([finnhubQuote(s.ticker), finnhubNews(s.ticker)]);
-        if (q) { setPrice(card, priceHTML(q.c, q.dp, "$")); updateChip(s.ticker, q.dp); }
-        card.querySelector(".news-list").innerHTML = newsHTML(news, `https://finance.yahoo.com/quote/${s.ticker}/news/`);
+        if (q) setPriceChange(id, q.c, q.dp, "$");
+        setNews(id, newsHTML(news, `https://finance.yahoo.com/quote/${s.ticker}/news/`));
       }));
     }
 
     async function refreshThai() {
-      await Promise.allSettled(thCards.map(async ({ s, card }) => {
+      await Promise.allSettled(thRows.map(async ({ s, id }) => {
         const [q, news] = await Promise.all([yahooQuote(s.symbol), googleNews(`${s.ticker} stock SET`)]);
-        if (q) { setPrice(card, priceHTML(q.price, q.dp, "฿")); updateChip(s.ticker, q.dp); }
-        card.querySelector(".news-list").innerHTML = newsHTML(news, `https://finance.yahoo.com/quote/${s.symbol}/news/`);
+        if (q) setPriceChange(id, q.price, q.dp, "฿");
+        setNews(id, newsHTML(news, `https://finance.yahoo.com/quote/${s.symbol}/news/`));
       }));
     }
 
@@ -1135,14 +1159,22 @@
       } catch { return {}; }
     }
 
+    // ticker → row id: US rows are keyed by ticker, TH rows by "<ticker>.BK"
+    function rowIdFor(ticker) {
+      if (document.getElementById(`row-${ticker}`)) return ticker;
+      if (document.getElementById(`row-${ticker}.BK`)) return `${ticker}.BK`;
+      return null;
+    }
+
     function applyBearAlerts(alerts) {
-      // Apply banners to cards
+      bearAlertsCache = alerts;
       for (const [ticker, items] of Object.entries(alerts)) {
         if (!items.length) continue;
-        const card = document.getElementById(`card-${ticker}`) ||
-                     document.getElementById(`card-${ticker}.BK`);
-        if (!card) continue;
-        card.classList.add("bear-active");
+        const id = rowIdFor(ticker);
+        if (!id) continue;
+        document.getElementById(`row-${id}`).classList.add("row-bear");
+        document.getElementById(`alert-${id}`)
+          .insertAdjacentHTML("beforeend", `<span class="w-alert-icon" title="Bear alert">⚠️</span>`);
 
         const banner = document.createElement("div");
         banner.className = "bear-banner";
@@ -1155,11 +1187,12 @@
               <div class="bear-condition">📌 ${a.condition}</div>
             </div>
           </div>`).join("");
-        card.insertBefore(banner, card.querySelector(".news-list"));
+        const newsList = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+        newsList.parentNode.insertBefore(banner, newsList);
       }
 
-      // Populate sidebar alert list
       buildAlertSidebar(alerts);
+      updateStats();
     }
 
     function buildAlertSidebar(alerts) {
@@ -1185,19 +1218,20 @@
             ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
           </div>
           <span class="sb-alert-cnt">${items.length}</span>`;
-        btn.onclick = () => scrollToCard(ticker, "#ef4444");
+        btn.onclick = () => scrollToRow(ticker, "#ef4444");
         body.appendChild(btn);
       });
     }
 
-    function scrollToCard(ticker, color = "#ef4444") {
-      const card = document.getElementById(`card-${ticker}`) ||
-                   document.getElementById(`card-${ticker}.BK`);
-      if (card) {
-        card.scrollIntoView({ behavior: "smooth", block: "center" });
-        const prev = card.style.outline;
-        card.style.outline = `2px solid ${color}`;
-        setTimeout(() => { card.style.outline = prev; }, 2200);
+    function scrollToRow(ticker, color = "#ef4444") {
+      const id = rowIdFor(ticker);
+      if (id) {
+        const tr = document.getElementById(`row-${id}`);
+        document.getElementById(`detail-${id}`).classList.remove("hidden");
+        tr.scrollIntoView({ behavior: "smooth", block: "center" });
+        const prev = tr.style.outline;
+        tr.style.outline = `2px solid ${color}`;
+        setTimeout(() => { tr.style.outline = prev; }, 2200);
       }
       if (window.innerWidth <= 800) {
         document.getElementById("sidebar").classList.remove("open");
@@ -1216,12 +1250,14 @@
     }
 
     function applyBullAlerts(alerts) {
+      bullAlertsCache = alerts;
       for (const [ticker, items] of Object.entries(alerts)) {
         if (!items.length) continue;
-        const card = document.getElementById(`card-${ticker}`) ||
-                     document.getElementById(`card-${ticker}.BK`);
-        if (!card) continue;
-        card.classList.add("bull-active");
+        const id = rowIdFor(ticker);
+        if (!id) continue;
+        document.getElementById(`row-${id}`).classList.add("row-bull");
+        document.getElementById(`alert-${id}`)
+          .insertAdjacentHTML("beforeend", `<span class="w-alert-icon" title="Bull signal">🟢</span>`);
 
         const banner = document.createElement("div");
         banner.className = "bull-banner";
@@ -1235,10 +1271,12 @@
             </div>
           </div>`).join("");
         // Insert below any bear banner but above the news list
-        card.insertBefore(banner, card.querySelector(".news-list"));
+        const newsList = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+        newsList.parentNode.insertBefore(banner, newsList);
       }
 
       buildBullSidebar(alerts);
+      updateStats();
     }
 
     function buildBullSidebar(alerts) {
@@ -1264,19 +1302,30 @@
             ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
           </div>
           <span class="sb-alert-cnt">${items.length}</span>`;
-        btn.onclick = () => scrollToCard(ticker, "#16a34a");
+        btn.onclick = () => scrollToRow(ticker, "#16a34a");
         body.appendChild(btn);
       });
+    }
+
+    function updateStats() {
+      const nBear = Object.values(bearAlertsCache).filter(v => v.length).length;
+      const nBull = Object.values(bullAlertsCache).filter(v => v.length).length;
+      const parts = [];
+      if (nBear) parts.push(`<span class="n-alert">⚠️ ${nBear} bear alert${nBear > 1 ? "s" : ""}</span>`);
+      if (nBull) parts.push(`<span class="n-bull">🟢 ${nBull} bull signal${nBull > 1 ? "s" : ""}</span>`);
+      document.getElementById("stats-line").innerHTML = parts.join(" · ") || "No active alerts";
     }
 
     /* ─────────────────────────────────────────────────
        INIT
     ───────────────────────────────────────────────── */
     const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh every 15 min
+    let bearAlertsCache = {};
+    let bullAlertsCache = {};
 
     loadStockList().then(() => {
       buildBriefTree();
-      buildCards();
+      buildTables();
 
       // First load: fetch data, then overlay alerts (bear on top, bull below)
       refreshData().then(() =>
