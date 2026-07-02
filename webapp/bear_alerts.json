@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-02T14:29:54.010719+00:00",
+  "last_updated": "2026-07-02T19:01:46.480743+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
+        "url": "https://finnhub.io/api/news?id=c027653da20a4bc206198076249fe5e1bb32098944acbde9e901327ef666acbb",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
       {
         "headline": "iPhone demand splits as US and Europe pick up but China slips, survey finds",
         "url": "https://finnhub.io/api/news?id=559ed0ce5e938fbbf313d0057917ed09624e972d93f4a045e35eca90e5f840aa",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=ff1fdebe6e257a0d78f834ff90391ac83e207b53b915fc691acbf20ecfd5512c",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-07-01T01:00:34.143066+00:00"
-      },
-      {
-        "headline": "Apple Inc. (AAPL) Is A Top Warren Buffett Stock Pick",
-        "url": "https://finnhub.io/api/news?id=e21472bc29bd23c2594d416cb935e01a0b84cd0231851915064427051792344a",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-06-30T21:04:43.526307+00:00"
       }
     ],
     "TSLA": [
@@ -131,6 +131,12 @@
     ],
     "JNJ": [
       {
+        "headline": "This ‘Dividend’ ETF Pays Just 1.2% | So Why Do Serious Investors Keep Buying It?",
+        "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
+        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
+      {
         "headline": "Johnson & Johnson (JNJ): Focused on Cancer and Neuroscience as a Top Dividend Aristocrat Stock to Buy",
         "url": "https://finnhub.io/api/news?id=48b6dd12bbcdf3f58586b9e818c98462788f5d95b7758754a9fd8447bb2bbf28",
         "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
@@ -153,15 +159,15 @@
         "url": "https://finnhub.io/api/news?id=8d1382cd210a15e47704403828aa99de9dce5b7455ea1992f9139623fa1c0f0e",
         "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
         "detected_at": "2026-07-01T20:29:59.317526+00:00"
-      },
-      {
-        "headline": "J&J's Innovative Medicine Business in Q2: Here's What to Watch",
-        "url": "https://finnhub.io/api/news?id=e2749f58987f30e37f1829e51d353bb5b68f73ac9e497b0da9b369012ed605a6",
-        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
-        "detected_at": "2026-07-01T20:29:59.317526+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "Procter & Gamble: 70 Years Of Dividend Growth, But Little Room For Error",
+        "url": "https://finnhub.io/api/news?id=81e89292f92fe59b54c165ddfc7a212c8278aa822741c8e863bffa7d647a08e6",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
       {
         "headline": "Procter & Gamble: 70 Years Of Dividend Growth, But Little Room For Error",
         "url": "https://finnhub.io/api/news?id=81e89292f92fe59b54c165ddfc7a212c8278aa822741c8e863bffa7d647a08e6",
@@ -176,6 +182,12 @@
       }
     ],
     "KO": [
+      {
+        "headline": "This ‘Dividend’ ETF Pays Just 1.2% | So Why Do Serious Investors Keep Buying It?",
+        "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
       {
         "headline": "This is Why Morgan Stanley Believes The Coca-Cola Company (KO) is a Top Beverage Stock To Buy",
         "url": "https://finnhub.io/api/news?id=3c0bf7dcea8d0f40c41e8bccbbf982c9369909f3f2a750f0d37ca55fa7d1a86b",
@@ -199,15 +211,15 @@
         "url": "https://finnhub.io/api/news?id=e4ac391ae41b2cd1a2faf9e72c3161b2c5ec495b695e9a53bb7446b931674998",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-06-27T17:45:37.852597+00:00"
-      },
-      {
-        "headline": "Does A US$20 Billion IRS Showdown Reprice Coca-Cola’s (KO) Tax Risk And Cash Flow Story?",
-        "url": "https://finnhub.io/api/news?id=f0b22db983878dec449c07a3eb3ed25b905357fa05fcd8b6d90939e94a2bfa71",
-        "condition": "IRS transfer pricing dispute — อาจต้องจ่ายภาษีย้อนหลังก้อนใหญ่ (วางมัดจำ ~$6B แล้ว) เป็น overhang",
-        "detected_at": "2026-06-26T01:00:33.178411+00:00"
       }
     ],
     "ABBV": [
+      {
+        "headline": "J&J or AbbVie: Which Stock Deserves a Place in Your Portfolio Now?",
+        "url": "https://finnhub.io/api/news?id=8f621558b61102a48e8c285c181fa3664698730dc9ad55bb696a893b9fcd3e20",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
       {
         "headline": "What Sparked the $43B Jump in AbbVie's Market Cap in the Past Week?",
         "url": "https://finnhub.io/api/news?id=3ab4dfd96abdfe37327fb0d9480fd0a8290b9f1d3cbfe26e38b29b5d96d5f202",
@@ -231,15 +243,15 @@
         "url": "https://finnhub.io/api/news?id=11cf5f2b6926e5e69118757b5a755b4555288298b79c7ad185155a93a75735e9",
         "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
         "detected_at": "2026-06-26T01:00:33.178411+00:00"
-      },
-      {
-        "headline": "3 Under-the-Radar Biotech Takeover Targets for the Next Pharma Buying Spree",
-        "url": "https://finnhub.io/api/news?id=0d1961ad9d71d6b4eff1b068ae2c5f9759a78f397cdb9774d6ea8f743fab0316",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-06-25T21:02:04.627221+00:00"
       }
     ],
     "V": [
+      {
+        "headline": "Can Affirm Benefit From Its Bed Bath & Beyond Partnership?",
+        "url": "https://finnhub.io/api/news?id=b7417477efb12108b553cb0e069d06347fe07cee769914263c85f6ebaf6f0518",
+        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
       {
         "headline": "Can Visa's New Travel Play Become Its Next Growth Driver?",
         "url": "https://finnhub.io/api/news?id=e325071125fd6b14ef6c617be473f84ffee71dbcc47e41070be11af356a31d34",
@@ -294,7 +306,29 @@
         "headline": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
         "url": "https://finnhub.io/api/news?id=c2c2f3db11a6e42dcfe292d8509b65a146aacab5ca3e073fbc41b79657e19457",
         "condition": "Single-tenant risk — ผู้เช่า default/ไม่ต่อสัญญา = อาคารนั้นรายได้เป็นศูนย์ทันที (ต่างจาก multi-tenant)",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
+      {
+        "headline": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
+        "url": "https://finnhub.io/api/news?id=c2c2f3db11a6e42dcfe292d8509b65a146aacab5ca3e073fbc41b79657e19457",
+        "condition": "Single-tenant risk — ผู้เช่า default/ไม่ต่อสัญญา = อาคารนั้นรายได้เป็นศูนย์ทันที (ต่างจาก multi-tenant)",
         "detected_at": "2026-07-02T14:29:54.010719+00:00"
+      }
+    ],
+    "ANET": [
+      {
+        "headline": "Zacks Investment Ideas feature highlights: JPMorgan, Sandisk, Micron Technology, Nvidia, Broadcom, AMD, Taiwan Semiconductor, Arista Networks, Meta Platforms and Microsoft",
+        "url": "https://finnhub.io/api/news?id=77d9183db4933303e633a265ab470ed955aa2e43b35b57c6e4fb71428006d390",
+        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "TSMC: Even In CapEx Normalization, The Messiah Of Manufacturing Rules",
+        "url": "https://finnhub.io/api/news?id=a538c157d7c54a66f36a45b7f8f4590fbfe2158f3f8866828d348761eb92f2c3",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ]
   }

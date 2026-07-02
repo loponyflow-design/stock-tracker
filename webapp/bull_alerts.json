@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:29:54.010719+00:00",
+  "last_updated": "2026-07-02T19:01:46.480743+00:00",
   "alerts": {
     "PTT": [
       {
@@ -22,6 +22,12 @@
         "headline": "Neurocrine Biosciences Initiates Phase 2 Study of Crinecerfont in Pediatric Patients Under 4 Years Old with Classic Congenital Adrenal Hyperplasia",
         "url": "https://finnhub.io/api/news?id=2a5787bc762a5fe61d3c298d995900c4f0127e0c3aef6ed895f3782ca9a3362f",
         "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      },
+      {
+        "headline": "Neurocrine Biosciences Initiates Phase 2 Study of Crinecerfont in Pediatric Patients Under 4 Years Old with Classic Congenital Adrenal Hyperplasia",
+        "url": "https://finnhub.io/api/news?id=2a5787bc762a5fe61d3c298d995900c4f0127e0c3aef6ed895f3782ca9a3362f",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
         "detected_at": "2026-07-02T14:29:54.010719+00:00"
       }
     ],
@@ -31,6 +37,22 @@
         "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8",
         "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
         "detected_at": "2026-07-02T14:29:54.010719+00:00"
+      }
+    ],
+    "ARCC": [
+      {
+        "headline": "JP Morgan Maintains Overweight on Ares Capital, Lowers Price Target to $18.5",
+        "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "'Fast Money' traders name their 'dividend king' stock picks",
+        "url": "https://finnhub.io/api/news?id=2ce9427158432cdde427e5c1a317db7b4259c04026edee13a246a16d475b03b0",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ]
   }
