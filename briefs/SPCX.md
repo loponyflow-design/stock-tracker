@@ -1,4 +1,4 @@
-# SpaceX (SPCX) — Research Brief
+# SPCX — SpaceX
 *IPO: June 12, 2026 | Price: $135 | First-day close: $161 (+19%) | Valuation: ~$1.77T*
 
 ---

@@ -1,4 +1,4 @@
-# Microsoft Corporation (NASDAQ: MSFT)
+# MSFT — Microsoft Corporation
 _brief วันที่ 16 มิ.ย. 2026 | source: 10-K FY2025 + Web search (Q3 FY2026 results)_
 
 ---

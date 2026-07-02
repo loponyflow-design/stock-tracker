@@ -3,18 +3,13 @@ import os, re, json, requests, feedparser
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import quote
+from tickers import TH_TICKERS, us_tickers
 
 FINNHUB_KEY = os.environ["FINNHUB_KEY"]
 TG_TOKEN    = os.environ["TG_TOKEN"]
 TG_CHAT     = int(os.environ["TG_CHAT"])
 
-US_TICKERS = ["AAPL", "ABBV", "ARM", "BRK.B", "COST", "CVX", "GOOGL", "HEI.A", "JNJ", "KO",
-              "MSFT", "NVDA", "O", "PG", "SPCX", "TSLA", "V"]
-TH_TICKERS = [
-    {"ticker": "PTT",   "name": "PTT"},
-    {"ticker": "KBANK", "name": "KBank"},
-    {"ticker": "AOT",   "name": "Airports of Thailand"},
-]
+US_TICKERS = [s["ticker"] for s in us_tickers()]
 
 # ── Signal extraction ─────────────────────────────────────────────────────
 

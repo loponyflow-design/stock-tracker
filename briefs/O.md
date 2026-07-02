@@ -1,4 +1,4 @@
-# Realty Income Corporation (NYSE: O)
+# O — Realty Income Corporation
 _brief วันที่ 16 มิ.ย. 2026 | source: 10-K FY2025 + Q1 2026 Earnings Release + Web search_
 
 ---

@@ -764,43 +764,27 @@
     const FINNHUB_KEY = window.FINNHUB_KEY || "";
     const RSS2JSON    = "https://api.rss2json.com/v1/api.json?rss_url=";
 
-    const US_STOCKS = [
-      { ticker: "AAPL",  name: "Apple" },
-      { ticker: "ABBV",  name: "AbbVie" },
-      { ticker: "ARM",   name: "Arm Holdings" },
-      { ticker: "BRK.B", name: "Berkshire Hathaway" },
-      { ticker: "COST",  name: "Costco" },
-      { ticker: "CVX",   name: "Chevron" },
-      { ticker: "GOOGL", name: "Alphabet" },
-      { ticker: "HEI.A", name: "HEICO (Class A)" },
-      { ticker: "JNJ",   name: "Johnson & Johnson" },
-      { ticker: "KO",    name: "Coca-Cola" },
-      { ticker: "MSFT",  name: "Microsoft" },
-      { ticker: "NVDA",  name: "NVIDIA" },
-      { ticker: "O",     name: "Realty Income" },
-      { ticker: "PG",    name: "Procter & Gamble" },
-      { ticker: "SPCX",  name: "SPCX ETF" },
-      { ticker: "TSLA",  name: "Tesla" },
-      { ticker: "V",     name: "Visa" },
-    ];
+    // Populated by loadStockList() from stocks.json (generated from briefs/*.md
+    // at deploy time — see scripts/gen_stocks_json.py) so a new brief shows up
+    // here without hand-editing this file.
+    let US_STOCKS  = [];
+    let TH_STOCKS  = [];
+    let HAS_BRIEF  = new Set();
+    let THAI_SET   = new Set();
+    let ALL_STOCKS = [];
 
-    const TH_STOCKS = [
-      { ticker: "PTT",   name: "PTT",                  symbol: "PTT.BK" },
-      { ticker: "KBANK", name: "KBank",                symbol: "KBANK.BK" },
-      { ticker: "AOT",   name: "Airports of Thailand", symbol: "AOT.BK" },
-    ];
-
-    const HAS_BRIEF = new Set([
-      "AAPL","ABBV","ARM","BRK.B","COST","CVX","GOOGL","HEI.A","JNJ","KO",
-      "MSFT","NVDA","O","PG","SPCX","TSLA","V",
-      "PTT","KBANK","AOT",
-    ]);
-
-    const THAI_SET = new Set(TH_STOCKS.map(s => s.ticker));
-    const ALL_STOCKS = [
-      ...US_STOCKS.map(s => ({ ...s, thai: false })),
-      ...TH_STOCKS.map(s => ({ ...s, thai: true })),
-    ];
+    async function loadStockList() {
+      const res = await fetch("./stocks.json");
+      const data = await res.json();
+      US_STOCKS = data.us;
+      TH_STOCKS = data.th;
+      HAS_BRIEF = new Set([...US_STOCKS, ...TH_STOCKS].map(s => s.ticker));
+      THAI_SET  = new Set(TH_STOCKS.map(s => s.ticker));
+      ALL_STOCKS = [
+        ...US_STOCKS.map(s => ({ ...s, thai: false })),
+        ...TH_STOCKS.map(s => ({ ...s, thai: true })),
+      ];
+    }
 
     /* ─────────────────────────────────────────────────
        SIDEBAR TOGGLE (mobile)
@@ -1290,24 +1274,26 @@
     ───────────────────────────────────────────────── */
     const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh every 15 min
 
-    buildBriefTree();
-    buildCards();
+    loadStockList().then(() => {
+      buildBriefTree();
+      buildCards();
 
-    // First load: fetch data, then overlay alerts (bear on top, bull below)
-    refreshData().then(() =>
-      loadBearAlerts()
-        .then(applyBearAlerts)
-        .then(() => loadBullAlerts().then(applyBullAlerts))
-    );
+      // First load: fetch data, then overlay alerts (bear on top, bull below)
+      refreshData().then(() =>
+        loadBearAlerts()
+          .then(applyBearAlerts)
+          .then(() => loadBullAlerts().then(applyBullAlerts))
+      );
 
-    // Periodic refresh — skip while tab is hidden to save API quota
-    setInterval(() => {
-      if (!document.hidden) refreshData();
-    }, REFRESH_MS);
+      // Periodic refresh — skip while tab is hidden to save API quota
+      setInterval(() => {
+        if (!document.hidden) refreshData();
+      }, REFRESH_MS);
 
-    // Returning to a stale tab → refresh immediately
-    document.addEventListener("visibilitychange", () => {
-      if (!document.hidden && Date.now() - lastRefresh > REFRESH_MS) refreshData();
+      // Returning to a stale tab → refresh immediately
+      document.addEventListener("visibilitychange", () => {
+        if (!document.hidden && Date.now() - lastRefresh > REFRESH_MS) refreshData();
+      });
     });
   </script>
 </body>
