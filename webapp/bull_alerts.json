@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T01:00:41.178274+00:00",
+  "last_updated": "2026-07-06T20:58:43.181845+00:00",
   "alerts": {
     "PTT": [
       {
@@ -98,6 +98,12 @@
       }
     ],
     "AVGO": [
+      {
+        "headline": "Why Broadcom (AVGO) Stock Is Trading Up Today",
+        "url": "https://finnhub.io/api/news?id=c3845a2596e0dee85820d7bbed0dd6d3f4bf7583ff44234e9c54420a4f3ee5f2",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-06T20:58:43.181845+00:00"
+      },
       {
         "headline": "Why Broadcom Inc.’s (AVGO) Custom AI Silicon Growth Still Supports Its Estimate Story",
         "url": "https://finnhub.io/api/news?id=b630133cb5c2e47c2a7b0b1c1891d87794fb27a93224e0f65c7d96b4f4d71ae8",
