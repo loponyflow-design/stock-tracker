@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-05T01:00:39.336349+00:00",
+  "last_updated": "2026-07-06T01:00:41.178274+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-06T01:00:41.178274+00:00"
+      },
       {
         "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-03T18:47:21.804290+00:00"
-      },
-      {
-        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-03T01:00:35.586249+00:00"
       }
     ],
     "PG": [
@@ -45,12 +45,6 @@
         "url": "https://finnhub.io/api/news?id=ea7b9047eb88e7891e8374ea9865bb7a95d043ad6d4d30b00ad4e3b10a7c48ee",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-07-04T17:42:55.881614+00:00"
-      },
-      {
-        "headline": "These Household Names Are Dividend Kings. They’re Rock-Solid For Income.",
-        "url": "https://finnhub.io/api/news?id=20d327bd408e5fc6c28ca16c526eee128e5357eaeec3acc60fdd761316d0eed8",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-06-29T01:00:30.244691+00:00"
       }
     ],
     "NBIX": [
@@ -104,6 +98,12 @@
       }
     ],
     "AVGO": [
+      {
+        "headline": "Why Broadcom Inc.’s (AVGO) Custom AI Silicon Growth Still Supports Its Estimate Story",
+        "url": "https://finnhub.io/api/news?id=b630133cb5c2e47c2a7b0b1c1891d87794fb27a93224e0f65c7d96b4f4d71ae8",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-06T01:00:41.178274+00:00"
+      },
       {
         "headline": "Broadcom (AVGO) Backs DriveNets Tomahawk 6 Push For Open Ethernet AI Data Centers",
         "url": "https://finnhub.io/api/news?id=44ca53a970511af40799e413f6b04b04efcc55c89b363c4a6a39e49dbdf5a6bc",
