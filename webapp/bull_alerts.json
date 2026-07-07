@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T20:58:43.181845+00:00",
+  "last_updated": "2026-07-07T01:00:43.223454+00:00",
   "alerts": {
     "PTT": [
       {
@@ -135,6 +135,14 @@
         "url": "https://finnhub.io/api/news?id=fc30041efd0a46c38f89276e09b66d49ff0775ee775c8d3ff1ad13157542b188",
         "condition": "Membership fee = รายได้ recurring คาดเดาได้แม่น (renewal 92%+) — ตรงสไตล์ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ เข้าใจลูกค้า เลี่ยง macro\" อย่างยิ่ง (ทน recession)",
         "detected_at": "2026-07-04T17:42:55.881614+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Visa: How Visa Is Turning Disruption Into Opportunity",
+        "url": "https://finnhub.io/api/news?id=c0523f1b2da0c22e8c678528668049ef82eae09751b28d1a3941abcf9ba74929",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-07-07T01:00:43.223454+00:00"
       }
     ]
   }
