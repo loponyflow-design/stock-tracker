@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:31:50.400960+00:00",
+  "last_updated": "2026-07-08T01:00:51.513819+00:00",
   "alerts": {
     "PTT": [
       {
@@ -74,6 +74,12 @@
         "headline": "Ares Capital: The Market Is Wrong Here (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-08T01:00:51.513819+00:00"
+      },
+      {
+        "headline": "Ares Capital: The Market Is Wrong Here (Rating Upgrade)",
+        "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
       },
       {
@@ -108,6 +114,12 @@
         "headline": "DeepSeek Reportedly Develops AI Chip as Nvidia Shares Drop 2.2%",
         "url": "https://finnhub.io/api/news?id=72662092abc5de3c92497716cfeb622e7e72b0d720559cd008d0096f30a81ad9",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-08T01:00:51.513819+00:00"
+      },
+      {
+        "headline": "DeepSeek Reportedly Develops AI Chip as Nvidia Shares Drop 2.2%",
+        "url": "https://finnhub.io/api/news?id=72662092abc5de3c92497716cfeb622e7e72b0d720559cd008d0096f30a81ad9",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
       },
       {
@@ -127,12 +139,6 @@
         "url": "https://finnhub.io/api/news?id=44ca53a970511af40799e413f6b04b04efcc55c89b363c4a6a39e49dbdf5a6bc",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-04T17:42:55.881614+00:00"
-      },
-      {
-        "headline": "Broadcom (AVGO) Backs DriveNets Tomahawk 6 Push For Open Ethernet AI Data Centers",
-        "url": "https://finnhub.io/api/news?id=44ca53a970511af40799e413f6b04b04efcc55c89b363c4a6a39e49dbdf5a6bc",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-07-04T01:00:35.941321+00:00"
       }
     ],
     "COST": [
