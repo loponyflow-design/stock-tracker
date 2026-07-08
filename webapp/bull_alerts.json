@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-08T01:00:51.513819+00:00",
+  "last_updated": "2026-07-08T18:55:35.470693+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-08T18:55:35.470693+00:00"
+      },
       {
         "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-04T01:00:35.941321+00:00"
-      },
-      {
-        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-03T18:47:21.804290+00:00"
       }
     ],
     "PG": [
@@ -74,6 +74,12 @@
         "headline": "Ares Capital: The Market Is Wrong Here (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-08T18:55:35.470693+00:00"
+      },
+      {
+        "headline": "Ares Capital: The Market Is Wrong Here (Rating Upgrade)",
+        "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-08T01:00:51.513819+00:00"
       },
       {
@@ -93,15 +99,15 @@
         "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-03T01:00:35.586249+00:00"
-      },
-      {
-        "headline": "JP Morgan Maintains Overweight on Ares Capital, Lowers Price Target to $18.5",
-        "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "Why Today’s Dividend Yield May Be The Least Important Number In Your Portfolio",
+        "url": "https://finnhub.io/api/news?id=3338083717c31a886d69c53f654e11ae81121c1abaa95173349cc0339aa4e389",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-07-08T18:55:35.470693+00:00"
+      },
       {
         "headline": "'Fast Money' traders name their 'dividend king' stock picks",
         "url": "https://finnhub.io/api/news?id=2ce9427158432cdde427e5c1a317db7b4259c04026edee13a246a16d475b03b0",
