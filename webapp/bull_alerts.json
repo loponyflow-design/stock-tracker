@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-09T01:00:52.029256+00:00",
+  "last_updated": "2026-07-09T19:13:45.950549+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-05T01:00:39.336349+00:00"
-      },
-      {
-        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-04T17:42:55.881614+00:00"
       }
     ],
     "PG": [
@@ -49,30 +49,22 @@
     ],
     "NBIX": [
       {
+        "headline": "Neurocrine Biosciences (NBIX) Stock Looks Fair On Earnings But Pricey Versus Biotechs",
+        "url": "https://finnhub.io/api/news?id=491880a935d37f4a5fc788362d72cc09d42a25d4b1f57e38f66f001f1d7c2c57",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
+      {
+        "headline": "Neurocrine Biosciences (NBIX) Starts Phase 2 CAH Study In Children Under 4",
+        "url": "https://finnhub.io/api/news?id=bbc6e241013d632e75b478ef97d1b17244c548e60680b9bea16197057a890936",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
+      {
         "headline": "Neurocrine Biosciences (NBIX) Starts Phase 2 CAH Study In Children Under 4",
         "url": "https://finnhub.io/api/news?id=bbc6e241013d632e75b478ef97d1b17244c548e60680b9bea16197057a890936",
         "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
         "detected_at": "2026-07-09T01:00:52.029256+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences Initiates Phase 2 Study of Crinecerfont in Pediatric Patients Under 4 Years Old with Classic Congenital Adrenal Hyperplasia",
-        "url": "https://finnhub.io/api/news?id=2a5787bc762a5fe61d3c298d995900c4f0127e0c3aef6ed895f3782ca9a3362f",
-        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences Initiates Phase 2 Study of Crinecerfont in Pediatric Patients Under 4 Years Old with Classic Congenital Adrenal Hyperplasia",
-        "url": "https://finnhub.io/api/news?id=2a5787bc762a5fe61d3c298d995900c4f0127e0c3aef6ed895f3782ca9a3362f",
-        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
-        "detected_at": "2026-07-02T14:29:54.010719+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "AMD: Market Has Completely Misread The AI CPU Supercycle",
-        "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-07-02T14:29:54.010719+00:00"
       }
     ],
     "ARCC": [
@@ -109,6 +101,12 @@
     ],
     "LOW": [
       {
+        "headline": "5 Dividend Kings to Buy in July with Irristable Value and Yield",
+        "url": "https://finnhub.io/api/news?id=29ef68bd06d5a0f3b53b18305170969b7692d1b31c33525b93970c19cefe160c",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
+      {
         "headline": "Why Today’s Dividend Yield May Be The Least Important Number In Your Portfolio",
         "url": "https://finnhub.io/api/news?id=3338083717c31a886d69c53f654e11ae81121c1abaa95173349cc0339aa4e389",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
@@ -119,15 +117,15 @@
         "url": "https://finnhub.io/api/news?id=3338083717c31a886d69c53f654e11ae81121c1abaa95173349cc0339aa4e389",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-07-08T18:55:35.470693+00:00"
-      },
-      {
-        "headline": "'Fast Money' traders name their 'dividend king' stock picks",
-        "url": "https://finnhub.io/api/news?id=2ce9427158432cdde427e5c1a317db7b4259c04026edee13a246a16d475b03b0",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "My Bold Prediction for This Stock Through 2030",
+        "url": "https://finnhub.io/api/news?id=3618bcf70801ebc13deb2804aca81b991e410606796c54cf97069e7d2650210f",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "DeepSeek Reportedly Develops AI Chip as Nvidia Shares Drop 2.2%",
         "url": "https://finnhub.io/api/news?id=72662092abc5de3c92497716cfeb622e7e72b0d720559cd008d0096f30a81ad9",
@@ -151,12 +149,6 @@
         "url": "https://finnhub.io/api/news?id=b630133cb5c2e47c2a7b0b1c1891d87794fb27a93224e0f65c7d96b4f4d71ae8",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-06T01:00:41.178274+00:00"
-      },
-      {
-        "headline": "Broadcom (AVGO) Backs DriveNets Tomahawk 6 Push For Open Ethernet AI Data Centers",
-        "url": "https://finnhub.io/api/news?id=44ca53a970511af40799e413f6b04b04efcc55c89b363c4a6a39e49dbdf5a6bc",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-07-04T17:42:55.881614+00:00"
       }
     ],
     "COST": [

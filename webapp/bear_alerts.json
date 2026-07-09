@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-09T01:00:52.029256+00:00",
+  "last_updated": "2026-07-09T19:13:45.950549+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "My Bold Prediction for This Stock Through 2030",
+        "url": "https://finnhub.io/api/news?id=3618bcf70801ebc13deb2804aca81b991e410606796c54cf97069e7d2650210f",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
+      {
+        "headline": "UBS Says Apple’s (AAPL) June 2026 Quarter App Store Growth at Approximately 3%",
+        "url": "https://finnhub.io/api/news?id=63615499ec15eb04bed16a45b48c20f891d2c092813e91aa7c5c84640bb29f72",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "Apple (AAPL) Secures Largest Ever US Chip Deal With Broadcom For $30 Billion",
         "url": "https://finnhub.io/api/news?id=1bfc7f99a0f5407b018b7abbbea1ed57d970bdbedc013649f071fd89a934588a",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=f0118fede7a2e20dcf8284193f51ccd70916a15c570d071eb54655a51d5a3d5b",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-07-09T01:00:52.029256+00:00"
-      },
-      {
-        "headline": "Samsung Just Out-Earned Apple and Nvidia, and the Stock Tanked 7%",
-        "url": "https://finnhub.io/api/news?id=c7065959b960837b6e303f9f56cd0ec586e9db6f28e6aa6cd7bd91063963d644",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-07-08T01:00:51.513819+00:00"
-      },
-      {
-        "headline": "Micron Vs. Apple: Why MU Is Still The Better Buy Between These Tech Giants",
-        "url": "https://finnhub.io/api/news?id=847c400d071011f3b81f696139d90343975e82a2b641cac4ed91767748550cda",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-07-07T20:31:50.400960+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk",
+        "url": "https://finnhub.io/api/news?id=489ac25f1981dc51e6a9f33f09669f955854f7036c76f2fabde5f51b899a32c5",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "Elon Musk’s AI jobs prediction gets harsh reality check",
         "url": "https://finnhub.io/api/news?id=d880cb0b602368fa9113b441949ceed9a16e386882164892ccfb8b6692af0f6b",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=202185f92517a03f4d8f5c92db963bbe5a49a4dd08235ef87c4ab30739314063",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-07-06T01:00:41.178274+00:00"
-      },
-      {
-        "headline": "Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
-        "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-07-05T01:00:39.336349+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "กรุงศรี คาด SET บ่าย\"ผันผวน\" ชู SPRC-ADVANC-KBANK เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZDlfNGZBalNKZlBQaWZHVi1yX0NxSklMQlBBRjl5enJHdzB0dVpRWVQ4cnNyTHVjVkRRbWl5LUNacWZrSGIyeVBlVzg3RS1kdFMzUk0tSTZFMlFBejJzRjFQaVkyM0ZfbXVKN0NmWXlxTVlpYTlHSVlRcWkzVXlFOWRxcUt4Sm9vdThMZDhtZ3c0U0phN2xWWlFLcW15ZEowTG9OUkN2dHZ0bEY5UE9BdUd6VXY2QW9iZlIwaXRaMmlNSFhSWURGYXFFU3daXy1MOTdQOHNFZWJPT0pmZ3psTmp5VS1RRE1XWDJDWkVJNTFoRHRTY1c5VVdyV01ZYzRBQUg3TmgyTXBldWlDcHltdEN2MFBXUUVsOV9Od3dTY21fNlRrSFgxeUcxUnE2VGNadkZVSm5iRmJiMy01YWZJaDdVM29ZbUtVa0cwNkFGd3hMUHpQYUE?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-09T01:00:52.029256+00:00"
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       },
       {
         "headline": "กรุงเทพธุรกิจ. . GULF แจงมีสิทธิ ขายหุ้น KBANK ประกาศ ‘ซื้อหุ้นคืน’ . 🟡 GULF ยืนยันสิทธิขายหุ้น KBANK ตามประกาศ \"ซื้อหุ้นคืน\" ระหว่าง 14 พ.ย. 68 - 13 พ.ค. 69 เนื่องจากเป็นการลงทุนระยะยาวไม่ได้ส่งตัวแทนหรือกรรมการ แม้ KBANK ทำหนังสือขอความร่วมมือไม่ให้ขายหุ้นออกมาช่วง - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-09T01:00:52.029256+00:00"
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       },
       {
         "headline": "KSS มอง SET สัปดาห์นี้แกว่งกรอบ 1,530-1,567 จุด ชู BH-MTC-KBANK เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3N1dkREcmNMOFhRYnVyNWU0aXpZUVV2VVEtcVIzMGs0ZjB5cUR2dWZuR2V0VGdHdjYtemc5Rm51aHgya05VWTllYmxhajAxVHBOZHNn?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-09T01:00:52.029256+00:00"
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       },
       {
         "headline": "กรุงศรี คาด SET วันนี้ “ฟื้นตัว” เคาะ KBANK-SCC-MTC เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVGttaE9zZ3ljdmt0X1BYUW15ekFWYmNTb0NLdXlsY3g5VVd0YUl3SGJOWlZrV1g3aW9BNWNZSDhUcGt6OXJiR2Y3Z3BBbTRKRmw4Q1R1NzlRQng0NG9sR24tVXp2c0JhTHRKdmJyaDY5dzJ6R082bHR0MDh4dTNFWGJsNmIxQXFEWEVhV2xuYzRlRDN0Ykd3NEZ0MVdXZnBFWDRpNWxYWHFaYlF6Nml1R28yLVZuX3FTOE1pcW5DQmRFSndfTHpjSVpFc0N2TENEWTY1a2JKRGQxUGQtNmVvNDhVZTFBckZVOHY3SFlDcXQ2SnJ0dzRCVi0xMnhNbDdQYkZOVlB4NHN6cXNiRGhZVk56U19CZm11REs4a2pGV2gzRlJtUEtxNWdNQVd4V3Vkd2ZUb0xiV21pQVMtWjc1ZFhmMVlFRVVfNC1WZQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-09T01:00:52.029256+00:00"
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       },
       {
         "headline": "กรุงศรี คาด SET บ่าย\"ผันผวน\" ชู SPRC-ADVANC-KBANK เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZDlfNGZBalNKZlBQaWZHVi1yX0NxSklMQlBBRjl5enJHdzB0dVpRWVQ4cnNyTHVjVkRRbWl5LUNacWZrSGIyeVBlVzg3RS1kdFMzUk0tSTZFMlFBejJzRjFQaVkyM0ZfbXVKN0NmWXlxTVlpYTlHSVlRcWkzVXlFOWRxcUt4Sm9vdThMZDhtZ3c0U0phN2xWWlFLcW15ZEowTG9OUkN2dHZ0bEY5UE9BdUd6VXY2QW9iZlIwaXRaMmlNSFhSWURGYXFFU3daXy1MOTdQOHNFZWJPT0pmZ3psTmp5VS1RRE1XWDJDWkVJNTFoRHRTY1c5VVdyV01ZYzRBQUg3TmgyTXBldWlDcHltdEN2MFBXUUVsOV9Od3dTY21fNlRrSFgxeUcxUnE2VGNadkZVSm5iRmJiMy01YWZJaDdVM29ZbUtVa0cwNkFGd3hMUHpQYUE?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-08T18:55:35.470693+00:00"
+        "detected_at": "2026-07-09T01:00:52.029256+00:00"
       }
     ],
     "COST": [
@@ -141,18 +141,6 @@
         "url": "https://finnhub.io/api/news?id=4cfa6cb316fb31dbcc6c60b49db48b80587d0e854ad955c1e9f9c51cae161447",
         "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
         "detected_at": "2026-07-05T01:00:39.336349+00:00"
-      },
-      {
-        "headline": "This ‘Dividend’ ETF Pays Just 1.2% | So Why Do Serious Investors Keep Buying It?",
-        "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
-        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
-      },
-      {
-        "headline": "Johnson & Johnson (JNJ): Focused on Cancer and Neuroscience as a Top Dividend Aristocrat Stock to Buy",
-        "url": "https://finnhub.io/api/news?id=48b6dd12bbcdf3f58586b9e818c98462788f5d95b7758754a9fd8447bb2bbf28",
-        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
-        "detected_at": "2026-07-02T14:29:54.010719+00:00"
       }
     ],
     "PG": [
@@ -179,15 +167,15 @@
         "url": "https://finnhub.io/api/news?id=be6447bcda7d31f2c5b806b68395f07fc75ad244d57b7c6f8421912552d1bac7",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-07-08T01:00:51.513819+00:00"
-      },
-      {
-        "headline": "Procter & Gamble: 70 Years Of Dividend Growth, But Little Room For Error",
-        "url": "https://finnhub.io/api/news?id=81e89292f92fe59b54c165ddfc7a212c8278aa822741c8e863bffa7d647a08e6",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "KO": [
+      {
+        "headline": "PepsiCo Q2 Earnings Beat on Volume Gains & International Strength",
+        "url": "https://finnhub.io/api/news?id=8af08cb2ed19b8dfbc0b7c2e8f58cc60fcf89ae952e7184aa47495fa98388f75",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "The Dividend Growth Snowball: How Modest Income Today Can Become Serious Income Later",
         "url": "https://finnhub.io/api/news?id=be6447bcda7d31f2c5b806b68395f07fc75ad244d57b7c6f8421912552d1bac7",
@@ -211,12 +199,6 @@
         "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-07-03T01:00:35.586249+00:00"
-      },
-      {
-        "headline": "This ‘Dividend’ ETF Pays Just 1.2% | So Why Do Serious Investors Keep Buying It?",
-        "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "ABBV": [
@@ -231,12 +213,6 @@
         "url": "https://finnhub.io/api/news?id=840d41f2aa0e747f2602ed1773f4dbb206a469c2fa2c4c15ce0627a85dc8e190",
         "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
         "detected_at": "2026-07-03T18:47:21.804290+00:00"
-      },
-      {
-        "headline": "J&J or AbbVie: Which Stock Deserves a Place in Your Portfolio Now?",
-        "url": "https://finnhub.io/api/news?id=8f621558b61102a48e8c285c181fa3664698730dc9ad55bb696a893b9fcd3e20",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "V": [
@@ -257,12 +233,6 @@
         "url": "https://finnhub.io/api/news?id=c64b9887581d5851e8d61cad9c2ec34e5959310b18feb907e71d4bdce5a3b3f7",
         "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
         "detected_at": "2026-07-04T17:42:55.881614+00:00"
-      },
-      {
-        "headline": "Can Affirm Benefit From Its Bed Bath & Beyond Partnership?",
-        "url": "https://finnhub.io/api/news?id=b7417477efb12108b553cb0e069d06347fe07cee769914263c85f6ebaf6f0518",
-        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "ARM": [
@@ -291,26 +261,6 @@
         "url": "https://finnhub.io/api/news?id=c4c807bb9e40785a079658d67db58816260f90560467b473392a7a5de8390d86",
         "condition": "รายได้ AI กระจุกตัวที่ลูกค้า 6 รายหลัก (hyperscaler) — ถ้าลูกค้ารายใหญ่ 2-3 รายชะลอ capex พร้อมกัน guidance ที่ตั้งไว้สูงมากจะพลาดทันที",
         "detected_at": "2026-07-06T20:58:43.181845+00:00"
-      },
-      {
-        "headline": "Broadcom Inc. (AVGO) Shares Slide Despite Jump in Revenue",
-        "url": "https://finnhub.io/api/news?id=7bc24a4f5b4ebe93dfced5c4d8296341891e96f2be7c03d3a541afb498413d1e",
-        "condition": "รายได้ AI กระจุกตัวที่ลูกค้า 6 รายหลัก (hyperscaler) — ถ้าลูกค้ารายใหญ่ 2-3 รายชะลอ capex พร้อมกัน guidance ที่ตั้งไว้สูงมากจะพลาดทันที",
-        "detected_at": "2026-07-02T14:29:54.010719+00:00"
-      }
-    ],
-    "STAG": [
-      {
-        "headline": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
-        "url": "https://finnhub.io/api/news?id=c2c2f3db11a6e42dcfe292d8509b65a146aacab5ca3e073fbc41b79657e19457",
-        "condition": "Single-tenant risk — ผู้เช่า default/ไม่ต่อสัญญา = อาคารนั้นรายได้เป็นศูนย์ทันที (ต่างจาก multi-tenant)",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
-      },
-      {
-        "headline": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
-        "url": "https://finnhub.io/api/news?id=c2c2f3db11a6e42dcfe292d8509b65a146aacab5ca3e073fbc41b79657e19457",
-        "condition": "Single-tenant risk — ผู้เช่า default/ไม่ต่อสัญญา = อาคารนั้นรายได้เป็นศูนย์ทันที (ต่างจาก multi-tenant)",
-        "detected_at": "2026-07-02T14:29:54.010719+00:00"
       }
     ],
     "ANET": [
@@ -319,15 +269,15 @@
         "url": "https://finnhub.io/api/news?id=77d9183db4933303e633a265ab470ed955aa2e43b35b57c6e4fb71428006d390",
         "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
         "detected_at": "2026-07-03T01:00:35.586249+00:00"
-      },
-      {
-        "headline": "Zacks Investment Ideas feature highlights: JPMorgan, Sandisk, Micron Technology, Nvidia, Broadcom, AMD, Taiwan Semiconductor, Arista Networks, Meta Platforms and Microsoft",
-        "url": "https://finnhub.io/api/news?id=77d9183db4933303e633a265ab470ed955aa2e43b35b57c6e4fb71428006d390",
-        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
+        "url": "https://finnhub.io/api/news?id=008cffac2ae1f625ecde68c0420b951851eb509800a94ada7e2a18696cf52da0",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "TSMC: Even In CapEx Normalization, The Messiah Of Manufacturing Rules",
         "url": "https://finnhub.io/api/news?id=a538c157d7c54a66f36a45b7f8f4590fbfe2158f3f8866828d348761eb92f2c3",
@@ -339,15 +289,15 @@
         "url": "https://finnhub.io/api/news?id=a538c157d7c54a66f36a45b7f8f4590fbfe2158f3f8866828d348761eb92f2c3",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-07-03T01:00:35.586249+00:00"
-      },
-      {
-        "headline": "TSMC: Even In CapEx Normalization, The Messiah Of Manufacturing Rules",
-        "url": "https://finnhub.io/api/news?id=a538c157d7c54a66f36a45b7f8f4590fbfe2158f3f8866828d348761eb92f2c3",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-02T19:01:46.480743+00:00"
       }
     ],
     "NBIX": [
+      {
+        "headline": "Neurocrine Biosciences (NBIX) Could Be 8% Undervalued Following New Phase 2 Study",
+        "url": "https://finnhub.io/api/news?id=91f080123025d48a8a2856d77e54cc5e047f7d4965ce8090a1e16477161e6e5c",
+        "condition": "Pipeline ที่จะมาทดแทนยังอยู่ระยะ Phase 2-3 — ยังไม่มีข้อมูลยืนยันว่าจะสำเร็จ ธุรกิจยาแบบนี้ risk สูงกว่าธุรกิจ consumer/industrial ทั่วไปเพราะผลการทดลองอาจล้มเหลวได้ทุกเมื่อ",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "Neurocrine Biosciences (NBIX) Could Be 8% Undervalued Following New Phase 2 Study",
         "url": "https://finnhub.io/api/news?id=91f080123025d48a8a2856d77e54cc5e047f7d4965ce8090a1e16477161e6e5c",
@@ -371,15 +321,15 @@
         "url": "https://finnhub.io/api/news?id=6e509783eb6568d97ef83a9c656c8a10ba49931f725fefa2411cd0f9dc3e6bba",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-07-06T20:58:43.181845+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences: Why I Am Upholding A Buy Rating After M&A Deal For Soleno",
-        "url": "https://finnhub.io/api/news?id=5384ac16f450f2d32d8a90221045823856233eac8d62addc326790d11a49d71f",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-07-03T18:47:21.804290+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "The Pro-Focused Pivot That Puts Home Depot Stock's Core Engine At Risk",
+        "url": "https://finnhub.io/api/news?id=2120068542d915cb8de834b80db4c252484ec706f942c1d6a54036f47cc2c361",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "The Pro-Focused Pivot That Puts Home Depot Stock's Core Engine At Risk",
         "url": "https://finnhub.io/api/news?id=2120068542d915cb8de834b80db4c252484ec706f942c1d6a54036f47cc2c361",
@@ -403,15 +353,15 @@
         "url": "https://finnhub.io/api/news?id=ccfd85d5348ecaae3c69694021b02a835f3d97fd31d8c126de72d094f8bf4aea",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-07-07T01:00:43.223454+00:00"
-      },
-      {
-        "headline": "Home Depot vs. Lowe's: Which Big Box Home Improvement Giant Is the Better Buy in 2026?",
-        "url": "https://finnhub.io/api/news?id=ccfd85d5348ecaae3c69694021b02a835f3d97fd31d8c126de72d094f8bf4aea",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-07-06T20:58:43.181845+00:00"
       }
     ],
     "NUE": [
+      {
+        "headline": "Can NUE's Strong Balance Sheet Power Bigger Shareholder Returns Ahead?",
+        "url": "https://finnhub.io/api/news?id=02b0165e2d217c1257c869142da99cfa0f569bb5cd37b4429ffad7b9a6cd1dff",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-07-09T19:13:45.950549+00:00"
+      },
       {
         "headline": "Can NUE's Strong Balance Sheet Power Bigger Shareholder Returns Ahead?",
         "url": "https://finnhub.io/api/news?id=02b0165e2d217c1257c869142da99cfa0f569bb5cd37b4429ffad7b9a6cd1dff",
