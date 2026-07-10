@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-09T19:13:45.950549+00:00",
+  "last_updated": "2026-07-10T01:00:44.306205+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-10T01:00:44.306205+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-06T01:00:41.178274+00:00"
-      },
-      {
-        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-05T01:00:39.336349+00:00"
       }
     ],
     "PG": [
@@ -48,6 +48,12 @@
       }
     ],
     "NBIX": [
+      {
+        "headline": "Neurocrine Biosciences (NBIX) Stock Looks Fair On Earnings But Pricey Versus Biotechs",
+        "url": "https://finnhub.io/api/news?id=491880a935d37f4a5fc788362d72cc09d42a25d4b1f57e38f66f001f1d7c2c57",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-07-10T01:00:44.306205+00:00"
+      },
       {
         "headline": "Neurocrine Biosciences (NBIX) Stock Looks Fair On Earnings But Pricey Versus Biotechs",
         "url": "https://finnhub.io/api/news?id=491880a935d37f4a5fc788362d72cc09d42a25d4b1f57e38f66f001f1d7c2c57",
@@ -91,12 +97,6 @@
         "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-03T18:47:21.804290+00:00"
-      },
-      {
-        "headline": "JP Morgan Maintains Overweight on Ares Capital, Lowers Price Target to $18.5",
-        "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-03T01:00:35.586249+00:00"
       }
     ],
     "LOW": [
@@ -121,6 +121,12 @@
     ],
     "AVGO": [
       {
+        "headline": "Broadcom: OpenAI - And Not Apple - Shows The Positioning Versus Nvidia",
+        "url": "https://finnhub.io/api/news?id=efd286f1c76cc8ce172f41cecf438cb1949c7336540da6ac47c8f8e138e0dc5a",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-10T01:00:44.306205+00:00"
+      },
+      {
         "headline": "My Bold Prediction for This Stock Through 2030",
         "url": "https://finnhub.io/api/news?id=3618bcf70801ebc13deb2804aca81b991e410606796c54cf97069e7d2650210f",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
@@ -143,12 +149,6 @@
         "url": "https://finnhub.io/api/news?id=c3845a2596e0dee85820d7bbed0dd6d3f4bf7583ff44234e9c54420a4f3ee5f2",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-06T20:58:43.181845+00:00"
-      },
-      {
-        "headline": "Why Broadcom Inc.’s (AVGO) Custom AI Silicon Growth Still Supports Its Estimate Story",
-        "url": "https://finnhub.io/api/news?id=b630133cb5c2e47c2a7b0b1c1891d87794fb27a93224e0f65c7d96b4f4d71ae8",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-07-06T01:00:41.178274+00:00"
       }
     ],
     "COST": [
