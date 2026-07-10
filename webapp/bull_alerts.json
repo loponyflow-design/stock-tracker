@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-10T01:00:44.306205+00:00",
+  "last_updated": "2026-07-10T19:08:58.172650+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-10T19:08:58.172650+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -25,15 +31,15 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-08T18:55:35.470693+00:00"
-      },
-      {
-        "headline": "PTT ยกให้ PTTEP เด่น คาดน้ำมัน 82-92เหรียญ - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOUTBsT01FcVRfZGdfaGVPN1ZUR09LWUhBbkV4Qm9JbEJiVkR6UkF0Wk9iQjNvVXZVM3Q5NFNISVd5RkJ4bDBYei1BaEZ0UThqV20xZTd4ejViSWJDZU5zcG9pdFRhU2psSHltTHFQYUpTWFlJczExRUJvUDZDckZqUTZIaUpQSEowN3cwcjNsN0hSaTEzTkFIVkJZNk1rZUVTOWlYclBxY3BFNy1qWk5IOHpOR1FrWXFJdndqaHBrNElyTU01WmFCbGpDMGVGby1ZNUtORWhSRHdkZXRGVHI4a1Atc2VNOXlJWWJFZHR2dkZMbWlVVmJKRG0yX2QxbzdQLWR2b2lWeDFWbEtjaWl3ZE9pdnpyc0NnN3JUVF9yeVR6cXAtdTRqX0hzUWhzVENQZzU5WVFWelEyanVkM1BGOVUzWmdKYjVvUVZfQVF4N0stVGVj?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-06T01:00:41.178274+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "1 Mega-Cap Stock on Our Buy List and 2 We Find Risky",
+        "url": "https://finnhub.io/api/news?id=7d0cbcfa70ca162d37e3f2c667a7058ba08d31ec1abb84a336df51daa3b20ca0",
+        "condition": "Brand + Scale Economies — R&D/การตลาดต่อหน่วยถูกกว่าคู่แข่ง, pricing power สม่ำเสมอ, ครองชั้นวาง retailer",
+        "detected_at": "2026-07-10T19:08:58.172650+00:00"
+      },
       {
         "headline": "3 Dividend Kings to Buy in July",
         "url": "https://finnhub.io/api/news?id=ea7b9047eb88e7891e8374ea9865bb7a95d043ad6d4d30b00ad4e3b10a7c48ee",
@@ -48,6 +54,12 @@
       }
     ],
     "NBIX": [
+      {
+        "headline": "Neurocrine Biosciences (NBIX) Stock Looks Fair On Earnings But Pricey Versus Biotechs",
+        "url": "https://finnhub.io/api/news?id=491880a935d37f4a5fc788362d72cc09d42a25d4b1f57e38f66f001f1d7c2c57",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-07-10T19:08:58.172650+00:00"
+      },
       {
         "headline": "Neurocrine Biosciences (NBIX) Stock Looks Fair On Earnings But Pricey Versus Biotechs",
         "url": "https://finnhub.io/api/news?id=491880a935d37f4a5fc788362d72cc09d42a25d4b1f57e38f66f001f1d7c2c57",
@@ -91,12 +103,6 @@
         "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
-      },
-      {
-        "headline": "JP Morgan Maintains Overweight on Ares Capital, Lowers Price Target to $18.5",
-        "url": "https://finnhub.io/api/news?id=29d35207575ab6171ec25cfe66390c16c61c198f93b91fe3a6cc0ca9d1d59991",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-03T18:47:21.804290+00:00"
       }
     ],
     "LOW": [
@@ -121,6 +127,12 @@
     ],
     "AVGO": [
       {
+        "headline": "What Is The Market Really Expecting From AVGO Stock?",
+        "url": "https://finnhub.io/api/news?id=19195047cc03938f2d65bd4b2ab548c3357f14c62651dd6b9e5fb059acebf2a2",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-07-10T19:08:58.172650+00:00"
+      },
+      {
         "headline": "Broadcom: OpenAI - And Not Apple - Shows The Positioning Versus Nvidia",
         "url": "https://finnhub.io/api/news?id=efd286f1c76cc8ce172f41cecf438cb1949c7336540da6ac47c8f8e138e0dc5a",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
@@ -143,12 +155,6 @@
         "url": "https://finnhub.io/api/news?id=72662092abc5de3c92497716cfeb622e7e72b0d720559cd008d0096f30a81ad9",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
-      },
-      {
-        "headline": "Why Broadcom (AVGO) Stock Is Trading Up Today",
-        "url": "https://finnhub.io/api/news?id=c3845a2596e0dee85820d7bbed0dd6d3f4bf7583ff44234e9c54420a4f3ee5f2",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-07-06T20:58:43.181845+00:00"
       }
     ],
     "COST": [
