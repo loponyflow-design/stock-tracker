@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-11T16:38:18.863544+00:00",
+  "last_updated": "2026-07-12T01:02:23.533478+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-12T01:02:23.533478+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-10T01:00:44.306205+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       }
     ],
     "PG": [
@@ -39,18 +39,6 @@
         "url": "https://finnhub.io/api/news?id=7d0cbcfa70ca162d37e3f2c667a7058ba08d31ec1abb84a336df51daa3b20ca0",
         "condition": "Brand + Scale Economies — R&D/การตลาดต่อหน่วยถูกกว่าคู่แข่ง, pricing power สม่ำเสมอ, ครองชั้นวาง retailer",
         "detected_at": "2026-07-10T19:08:58.172650+00:00"
-      },
-      {
-        "headline": "3 Dividend Kings to Buy in July",
-        "url": "https://finnhub.io/api/news?id=ea7b9047eb88e7891e8374ea9865bb7a95d043ad6d4d30b00ad4e3b10a7c48ee",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-05T01:00:39.336349+00:00"
-      },
-      {
-        "headline": "3 Dividend Kings to Buy in July",
-        "url": "https://finnhub.io/api/news?id=ea7b9047eb88e7891e8374ea9865bb7a95d043ad6d4d30b00ad4e3b10a7c48ee",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-04T17:42:55.881614+00:00"
       }
     ],
     "NBIX": [
@@ -86,6 +74,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (July 2026)",
+        "url": "https://finnhub.io/api/news?id=7619521132f4e9535f0ddd8a08b079e998755e9a131bb77938d463928ac1aac2",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-12T01:02:23.533478+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (July 2026)",
         "url": "https://finnhub.io/api/news?id=7619521132f4e9535f0ddd8a08b079e998755e9a131bb77938d463928ac1aac2",
@@ -161,20 +155,6 @@
         "url": "https://finnhub.io/api/news?id=72662092abc5de3c92497716cfeb622e7e72b0d720559cd008d0096f30a81ad9",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
-      }
-    ],
-    "COST": [
-      {
-        "headline": "How Executive Membership Momentum And New Partnerships At Costco (COST) Has Changed Its Investment Story",
-        "url": "https://finnhub.io/api/news?id=fc30041efd0a46c38f89276e09b66d49ff0775ee775c8d3ff1ad13157542b188",
-        "condition": "Membership fee = รายได้ recurring คาดเดาได้แม่น (renewal 92%+) — ตรงสไตล์ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ เข้าใจลูกค้า เลี่ยง macro\" อย่างยิ่ง (ทน recession)",
-        "detected_at": "2026-07-05T01:00:39.336349+00:00"
-      },
-      {
-        "headline": "How Executive Membership Momentum And New Partnerships At Costco (COST) Has Changed Its Investment Story",
-        "url": "https://finnhub.io/api/news?id=fc30041efd0a46c38f89276e09b66d49ff0775ee775c8d3ff1ad13157542b188",
-        "condition": "Membership fee = รายได้ recurring คาดเดาได้แม่น (renewal 92%+) — ตรงสไตล์ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ เข้าใจลูกค้า เลี่ยง macro\" อย่างยิ่ง (ทน recession)",
-        "detected_at": "2026-07-04T17:42:55.881614+00:00"
       }
     ],
     "V": [
