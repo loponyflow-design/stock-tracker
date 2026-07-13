@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-12T01:02:23.533478+00:00",
+  "last_updated": "2026-07-13T01:03:39.022124+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้น PTTEP-PTT บวก 3.65% พุ่งรับราคาน้ำมันดิบดีดแรง โบรกคาดสงครามอาจยืด 2-3 สัปดาห์ - bangkokbiznews",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TdVlnWjY5MVd3R1ZNaC1xNVlfVEZLenI4ZzBuZGZqVGlUbzNlbFc1Y2dnSFpwUkVmWXFUYUJ5Sm9hekZHVl9OTXhjcThQU0o3ZDBybThsQ3I5b1BzZmtlXzBB?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-13T01:03:39.022124+00:00"
+      },
+      {
+        "headline": "น้ำมันดิบ–ก๊าซธรรมชาติพุ่ง รับสหรัฐฯ–อิหร่านตึงเครียด พายุฤดูหนาวสหรัฐฯ กระทบอุปทานพลังงาน หนุนหุ้นต้นน้ำ PTT–PTTEP–BANPU เด่น - wealthythai.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrbFpaTGNiV2Y5RlF3ZlowZU5wcFRIb29vUFJTM2dYcUVYcC1oeDN6VTI5VWlfb2VZdFhQMDhuQndQaktsTFhjLVhtTF9IaEYxVE5qaG9MZjZPU1B1NUhvSEZ4WGRtUlNlRzBSamtn?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-13T01:03:39.022124+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -19,18 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-11T01:00:44.811846+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-10T19:08:58.172650+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-10T01:00:44.306205+00:00"
       }
     ],
     "PG": [
