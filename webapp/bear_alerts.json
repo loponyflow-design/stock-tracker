@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-14T01:00:47.040081+00:00",
+  "last_updated": "2026-07-14T17:49:20.617480+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple (AAPL) Plans At Least 5 New iPhone Models Through Early 2027",
+        "url": "https://finnhub.io/api/news?id=9a02fe33af2eb10e9ae6735f0825ca378fbc619d0100b060f96f3f288d2875d7",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
       {
         "headline": "Apple: AI Toll Booth Myth",
         "url": "https://finnhub.io/api/news?id=7b8fb7f5213563326c25c2d36324114fce8021c38879f0f19483e316aff30e0a",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=1fb793d9e0f2dde6ed19d182678726222dd039aecb06006da47b4c0a7fee108a",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-07-10T01:00:44.306205+00:00"
-      },
-      {
-        "headline": "My Bold Prediction for This Stock Through 2030",
-        "url": "https://finnhub.io/api/news?id=3618bcf70801ebc13deb2804aca81b991e410606796c54cf97069e7d2650210f",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-07-09T19:13:45.950549+00:00"
       }
     ],
     "TSLA": [
@@ -70,34 +70,40 @@
         "headline": "กรุงศรี คาด SET บ่าย\"ผันผวน\" ชู SPRC-ADVANC-KBANK เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZDlfNGZBalNKZlBQaWZHVi1yX0NxSklMQlBBRjl5enJHdzB0dVpRWVQ4cnNyTHVjVkRRbWl5LUNacWZrSGIyeVBlVzg3RS1kdFMzUk0tSTZFMlFBejJzRjFQaVkyM0ZfbXVKN0NmWXlxTVlpYTlHSVlRcWkzVXlFOWRxcUt4Sm9vdThMZDhtZ3c0U0phN2xWWlFLcW15ZEowTG9OUkN2dHZ0bEY5UE9BdUd6VXY2QW9iZlIwaXRaMmlNSFhSWURGYXFFU3daXy1MOTdQOHNFZWJPT0pmZ3psTmp5VS1RRE1XWDJDWkVJNTFoRHRTY1c5VVdyV01ZYzRBQUg3TmgyTXBldWlDcHltdEN2MFBXUUVsOV9Od3dTY21fNlRrSFgxeUcxUnE2VGNadkZVSm5iRmJiMy01YWZJaDdVM29ZbUtVa0cwNkFGd3hMUHpQYUE?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       },
       {
         "headline": "กรุงเทพธุรกิจ. . GULF แจงมีสิทธิ ขายหุ้น KBANK ประกาศ ‘ซื้อหุ้นคืน’ . 🟡 GULF ยืนยันสิทธิขายหุ้น KBANK ตามประกาศ \"ซื้อหุ้นคืน\" ระหว่าง 14 พ.ย. 68 - 13 พ.ค. 69 เนื่องจากเป็นการลงทุนระยะยาวไม่ได้ส่งตัวแทนหรือกรรมการ แม้ KBANK ทำหนังสือขอความร่วมมือไม่ให้ขายหุ้นออกมาช่วง - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       },
       {
         "headline": "ลุ้นรีบาวด์! SET เด้งกลับ 1,560 จุด จับตา กนง.คงดอกเบี้ย ชู KBANK-TIDLOR เด่น - posttoday",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vRDlBbWtRTzMwMEFFbHd0VFNZYlotd1E2dEEwQ05HT19oSmZXOVBTTm12djQyakdVZlpOeTUyT0ZvY05kRVJZaDItd1hGMEZkdkRtTnlIU3JCenNkWXQ2SHlDQQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       },
       {
         "headline": "KSS มอง SET สัปดาห์นี้ Sideways Up จับตา PMI-กนง.-ส่งออกไทย ชู BH-GULF-KBANK หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GZkRkTmRORlBjd2x4dEE1TUFGakZ0cmsxYVpUY3VpbmxWSGd6NUVacE1qVHlDTV9jWndWRWliRzJ5NU4tU3dsRTU1Yw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       },
       {
         "headline": "กรุงศรี คาด SET บ่าย\"ผันผวน\" ชู SPRC-ADVANC-KBANK เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZDlfNGZBalNKZlBQaWZHVi1yX0NxSklMQlBBRjl5enJHdzB0dVpRWVQ4cnNyTHVjVkRRbWl5LUNacWZrSGIyeVBlVzg3RS1kdFMzUk0tSTZFMlFBejJzRjFQaVkyM0ZfbXVKN0NmWXlxTVlpYTlHSVlRcWkzVXlFOWRxcUt4Sm9vdThMZDhtZ3c0U0phN2xWWlFLcW15ZEowTG9OUkN2dHZ0bEY5UE9BdUd6VXY2QW9iZlIwaXRaMmlNSFhSWURGYXFFU3daXy1MOTdQOHNFZWJPT0pmZ3psTmp5VS1RRE1XWDJDWkVJNTFoRHRTY1c5VVdyV01ZYzRBQUg3TmgyTXBldWlDcHltdEN2MFBXUUVsOV9Od3dTY21fNlRrSFgxeUcxUnE2VGNadkZVSm5iRmJiMy01YWZJaDdVM29ZbUtVa0cwNkFGd3hMUHpQYUE?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-13T19:03:31.636614+00:00"
+        "detected_at": "2026-07-14T01:00:47.040081+00:00"
       }
     ],
     "COST": [
+      {
+        "headline": "How Costco Cracked Japan’s Impossible Market",
+        "url": "https://finnhub.io/api/news?id=4734cc0ecdd21d8d339547f0e4fbde8471884dc6f6ad9602e17984163703f95c",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
       {
         "headline": "Costco (COST) Faces Protein Powder Heavy Metals Lawsuit And A Test Of Trust",
         "url": "https://finnhub.io/api/news?id=380044d13b40325e1e7260730e4f759dac3d0517dbf6a5af885d5b84caab8c5a",
@@ -121,15 +127,15 @@
         "url": "https://finnhub.io/api/news?id=11d2f47648005a5ab65df28081f2f3988f959a815fbf320cd440b167b402934d",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-07-09T01:00:52.029256+00:00"
-      },
-      {
-        "headline": "Price Prediction: Can Costco Stock Double by 2032?",
-        "url": "https://finnhub.io/api/news?id=5162253dd0312206317b2154ceaf82866f5aa9ca11db2b298905dc7790acd2e4",
-        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-07-08T18:55:35.470693+00:00"
       }
     ],
     "JNJ": [
+      {
+        "headline": "Johnson & Johnson (JNJ) Stock May Be Reasonable After Talc Verdict Ruling",
+        "url": "https://finnhub.io/api/news?id=bfd8f460c4d367b16145d1b4ffd79af32bdd28c9d051cfdbb4030e02693a8e59",
+        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
       {
         "headline": "The Dividend Growth Approach That Builds Bigger Paychecks Every Single Year",
         "url": "https://finnhub.io/api/news?id=907e2e24801890e310d3f807ab81b4d98bbe1b8da7227d4e168237c53a893e67",
@@ -235,6 +241,18 @@
     ],
     "TSM": [
       {
+        "headline": "TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet",
+        "url": "https://finnhub.io/api/news?id=d2e96db114db1d58669e52f518db1c250903a89ed9a1160e5cee1cf6d789398f",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
+      {
+        "headline": "Taiwan Semiconductor: Q2 Earnings Could Be Another Step Toward $500",
+        "url": "https://finnhub.io/api/news?id=bf83d26262f61ca4b2ba26c53319d46ec8d8951a2bc5e332d2bb5be216599ad9",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
+      {
         "headline": "TSMC Could Swing $150 Billion as Options Market Prices Big Moves for This Week’s Earnings",
         "url": "https://finnhub.io/api/news?id=fe2cc42d718bb0ede68b078e17a8e90e9c2cdfed4ed647b4dee06d264e76c81d",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -251,18 +269,6 @@
         "url": "https://finnhub.io/api/news?id=79032fd758c4ad2036776a50af5d0a4f4cc098b38b90572603ffdf95d9256e45",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-07-11T16:38:18.863544+00:00"
-      },
-      {
-        "headline": "Ken Griffin Warns Losing TSMC Chips Could Trigger a 'Great Depression:' They're in 'Every High-End Product'",
-        "url": "https://finnhub.io/api/news?id=79032fd758c4ad2036776a50af5d0a4f4cc098b38b90572603ffdf95d9256e45",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-11T01:00:44.811846+00:00"
-      },
-      {
-        "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
-        "url": "https://finnhub.io/api/news?id=008cffac2ae1f625ecde68c0420b951851eb509800a94ada7e2a18696cf52da0",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-10T01:00:44.306205+00:00"
       }
     ],
     "NBIX": [
@@ -290,6 +296,12 @@
         "headline": "How Lowe's Stock Is Compounding Value Without The Sales Boom",
         "url": "https://finnhub.io/api/news?id=d40075442e0b39994afaad75dfc729b88e9680591ecf93bff7ae2544b887c53d",
         "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
+      {
+        "headline": "How Lowe's Stock Is Compounding Value Without The Sales Boom",
+        "url": "https://finnhub.io/api/news?id=d40075442e0b39994afaad75dfc729b88e9680591ecf93bff7ae2544b887c53d",
+        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
         "detected_at": "2026-07-14T01:00:47.040081+00:00"
       },
       {
@@ -308,12 +320,6 @@
         "headline": "Should You Buy The Home Depot, Inc. (HD)’s Shares?",
         "url": "https://finnhub.io/api/news?id=e3da7af32c99247f1367c9c5a93684a2704177865d2d62b5d7bcd2196c5f63bb",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-07-13T01:03:39.022124+00:00"
-      },
-      {
-        "headline": "Can Lowe's (LOW) AI Pro Push and Phantom Stock Awards Reshape Its Competitive Moat?",
-        "url": "https://finnhub.io/api/news?id=13a59bba8933cb9f089b1c386c2fccd373e71db9c9ff9d509b8ec10d8acfe020",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
         "detected_at": "2026-07-13T01:03:39.022124+00:00"
       }
     ],
@@ -361,6 +367,12 @@
     ],
     "LAMR": [
       {
+        "headline": "3 Blue-Chip REITs To Sell Today",
+        "url": "https://finnhub.io/api/news?id=766f81c96be5fe61d4435ff2c117ca91b9ec7bf15e25d6f610aaca15a06756cc",
+        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
+      {
         "headline": "Here Are Friday’s Best Wall Street Analyst Research Calls: CubeSmart, Digital Realty Trust, Honeywell Aerospace, IBM,  PepsiCo, Seagate, Shopify, Toll Brothers, Twilio, and More",
         "url": "https://finnhub.io/api/news?id=d8e1d589dadf97e6c1b0b02bab5d29285c4b385419a01b94130450473bc149a3",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
@@ -380,6 +392,12 @@
       }
     ],
     "ANET": [
+      {
+        "headline": "What Is The Market Really Expecting From ANET Stock?",
+        "url": "https://finnhub.io/api/news?id=a8c5dbed07d75bcb3797b38bf99b6a608850c041e9dcc2b428107dc6c5d6a0db",
+        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
+        "detected_at": "2026-07-14T17:49:20.617480+00:00"
+      },
       {
         "headline": "Arista Networks (ANET) Could Be 2% Undervalued Following Its AI Switching Push",
         "url": "https://finnhub.io/api/news?id=af2603cc91dd55de72adb15028eb08b224dc109488772fba45adcf9ac16b3df9",
