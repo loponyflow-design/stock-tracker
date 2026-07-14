@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-13T19:03:31.636614+00:00",
+  "last_updated": "2026-07-14T01:00:47.040081+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-12T01:02:23.533478+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-11T16:38:18.863544+00:00"
       }
     ],
     "PG": [
@@ -78,6 +78,12 @@
         "headline": "How To Build A $50,000 Dividend Portfolio In Today's Market",
         "url": "https://finnhub.io/api/news?id=2fc7e2002ab8e39cabb3974c06cad1fde6ceec9d2584a7770aa6b20f081d01e9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+      },
+      {
+        "headline": "How To Build A $50,000 Dividend Portfolio In Today's Market",
+        "url": "https://finnhub.io/api/news?id=2fc7e2002ab8e39cabb3974c06cad1fde6ceec9d2584a7770aa6b20f081d01e9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-13T19:03:31.636614+00:00"
       },
       {
@@ -97,12 +103,6 @@
         "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-08T18:55:35.470693+00:00"
-      },
-      {
-        "headline": "Ares Capital: The Market Is Wrong Here (Rating Upgrade)",
-        "url": "https://finnhub.io/api/news?id=9abdf821622e0e71e5de072ddb4009bd858e297ab2b3bbc46c666bedd3ae9468",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-08T01:00:51.513819+00:00"
       }
     ],
     "LOW": [
@@ -157,15 +157,13 @@
         "detected_at": "2026-07-07T20:31:50.400960+00:00"
       }
     ],
-    "V": [
-      {
-        "headline": "Visa: How Visa Is Turning Disruption Into Opportunity",
-        "url": "https://finnhub.io/api/news?id=c0523f1b2da0c22e8c678528668049ef82eae09751b28d1a3941abcf9ba74929",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-07-07T01:00:43.223454+00:00"
-      }
-    ],
     "JNJ": [
+      {
+        "headline": "Head and Neck Squamous Cell Carcinoma Market is Projected to Boost at a CAGR of 10.5% During the Forecast Period (2026–2036) Due to the Launch of Emerging Novel Immunotherapies | DelveInsight",
+        "url": "https://finnhub.io/api/news?id=39384362546aba63a4bdfcb9862c1f6ebc3805d8f428319157998c59d8b43bb9",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-07-14T01:00:47.040081+00:00"
+      },
       {
         "headline": "Head and Neck Squamous Cell Carcinoma Market is Projected to Boost at a CAGR of 10.5% During the Forecast Period (2026–2036) Due to the Launch of Emerging Novel Immunotherapies | DelveInsight",
         "url": "https://finnhub.io/api/news?id=39384362546aba63a4bdfcb9862c1f6ebc3805d8f428319157998c59d8b43bb9",
