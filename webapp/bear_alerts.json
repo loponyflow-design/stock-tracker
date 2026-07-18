@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T01:00:29.776892+00:00",
+  "last_updated": "2026-07-18T17:37:33.787700+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,12 @@
     ],
     "TSLA": [
       {
+        "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+        "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
+      },
+      {
         "headline": "Kevin O’Leary Says Tesla Stock Doesn’t Just Move With Earnings, It Moves With ‘Elon’s Tweets’ — One Post Swings It 10%. ‘Price You Pay For Growth’",
         "url": "https://finnhub.io/api/news?id=3ccd0433840510a0dcd95e904ab8a3d47b104d0be6fed60f70841aa9f874695a",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=031c7382d398937fbe42178989b6bfa112b47d88b0e2b818bda1f88d946777c6",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-07-16T17:57:20.656539+00:00"
-      },
-      {
-        "headline": "Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors.",
-        "url": "https://finnhub.io/api/news?id=7cba758593890482d4bd860ceed1367af03076c28d47958d78e69d8d03f61f82",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-07-16T01:00:52.605745+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” ชู KBANK-BH-ICHI เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTm94UjlSelptUmZfRXFvdFU3TVRBazAxRXcyRUFrT0kxOEd1OXBTTGpUUXpkcksyVjBjLTFPTFZEeGkzdEVlRk5DLS1vaWdBc1ZYaEx6bDl2cWZtX0c1RFdMZlFQTGM4RTN6MHR5eDQ4R3ZhTVcyeF9rdEVROG90NUtSX0Npa2VGTUozYl83OGU1X0tCRy1ybFFqUzlKZ0x4czJzM1F4dFMtWTlMRE5UdlJZM2NiOGtaQXBBMkxmWWtwYl9PZGpnbUplRDlCUkZndmxnd1laY2h3cGNYSnVOcC1STkZ3NkI3X0xoYUR6LXlveXJxSTYxOUtXUDNDUGFNUkNPb3NPSjZ3bjRDUVg3bEM2RW9maWJfQ3QwRkFkSU1qa3VqYzNGUTN3SE1rTEVuMUFIbWRrRE9GR2tsU0pxWThIcFBmTlRaMDR3c2t3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       },
       {
         "headline": "กรุงเทพธุรกิจ. . GULF แจงมีสิทธิ ขายหุ้น KBANK ประกาศ ‘ซื้อหุ้นคืน’ . 🟡 GULF ยืนยันสิทธิขายหุ้น KBANK ตามประกาศ \"ซื้อหุ้นคืน\" ระหว่าง 14 พ.ย. 68 - 13 พ.ค. 69 เนื่องจากเป็นการลงทุนระยะยาวไม่ได้ส่งตัวแทนหรือกรรมการ แม้ KBANK ทำหนังสือขอความร่วมมือไม่ให้ขายหุ้นออกมาช่วง - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       },
       {
         "headline": "GULF ถือหุ้น KBANK 10% โบรกฯ ชี้บริหารเงินสดเหมาะสม หนุนกำไรระยะสั้น-รับปันผลเพิ่ม ยกเป็น Top Pick ปรับเป้าใหม่ 70 บาท - wealthythai.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SVzN3MTNfYlEwNXpJeVVoYmM4ZFNQNGd5RVMybF9MZl9UcG0zQmZaMGdNVVB5enhGUW04eFdHbFMxODgwTkNQcmg1dGtQcm5Yckltd2ppa25jcFFFU0lSTkJ6WGN2MFZjaGh4OEpB?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       },
       {
         "headline": "ลุ้นรีบาวด์! SET เด้งกลับ 1,560 จุด จับตา กนง.คงดอกเบี้ย ชู KBANK-TIDLOR เด่น - posttoday",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vRDlBbWtRTzMwMEFFbHd0VFNZYlotd1E2dEEwQ05HT19oSmZXOVBTTm12djQyakdVZlpOeTUyT0ZvY05kRVJZaDItd1hGMEZkdkRtTnlIU3JCenNkWXQ2SHlDQQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       },
       {
         "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” ชู KBANK-BH-ICHI เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTm94UjlSelptUmZfRXFvdFU3TVRBazAxRXcyRUFrT0kxOEd1OXBTTGpUUXpkcksyVjBjLTFPTFZEeGkzdEVlRk5DLS1vaWdBc1ZYaEx6bDl2cWZtX0c1RFdMZlFQTGM4RTN6MHR5eDQ4R3ZhTVcyeF9rdEVROG90NUtSX0Npa2VGTUozYl83OGU1X0tCRy1ybFFqUzlKZ0x4czJzM1F4dFMtWTlMRE5UdlJZM2NiOGtaQXBBMkxmWWtwYl9PZGpnbUplRDlCUkZndmxnd1laY2h3cGNYSnVOcC1STkZ3NkI3X0xoYUR6LXlveXJxSTYxOUtXUDNDUGFNUkNPb3NPSjZ3bjRDUVg3bEM2RW9maWJfQ3QwRkFkSU1qa3VqYzNGUTN3SE1rTEVuMUFIbWRrRE9GR2tsU0pxWThIcFBmTlRaMDR3c2t3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-17T17:46:51.527005+00:00"
+        "detected_at": "2026-07-18T01:00:29.776892+00:00"
       }
     ],
     "COST": [
@@ -151,6 +151,12 @@
     ],
     "PG": [
       {
+        "headline": "How P&G’s Latest Dividend Hike Amid Cost Cuts Will Impact Procter & Gamble (PG) Investors",
+        "url": "https://finnhub.io/api/news?id=e69592b3d03cb50046ce0dc78cbddaa77d1bc7387dd3f6f88b6bf0ab679dad8d",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
+      },
+      {
         "headline": "VYM’s $94.6 Billion Portfolio Beats Treasury Yields with Dividend Kings Leading the Way",
         "url": "https://finnhub.io/api/news?id=a2ee62a66c63a946d94c3e6beb499c40b3125181a2923f5fa2fc732d6e9e4955",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
@@ -173,12 +179,6 @@
         "url": "https://finnhub.io/api/news?id=ab8372ecfee687d7abf018b7dce66c686ad6cd08febf8c3946af69c275a4cd45",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-07-16T01:00:52.605745+00:00"
-      },
-      {
-        "headline": "The Dividend Growth Roadmap That Turns $60,000 a Year Into More Than $125,000",
-        "url": "https://finnhub.io/api/news?id=7e019bdbd696e4fd6d39936b0e69a10c9989463cd9926bd77fb582cf144e20c1",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-07-13T19:03:31.636614+00:00"
       }
     ],
     "KO": [
@@ -213,15 +213,15 @@
         "url": "https://finnhub.io/api/news?id=34e1962cb2acadcda5f934f2507a03aac4c195838e8d70833376794157436490",
         "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
         "detected_at": "2026-07-17T01:00:37.006832+00:00"
-      },
-      {
-        "headline": "Arm Holdings (ARM) Gains AI Licensing Momentum, Is The Upside Already Priced In?",
-        "url": "https://finnhub.io/api/news?id=079754c13421fd88a649f4e909de3ebd82622985363ae4b3c0db5566bea46389",
-        "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
-        "detected_at": "2026-07-11T01:00:44.811846+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "TSMC: The Market Is Punishing The Wrong AI Stock",
+        "url": "https://finnhub.io/api/news?id=2c76f6edc8dd9500c9367950a3ee7052e180c7eb85c43aa23c044fcb821f8f8a",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
+      },
       {
         "headline": "President Trump Posts On Truth Social \"... Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars... \"",
         "url": "https://finnhub.io/api/news?id=07c3b74cf05fcc9fc2d761237931a1d6ec6ae6d10c157a33db4d362c1c78cefb",
@@ -245,12 +245,6 @@
         "url": "https://finnhub.io/api/news?id=861175250f84e9042a4030a7e8e9b2497488be7d7120c29f00ef64521f94fae0",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-07-17T17:46:51.527005+00:00"
-      },
-      {
-        "headline": "TSMC Q2: Still One Of The Best AI Stocks To Own",
-        "url": "https://finnhub.io/api/news?id=ce9f5c9d5d9ec1ed6614dcb87ce7a64b212467d455548b7d8bbdeff5787cc27a",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-17T01:00:37.006832+00:00"
       }
     ],
     "LOW": [
@@ -343,18 +337,6 @@
         "url": "https://finnhub.io/api/news?id=766f81c96be5fe61d4435ff2c117ca91b9ec7bf15e25d6f610aaca15a06756cc",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-07-14T17:49:20.617480+00:00"
-      },
-      {
-        "headline": "Here Are Friday’s Best Wall Street Analyst Research Calls: CubeSmart, Digital Realty Trust, Honeywell Aerospace, IBM,  PepsiCo, Seagate, Shopify, Toll Brothers, Twilio, and More",
-        "url": "https://finnhub.io/api/news?id=d8e1d589dadf97e6c1b0b02bab5d29285c4b385419a01b94130450473bc149a3",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-07-11T16:38:18.863544+00:00"
-      },
-      {
-        "headline": "Here Are Friday’s Best Wall Street Analyst Research Calls: CubeSmart, Digital Realty Trust, Honeywell Aerospace, IBM,  PepsiCo, Seagate, Shopify, Toll Brothers, Twilio, and More",
-        "url": "https://finnhub.io/api/news?id=d8e1d589dadf97e6c1b0b02bab5d29285c4b385419a01b94130450473bc149a3",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-07-11T01:00:44.811846+00:00"
       }
     ],
     "ANET": [
@@ -375,12 +357,6 @@
         "url": "https://finnhub.io/api/news?id=af2603cc91dd55de72adb15028eb08b224dc109488772fba45adcf9ac16b3df9",
         "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
         "detected_at": "2026-07-12T01:02:23.533478+00:00"
-      },
-      {
-        "headline": "Arista Networks (ANET) Could Be 2% Undervalued Following Its AI Switching Push",
-        "url": "https://finnhub.io/api/news?id=af2603cc91dd55de72adb15028eb08b224dc109488772fba45adcf9ac16b3df9",
-        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
-        "detected_at": "2026-07-11T16:38:18.863544+00:00"
       }
     ],
     "V": [
@@ -398,6 +374,12 @@
       }
     ],
     "ABBV": [
+      {
+        "headline": "VYM’s $94.6 Billion Portfolio Beats Treasury Yields with Dividend Kings Leading the Way",
+        "url": "https://finnhub.io/api/news?id=a2ee62a66c63a946d94c3e6beb499c40b3125181a2923f5fa2fc732d6e9e4955",
+        "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
+        "detected_at": "2026-07-18T17:37:33.787700+00:00"
+      },
       {
         "headline": "VYM’s $94.6 Billion Portfolio Beats Treasury Yields with Dividend Kings Leading the Way",
         "url": "https://finnhub.io/api/news?id=a2ee62a66c63a946d94c3e6beb499c40b3125181a2923f5fa2fc732d6e9e4955",
