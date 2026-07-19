@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-18T17:37:33.787700+00:00",
+  "last_updated": "2026-07-19T01:00:34.500117+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-19T01:00:34.500117+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOQ2pDejBMaUI3OERjaVF5bU9paDBwbU5rMlBxS21tWm5kam5JVlE1TDFwSkNmZ1MtUUJ3NnJ3NGJRV0dsRloyMjdMMGFnM29wX2R2dWpJWnhLQUwyb25wczRST2h4TEdfSktsY0hFY1k5NkpvNUg5bkFObkgwNFpZbWpMU0ljZ1B3aV9mY252amx0Z0E1ejNjdjN1cVV6YTFaYWhNMVBfaFE0QVlaLVllbGJYV21OeFY1SWxZQ2g2NUY5RTFTZ2tyZEZkdk5KNFl1WE5DdWlJOS1FYThpb19oOU9aamw0cER2VFpZeUk5dGhHUk1zOGFMa2FXX2pxVHptd2FCR0FGSnFVcC0yOHRJdngzQlpMUVRFd1lMWUN5aUtDcnkyVnFYSGJfeFllaVVTV3NQeFBSWGRJN05OM0tFNHhWM3pvTzFueF85cmlNOTNzWVhRd1lJelN2eDZWV0RHYkVwenBvQTlnOTBidEVFV205Mml4M1VvejAtLVB4X3BfbDN5cW12VWtMeVZST1NKSVgxMkJFVERjRE43Y2pYQUEwMVQ1Z3JHMEhJM2NqZUZoMzJJUU5sZERvRDZ4T1B2WW5acEhpOG1QemUtOFdacmxZa3ZQOGlObnc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-19T01:00:34.500117+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
@@ -19,21 +31,15 @@
         "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOQ2pDejBMaUI3OERjaVF5bU9paDBwbU5rMlBxS21tWm5kam5JVlE1TDFwSkNmZ1MtUUJ3NnJ3NGJRV0dsRloyMjdMMGFnM29wX2R2dWpJWnhLQUwyb25wczRST2h4TEdfSktsY0hFY1k5NkpvNUg5bkFObkgwNFpZbWpMU0ljZ1B3aV9mY252amx0Z0E1ejNjdjN1cVV6YTFaYWhNMVBfaFE0QVlaLVllbGJYV21OeFY1SWxZQ2g2NUY5RTFTZ2tyZEZkdk5KNFl1WE5DdWlJOS1FYThpb19oOU9aamw0cER2VFpZeUk5dGhHUk1zOGFMa2FXX2pxVHptd2FCR0FGSnFVcC0yOHRJdngzQlpMUVRFd1lMWUN5aUtDcnkyVnFYSGJfeFllaVVTV3NQeFBSWGRJN05OM0tFNHhWM3pvTzFueF85cmlNOTNzWVhRd1lJelN2eDZWV0RHYkVwenBvQTlnOTBidEVFV205Mml4M1VvejAtLVB4X3BfbDN5cW12VWtMeVZST1NKSVgxMkJFVERjRE43Y2pYQUEwMVQ1Z3JHMEhJM2NqZUZoMzJJUU5sZERvRDZ4T1B2WW5acEhpOG1QemUtOFdacmxZa3ZQOGlObnc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-18T17:37:33.787700+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOQ2pDejBMaUI3OERjaVF5bU9paDBwbU5rMlBxS21tWm5kam5JVlE1TDFwSkNmZ1MtUUJ3NnJ3NGJRV0dsRloyMjdMMGFnM29wX2R2dWpJWnhLQUwyb25wczRST2h4TEdfSktsY0hFY1k5NkpvNUg5bkFObkgwNFpZbWpMU0ljZ1B3aV9mY252amx0Z0E1ejNjdjN1cVV6YTFaYWhNMVBfaFE0QVlaLVllbGJYV21OeFY1SWxZQ2g2NUY5RTFTZ2tyZEZkdk5KNFl1WE5DdWlJOS1FYThpb19oOU9aamw0cER2VFpZeUk5dGhHUk1zOGFMa2FXX2pxVHptd2FCR0FGSnFVcC0yOHRJdngzQlpMUVRFd1lMWUN5aUtDcnkyVnFYSGJfeFllaVVTV3NQeFBSWGRJN05OM0tFNHhWM3pvTzFueF85cmlNOTNzWVhRd1lJelN2eDZWV0RHYkVwenBvQTlnOTBidEVFV205Mml4M1VvejAtLVB4X3BfbDN5cW12VWtMeVZST1NKSVgxMkJFVERjRE43Y2pYQUEwMVQ1Z3JHMEhJM2NqZUZoMzJJUU5sZERvRDZ4T1B2WW5acEhpOG1QemUtOFdacmxZa3ZQOGlObnc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-18T01:00:29.776892+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "3 Dividend Stocks That Have Survived Every Market Crash in July",
+        "url": "https://finnhub.io/api/news?id=b6726c67b6d318f590ea801e8e23e38a41d664def7724f009c1732cc043834e1",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-07-19T01:00:34.500117+00:00"
+      },
       {
         "headline": "3 Dividend Stocks That Have Survived Every Market Crash in July",
         "url": "https://finnhub.io/api/news?id=b6726c67b6d318f590ea801e8e23e38a41d664def7724f009c1732cc043834e1",
@@ -154,6 +160,12 @@
       }
     ],
     "ZETA": [
+      {
+        "headline": "Zeta Global: One Of A Small Number Of AI Stocks Actually Delivering",
+        "url": "https://finnhub.io/api/news?id=b3ce4a0dcbb49e4aebba3593b82c758beedfc856367e47b4d21495ba579dd8ee",
+        "condition": "Growth + operating leverage จริง — revenue +30%, adj EBITDA +44%, FCF +78% — margin ขยายขณะโต; กำลังพลิกเป็นกำไร GAAP ปี 2026",
+        "detected_at": "2026-07-19T01:00:34.500117+00:00"
+      },
       {
         "headline": "Zeta Global: One Of A Small Number Of AI Stocks Actually Delivering",
         "url": "https://finnhub.io/api/news?id=b3ce4a0dcbb49e4aebba3593b82c758beedfc856367e47b4d21495ba579dd8ee",
