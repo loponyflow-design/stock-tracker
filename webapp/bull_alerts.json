@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-20T15:55:18.172998+00:00",
+  "last_updated": "2026-07-21T01:00:35.190411+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-21T01:00:35.190411+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
@@ -23,12 +29,6 @@
       {
         "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-19T01:00:34.500117+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOQ2pDejBMaUI3OERjaVF5bU9paDBwbU5rMlBxS21tWm5kam5JVlE1TDFwSkNmZ1MtUUJ3NnJ3NGJRV0dsRloyMjdMMGFnM29wX2R2dWpJWnhLQUwyb25wczRST2h4TEdfSktsY0hFY1k5NkpvNUg5bkFObkgwNFpZbWpMU0ljZ1B3aV9mY252amx0Z0E1ejNjdjN1cVV6YTFaYWhNMVBfaFE0QVlaLVllbGJYV21OeFY1SWxZQ2g2NUY5RTFTZ2tyZEZkdk5KNFl1WE5DdWlJOS1FYThpb19oOU9aamw0cER2VFpZeUk5dGhHUk1zOGFMa2FXX2pxVHptd2FCR0FGSnFVcC0yOHRJdngzQlpMUVRFd1lMWUN5aUtDcnkyVnFYSGJfeFllaVVTV3NQeFBSWGRJN05OM0tFNHhWM3pvTzFueF85cmlNOTNzWVhRd1lJelN2eDZWV0RHYkVwenBvQTlnOTBidEVFV205Mml4M1VvejAtLVB4X3BfbDN5cW12VWtMeVZST1NKSVgxMkJFVERjRE43Y2pYQUEwMVQ1Z3JHMEhJM2NqZUZoMzJJUU5sZERvRDZ4T1B2WW5acEhpOG1QemUtOFdacmxZa3ZQOGlObnc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-19T01:00:34.500117+00:00"
       }
@@ -103,12 +103,6 @@
         "url": "https://finnhub.io/api/news?id=39384362546aba63a4bdfcb9862c1f6ebc3805d8f428319157998c59d8b43bb9",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-07-14T01:00:47.040081+00:00"
-      },
-      {
-        "headline": "Head and Neck Squamous Cell Carcinoma Market is Projected to Boost at a CAGR of 10.5% During the Forecast Period (2026–2036) Due to the Launch of Emerging Novel Immunotherapies | DelveInsight",
-        "url": "https://finnhub.io/api/news?id=39384362546aba63a4bdfcb9862c1f6ebc3805d8f428319157998c59d8b43bb9",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-07-13T19:03:31.636614+00:00"
       }
     ],
     "KO": [
@@ -179,6 +173,22 @@
         "url": "https://finnhub.io/api/news?id=6dbdaf17d7fce390a6110fe6e0789d2034a06150b630696d58c75d1f60317083",
         "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
         "detected_at": "2026-07-20T02:43:53.416377+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "IndiGo and CFM sign MOU paving the way to a record agreement for 1,000+ LEAP-1A engines",
+        "url": "https://finnhub.io/api/news?id=7fdf9742c826b985d2f269394e812a584da16d10426d60f93a8befeec04a73c6",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-07-21T01:00:35.190411+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Samsung launches first US credit card with Barclays, signals ambitions for deeper financial services push",
+        "url": "https://finnhub.io/api/news?id=9018003ca1c0e3304eadaff2c5d5ecdc94dda53b87fd67d958e3e40bfbe7da8e",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-07-21T01:00:35.190411+00:00"
       }
     ]
   }
