@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T01:00:35.190411+00:00",
+  "last_updated": "2026-07-21T15:48:26.754966+00:00",
   "alerts": {
     "PTT": [
       {
@@ -89,20 +89,6 @@
         "url": "https://finnhub.io/api/news?id=2fc7e2002ab8e39cabb3974c06cad1fde6ceec9d2584a7770aa6b20f081d01e9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-14T17:49:20.617480+00:00"
-      },
-      {
-        "headline": "How To Build A $50,000 Dividend Portfolio In Today's Market",
-        "url": "https://finnhub.io/api/news?id=2fc7e2002ab8e39cabb3974c06cad1fde6ceec9d2584a7770aa6b20f081d01e9",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "Head and Neck Squamous Cell Carcinoma Market is Projected to Boost at a CAGR of 10.5% During the Forecast Period (2026–2036) Due to the Launch of Emerging Novel Immunotherapies | DelveInsight",
-        "url": "https://finnhub.io/api/news?id=39384362546aba63a4bdfcb9862c1f6ebc3805d8f428319157998c59d8b43bb9",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-07-14T01:00:47.040081+00:00"
       }
     ],
     "KO": [
