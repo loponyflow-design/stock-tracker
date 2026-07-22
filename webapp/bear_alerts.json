@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-21T15:48:26.754966+00:00",
+  "last_updated": "2026-07-22T01:00:33.228240+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage — GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+        "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
       {
         "headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus",
         "url": "https://finnhub.io/api/news?id=1753eee489edb9a9db642a22215e47a17f5c3bf0194d2b8d8d1bfc250488ab7a",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=37fbc491a0f4047a312c32d6ef1125030b6cef29c4067117b387349f4578ca1d",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-07-17T01:00:37.006832+00:00"
-      },
-      {
-        "headline": "Why Apple (AAPL) Stock Is Up Today",
-        "url": "https://finnhub.io/api/news?id=0be136a1a173532881eee524a6d79a3353c6da221ed8d635ef4539bded10f584",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-07-16T01:00:52.605745+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Here is how much Bitcoin you actually need to get rich like Warren Buffett or Elon Musk",
+        "url": "https://finnhub.io/api/news?id=c98fcc45109e77153cfff96b85dee6227d43953383aa8dee2ba54e4990a1d5a4",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
       {
         "headline": "Tesla expands robotaxi service to Orlando, Tampa ahead of earnings",
         "url": "https://finnhub.io/api/news?id=ff7128e0321f13324bd7f818a8bdc1d5ad2e531d96c466d11fc13f2e8c80acd0",
@@ -57,15 +63,27 @@
         "url": "https://finnhub.io/api/news?id=e3be8f84fb8ea782b1ade4ef42492bb9af0b51c1e92480a2aa0da55aaf4bcccd",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-07-21T01:00:35.190411+00:00"
-      },
-      {
-        "headline": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
-        "url": "https://finnhub.io/api/news?id=831b833373e0c93e11a95905cac739e92ec8bfbf3be359deb603c820375b7c2e",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-07-21T01:00:35.190411+00:00"
       }
     ],
     "KBANK": [
+      {
+        "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” ชู KBANK-BH-ICHI เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTm94UjlSelptUmZfRXFvdFU3TVRBazAxRXcyRUFrT0kxOEd1OXBTTGpUUXpkcksyVjBjLTFPTFZEeGkzdEVlRk5DLS1vaWdBc1ZYaEx6bDl2cWZtX0c1RFdMZlFQTGM4RTN6MHR5eDQ4R3ZhTVcyeF9rdEVROG90NUtSX0Npa2VGTUozYl83OGU1X0tCRy1ybFFqUzlKZ0x4czJzM1F4dFMtWTlMRE5UdlJZM2NiOGtaQXBBMkxmWWtwYl9PZGpnbUplRDlCUkZndmxnd1laY2h3cGNYSnVOcC1STkZ3NkI3X0xoYUR6LXlveXJxSTYxOUtXUDNDUGFNUkNPb3NPSjZ3bjRDUVg3bEM2RW9maWJfQ3QwRkFkSU1qa3VqYzNGUTN3SE1rTEVuMUFIbWRrRE9GR2tsU0pxWThIcFBmTlRaMDR3c2t3?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
+      {
+        "headline": "กรุงเทพธุรกิจ. . GULF แจงมีสิทธิ ขายหุ้น KBANK ประกาศ ‘ซื้อหุ้นคืน’ . 🟡 GULF ยืนยันสิทธิขายหุ้น KBANK ตามประกาศ \"ซื้อหุ้นคืน\" ระหว่าง 14 พ.ย. 68 - 13 พ.ค. 69 เนื่องจากเป็นการลงทุนระยะยาวไม่ได้ส่งตัวแทนหรือกรรมการ แม้ KBANK ทำหนังสือขอความร่วมมือไม่ให้ขายหุ้นออกมาช่วง - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
+      {
+        "headline": "KSS มอง SET สัปดาห์นี้แกว่งกรอบ 1,530-1,567 จุด ชู BH-MTC-KBANK เด่น - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IdTY0cWZNYWcxRS1oWVJEcmhiT2NndkVIU1MzekYxUGhON1Y4NG9JdWdRNDR0Uk8wOHJmVWkxYWVjaVhBVDlDeEtFSQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
       {
         "headline": "KBANK ราคาหุ้นไปต่อ ลุยซื้อหุ้นคืน-ปันผลจูงใจ 6% - HoonVision - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQU2VjeGp1YjdfZjlibFNKT0NORkI2cU05WEItc0lFWVRCTWQxN01uTFhPRlM0TmRTcGYtdlhlX2lGQWpXNldtWGw1cnlQX0lZUlVKa0hNVEdtMmFNWUIxV0VmUDlhemJQUF9iaUI2STFiRUgwajN4UXV6T2ZrWHg1LThYVFhhYXBnOFh2c216ZnhQUk5hYlR4Mk00TDVXS0xqUmJ4OEJkeUZOMkxNajJINTNQR19BVUR0d1JheFdyNW94ZkJSbWNGTTRBNWdTOVFNNVFfVUdMd0FtNXV6N2prMXRuZUhFN3FHVGpLWTN1Z2QyaWpCVlRtallmY3lkOTdrVFBNQzUxbkptWkRNNXZmRkV3VVRRU3p0TF92YkdDdElsMkJZaUdlTjl0NkpKM2N4MlFlcFlxUHExSFZsdnN0UFBKV3JkT1I3VVFOSmQxYnpnQQ?oc=5",
@@ -77,27 +95,15 @@
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-07-21T15:48:26.754966+00:00"
-      },
-      {
-        "headline": "KSS มอง SET สัปดาห์นี้แกว่งกรอบ 1,530-1,567 จุด ชู BH-MTC-KBANK เด่น - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IdTY0cWZNYWcxRS1oWVJEcmhiT2NndkVIU1MzekYxUGhON1Y4NG9JdWdRNDR0Uk8wOHJmVWkxYWVjaVhBVDlDeEtFSQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-21T15:48:26.754966+00:00"
-      },
-      {
-        "headline": "GULF ถือหุ้น KBANK 10% โบรกฯ ชี้บริหารเงินสดเหมาะสม หนุนกำไรระยะสั้น-รับปันผลเพิ่ม ยกเป็น Top Pick ปรับเป้าใหม่ 70 บาท - wealthythai.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SVzN3MTNfYlEwNXpJeVVoYmM4ZFNQNGd5RVMybF9MZl9UcG0zQmZaMGdNVVB5enhGUW04eFdHbFMxODgwTkNQcmg1dGtQcm5Yckltd2ppa25jcFFFU0lSTkJ6WGN2MFZjaGh4OEpB?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-21T15:48:26.754966+00:00"
-      },
-      {
-        "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” ชู KBANK-BH-ICHI เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTm94UjlSelptUmZfRXFvdFU3TVRBazAxRXcyRUFrT0kxOEd1OXBTTGpUUXpkcksyVjBjLTFPTFZEeGkzdEVlRk5DLS1vaWdBc1ZYaEx6bDl2cWZtX0c1RFdMZlFQTGM4RTN6MHR5eDQ4R3ZhTVcyeF9rdEVROG90NUtSX0Npa2VGTUozYl83OGU1X0tCRy1ybFFqUzlKZ0x4czJzM1F4dFMtWTlMRE5UdlJZM2NiOGtaQXBBMkxmWWtwYl9PZGpnbUplRDlCUkZndmxnd1laY2h3cGNYSnVOcC1STkZ3NkI3X0xoYUR6LXlveXJxSTYxOUtXUDNDUGFNUkNPb3NPSjZ3bjRDUVg3bEM2RW9maWJfQ3QwRkFkSU1qa3VqYzNGUTN3SE1rTEVuMUFIbWRrRE9GR2tsU0pxWThIcFBmTlRaMDR3c2t3?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-07-21T01:00:35.190411+00:00"
       }
     ],
     "COST": [
+      {
+        "headline": "Prediction: Costco Will Join the $1 Trillion Club by 2033",
+        "url": "https://finnhub.io/api/news?id=418079a6b1ed816d68398078201c170c9d01f575e46633c8aec56f836724d654",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-07-22T01:00:33.228240+00:00"
+      },
       {
         "headline": "Costco (COST) Brings Laifen Hair Dryer To Stores In Its Biggest US Retail Push",
         "url": "https://finnhub.io/api/news?id=0e49782af130bcd04fde4294199f08b11e513a5f4556436832fa924d42144f91",
@@ -121,12 +127,6 @@
         "url": "https://finnhub.io/api/news?id=b1cee85fb1f6cda5acab85d25b546a9a870019b12ea13e5500ffe2b0961107ae",
         "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
         "detected_at": "2026-07-21T01:00:35.190411+00:00"
-      },
-      {
-        "headline": "Price Prediction: Will Costco Hit a New-High This Year?",
-        "url": "https://finnhub.io/api/news?id=d642a2f77279199c916dde137219987d90d38e37aedb539169b8caacc8b604f7",
-        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
-        "detected_at": "2026-07-20T15:55:18.172998+00:00"
       }
     ],
     "JNJ": [
@@ -153,12 +153,6 @@
         "url": "https://finnhub.io/api/news?id=895aec057b4e3597ccabce3d9f9e117a9483c72895b973727e2a43ca3def1bf1",
         "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
         "detected_at": "2026-07-16T01:00:52.605745+00:00"
-      },
-      {
-        "headline": "Johnson & Johnson (JNJ) Stock May Be Reasonable After Talc Verdict Ruling",
-        "url": "https://finnhub.io/api/news?id=bfd8f460c4d367b16145d1b4ffd79af32bdd28c9d051cfdbb4030e02693a8e59",
-        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
-        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       }
     ],
     "PG": [
@@ -247,14 +241,6 @@
         "detected_at": "2026-07-21T01:00:35.190411+00:00"
       }
     ],
-    "LOW": [
-      {
-        "headline": "How Lowe's Stock Is Compounding Value Without The Sales Boom",
-        "url": "https://finnhub.io/api/news?id=d40075442e0b39994afaad75dfc729b88e9680591ecf93bff7ae2544b887c53d",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
-        "detected_at": "2026-07-14T17:49:20.617480+00:00"
-      }
-    ],
     "UNH": [
       {
         "headline": "The Real Risk Inside UnitedHealth Stock",
@@ -313,12 +299,6 @@
         "url": "https://finnhub.io/api/news?id=766f81c96be5fe61d4435ff2c117ca91b9ec7bf15e25d6f610aaca15a06756cc",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-07-15T01:00:47.950931+00:00"
-      },
-      {
-        "headline": "3 Blue-Chip REITs To Sell Today",
-        "url": "https://finnhub.io/api/news?id=766f81c96be5fe61d4435ff2c117ca91b9ec7bf15e25d6f610aaca15a06756cc",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       }
     ],
     "ANET": [
@@ -327,12 +307,6 @@
         "url": "https://finnhub.io/api/news?id=a8c5dbed07d75bcb3797b38bf99b6a608850c041e9dcc2b428107dc6c5d6a0db",
         "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
         "detected_at": "2026-07-15T01:00:47.950931+00:00"
-      },
-      {
-        "headline": "What Is The Market Really Expecting From ANET Stock?",
-        "url": "https://finnhub.io/api/news?id=a8c5dbed07d75bcb3797b38bf99b6a608850c041e9dcc2b428107dc6c5d6a0db",
-        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
-        "detected_at": "2026-07-14T17:49:20.617480+00:00"
       }
     ],
     "V": [
