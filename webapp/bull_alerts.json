@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T01:00:33.228240+00:00",
+  "last_updated": "2026-07-22T15:45:09.371003+00:00",
   "alerts": {
     "PTT": [
       {
@@ -51,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=0e21642552311d34882fb5f814c42c06febcec18460d6683c99bc03bacd6cb27",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-07-15T18:00:09.859806+00:00"
-      },
-      {
-        "headline": "Procter & Gamble Just Declared Its 70th Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
-        "url": "https://finnhub.io/api/news?id=0e21642552311d34882fb5f814c42c06febcec18460d6683c99bc03bacd6cb27",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-15T01:00:47.950931+00:00"
       }
     ],
     "ARCC": [
@@ -134,6 +128,12 @@
       }
     ],
     "TSM": [
+      {
+        "headline": "The Nvidia-Led AI Supercycle Is Accelerating — and Taiwan Just Confirmed It",
+        "url": "https://finnhub.io/api/news?id=213801ade155c0d9021a93203f81ba21a100cb479f514efe2eeb7292173b5913",
+        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
+        "detected_at": "2026-07-22T15:45:09.371003+00:00"
+      },
       {
         "headline": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle",
         "url": "https://finnhub.io/api/news?id=6dbdaf17d7fce390a6110fe6e0789d2034a06150b630696d58c75d1f60317083",
