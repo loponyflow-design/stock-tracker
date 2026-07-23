@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-23T01:00:32.536588+00:00",
+  "last_updated": "2026-07-23T15:57:20.213291+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-23T15:57:20.213291+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-23T15:57:20.213291+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -19,18 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-22T01:00:33.228240+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-21T01:00:35.190411+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-20T15:55:18.172998+00:00"
       }
     ],
     "PG": [
@@ -53,12 +53,6 @@
         "url": "https://finnhub.io/api/news?id=62552ae6fc959f9ce2ddeb3b7167fad081a425a7b639cc54ec9cfef2a5993ec8",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-16T17:57:20.656539+00:00"
-      },
-      {
-        "headline": "Ares Capital: Trouble In The Software And Consumer Services Pipeline",
-        "url": "https://finnhub.io/api/news?id=62552ae6fc959f9ce2ddeb3b7167fad081a425a7b639cc54ec9cfef2a5993ec8",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-16T01:00:52.605745+00:00"
       }
     ],
     "LAMR": [
@@ -67,12 +61,6 @@
         "url": "https://finnhub.io/api/news?id=7f3c47328527dba6a02ba6c2617d835fa9e14ebed5ddbd08d7bd88d2642c9fbc",
         "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
         "detected_at": "2026-07-16T17:57:20.656539+00:00"
-      },
-      {
-        "headline": "2 Dividend Stocks Crushing the S&P 500 in 2026 That Still Yield Over 3.5%",
-        "url": "https://finnhub.io/api/news?id=7f3c47328527dba6a02ba6c2617d835fa9e14ebed5ddbd08d7bd88d2642c9fbc",
-        "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
-        "detected_at": "2026-07-16T01:00:52.605745+00:00"
       }
     ],
     "LEN": [
@@ -81,12 +69,6 @@
         "url": "https://finnhub.io/api/news?id=e601218008743106ba95f9a5ec139b8a3888b67d60cd1a209f63ff7e56953376",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-07-16T17:57:20.656539+00:00"
-      },
-      {
-        "headline": "Is Lennar’s (LEN) Urban Townhome Push Quietly Reshaping Its Asset-Light Strategy?",
-        "url": "https://finnhub.io/api/news?id=e601218008743106ba95f9a5ec139b8a3888b67d60cd1a209f63ff7e56953376",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-07-16T01:00:52.605745+00:00"
       }
     ],
     "ZETA": [
@@ -124,6 +106,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "General Electric (GE) Lands Record 1,000 Plus Engine Deal Through CFM And IndiGo",
+        "url": "https://finnhub.io/api/news?id=34ecfd402d60612aad8ba4ac4c819917fe8338b4330ff1e366400cadbe85b6c7",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-07-23T15:57:20.213291+00:00"
+      },
       {
         "headline": "IndiGo and CFM sign MOU paving the way to a record agreement for 1,000+ LEAP-1A engines",
         "url": "https://finnhub.io/api/news?id=7fdf9742c826b985d2f269394e812a584da16d10426d60f93a8befeec04a73c6",
