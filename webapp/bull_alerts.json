@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T01:00:31.007006+00:00",
+  "last_updated": "2026-07-24T15:34:41.781365+00:00",
   "alerts": {
     "PTT": [
       {
@@ -83,6 +83,12 @@
     ],
     "GE": [
       {
+        "headline": "GE Aerospace Wraps Historic Farnborough Airshow",
+        "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-07-24T15:34:41.781365+00:00"
+      },
+      {
         "headline": "General Electric (GE) Lands Record 1,000 Plus Engine Deal Through CFM And IndiGo",
         "url": "https://finnhub.io/api/news?id=34ecfd402d60612aad8ba4ac4c819917fe8338b4330ff1e366400cadbe85b6c7",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
@@ -112,6 +118,18 @@
       }
     ],
     "JNJ": [
+      {
+        "headline": "Legend Biotech: Why I'm Ready To Go Long Again",
+        "url": "https://finnhub.io/api/news?id=9dacf9259e58fd1221029fce5064498f33c276a99b93ce347dbff82166b669fa",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-07-24T15:34:41.781365+00:00"
+      },
+      {
+        "headline": "J&J Finally Has a Rival to da Vinci. 1 Number in Intuitive Surgical’s Last Quarter Says It Won’t Be Enough to Move the Needle for JNJ Stock.",
+        "url": "https://finnhub.io/api/news?id=2b3d8469f528d79fb00654c130f687ab423e66a83b114c1d4335fd3db9a5f390",
+        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
+        "detected_at": "2026-07-24T15:34:41.781365+00:00"
+      },
       {
         "headline": "Correction: Head and Neck Squamous Cell Carcinoma Market is Projected to Boost at a CAGR of 10.5% During the Forecast Period (2026–2036) Due to the Launch of Emerging Novel Immunotherapies | DelveInsight",
         "url": "https://finnhub.io/api/news?id=5ebe2d0d061ee992e8b81faa547161aa156188af914c5d603050ed0d9e91fad7",
