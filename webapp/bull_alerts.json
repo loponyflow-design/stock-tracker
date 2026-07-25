@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T01:00:30.900768+00:00",
+  "last_updated": "2026-07-25T15:08:45.157084+00:00",
   "alerts": {
     "PTT": [
       {
@@ -86,6 +86,12 @@
         "headline": "GE Aerospace Wraps Historic Farnborough Airshow",
         "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-07-25T15:08:45.157084+00:00"
+      },
+      {
+        "headline": "GE Aerospace Wraps Historic Farnborough Airshow",
+        "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-07-25T01:00:30.900768+00:00"
       },
       {
@@ -144,6 +150,12 @@
       }
     ],
     "DHI": [
+      {
+        "headline": "Is PHM Stock Attractive After Its Q2 Earnings Beat and Margin Slide?",
+        "url": "https://finnhub.io/api/news?id=0e9894d525ea813f7fd6153e58aa10a3f3e29c8b15be833725da7e230bfea47a",
+        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
+        "detected_at": "2026-07-25T15:08:45.157084+00:00"
+      },
       {
         "headline": "Is PHM Stock Attractive After Its Q2 Earnings Beat and Margin Slide?",
         "url": "https://finnhub.io/api/news?id=0e9894d525ea813f7fd6153e58aa10a3f3e29c8b15be833725da7e230bfea47a",
