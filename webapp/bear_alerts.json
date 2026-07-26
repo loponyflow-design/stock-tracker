@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-25T15:08:45.157084+00:00",
+  "last_updated": "2026-07-26T01:00:33.522293+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
+        "url": "https://finnhub.io/api/news?id=4ddee1f70c88077ced112fcc1bec9121f3e53fe6aed2c8926c1782525fbd6bd5",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-07-26T01:00:33.522293+00:00"
+      },
       {
         "headline": "Visa and Apple: Cash-Generating Machines",
         "url": "https://finnhub.io/api/news?id=fb1cc3a721ed10244cb3ebb64b8e7266209394062f2d75d919d575de2932f34f",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=57367869375b1b974dc94ab644ebfe738eba828c66190437118e45b459b899f2",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-07-23T15:57:20.213291+00:00"
-      },
-      {
-        "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage — GOOGL, AAPL, AMD, TSLA, DIS In Focus",
-        "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-07-22T01:00:33.228240+00:00"
       }
     ],
     "TSLA": [
@@ -102,6 +102,12 @@
         "headline": "Costco makes big payment changes",
         "url": "https://finnhub.io/api/news?id=024120ecc77fb3cac0ad09e5186af99902b3beba6a32e4fd26af4dd116387d2f",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
+        "detected_at": "2026-07-26T01:00:33.522293+00:00"
+      },
+      {
+        "headline": "Costco makes big payment changes",
+        "url": "https://finnhub.io/api/news?id=024120ecc77fb3cac0ad09e5186af99902b3beba6a32e4fd26af4dd116387d2f",
+        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-07-25T15:08:45.157084+00:00"
       },
       {
@@ -120,12 +126,6 @@
         "headline": "Is Costco Wholesale (COST) Undervalued As New Product Launches Test Its Premium Valuation?",
         "url": "https://finnhub.io/api/news?id=7b29457ab88a2c83db7f5e09962c8ba8d796a02695b831d41aceb5481136fc53",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-07-24T15:34:41.781365+00:00"
-      },
-      {
-        "headline": "Why China Could Become Costco's Next Membership Catalyst",
-        "url": "https://finnhub.io/api/news?id=97a483b60393d7910192ea6d4c6934efdf195be4afabbd7ff09f3cb0cbcd8262",
-        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
         "detected_at": "2026-07-24T15:34:41.781365+00:00"
       }
     ],
@@ -212,6 +212,18 @@
         "headline": "TSMC: I Was Wrong",
         "url": "https://finnhub.io/api/news?id=0963c13bf24e2150482538cd32c2970ba2166318ac488968c5623f25c57d6109",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-26T01:00:33.522293+00:00"
+      },
+      {
+        "headline": "TSMC Is A Far Safer Buy Than Fabless Giants",
+        "url": "https://finnhub.io/api/news?id=ab9e160b07a3a0b98fc3503c0ebae9096456532cc891d113123c3154537a51ff",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-07-26T01:00:33.522293+00:00"
+      },
+      {
+        "headline": "TSMC: I Was Wrong",
+        "url": "https://finnhub.io/api/news?id=0963c13bf24e2150482538cd32c2970ba2166318ac488968c5623f25c57d6109",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-07-25T15:08:45.157084+00:00"
       },
       {
@@ -225,18 +237,6 @@
         "url": "https://finnhub.io/api/news?id=97342a8be84b91be80df8d47beb935ad04cd1c4502aed193b57eb57cd95cf937",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-07-25T01:00:30.900768+00:00"
-      },
-      {
-        "headline": "TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here",
-        "url": "https://finnhub.io/api/news?id=97342a8be84b91be80df8d47beb935ad04cd1c4502aed193b57eb57cd95cf937",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-24T15:34:41.781365+00:00"
-      },
-      {
-        "headline": "TSMC Q2: Compounding AI Spending Concerns Hit Stock Valuation",
-        "url": "https://finnhub.io/api/news?id=8bed96b04821fcaa1d26fd74141b5bfe5cea97999c457ecd0feb52672a38fbee",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-07-23T15:57:20.213291+00:00"
       }
     ],
     "UNH": [
@@ -285,12 +285,6 @@
         "url": "https://finnhub.io/api/news?id=36c987ce04ee75dd31cd8b088c5db92bbebf79f032f9e455b0129572dcb17c89",
         "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
         "detected_at": "2026-07-24T15:34:41.781365+00:00"
-      },
-      {
-        "headline": "VYM’s $94.6 Billion Portfolio Beats Treasury Yields with Dividend Kings Leading the Way",
-        "url": "https://finnhub.io/api/news?id=a2ee62a66c63a946d94c3e6beb499c40b3125181a2923f5fa2fc732d6e9e4955",
-        "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
-        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       }
     ],
     "AMZN": [
@@ -302,6 +296,12 @@
       }
     ],
     "KO": [
+      {
+        "headline": "Should Coca-Cola’s (KO) Reaffirmed Dividend Shape Its Role as a Long-Term Income Anchor?",
+        "url": "https://finnhub.io/api/news?id=cb3df8a50644c497430a11d9184f16892535db2e126521d26fd8c128cc95ee78",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-07-26T01:00:33.522293+00:00"
+      },
       {
         "headline": "Should Coca-Cola’s (KO) Reaffirmed Dividend Shape Its Role as a Long-Term Income Anchor?",
         "url": "https://finnhub.io/api/news?id=cb3df8a50644c497430a11d9184f16892535db2e126521d26fd8c128cc95ee78",

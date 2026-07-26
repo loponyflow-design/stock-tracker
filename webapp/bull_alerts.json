@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T15:08:45.157084+00:00",
+  "last_updated": "2026-07-26T01:00:33.522293+00:00",
   "alerts": {
     "PTT": [
       {
@@ -39,12 +39,6 @@
         "url": "https://finnhub.io/api/news?id=b6726c67b6d318f590ea801e8e23e38a41d664def7724f009c1732cc043834e1",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-07-19T01:00:34.500117+00:00"
-      },
-      {
-        "headline": "3 Dividend Stocks That Have Survived Every Market Crash in July",
-        "url": "https://finnhub.io/api/news?id=b6726c67b6d318f590ea801e8e23e38a41d664def7724f009c1732cc043834e1",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       }
     ],
     "ZETA": [
@@ -53,12 +47,6 @@
         "url": "https://finnhub.io/api/news?id=b3ce4a0dcbb49e4aebba3593b82c758beedfc856367e47b4d21495ba579dd8ee",
         "condition": "Growth + operating leverage จริง — revenue +30%, adj EBITDA +44%, FCF +78% — margin ขยายขณะโต; กำลังพลิกเป็นกำไร GAAP ปี 2026",
         "detected_at": "2026-07-19T01:00:34.500117+00:00"
-      },
-      {
-        "headline": "Zeta Global: One Of A Small Number Of AI Stocks Actually Delivering",
-        "url": "https://finnhub.io/api/news?id=b3ce4a0dcbb49e4aebba3593b82c758beedfc856367e47b4d21495ba579dd8ee",
-        "condition": "Growth + operating leverage จริง — revenue +30%, adj EBITDA +44%, FCF +78% — margin ขยายขณะโต; กำลังพลิกเป็นกำไร GAAP ปี 2026",
-        "detected_at": "2026-07-18T17:37:33.787700+00:00"
       }
     ],
     "TSM": [
