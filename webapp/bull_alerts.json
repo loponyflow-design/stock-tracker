@@ -1,8 +1,14 @@
 {
-  "last_updated": "2026-07-26T01:00:33.522293+00:00",
+  "last_updated": "2026-07-27T01:00:32.941489+00:00",
   "alerts": {
     "PTT": [
       {
+        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-27T01:00:32.941489+00:00"
+      },
+      {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
@@ -25,28 +31,14 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-23T15:57:20.213291+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-23T01:00:32.536588+00:00"
       }
     ],
     "PG": [
       {
-        "headline": "3 Dividend Stocks That Have Survived Every Market Crash in July",
-        "url": "https://finnhub.io/api/news?id=b6726c67b6d318f590ea801e8e23e38a41d664def7724f009c1732cc043834e1",
+        "headline": "Best Dividend Kings: July 2026",
+        "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-19T01:00:34.500117+00:00"
-      }
-    ],
-    "ZETA": [
-      {
-        "headline": "Zeta Global: One Of A Small Number Of AI Stocks Actually Delivering",
-        "url": "https://finnhub.io/api/news?id=b3ce4a0dcbb49e4aebba3593b82c758beedfc856367e47b4d21495ba579dd8ee",
-        "condition": "Growth + operating leverage จริง — revenue +30%, adj EBITDA +44%, FCF +78% — margin ขยายขณะโต; กำลังพลิกเป็นกำไร GAAP ปี 2026",
-        "detected_at": "2026-07-19T01:00:34.500117+00:00"
+        "detected_at": "2026-07-27T01:00:32.941489+00:00"
       }
     ],
     "TSM": [
@@ -149,6 +141,14 @@
         "url": "https://finnhub.io/api/news?id=0e9894d525ea813f7fd6153e58aa10a3f3e29c8b15be833725da7e230bfea47a",
         "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
         "detected_at": "2026-07-25T01:00:30.900768+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "Best Dividend Kings: July 2026",
+        "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-07-27T01:00:32.941489+00:00"
       }
     ]
   }
