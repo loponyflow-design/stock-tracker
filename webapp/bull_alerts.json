@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-27T01:00:32.941489+00:00",
+  "last_updated": "2026-07-27T16:25:22.926218+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-27T16:25:22.926218+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
@@ -25,15 +31,15 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-23T15:57:20.213291+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-23T15:57:20.213291+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "5 Dividend Kings Continued to Pay and Raise Dividends Through Every Market Crash Since Black Monday",
+        "url": "https://finnhub.io/api/news?id=d870ed4d287c76d4d95b71bb84ebee653b237c80632e7985dae979065861a7d0",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-07-27T16:25:22.926218+00:00"
+      },
       {
         "headline": "Best Dividend Kings: July 2026",
         "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
@@ -53,12 +59,6 @@
         "url": "https://finnhub.io/api/news?id=213801ade155c0d9021a93203f81ba21a100cb479f514efe2eeb7292173b5913",
         "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
         "detected_at": "2026-07-22T15:45:09.371003+00:00"
-      },
-      {
-        "headline": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle",
-        "url": "https://finnhub.io/api/news?id=6dbdaf17d7fce390a6110fe6e0789d2034a06150b630696d58c75d1f60317083",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-07-20T02:43:53.416377+00:00"
       }
     ],
     "GE": [
@@ -148,7 +148,27 @@
         "headline": "Best Dividend Kings: July 2026",
         "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-07-27T16:25:22.926218+00:00"
+      },
+      {
+        "headline": "Best Dividend Kings: July 2026",
+        "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-07-27T01:00:32.941489+00:00"
+      }
+    ],
+    "ARCC": [
+      {
+        "headline": "Ares Capital: Red Flags I See Heading Into The Report (Rating Downgrade)",
+        "url": "https://finnhub.io/api/news?id=4bf852b02708b1c3ec0eab7e7a0858f511beebbd98c77f7c0f77c85d42892ceb",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-27T16:25:22.926218+00:00"
+      },
+      {
+        "headline": "Ares Capital's Fat Yield Makes It Worth Keeping",
+        "url": "https://finnhub.io/api/news?id=eca3f4bc8d1a2e3f98ab0ae9f15a5f70d04c2d4e2fb9f72b9dc952f54d591a88",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-27T16:25:22.926218+00:00"
       }
     ]
   }
