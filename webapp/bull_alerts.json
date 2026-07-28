@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:25:22.926218+00:00",
+  "last_updated": "2026-07-28T01:00:32.214587+00:00",
   "alerts": {
     "PTT": [
       {
@@ -34,6 +34,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "1 Reason to Buy This Dividend King Stock Before It Reports Earnings on July 29",
+        "url": "https://finnhub.io/api/news?id=5d944f7cda5d62b79da912b6aca23cba6f3a96b8ec5497226a078e9df4c60d08",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-07-28T01:00:32.214587+00:00"
+      },
       {
         "headline": "5 Dividend Kings Continued to Pay and Raise Dividends Through Every Market Crash Since Black Monday",
         "url": "https://finnhub.io/api/news?id=d870ed4d287c76d4d95b71bb84ebee653b237c80632e7985dae979065861a7d0",
@@ -158,6 +164,18 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Recent Report Shows That Rep. Pete Sessions Sold Up to $15K Worth of Ares Capital Stock",
+        "url": "https://finnhub.io/api/news?id=6539e49849893310d8b4a76d0f6e619de0063465db388606f868d4925657a517",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-28T01:00:32.214587+00:00"
+      },
+      {
+        "headline": "Ares Capital: Red Flags I See Heading Into The Report (Rating Downgrade)",
+        "url": "https://finnhub.io/api/news?id=4bf852b02708b1c3ec0eab7e7a0858f511beebbd98c77f7c0f77c85d42892ceb",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-28T01:00:32.214587+00:00"
+      },
       {
         "headline": "Ares Capital: Red Flags I See Heading Into The Report (Rating Downgrade)",
         "url": "https://finnhub.io/api/news?id=4bf852b02708b1c3ec0eab7e7a0858f511beebbd98c77f7c0f77c85d42892ceb",
