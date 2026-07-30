@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T15:52:44.911789+00:00",
+  "last_updated": "2026-07-30T01:00:34.455648+00:00",
   "alerts": {
     "PTT": [
       {
@@ -57,14 +57,6 @@
         "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-07-27T01:00:32.941489+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "The Nvidia-Led AI Supercycle Is Accelerating — and Taiwan Just Confirmed It",
-        "url": "https://finnhub.io/api/news?id=213801ade155c0d9021a93203f81ba21a100cb479f514efe2eeb7292173b5913",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-07-23T01:00:32.536588+00:00"
       }
     ],
     "GE": [
@@ -145,6 +137,24 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital (ARCC) Q2 2026 Earnings Call Transcript",
+        "url": "https://finnhub.io/api/news?id=f2fab3b4a1e70ff58ca713aa65327e8cc4e241bd9008198a361b47b646c52c6a",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-30T01:00:34.455648+00:00"
+      },
+      {
+        "headline": "Ares Capital Q2: My Downgrade Is Aging Well, And It's Early",
+        "url": "https://finnhub.io/api/news?id=c9c2e94eeb0c2c3dd67830ebf3c4b0e166e8f9247abf86d74174d540b84c4a15",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-30T01:00:34.455648+00:00"
+      },
+      {
+        "headline": "Ares Capital (NASDAQ:ARCC) Slides After Q2 Earnings and Revenue Miss Estimates",
+        "url": "https://finnhub.io/api/news?id=f76fda319db32c59f6ddd09dccd27023124ce6cf8d7d53e23cc83d8c2387aec3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-30T01:00:34.455648+00:00"
+      },
+      {
         "headline": "Ares Capital (NASDAQ:ARCC) Slides After Q2 Earnings and Revenue Miss Estimates",
         "url": "https://finnhub.io/api/news?id=f76fda319db32c59f6ddd09dccd27023124ce6cf8d7d53e23cc83d8c2387aec3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -155,24 +165,14 @@
         "url": "https://finnhub.io/api/news?id=74b7fb52c49445de50fe850a107292893be3a68aecc6d9f137138e9e9e6a358b",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-29T15:52:44.911789+00:00"
-      },
+      }
+    ],
+    "NUE": [
       {
-        "headline": "Rare Buying Opportunity: Deeply Undervalued Quality Dividend Machines",
-        "url": "https://finnhub.io/api/news?id=74b7fb52c49445de50fe850a107292893be3a68aecc6d9f137138e9e9e6a358b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-29T01:00:39.252604+00:00"
-      },
-      {
-        "headline": "Rare Buying Opportunity: Deeply Undervalued Quality Dividend Machines",
-        "url": "https://finnhub.io/api/news?id=74b7fb52c49445de50fe850a107292893be3a68aecc6d9f137138e9e9e6a358b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-28T16:07:27.462901+00:00"
-      },
-      {
-        "headline": "Recent Report Shows That Rep. Pete Sessions Sold Up to $15K Worth of Ares Capital Stock",
-        "url": "https://finnhub.io/api/news?id=6539e49849893310d8b4a76d0f6e619de0063465db388606f868d4925657a517",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-28T16:07:27.462901+00:00"
+        "headline": "Best Dividend Aristocrats For August 2026",
+        "url": "https://finnhub.io/api/news?id=67311e2187c8daa5f97909344e3c76b99fbde905a77e989bccdfea2563d55757",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-07-30T01:00:34.455648+00:00"
       }
     ]
   }
