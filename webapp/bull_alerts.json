@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-30T01:00:34.455648+00:00",
+  "last_updated": "2026-07-31T01:00:33.734082+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-31T01:00:33.734082+00:00"
+      },
       {
         "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
@@ -13,24 +19,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-27T01:00:32.941489+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-24T01:00:31.007006+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-24T01:00:31.007006+00:00"
-      },
-      {
-        "headline": "“ฮอร์มุซ” ตึงเครียดอีก PTTEP-PTT เชิงบวก - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-23T15:57:20.213291+00:00"
       }
     ],
     "PG": [
@@ -77,12 +65,6 @@
         "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-07-24T15:34:41.781365+00:00"
-      },
-      {
-        "headline": "General Electric (GE) Lands Record 1,000 Plus Engine Deal Through CFM And IndiGo",
-        "url": "https://finnhub.io/api/news?id=34ecfd402d60612aad8ba4ac4c819917fe8338b4330ff1e366400cadbe85b6c7",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-07-23T15:57:20.213291+00:00"
       }
     ],
     "AVGO": [
@@ -137,6 +119,18 @@
     ],
     "ARCC": [
       {
+        "headline": "Truist Securities Maintains Buy on Ares Capital, Lowers Price Target to $21",
+        "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-31T01:00:33.734082+00:00"
+      },
+      {
+        "headline": "Keefe, Bruyette & Woods Maintains Outperform on Ares Capital, Lowers Price Target to $20",
+        "url": "https://finnhub.io/api/news?id=d651b052948e18966c017bf459fd44a4a9038947be76cc15c9a28d85bcd7a9ed",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-31T01:00:33.734082+00:00"
+      },
+      {
         "headline": "Ares Capital (ARCC) Q2 2026 Earnings Call Transcript",
         "url": "https://finnhub.io/api/news?id=f2fab3b4a1e70ff58ca713aa65327e8cc4e241bd9008198a361b47b646c52c6a",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -153,18 +147,6 @@
         "url": "https://finnhub.io/api/news?id=f76fda319db32c59f6ddd09dccd27023124ce6cf8d7d53e23cc83d8c2387aec3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-30T01:00:34.455648+00:00"
-      },
-      {
-        "headline": "Ares Capital (NASDAQ:ARCC) Slides After Q2 Earnings and Revenue Miss Estimates",
-        "url": "https://finnhub.io/api/news?id=f76fda319db32c59f6ddd09dccd27023124ce6cf8d7d53e23cc83d8c2387aec3",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-29T15:52:44.911789+00:00"
-      },
-      {
-        "headline": "Rare Buying Opportunity: Deeply Undervalued Quality Dividend Machines",
-        "url": "https://finnhub.io/api/news?id=74b7fb52c49445de50fe850a107292893be3a68aecc6d9f137138e9e9e6a358b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-29T15:52:44.911789+00:00"
       }
     ],
     "NUE": [
@@ -173,6 +155,14 @@
         "url": "https://finnhub.io/api/news?id=67311e2187c8daa5f97909344e3c76b99fbde905a77e989bccdfea2563d55757",
         "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
         "detected_at": "2026-07-30T01:00:34.455648+00:00"
+      }
+    ],
+    "KO": [
+      {
+        "headline": "The Coca-Cola Company: Volume Scale Beats CPG Stagflation as FIFA Activation Drives Guidance Upgrade",
+        "url": "https://finnhub.io/api/news?id=c331d52a7ca9dc17c96be2ac69e8b3e18535aa0b15de9ed7f0cb4988a560a244",
+        "condition": "Brand + Scale Economies ระดับโลก — เครือข่าย distribution ที่ใหญ่สุดในโลก + แบรนด์อันดับ 1 ทำให้ pricing power สม่ำเสมอ; demand ทน recession (คนดื่มน้ำอัดลมไม่ว่าเศรษฐกิจยังไง) — ตรงสไตล์เลี่ยงหุ้นที่พังเมื่อ macro แย่",
+        "detected_at": "2026-07-31T01:00:33.734082+00:00"
       }
     ]
   }
