@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-31T01:00:33.734082+00:00",
+  "last_updated": "2026-07-31T16:03:21.171567+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - hoonvision.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-07-31T16:03:21.171567+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -59,12 +65,6 @@
         "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-07-25T01:00:30.900768+00:00"
-      },
-      {
-        "headline": "GE Aerospace Wraps Historic Farnborough Airshow",
-        "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-07-24T15:34:41.781365+00:00"
       }
     ],
     "AVGO": [
@@ -73,20 +73,6 @@
         "url": "https://finnhub.io/api/news?id=fe8e0d37289068f99ccea18880f7838945af406c29f934add16dbcee503f9907",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-07-28T16:07:27.462901+00:00"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "Legend Biotech: Why I'm Ready To Go Long Again",
-        "url": "https://finnhub.io/api/news?id=9dacf9259e58fd1221029fce5064498f33c276a99b93ce347dbff82166b669fa",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-07-24T15:34:41.781365+00:00"
-      },
-      {
-        "headline": "J&J Finally Has a Rival to da Vinci. 1 Number in Intuitive Surgical’s Last Quarter Says It Won’t Be Enough to Move the Needle for JNJ Stock.",
-        "url": "https://finnhub.io/api/news?id=2b3d8469f528d79fb00654c130f687ab423e66a83b114c1d4335fd3db9a5f390",
-        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
-        "detected_at": "2026-07-24T15:34:41.781365+00:00"
       }
     ],
     "DHI": [
@@ -122,6 +108,18 @@
         "headline": "Truist Securities Maintains Buy on Ares Capital, Lowers Price Target to $21",
         "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-31T16:03:21.171567+00:00"
+      },
+      {
+        "headline": "Keefe, Bruyette & Woods Maintains Outperform on Ares Capital, Lowers Price Target to $20",
+        "url": "https://finnhub.io/api/news?id=d651b052948e18966c017bf459fd44a4a9038947be76cc15c9a28d85bcd7a9ed",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-07-31T16:03:21.171567+00:00"
+      },
+      {
+        "headline": "Truist Securities Maintains Buy on Ares Capital, Lowers Price Target to $21",
+        "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-31T01:00:33.734082+00:00"
       },
       {
@@ -133,18 +131,6 @@
       {
         "headline": "Ares Capital (ARCC) Q2 2026 Earnings Call Transcript",
         "url": "https://finnhub.io/api/news?id=f2fab3b4a1e70ff58ca713aa65327e8cc4e241bd9008198a361b47b646c52c6a",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-30T01:00:34.455648+00:00"
-      },
-      {
-        "headline": "Ares Capital Q2: My Downgrade Is Aging Well, And It's Early",
-        "url": "https://finnhub.io/api/news?id=c9c2e94eeb0c2c3dd67830ebf3c4b0e166e8f9247abf86d74174d540b84c4a15",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-30T01:00:34.455648+00:00"
-      },
-      {
-        "headline": "Ares Capital (NASDAQ:ARCC) Slides After Q2 Earnings and Revenue Miss Estimates",
-        "url": "https://finnhub.io/api/news?id=f76fda319db32c59f6ddd09dccd27023124ce6cf8d7d53e23cc83d8c2387aec3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-30T01:00:34.455648+00:00"
       }
