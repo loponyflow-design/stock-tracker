@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-01T01:00:38.336919+00:00",
+  "last_updated": "2026-08-01T15:05:23.188413+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-01T15:05:23.188413+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - hoonvision.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aUtId3AtbVZPVlJ6OF9QS1M0NE9tYlJNczdHNm0yX1Bfb2ZjeDhEYmVjS1F6UWRaRUc5UzExMk9OV1BWQ0N3WXZ5REdUR1JweTRqWUhWcnY?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-07-27T16:25:22.926218+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้(14 ก.ค.) ลบ 1.87 จุด ขาย DELTA ซื้อ PTTEP-PTT - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZMHZWc1RQTVd6ci1Uc2puTkIwYmFEVnJlSTBseGtsUmxTRlRCMWVaMmpXRGkxdUpJZXdSLTBvZVRrMTd3TTVuRFRndXhfakdZMG05ZlMycEFBUlRWU3c?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-07-27T01:00:32.941489+00:00"
       }
     ],
     "PG": [
@@ -99,6 +99,12 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital: Valuation Change Warrants A Downgrade",
+        "url": "https://finnhub.io/api/news?id=81293ff12869e745bdbd311a29aa9f7172f8354f4351645f61f65dda267f2e3f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-01T15:05:23.188413+00:00"
+      },
+      {
         "headline": "Truist Securities Maintains Buy on Ares Capital, Lowers Price Target to $21",
         "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -121,12 +127,6 @@
         "url": "https://finnhub.io/api/news?id=d651b052948e18966c017bf459fd44a4a9038947be76cc15c9a28d85bcd7a9ed",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-31T01:00:33.734082+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Q2 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=f2fab3b4a1e70ff58ca713aa65327e8cc4e241bd9008198a361b47b646c52c6a",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-30T01:00:34.455648+00:00"
       }
     ],
     "NUE": [
