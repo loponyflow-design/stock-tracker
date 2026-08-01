@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-31T16:03:21.171567+00:00",
+  "last_updated": "2026-08-01T01:00:38.336919+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - hoonvision.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-01T01:00:38.336919+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - hoonvision.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -59,12 +65,6 @@
         "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-07-25T15:08:45.157084+00:00"
-      },
-      {
-        "headline": "GE Aerospace Wraps Historic Farnborough Airshow",
-        "url": "https://finnhub.io/api/news?id=dfab88bee1fc4c37f448494a2bdf60a84fe6c10dbed06c628a9fed45f211d07f",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-07-25T01:00:30.900768+00:00"
       }
     ],
     "AVGO": [
@@ -81,12 +81,6 @@
         "url": "https://finnhub.io/api/news?id=0e9894d525ea813f7fd6153e58aa10a3f3e29c8b15be833725da7e230bfea47a",
         "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
         "detected_at": "2026-07-25T15:08:45.157084+00:00"
-      },
-      {
-        "headline": "Is PHM Stock Attractive After Its Q2 Earnings Beat and Margin Slide?",
-        "url": "https://finnhub.io/api/news?id=0e9894d525ea813f7fd6153e58aa10a3f3e29c8b15be833725da7e230bfea47a",
-        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
-        "detected_at": "2026-07-25T01:00:30.900768+00:00"
       }
     ],
     "LOW": [
