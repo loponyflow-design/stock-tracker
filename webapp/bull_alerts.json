@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-04T01:00:33.860190+00:00",
+  "last_updated": "2026-08-04T16:15:38.697760+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-04T16:15:38.697760+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-02T01:00:37.140701+00:00"
-      },
-      {
-        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-01T15:05:23.188413+00:00"
       }
     ],
     "PG": [
@@ -45,29 +45,35 @@
         "url": "https://finnhub.io/api/news?id=b1209bb5e8ce5f86b509e8497815ff1b1fb3c3fbdca5c031c00e020f56a9148f",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-03T01:00:41.626696+00:00"
-      },
-      {
-        "headline": "1 Reason to Buy This Dividend King Stock Before It Reports Earnings on July 29",
-        "url": "https://finnhub.io/api/news?id=5d944f7cda5d62b79da912b6aca23cba6f3a96b8ec5497226a078e9df4c60d08",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-07-28T16:07:27.462901+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "What Could Push Broadcom Stock Higher Is Already Sitting In Its Order Book",
+        "url": "https://finnhub.io/api/news?id=80ab451eb18f12246e450ee2a2a1ec42e44dfd9adbd22670a53f26b779a1ad84",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-08-04T16:15:38.697760+00:00"
+      },
       {
         "headline": "What The Bipolar Silicon Market Structure Means Moving Forward: Nividia Vs. Broadcom",
         "url": "https://finnhub.io/api/news?id=91ee972b795aeb965a3eb3e95deb4cb5c34ffb1138aa83f71e1af5935fafe876",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-08-02T01:00:37.140701+00:00"
-      },
-      {
-        "headline": "Broadcom (AVGO) Lands $200 Billion Samsung AI Chip Deal Through 2030",
-        "url": "https://finnhub.io/api/news?id=fe8e0d37289068f99ccea18880f7838945af406c29f934add16dbcee503f9907",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-07-28T16:07:27.462901+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "Ares Capital Is Stronger Than You Think",
+        "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-04T16:15:38.697760+00:00"
+      },
+      {
+        "headline": "Golub Capital: The Yield Is A Trap",
+        "url": "https://finnhub.io/api/news?id=8a05e8823ead64607801368153d0c0ca0a3600e79fde670763964c5939313045",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-04T16:15:38.697760+00:00"
+      },
       {
         "headline": "Ares Capital: Valuation Change Warrants A Downgrade",
         "url": "https://finnhub.io/api/news?id=81293ff12869e745bdbd311a29aa9f7172f8354f4351645f61f65dda267f2e3f",
@@ -85,18 +91,6 @@
         "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-07-31T16:03:21.171567+00:00"
-      },
-      {
-        "headline": "Keefe, Bruyette & Woods Maintains Outperform on Ares Capital, Lowers Price Target to $20",
-        "url": "https://finnhub.io/api/news?id=d651b052948e18966c017bf459fd44a4a9038947be76cc15c9a28d85bcd7a9ed",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-31T16:03:21.171567+00:00"
-      },
-      {
-        "headline": "Truist Securities Maintains Buy on Ares Capital, Lowers Price Target to $21",
-        "url": "https://finnhub.io/api/news?id=1eb991b6f8162fb957628d69894a7724e6bf08647b50ed1041e17dac1a08d05e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-07-31T01:00:33.734082+00:00"
       }
     ],
     "NUE": [
@@ -113,6 +107,14 @@
         "url": "https://finnhub.io/api/news?id=c331d52a7ca9dc17c96be2ac69e8b3e18535aa0b15de9ed7f0cb4988a560a244",
         "condition": "Brand + Scale Economies ระดับโลก — เครือข่าย distribution ที่ใหญ่สุดในโลก + แบรนด์อันดับ 1 ทำให้ pricing power สม่ำเสมอ; demand ทน recession (คนดื่มน้ำอัดลมไม่ว่าเศรษฐกิจยังไง) — ตรงสไตล์เลี่ยงหุ้นที่พังเมื่อ macro แย่",
         "detected_at": "2026-07-31T01:00:33.734082+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Didn't We Go Through The 'SaaS-pocalypse'?",
+        "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-08-04T16:15:38.697760+00:00"
       }
     ]
   }
