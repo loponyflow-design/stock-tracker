@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-05T01:00:41.878865+00:00",
+  "last_updated": "2026-08-05T16:03:02.807965+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-05T16:03:02.807965+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-03T16:30:13.048767+00:00"
-      },
-      {
-        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-03T01:00:41.626696+00:00"
       }
     ],
     "PG": [
@@ -69,6 +69,24 @@
     ],
     "ARCC": [
       {
+        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026)",
+        "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-05T16:03:02.807965+00:00"
+      },
+      {
+        "headline": "Harvesting 10%-Plus Yields From Our Income Farm",
+        "url": "https://finnhub.io/api/news?id=c52e5422676a34e4df9077503ca7a75c2df6883e14a94ef8af9552ef2608bf16",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-05T16:03:02.807965+00:00"
+      },
+      {
+        "headline": "Ares Capital Is Stronger Than You Think",
+        "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-05T16:03:02.807965+00:00"
+      },
+      {
         "headline": "Ares Capital Is Stronger Than You Think",
         "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -79,24 +97,6 @@
         "url": "https://finnhub.io/api/news?id=8a05e8823ead64607801368153d0c0ca0a3600e79fde670763964c5939313045",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-05T01:00:41.878865+00:00"
-      },
-      {
-        "headline": "Ares Capital Is Stronger Than You Think",
-        "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-04T16:15:38.697760+00:00"
-      },
-      {
-        "headline": "Golub Capital: The Yield Is A Trap",
-        "url": "https://finnhub.io/api/news?id=8a05e8823ead64607801368153d0c0ca0a3600e79fde670763964c5939313045",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-04T16:15:38.697760+00:00"
-      },
-      {
-        "headline": "Ares Capital: Valuation Change Warrants A Downgrade",
-        "url": "https://finnhub.io/api/news?id=81293ff12869e745bdbd311a29aa9f7172f8354f4351645f61f65dda267f2e3f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-02T01:00:37.140701+00:00"
       }
     ],
     "NUE": [
@@ -116,6 +116,12 @@
       }
     ],
     "RBRK": [
+      {
+        "headline": "Didn't We Go Through The 'SaaS-pocalypse'?",
+        "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-08-05T16:03:02.807965+00:00"
+      },
       {
         "headline": "Didn't We Go Through The 'SaaS-pocalypse'?",
         "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
