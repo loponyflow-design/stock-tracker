@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T16:03:02.807965+00:00",
+  "last_updated": "2026-08-06T01:00:32.993775+00:00",
   "alerts": {
     "PTT": [
       {
@@ -69,6 +69,24 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital: 104% Coverage, NII Growth, Stable Dividend For Now",
+        "url": "https://finnhub.io/api/news?id=1ed8972ed4b07c6a213bd1f912f31e95b56f79d848bc9f1dcdcdc98a59ee0108",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-06T01:00:32.993775+00:00"
+      },
+      {
+        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026)",
+        "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-06T01:00:32.993775+00:00"
+      },
+      {
+        "headline": "Harvesting 10%-Plus Yields From Our Income Farm",
+        "url": "https://finnhub.io/api/news?id=c52e5422676a34e4df9077503ca7a75c2df6883e14a94ef8af9552ef2608bf16",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-06T01:00:32.993775+00:00"
+      },
+      {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026)",
         "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -79,24 +97,6 @@
         "url": "https://finnhub.io/api/news?id=c52e5422676a34e4df9077503ca7a75c2df6883e14a94ef8af9552ef2608bf16",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      },
-      {
-        "headline": "Ares Capital Is Stronger Than You Think",
-        "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      },
-      {
-        "headline": "Ares Capital Is Stronger Than You Think",
-        "url": "https://finnhub.io/api/news?id=8b6392b242318c9ea7fa9eadec2f9cd8b5ebb7aa6d1651b5d20ea51759ad607f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
-      },
-      {
-        "headline": "Golub Capital: The Yield Is A Trap",
-        "url": "https://finnhub.io/api/news?id=8a05e8823ead64607801368153d0c0ca0a3600e79fde670763964c5939313045",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
       }
     ],
     "NUE": [
@@ -133,6 +133,14 @@
         "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-08-04T16:15:38.697760+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "Strength in Commercial Engines Unit Drives GE Aerospace: Can It Sustain?",
+        "url": "https://finnhub.io/api/news?id=b4ec62c52757e5c303d831cb97e187ee6e156e1a66f785e5a7f2c60c947e354e",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-08-06T01:00:32.993775+00:00"
       }
     ]
   }
