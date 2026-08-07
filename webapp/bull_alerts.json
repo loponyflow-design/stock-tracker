@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:00:32.993775+00:00",
+  "last_updated": "2026-08-07T01:00:44.684584+00:00",
   "alerts": {
     "PTT": [
       {
@@ -69,6 +69,12 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital: Income Investors Shouldn't Panic... Yet",
+        "url": "https://finnhub.io/api/news?id=32a2accc84d1cb8c980b2e586bf01f928c0425cb621f79923ef3e4e5bd497dcf",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-07T01:00:44.684584+00:00"
+      },
+      {
         "headline": "Ares Capital: 104% Coverage, NII Growth, Stable Dividend For Now",
         "url": "https://finnhub.io/api/news?id=1ed8972ed4b07c6a213bd1f912f31e95b56f79d848bc9f1dcdcdc98a59ee0108",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -91,28 +97,6 @@
         "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      },
-      {
-        "headline": "Harvesting 10%-Plus Yields From Our Income Farm",
-        "url": "https://finnhub.io/api/news?id=c52e5422676a34e4df9077503ca7a75c2df6883e14a94ef8af9552ef2608bf16",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      }
-    ],
-    "NUE": [
-      {
-        "headline": "Best Dividend Aristocrats For August 2026",
-        "url": "https://finnhub.io/api/news?id=67311e2187c8daa5f97909344e3c76b99fbde905a77e989bccdfea2563d55757",
-        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
-        "detected_at": "2026-07-30T01:00:34.455648+00:00"
-      }
-    ],
-    "KO": [
-      {
-        "headline": "The Coca-Cola Company: Volume Scale Beats CPG Stagflation as FIFA Activation Drives Guidance Upgrade",
-        "url": "https://finnhub.io/api/news?id=c331d52a7ca9dc17c96be2ac69e8b3e18535aa0b15de9ed7f0cb4988a560a244",
-        "condition": "Brand + Scale Economies ระดับโลก — เครือข่าย distribution ที่ใหญ่สุดในโลก + แบรนด์อันดับ 1 ทำให้ pricing power สม่ำเสมอ; demand ทน recession (คนดื่มน้ำอัดลมไม่ว่าเศรษฐกิจยังไง) — ตรงสไตล์เลี่ยงหุ้นที่พังเมื่อ macro แย่",
-        "detected_at": "2026-07-31T01:00:33.734082+00:00"
       }
     ],
     "RBRK": [
