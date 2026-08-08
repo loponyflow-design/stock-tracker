@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T01:00:32.575949+00:00",
+  "last_updated": "2026-08-08T14:36:41.721025+00:00",
   "alerts": {
     "PTT": [
       {
@@ -34,6 +34,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "The 4% Rule vs. a Dividend Paycheck: Which Makes $1.25 Million Last Longer?",
+        "url": "https://finnhub.io/api/news?id=837899412ca90fb440861401f61ce0c54a661cfb43a0e5c8b1ba038ae6be9f54",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-08T14:36:41.721025+00:00"
+      },
       {
         "headline": "The 4% Rule vs. a Dividend Paycheck: Which Makes $1.25 Million Last Longer?",
         "url": "https://finnhub.io/api/news?id=837899412ca90fb440861401f61ce0c54a661cfb43a0e5c8b1ba038ae6be9f54",
@@ -77,6 +83,12 @@
       {
         "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-08T14:36:41.721025+00:00"
+      },
+      {
+        "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
+        "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
         "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
         "detected_at": "2026-08-08T01:00:32.575949+00:00"
       },
@@ -97,12 +109,6 @@
         "url": "https://finnhub.io/api/news?id=32a2accc84d1cb8c980b2e586bf01f928c0425cb621f79923ef3e4e5bd497dcf",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-07T01:00:44.684584+00:00"
-      },
-      {
-        "headline": "Ares Capital: 104% Coverage, NII Growth, Stable Dividend For Now",
-        "url": "https://finnhub.io/api/news?id=1ed8972ed4b07c6a213bd1f912f31e95b56f79d848bc9f1dcdcdc98a59ee0108",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-06T01:00:32.993775+00:00"
       }
     ],
     "RBRK": [
@@ -131,6 +137,14 @@
         "url": "https://finnhub.io/api/news?id=b4ec62c52757e5c303d831cb97e187ee6e156e1a66f785e5a7f2c60c947e354e",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-08-06T01:00:32.993775+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "New Homes Sit On Market For 9.3 Months As Builders Slash Prices",
+        "url": "https://finnhub.io/api/news?id=afa64e7298e65523dc1056862034eca1cb022ec855d1d81cd17934d67a37dd83",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-08-08T14:36:41.721025+00:00"
       }
     ]
   }
