@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:58:04.713373+00:00",
+  "last_updated": "2026-08-08T01:00:32.575949+00:00",
   "alerts": {
     "PTT": [
       {
@@ -34,6 +34,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "The 4% Rule vs. a Dividend Paycheck: Which Makes $1.25 Million Last Longer?",
+        "url": "https://finnhub.io/api/news?id=837899412ca90fb440861401f61ce0c54a661cfb43a0e5c8b1ba038ae6be9f54",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-08T01:00:32.575949+00:00"
+      },
       {
         "headline": "4 Dividend Kings Almost Nobody Talks About",
         "url": "https://finnhub.io/api/news?id=b1209bb5e8ce5f86b509e8497815ff1b1fb3c3fbdca5c031c00e020f56a9148f",
@@ -71,6 +77,12 @@
       {
         "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
+        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
+        "detected_at": "2026-08-08T01:00:32.575949+00:00"
+      },
+      {
+        "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
+        "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-07T14:58:04.713373+00:00"
       },
@@ -89,12 +101,6 @@
       {
         "headline": "Ares Capital: 104% Coverage, NII Growth, Stable Dividend For Now",
         "url": "https://finnhub.io/api/news?id=1ed8972ed4b07c6a213bd1f912f31e95b56f79d848bc9f1dcdcdc98a59ee0108",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-06T01:00:32.993775+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026)",
-        "url": "https://finnhub.io/api/news?id=5f2eb158c0593aed5df4ec4f1dcfa80215ea6593532eff0c775faa62415d818f",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-06T01:00:32.993775+00:00"
       }
