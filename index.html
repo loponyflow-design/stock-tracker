@@ -1,0 +1,1371 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stock Tracker</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:         #0f1117;
+      --bg-card:    #161b27;
+      --bg-dark:    #0a0d14;
+      --border:     #1e2535;
+      --border-mid: #253045;
+      --text:       #e2e8f0;
+      --muted:      #64748b;
+      --dim:        #475569;
+      --blue:       #60a5fa;
+      --green:      #34d399;
+      --red:        #f87171;
+      --orange:     #fb923c;
+      --sidebar-w:  264px;
+      --header-h:   54px;
+    }
+
+    html, body { height: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ─── HEADER ─────────────────────────────────── */
+    header {
+      height: var(--header-h);
+      padding: 0 16px 0 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg);
+      z-index: 200;
+      flex-shrink: 0;
+    }
+    header h1 { font-size: 1.1rem; font-weight: 700; letter-spacing: -.2px; }
+    .header-right { display: flex; align-items: center; gap: 10px; }
+    #updated { font-size: .73rem; color: var(--muted); }
+
+    .sb-toggle-btn {
+      display: none;
+      align-items: center;
+      gap: 5px;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: .78rem;
+      white-space: nowrap;
+    }
+    .nav-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 10px;
+      border-radius: 8px;
+      font-size: .78rem;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .nav-link:hover { border-color: var(--border-mid); color: var(--blue); }
+
+    /* ─── APP BODY ───────────────────────────────── */
+    .app-body {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+      min-height: 0;
+    }
+
+    /* ─── MAIN CONTENT ───────────────────────────── */
+    .main-content {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      min-width: 0;
+    }
+
+    /* ─── TOOLBAR ────────────────────────────────── */
+    .toolbar {
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 9;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .search-input {
+      flex: 1;
+      max-width: 340px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: .82rem;
+      padding: 8px 12px;
+      border-radius: 8px;
+      outline: none;
+      transition: border-color .15s;
+    }
+    .search-input::placeholder { color: var(--muted); }
+    .search-input:focus { border-color: var(--blue); }
+    .stats-line { font-size: .76rem; color: var(--muted); white-space: nowrap; }
+    .stats-line .n-alert { color: #fca5a5; font-weight: 600; }
+    .stats-line .n-bull  { color: #86efac; font-weight: 600; }
+
+    /* ─── SECTION & TABLE ─────────────────────────── */
+    .section { padding: 22px 24px 8px; }
+    .section-title {
+      font-size: .68rem;
+      font-weight: 700;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-title::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+    .us-title   { color: var(--blue); }
+    .thai-title { color: var(--green); }
+
+    .table-wrap { margin-bottom: 26px; overflow-x: auto; }
+    table.watchlist {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .82rem;
+    }
+    table.watchlist thead th {
+      text-align: left;
+      font-size: .68rem;
+      font-weight: 700;
+      letter-spacing: .8px;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 0 12px 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    table.watchlist th.num, table.watchlist td.w-price, table.watchlist td.w-chg { text-align: right; }
+    table.watchlist th.icon-col, table.watchlist td.w-alert { text-align: center; width: 34px; }
+
+    tr.w-row {
+      cursor: pointer;
+      border-bottom: 1px solid var(--border);
+      border-left: 3px solid transparent;
+      transition: background .12s, border-color .12s;
+    }
+    tr.w-row:hover { background: var(--bg-card); }
+    tr.w-row.row-bear { border-left-color: #ef4444; }
+    tr.w-row.row-bull { border-left-color: #16a34a; }
+    tr.w-row.row-bear.row-bull { border-left-color: #ef4444; }
+    tr.w-row td { padding: 10px 12px; }
+
+    .w-ticker { font-weight: 700; color: var(--blue); white-space: nowrap; }
+    tr.thai .w-ticker { color: var(--green); }
+    .w-name {
+      color: #cbd5e1;
+      max-width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .w-price { font-weight: 600; white-space: nowrap; }
+    .w-chg   { font-weight: 600; white-space: nowrap; }
+    .w-chg.up   { color: var(--green); }
+    .w-chg.down { color: var(--red); }
+    .w-chg.flat { color: #94a3b8; }
+    .w-alert-icon { font-size: .82rem; }
+
+    tr.w-detail td { padding: 0; border-bottom: 1px solid var(--border); }
+    tr.w-detail.hidden { display: none; }
+    .w-detail-inner { background: var(--bg-dark); padding: 4px 12px 10px; }
+
+    /* ─── ALERT BANNERS (inside expanded row) ─────── */
+    .bear-banner {
+      background: #1f0a0a;
+      border: 1px solid #7f1d1d;
+      border-radius: 8px;
+      padding: 8px 16px;
+      margin: 8px 0;
+    }
+    .bear-item {
+      display: flex;
+      gap: 6px;
+      align-items: flex-start;
+      padding: 5px 0;
+      border-bottom: 1px solid #2d1515;
+      font-size: .77rem;
+      line-height: 1.4;
+    }
+    .bear-item:last-child { border-bottom: none; }
+    .bear-item-icon { flex-shrink: 0; }
+    .bear-item-body { color: #fca5a5; }
+    .bear-item-body a { color: #f87171; font-size: .72rem; }
+    .bear-item-body a:hover { color: #fca5a5; }
+    .bear-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
+
+    /* Bull signal banner (green, mirror of bear) */
+    .bull-banner {
+      background: #07180f;
+      border: 1px solid #166534;
+      border-radius: 8px;
+      padding: 8px 16px;
+      margin: 8px 0;
+    }
+    .bull-item {
+      display: flex;
+      gap: 6px;
+      align-items: flex-start;
+      padding: 5px 0;
+      border-bottom: 1px solid #122c1c;
+      font-size: .77rem;
+      line-height: 1.4;
+    }
+    .bull-item:last-child { border-bottom: none; }
+    .bull-item-icon { flex-shrink: 0; }
+    .bull-item-body { color: #86efac; }
+    .bull-item-body a { color: #4ade80; font-size: .72rem; }
+    .bull-item-body a:hover { color: #86efac; }
+    .bull-condition { color: #6b7280; font-size: .7rem; margin-top: 2px; }
+
+    .brief-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-size: .68rem;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 2px 7px;
+      cursor: pointer;
+      background: none;
+      transition: all .15s;
+      margin-left: 8px;
+    }
+    .brief-btn:hover { color: var(--blue); border-color: #3b5ea6; background: #0f1b2d; }
+
+    .news-list { padding: 4px 0 0; }
+    .news-item { padding: 9px 0; border-top: 1px solid var(--border); }
+    .news-item a {
+      color: #cbd5e1;
+      text-decoration: none;
+      font-size: .81rem;
+      line-height: 1.5;
+      display: block;
+    }
+    .news-item a:hover { color: var(--blue); }
+    .news-meta { font-size: .71rem; color: var(--dim); margin-top: 3px; }
+    .loading  { color: var(--dim); font-size: .77rem; padding: 10px 16px; }
+    .no-news  { color: var(--dim); font-size: .77rem; padding: 10px 16px; }
+    .view-more {
+      display: block;
+      text-align: center;
+      font-size: .73rem;
+      color: var(--dim);
+      padding: 9px 0 3px;
+      text-decoration: none;
+      border-top: 1px solid var(--border);
+    }
+    .view-more:hover { color: #94a3b8; }
+
+    /* ─── SIDEBAR ────────────────────────────────── */
+    .sidebar {
+      width: var(--sidebar-w);
+      flex-shrink: 0;
+      border-left: 1px solid var(--border);
+      background: var(--bg-dark);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .sidebar-inner {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    /* Sidebar section */
+    .sb-sec { border-bottom: 1px solid var(--border); }
+
+    .sb-sec-hd {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 11px 14px;
+      background: none;
+      border: none;
+      color: var(--text);
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .9px;
+      text-transform: uppercase;
+      cursor: pointer;
+      text-align: left;
+    }
+    .sb-sec-hd:hover { background: #0f1520; }
+
+    .sb-badge {
+      margin-left: auto;
+      font-size: .65rem;
+      background: #1e2535;
+      color: #94a3b8;
+      padding: 1px 6px;
+      border-radius: 10px;
+      font-weight: 700;
+    }
+    .sb-badge.alert { background: #7f1d1d; color: #fca5a5; }
+    .sb-badge.bull  { background: #14532d; color: #86efac; }
+
+    .sb-chevron {
+      font-size: .58rem;
+      color: var(--muted);
+      transition: transform .18s;
+    }
+    .collapsed .sb-chevron { transform: rotate(-90deg); }
+
+    .sb-body { /* collapsible */ }
+    .sb-body.hidden { display: none; }
+
+    /* Group inside sidebar */
+    .sb-group-hd {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 14px 5px;
+      font-size: .69rem;
+      font-weight: 600;
+      color: #94a3b8;
+      cursor: pointer;
+      user-select: none;
+    }
+    .sb-group-hd:hover { color: var(--text); }
+    .sb-group-hd .sb-chevron { margin-left: auto; }
+
+    .sb-items { padding-bottom: 6px; }
+    .sb-items.hidden { display: none; }
+
+    .sb-item {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      padding: 6px 14px 6px 24px;
+      font-size: .77rem;
+      cursor: pointer;
+      transition: background .1s;
+      border: none;
+      background: none;
+      width: 100%;
+      text-align: left;
+      color: var(--text);
+    }
+    .sb-item:hover { background: #0f1520; }
+    .sb-ticker {
+      font-weight: 700;
+      font-size: .7rem;
+      min-width: 44px;
+      color: var(--blue);
+    }
+    .sb-item.thai .sb-ticker { color: var(--green); }
+    .sb-name {
+      color: #94a3b8;
+      font-size: .72rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    /* Alert items */
+    .sb-alert-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 7px 14px;
+      cursor: pointer;
+      transition: background .1s;
+      border: none;
+      background: none;
+      width: 100%;
+      text-align: left;
+      color: var(--text);
+    }
+    .sb-alert-item:hover { background: #1a0808; }
+    .sb-alert-left { display: flex; align-items: center; gap: 6px; }
+    .sb-alert-ticker { font-weight: 700; font-size: .74rem; color: #fca5a5; }
+    .sb-alert-name { font-size: .69rem; color: #6b7280; }
+    .sb-alert-cnt {
+      font-size: .65rem;
+      font-weight: 700;
+      background: #7f1d1d;
+      color: #fca5a5;
+      padding: 1px 7px;
+      border-radius: 10px;
+    }
+
+    /* Bull variant of sidebar alert item */
+    .sb-alert-item.bull:hover { background: #07180f; }
+    .sb-alert-item.bull .sb-alert-ticker { color: #86efac; }
+    .sb-alert-item.bull .sb-alert-cnt { background: #14532d; color: #86efac; }
+
+    .sb-empty { padding: 10px 14px; font-size: .74rem; color: var(--muted); }
+
+    /* ─── BRIEF DRAWER ───────────────────────────── */
+    .brief-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.6);
+      z-index: 300;
+    }
+    .brief-overlay.visible { display: block; }
+
+    .brief-drawer {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: min(780px, 100vw);
+      background: #0e1420;
+      border-left: 1px solid var(--border-mid);
+      z-index: 400;
+      display: flex;
+      flex-direction: column;
+      transform: translateX(100%);
+      transition: transform .24s cubic-bezier(.4,0,.2,1);
+    }
+    .brief-drawer.open { transform: translateX(0); }
+
+    .brief-dh {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 13px 20px;
+      border-bottom: 1px solid var(--border);
+      background: #090d16;
+      flex-shrink: 0;
+      gap: 12px;
+    }
+    .brief-dh-left { display: flex; align-items: center; gap: 10px; min-width: 0; }
+    .brief-dh-badge {
+      font-weight: 700;
+      font-size: .82rem;
+      padding: 3px 10px;
+      border-radius: 6px;
+      background: #1e3a5f;
+      color: var(--blue);
+      flex-shrink: 0;
+    }
+    .brief-dh-badge.thai { background: #064e3b; color: var(--green); }
+    .brief-dh-name { font-size: .9rem; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    .brief-close-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      width: 28px; height: 28px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: .85rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .brief-close-btn:hover { color: var(--text); border-color: #334155; }
+
+    .brief-scroll {
+      flex: 1;
+      overflow-y: auto;
+      padding: 28px 32px 48px;
+    }
+
+    /* ─── BRIEF CONTENT STYLES ───────────────────── */
+    .brief-md {
+      line-height: 1.75;
+      font-size: .87rem;
+      color: #c8d5e8;
+      max-width: 680px;
+    }
+    .brief-md h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+    .brief-md > p:first-of-type {
+      font-size: .75rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+    .brief-md h2 {
+      font-size: .71rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #7c8fa8;
+      margin-top: 30px;
+      margin-bottom: 12px;
+      padding-bottom: 7px;
+      border-bottom: 1px solid var(--border);
+    }
+    .brief-md p  { margin-bottom: 10px; }
+    .brief-md ul, .brief-md ol { padding-left: 20px; margin-bottom: 10px; }
+    .brief-md li { margin-bottom: 6px; }
+    .brief-md strong { color: var(--text); font-weight: 600; }
+    .brief-md em     { color: #94a3b8; }
+    .brief-md hr     { border: none; border-top: 1px solid var(--border); margin: 22px 0; }
+    .brief-md a      { color: var(--blue); text-decoration: none; }
+    .brief-md a:hover { text-decoration: underline; }
+    .brief-md code {
+      background: #1e2535;
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: .82em;
+    }
+
+    /* Bull / Bear standalone headings */
+    .brief-md .h2-bull { color: #4ade80 !important; border-color: #1a4731 !important; }
+    .brief-md .h2-bear { color: #f87171 !important; border-color: #7f1d1d !important; }
+
+    /* Bull label (combined section) */
+    .brief-md .bull-label { margin-bottom: 4px; }
+    .brief-md .bull-label strong { color: #4ade80 !important; font-size: .85rem; letter-spacing: .5px; }
+    .brief-md .bear-label { margin-bottom: 4px; margin-top: 8px; }
+    .brief-md .bear-label strong { color: #f87171 !important; font-size: .85rem; letter-spacing: .5px; }
+
+    /* Bull list box */
+    .brief-md .bull-list {
+      background: #071810;
+      border: 1px solid #1c4731;
+      border-radius: 10px;
+      padding: 12px 16px 12px 30px;
+      margin-bottom: 14px;
+      list-style: none;
+    }
+    .brief-md .bull-list li {
+      color: #86efac;
+      padding-left: 0;
+      position: relative;
+    }
+    .brief-md .bull-list li::before {
+      content: "▲";
+      font-size: .6rem;
+      color: #4ade80;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .brief-md .bull-list li strong { color: #4ade80 !important; }
+
+    /* Bear list box */
+    .brief-md .bear-list {
+      background: #180808;
+      border: 1px solid #7f1d1d;
+      border-radius: 10px;
+      padding: 12px 16px 12px 30px;
+      margin-bottom: 14px;
+      list-style: none;
+    }
+    .brief-md .bear-list li {
+      color: #fca5a5;
+      padding-left: 0;
+      position: relative;
+    }
+    .brief-md .bear-list li::before {
+      content: "▼";
+      font-size: .6rem;
+      color: #f87171;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .brief-md .bear-list li strong { color: #f87171 !important; }
+
+    /* Kill conditions */
+    .brief-md .kill-list {
+      background: #130e00;
+      border: 1px solid #854d0e;
+      border-radius: 10px;
+      padding: 12px 16px 12px 30px;
+      margin-bottom: 14px;
+      list-style: none;
+    }
+    .brief-md .kill-list li {
+      color: #fde68a;
+      position: relative;
+    }
+    .brief-md .kill-list li::before {
+      content: "🔴";
+      font-size: .7rem;
+      margin-right: 6px;
+    }
+    .brief-md .kill-list li strong { color: #fbbf24 !important; }
+
+    /* What to ask */
+    .brief-md .ask-list {
+      background: #0c1325;
+      border: 1px solid var(--border-mid);
+      border-radius: 10px;
+      padding: 12px 16px 12px 30px;
+      margin-bottom: 14px;
+    }
+    .brief-md .ask-list li { color: #94a3b8; }
+    .brief-md .ask-list li strong { color: #cbd5e1 !important; }
+
+    .brief-loading { color: var(--muted); font-size: .85rem; padding: 20px 0; }
+
+    /* ─── MOBILE ─────────────────────────────────── */
+    @media (max-width: 800px) {
+      .sb-toggle-btn { display: flex; }
+
+      .sidebar {
+        position: fixed;
+        top: var(--header-h);
+        right: 0;
+        bottom: 0;
+        z-index: 250;
+        transform: translateX(100%);
+        transition: transform .24s cubic-bezier(.4,0,.2,1);
+        border-left: 1px solid var(--border-mid);
+      }
+      .sidebar.open { transform: translateX(0); }
+
+      .brief-drawer { width: 100vw; }
+      header { padding: 0 12px 0 16px; }
+      .toolbar { padding: 10px 16px; }
+      .section { padding: 18px 16px 8px; }
+      .brief-scroll { padding: 20px 18px 40px; }
+
+      /* Take the whole table out of table-layout mode so no <tr>/<td> ever
+         mixes display:flex with the browser's table column algorithm
+         (Safari especially will misalign columns when rows disagree) — every
+         row/cell becomes a plain block first, then .w-row layers flex on top. */
+      table.watchlist thead { display: none; }
+      table.watchlist, table.watchlist tbody, table.watchlist tr, table.watchlist td {
+        display: block;
+        width: 100%;
+      }
+      table.watchlist tr.w-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2px 10px;
+        padding: 10px 12px;
+      }
+      table.watchlist tr.w-row td { padding: 0; border: none; width: auto; }
+      .w-ticker { order: 1; }
+      .w-price  { order: 2; margin-left: auto; }
+      .w-chg    { order: 3; min-width: 56px; }
+      .w-alert  { order: 4; width: auto; }
+      .w-name   { order: 5; flex: 1 1 100%; max-width: none; white-space: normal; font-size: .78rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📈 Stock Tracker</h1>
+    <div class="header-right">
+      <a class="nav-link" href="./dca.html">📊 DCA</a>
+      <button class="sb-toggle-btn" id="sb-toggle" onclick="toggleSidebar()">
+        📋 Research
+      </button>
+      <span id="updated"></span>
+    </div>
+  </header>
+
+  <div class="app-body">
+
+    <!-- ── MAIN ───────────────────────────────────── -->
+    <div class="main-content">
+
+      <div class="toolbar">
+        <input class="search-input" id="search-input" type="text"
+               placeholder="🔍 Search ticker or company…" oninput="filterRows(this.value)" />
+        <span class="stats-line" id="stats-line"></span>
+      </div>
+
+      <div class="section">
+        <div class="section-title us-title">🇺🇸 US Stocks</div>
+        <div class="table-wrap">
+          <table class="watchlist">
+            <thead>
+              <tr>
+                <th>Ticker</th>
+                <th>Company</th>
+                <th class="num">Price</th>
+                <th class="num">Chg</th>
+                <th class="icon-col"></th>
+              </tr>
+            </thead>
+            <tbody id="tbody-us"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title thai-title">🇹🇭 Thai Stocks (SET)</div>
+        <div class="table-wrap">
+          <table class="watchlist">
+            <thead>
+              <tr>
+                <th>Ticker</th>
+                <th>Company</th>
+                <th class="num">Price</th>
+                <th class="num">Chg</th>
+                <th class="icon-col"></th>
+              </tr>
+            </thead>
+            <tbody id="tbody-thai"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div><!-- /main-content -->
+
+    <!-- ── SIDEBAR ────────────────────────────────── -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-inner">
+
+        <!-- BRIEFS -->
+        <div class="sb-sec">
+          <button class="sb-sec-hd" onclick="toggleSbSec(this)">
+            <span>📋 Briefs</span>
+            <span class="sb-badge" id="brief-badge-count"></span>
+            <span class="sb-chevron">▼</span>
+          </button>
+          <div class="sb-body" id="sb-briefs-body">
+
+            <div class="sb-group">
+              <div class="sb-group-hd" onclick="toggleSbGroup(this)">
+                🇺🇸 US Stocks <span class="sb-chevron">▼</span>
+              </div>
+              <div class="sb-items" id="sb-us-items"></div>
+            </div>
+
+            <div class="sb-group">
+              <div class="sb-group-hd" onclick="toggleSbGroup(this)">
+                🇹🇭 Thai Stocks <span class="sb-chevron">▼</span>
+              </div>
+              <div class="sb-items" id="sb-thai-items"></div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- BULL SIGNALS -->
+        <div class="sb-sec">
+          <button class="sb-sec-hd" onclick="toggleSbSec(this)">
+            <span>🟢 Bull Signals</span>
+            <span class="sb-badge bull" id="bull-sb-badge">—</span>
+            <span class="sb-chevron">▼</span>
+          </button>
+          <div class="sb-body" id="sb-bull-body">
+            <div class="sb-empty">Loading…</div>
+          </div>
+        </div>
+
+        <!-- BEAR ALERTS -->
+        <div class="sb-sec">
+          <button class="sb-sec-hd" onclick="toggleSbSec(this)">
+            <span>🚨 Bear Alerts</span>
+            <span class="sb-badge alert" id="alert-sb-badge">—</span>
+            <span class="sb-chevron">▼</span>
+          </button>
+          <div class="sb-body" id="sb-alerts-body">
+            <div class="sb-empty">Loading…</div>
+          </div>
+        </div>
+
+      </div>
+    </aside>
+
+  </div><!-- /app-body -->
+
+  <!-- ── BRIEF OVERLAY + DRAWER ─────────────────── -->
+  <div class="brief-overlay" id="brief-overlay" onclick="closeBrief()"></div>
+
+  <div class="brief-drawer" id="brief-drawer">
+    <div class="brief-dh">
+      <div class="brief-dh-left">
+        <span class="brief-dh-badge" id="brief-dh-badge"></span>
+        <span class="brief-dh-name" id="brief-dh-name"></span>
+      </div>
+      <button class="brief-close-btn" onclick="closeBrief()">✕</button>
+    </div>
+    <div class="brief-scroll">
+      <div class="brief-md" id="brief-md"></div>
+    </div>
+  </div>
+
+  <script src="./config.js"></script>
+  <script>
+    /* ─────────────────────────────────────────────────
+       CONFIG
+    ───────────────────────────────────────────────── */
+    const FINNHUB_KEY = window.FINNHUB_KEY || "";
+    const RSS2JSON    = "https://api.rss2json.com/v1/api.json?rss_url=";
+
+    // Populated by loadStockList() from stocks.json (generated from briefs/*.md
+    // at deploy time — see scripts/gen_stocks_json.py) so a new brief shows up
+    // here without hand-editing this file.
+    let US_STOCKS  = [];
+    let TH_STOCKS  = [];
+    let HAS_BRIEF  = new Set();
+    let THAI_SET   = new Set();
+    let ALL_STOCKS = [];
+
+    async function loadStockList() {
+      const res = await fetch("./stocks.json");
+      const data = await res.json();
+      US_STOCKS = data.us;
+      TH_STOCKS = data.th;
+      HAS_BRIEF = new Set([...US_STOCKS, ...TH_STOCKS].map(s => s.ticker));
+      THAI_SET  = new Set(TH_STOCKS.map(s => s.ticker));
+      ALL_STOCKS = [
+        ...US_STOCKS.map(s => ({ ...s, thai: false })),
+        ...TH_STOCKS.map(s => ({ ...s, thai: true })),
+      ];
+    }
+
+    /* ─────────────────────────────────────────────────
+       SIDEBAR TOGGLE (mobile)
+    ───────────────────────────────────────────────── */
+    function toggleSidebar() {
+      document.getElementById("sidebar").classList.toggle("open");
+    }
+
+    /* ─────────────────────────────────────────────────
+       SIDEBAR COLLAPSE
+    ───────────────────────────────────────────────── */
+    function toggleSbSec(btn) {
+      btn.classList.toggle("collapsed");
+      btn.nextElementSibling.classList.toggle("hidden");
+    }
+
+    function toggleSbGroup(el) {
+      const chev = el.querySelector(".sb-chevron");
+      chev.style.transform = chev.style.transform ? "" : "rotate(-90deg)";
+      el.nextElementSibling.classList.toggle("hidden");
+    }
+
+    /* ─────────────────────────────────────────────────
+       BUILD BRIEF TREE
+    ───────────────────────────────────────────────── */
+    function buildBriefTree() {
+      const usEl = document.getElementById("sb-us-items");
+      const thEl = document.getElementById("sb-thai-items");
+
+      US_STOCKS.forEach(s => {
+        if (!HAS_BRIEF.has(s.ticker)) return;
+        const btn = document.createElement("button");
+        btn.className = "sb-item";
+        btn.innerHTML = `<span class="sb-ticker">${s.ticker}</span><span class="sb-name">${s.name}</span>`;
+        btn.onclick = () => openBrief(s.ticker, s.name, false);
+        usEl.appendChild(btn);
+      });
+
+      TH_STOCKS.forEach(s => {
+        if (!HAS_BRIEF.has(s.ticker)) return;
+        const btn = document.createElement("button");
+        btn.className = "sb-item thai";
+        btn.innerHTML = `<span class="sb-ticker">${s.ticker}</span><span class="sb-name">${s.name}</span>`;
+        btn.onclick = () => openBrief(s.ticker, s.name, true);
+        thEl.appendChild(btn);
+      });
+
+      document.getElementById("brief-badge-count").textContent = HAS_BRIEF.size;
+    }
+
+    /* ─────────────────────────────────────────────────
+       BRIEF DRAWER
+    ───────────────────────────────────────────────── */
+    async function openBrief(ticker, name, isThai) {
+      const drawer  = document.getElementById("brief-drawer");
+      const overlay = document.getElementById("brief-overlay");
+      const badge   = document.getElementById("brief-dh-badge");
+      const nameEl  = document.getElementById("brief-dh-name");
+      const mdEl    = document.getElementById("brief-md");
+
+      badge.textContent  = ticker;
+      badge.className    = "brief-dh-badge" + (isThai ? " thai" : "");
+      nameEl.textContent = name;
+      mdEl.innerHTML     = '<div class="brief-loading">Loading brief…</div>';
+
+      drawer.classList.add("open");
+      overlay.classList.add("visible");
+
+      // Scroll brief to top
+      drawer.querySelector(".brief-scroll").scrollTop = 0;
+
+      // Close mobile sidebar
+      if (window.innerWidth <= 800) {
+        document.getElementById("sidebar").classList.remove("open");
+      }
+
+      try {
+        const res = await fetch(`./briefs/${ticker}.md?t=${Date.now()}`);
+        if (!res.ok) throw new Error("not found");
+        const md   = await res.text();
+        const html = marked.parse(md);
+        mdEl.innerHTML = html;
+        styleBriefMd(mdEl);
+      } catch {
+        mdEl.innerHTML = `<p style="color:#64748b;padding:20px 0">Brief not found for <strong>${ticker}</strong></p>`;
+      }
+    }
+
+    function closeBrief() {
+      document.getElementById("brief-drawer").classList.remove("open");
+      document.getElementById("brief-overlay").classList.remove("visible");
+    }
+
+    document.addEventListener("keydown", e => { if (e.key === "Escape") closeBrief(); });
+
+    /* ─────────────────────────────────────────────────
+       STYLE BRIEF CONTENT
+       Handles:
+       1) "## N. Bull Case / Bear Case" (combined) — looks for **Bull** / **Bear** labels
+       2) "## Bull Case" / "## Bear Case" (separate headings)
+    ───────────────────────────────────────────────── */
+    function styleBriefMd(container) {
+      const nodes = Array.from(container.children);
+      let section = null; // "bullbear" | "bull" | "bear" | "kill" | "ask" | null
+
+      nodes.forEach((node, i) => {
+        if (node.tagName === "HR") { section = null; return; }
+
+        if (node.tagName === "H2") {
+          const t = node.textContent.toLowerCase();
+          const hasBull = t.includes("bull");
+          const hasBear = t.includes("bear");
+
+          if (hasBull && hasBear) section = "bullbear";
+          else if (hasBull)       { section = "bull";  node.classList.add("h2-bull"); }
+          else if (hasBear)       { section = "bear";  node.classList.add("h2-bear"); }
+          else if (t.includes("kill"))     section = "kill";
+          else if (t.includes("what") || t.includes("ask")) section = "ask";
+          else section = null;
+          return;
+        }
+
+        // Combined bullbear section: find **Bull** / **Bear** paragraph labels
+        if (section === "bullbear" && node.tagName === "P") {
+          const s = node.querySelector("strong");
+          if (s) {
+            const label = s.textContent.trim().toLowerCase();
+            if (label === "bull") {
+              node.classList.add("bull-label");
+              if (nodes[i + 1]?.tagName === "UL") nodes[i + 1].classList.add("bull-list");
+            } else if (label === "bear") {
+              node.classList.add("bear-label");
+              if (nodes[i + 1]?.tagName === "UL") nodes[i + 1].classList.add("bear-list");
+            }
+          }
+        }
+
+        // Standalone sections
+        if (section === "bull" && node.tagName === "UL") node.classList.add("bull-list");
+        if (section === "bear" && node.tagName === "UL") node.classList.add("bear-list");
+        if (section === "kill" && node.tagName === "UL") node.classList.add("kill-list");
+        if (section === "ask"  && (node.tagName === "OL" || node.tagName === "UL"))
+          node.classList.add("ask-list");
+      });
+    }
+
+    /* ─────────────────────────────────────────────────
+       SEARCH FILTER
+    ───────────────────────────────────────────────── */
+    function filterRows(query) {
+      const q = query.trim().toLowerCase();
+      [...usRows, ...thRows].forEach(({ s, tr, detailTr }) => {
+        const match = !q || s.ticker.toLowerCase().includes(q) || s.name.toLowerCase().includes(q);
+        tr.style.display = match ? "" : "none";
+        detailTr.style.display = match ? "" : "none";
+        if (!match) detailTr.classList.add("hidden");
+      });
+    }
+
+    /* ─────────────────────────────────────────────────
+       HELPERS
+    ───────────────────────────────────────────────── */
+    function toDateStr(d) { return d.toISOString().slice(0, 10); }
+
+    function relTime(ts) {
+      const diff = Math.floor(Date.now() / 1000 - ts);
+      if (diff < 3600)  return `${Math.floor(diff / 60)} min ago`;
+      if (diff < 86400) return `${Math.floor(diff / 3600)} hr ago`;
+      return `${Math.floor(diff / 86400)} d ago`;
+    }
+
+    function priceFmt(p, decimals = 2) {
+      return p.toLocaleString(undefined, { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+    }
+
+    function changeClass(dp) { return dp > 0 ? "up" : dp < 0 ? "down" : "flat"; }
+    function changeSign(dp)  { return dp > 0 ? "+" : ""; }
+
+    function setPriceChange(id, price, dp, cur) {
+      if (price == null) return;
+      const priceEl = document.getElementById(`price-${id}`);
+      const chgEl   = document.getElementById(`chg-${id}`);
+      if (priceEl) priceEl.textContent = `${cur}${priceFmt(price)}`;
+      if (chgEl) {
+        chgEl.className   = `w-chg ${changeClass(dp)}`;
+        chgEl.textContent = dp == null ? "—" : `${changeSign(dp)}${dp.toFixed(2)}%`;
+      }
+    }
+
+    function newsHTML(items, moreHref) {
+      if (!items.length) return `<div class="no-news">No news in the past 7 days</div>`;
+      return items.map(i => `
+        <div class="news-item">
+          <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
+          <div class="news-meta">${i.source}${i.time ? " · " + i.time : ""}</div>
+        </div>`).join("") +
+        (moreHref ? `<a class="view-more" href="${moreHref}" target="_blank" rel="noopener">View more →</a>` : "");
+    }
+
+    // Row is collapsed by default; click toggles the detail row (news + alerts) below it.
+    function toggleRow(id) {
+      const d = document.getElementById(`detail-${id}`);
+      if (d) d.classList.toggle("hidden");
+    }
+
+    function makeRow(id, ticker, name, isThai) {
+      const tr = document.createElement("tr");
+      tr.className = "w-row" + (isThai ? " thai" : "");
+      tr.id = `row-${id}`;
+      tr.onclick = () => toggleRow(id);
+
+      const briefBtn = HAS_BRIEF.has(ticker)
+        ? `<button class="brief-btn" onclick="event.stopPropagation(); openBrief('${ticker}','${name.replace(/'/g, "\\'")}',${isThai})">📋 Brief</button>`
+        : "";
+
+      tr.innerHTML = `
+        <td class="w-ticker">${ticker}</td>
+        <td class="w-name">${name}${briefBtn}</td>
+        <td class="w-price" id="price-${id}">—</td>
+        <td class="w-chg"   id="chg-${id}">—</td>
+        <td class="w-alert" id="alert-${id}"></td>`;
+
+      const detailTr = document.createElement("tr");
+      detailTr.className = "w-detail hidden";
+      detailTr.id = `detail-${id}`;
+      detailTr.innerHTML = `<td colspan="5"><div class="w-detail-inner"><div class="news-list"><div class="loading">Loading news…</div></div></div></td>`;
+
+      return { tr, detailTr };
+    }
+
+    /* ─────────────────────────────────────────────────
+       DATA: US (Finnhub)
+    ───────────────────────────────────────────────── */
+    async function finnhubQuote(ticker) {
+      try {
+        const r = await fetch(`https://finnhub.io/api/v1/quote?symbol=${ticker}&token=${FINNHUB_KEY}`);
+        return r.ok ? r.json() : null;
+      } catch { return null; }
+    }
+
+    async function finnhubNews(ticker) {
+      try {
+        const to   = new Date();
+        const from = new Date(Date.now() - 7 * 86400e3);
+        const r = await fetch(
+          `https://finnhub.io/api/v1/company-news?symbol=${ticker}&from=${toDateStr(from)}&to=${toDateStr(to)}&token=${FINNHUB_KEY}`
+        );
+        if (!r.ok) return [];
+        return (await r.json()).slice(0, 4).map(a => ({
+          title: a.headline, url: a.url, source: a.source, time: relTime(a.datetime),
+        }));
+      } catch { return []; }
+    }
+
+    /* ─────────────────────────────────────────────────
+       DATA: Thai (Yahoo + Google News)
+    ───────────────────────────────────────────────── */
+    async function yahooQuote(symbol) {
+      try {
+        const r = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=1d`);
+        if (!r.ok) return null;
+        const m = (await r.json())?.chart?.result?.[0]?.meta;
+        if (!m) return null;
+        const price = m.regularMarketPrice;
+        const prev  = m.previousClose || m.chartPreviousClose;
+        return { price, dp: prev ? ((price - prev) / prev) * 100 : null };
+      } catch { return null; }
+    }
+
+    async function googleNews(query) {
+      try {
+        const rss = encodeURIComponent(`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=th-TH&gl=TH&ceid=TH:th`);
+        const r = await fetch(RSS2JSON + rss);
+        if (!r.ok) return [];
+        return ((await r.json()).items || []).slice(0, 4).map(i => ({
+          title: i.title, url: i.link, source: i.author || "Google News", time: "",
+        }));
+      } catch { return []; }
+    }
+
+    /* ─────────────────────────────────────────────────
+       RENDER  (build once, refresh repeatedly)
+    ───────────────────────────────────────────────── */
+    let usRows = [];
+    let thRows = [];
+
+    function buildTables() {
+      const usBody = document.getElementById("tbody-us");
+      usRows = US_STOCKS.map(s => {
+        const { tr, detailTr } = makeRow(s.ticker, s.ticker, s.name, false);
+        usBody.appendChild(tr);
+        usBody.appendChild(detailTr);
+        return { s, id: s.ticker, tr, detailTr };
+      });
+
+      const thBody = document.getElementById("tbody-thai");
+      thRows = TH_STOCKS.map(s => {
+        const { tr, detailTr } = makeRow(s.symbol, s.ticker, s.name, true);
+        thBody.appendChild(tr);
+        thBody.appendChild(detailTr);
+        return { s, id: s.symbol, tr, detailTr };
+      });
+    }
+
+    function setNews(id, html) {
+      const inner = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+      if (inner) inner.innerHTML = html;
+    }
+
+    async function refreshUS() {
+      await Promise.allSettled(usRows.map(async ({ s, id }) => {
+        const [q, news] = await Promise.all([finnhubQuote(s.ticker), finnhubNews(s.ticker)]);
+        if (q) setPriceChange(id, q.c, q.dp, "$");
+        setNews(id, newsHTML(news, `https://finance.yahoo.com/quote/${s.ticker}/news/`));
+      }));
+    }
+
+    async function refreshThai() {
+      await Promise.allSettled(thRows.map(async ({ s, id }) => {
+        const [q, news] = await Promise.all([yahooQuote(s.symbol), googleNews(`${s.ticker} stock SET`)]);
+        if (q) setPriceChange(id, q.price, q.dp, "฿");
+        setNews(id, newsHTML(news, `https://finance.yahoo.com/quote/${s.symbol}/news/`));
+      }));
+    }
+
+    let lastRefresh = 0;
+
+    async function refreshData() {
+      await Promise.allSettled([refreshUS(), refreshThai()]);
+      lastRefresh = Date.now();
+      document.getElementById("updated").textContent =
+        "Updated " + new Date().toLocaleTimeString("en-US");
+    }
+
+    /* ─────────────────────────────────────────────────
+       BEAR ALERTS
+    ───────────────────────────────────────────────── */
+    async function loadBearAlerts() {
+      try {
+        const r = await fetch("./bear_alerts.json?t=" + Date.now());
+        if (!r.ok) return {};
+        return (await r.json()).alerts || {};
+      } catch { return {}; }
+    }
+
+    // ticker → row id: US rows are keyed by ticker, TH rows by "<ticker>.BK"
+    function rowIdFor(ticker) {
+      if (document.getElementById(`row-${ticker}`)) return ticker;
+      if (document.getElementById(`row-${ticker}.BK`)) return `${ticker}.BK`;
+      return null;
+    }
+
+    function applyBearAlerts(alerts) {
+      bearAlertsCache = alerts;
+      for (const [ticker, items] of Object.entries(alerts)) {
+        if (!items.length) continue;
+        const id = rowIdFor(ticker);
+        if (!id) continue;
+        document.getElementById(`row-${id}`).classList.add("row-bear");
+        document.getElementById(`alert-${id}`)
+          .insertAdjacentHTML("beforeend", `<span class="w-alert-icon" title="Bear alert">⚠️</span>`);
+
+        const banner = document.createElement("div");
+        banner.className = "bear-banner";
+        banner.innerHTML = items.map(a => `
+          <div class="bear-item">
+            <span class="bear-item-icon">⚠️</span>
+            <div class="bear-item-body">
+              ${a.headline}
+              <a href="${a.url}" target="_blank" rel="noopener"> — Verify</a>
+              <div class="bear-condition">📌 ${a.condition}</div>
+            </div>
+          </div>`).join("");
+        const newsList = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+        newsList.parentNode.insertBefore(banner, newsList);
+      }
+
+      buildAlertSidebar(alerts);
+      updateStats();
+    }
+
+    function buildAlertSidebar(alerts) {
+      const body  = document.getElementById("sb-alerts-body");
+      const badge = document.getElementById("alert-sb-badge");
+      const active = Object.entries(alerts).filter(([, items]) => items.length > 0);
+
+      badge.textContent = active.length || "0";
+
+      if (!active.length) {
+        body.innerHTML = `<div class="sb-empty">No active alerts</div>`;
+        return;
+      }
+
+      body.innerHTML = "";
+      active.forEach(([ticker, items]) => {
+        const stock = ALL_STOCKS.find(s => s.ticker === ticker);
+        const btn = document.createElement("button");
+        btn.className = "sb-alert-item";
+        btn.innerHTML = `
+          <div class="sb-alert-left">
+            <span class="sb-alert-ticker">⚠️ ${ticker}</span>
+            ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
+          </div>
+          <span class="sb-alert-cnt">${items.length}</span>`;
+        btn.onclick = () => scrollToRow(ticker, "#ef4444");
+        body.appendChild(btn);
+      });
+    }
+
+    function scrollToRow(ticker, color = "#ef4444") {
+      const id = rowIdFor(ticker);
+      if (id) {
+        const tr = document.getElementById(`row-${id}`);
+        document.getElementById(`detail-${id}`).classList.remove("hidden");
+        tr.scrollIntoView({ behavior: "smooth", block: "center" });
+        const prev = tr.style.outline;
+        tr.style.outline = `2px solid ${color}`;
+        setTimeout(() => { tr.style.outline = prev; }, 2200);
+      }
+      if (window.innerWidth <= 800) {
+        document.getElementById("sidebar").classList.remove("open");
+      }
+    }
+
+    /* ─────────────────────────────────────────────────
+       BULL SIGNALS  (mirror of bear)
+    ───────────────────────────────────────────────── */
+    async function loadBullAlerts() {
+      try {
+        const r = await fetch("./bull_alerts.json?t=" + Date.now());
+        if (!r.ok) return {};
+        return (await r.json()).alerts || {};
+      } catch { return {}; }
+    }
+
+    function applyBullAlerts(alerts) {
+      bullAlertsCache = alerts;
+      for (const [ticker, items] of Object.entries(alerts)) {
+        if (!items.length) continue;
+        const id = rowIdFor(ticker);
+        if (!id) continue;
+        document.getElementById(`row-${id}`).classList.add("row-bull");
+        document.getElementById(`alert-${id}`)
+          .insertAdjacentHTML("beforeend", `<span class="w-alert-icon" title="Bull signal">🟢</span>`);
+
+        const banner = document.createElement("div");
+        banner.className = "bull-banner";
+        banner.innerHTML = items.map(a => `
+          <div class="bull-item">
+            <span class="bull-item-icon">🟢</span>
+            <div class="bull-item-body">
+              ${a.headline}
+              <a href="${a.url}" target="_blank" rel="noopener"> — Read more</a>
+              <div class="bull-condition">📌 ${a.condition}</div>
+            </div>
+          </div>`).join("");
+        // Insert below any bear banner but above the news list
+        const newsList = document.querySelector(`#detail-${CSS.escape(id)} .news-list`);
+        newsList.parentNode.insertBefore(banner, newsList);
+      }
+
+      buildBullSidebar(alerts);
+      updateStats();
+    }
+
+    function buildBullSidebar(alerts) {
+      const body  = document.getElementById("sb-bull-body");
+      const badge = document.getElementById("bull-sb-badge");
+      const active = Object.entries(alerts).filter(([, items]) => items.length > 0);
+
+      badge.textContent = active.length || "0";
+
+      if (!active.length) {
+        body.innerHTML = `<div class="sb-empty">No active bull signals</div>`;
+        return;
+      }
+
+      body.innerHTML = "";
+      active.forEach(([ticker, items]) => {
+        const stock = ALL_STOCKS.find(s => s.ticker === ticker);
+        const btn = document.createElement("button");
+        btn.className = "sb-alert-item bull";
+        btn.innerHTML = `
+          <div class="sb-alert-left">
+            <span class="sb-alert-ticker">🟢 ${ticker}</span>
+            ${stock ? `<span class="sb-alert-name">${stock.name}</span>` : ""}
+          </div>
+          <span class="sb-alert-cnt">${items.length}</span>`;
+        btn.onclick = () => scrollToRow(ticker, "#16a34a");
+        body.appendChild(btn);
+      });
+    }
+
+    function updateStats() {
+      const nBear = Object.values(bearAlertsCache).filter(v => v.length).length;
+      const nBull = Object.values(bullAlertsCache).filter(v => v.length).length;
+      const parts = [];
+      if (nBear) parts.push(`<span class="n-alert">⚠️ ${nBear} bear alert${nBear > 1 ? "s" : ""}</span>`);
+      if (nBull) parts.push(`<span class="n-bull">🟢 ${nBull} bull signal${nBull > 1 ? "s" : ""}</span>`);
+      document.getElementById("stats-line").innerHTML = parts.join(" · ") || "No active alerts";
+    }
+
+    /* ─────────────────────────────────────────────────
+       INIT
+    ───────────────────────────────────────────────── */
+    const REFRESH_MS = 15 * 60 * 1000;   // auto-refresh every 15 min
+    let bearAlertsCache = {};
+    let bullAlertsCache = {};
+
+    loadStockList().then(() => {
+      buildBriefTree();
+      buildTables();
+
+      // First load: fetch data, then overlay alerts (bear on top, bull below)
+      refreshData().then(() =>
+        loadBearAlerts()
+          .then(applyBearAlerts)
+          .then(() => loadBullAlerts().then(applyBullAlerts))
+      );
+
+      // Periodic refresh — skip while tab is hidden to save API quota
+      setInterval(() => {
+        if (!document.hidden) refreshData();
+      }, REFRESH_MS);
+
+      // Returning to a stale tab → refresh immediately
+      document.addEventListener("visibilitychange", () => {
+        if (!document.hidden && Date.now() - lastRefresh > REFRESH_MS) refreshData();
+      });
+    });
+  </script>
+</body>
+</html>
