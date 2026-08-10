@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T01:00:34.700638+00:00",
+  "last_updated": "2026-08-10T15:04:35.875175+00:00",
   "alerts": {
     "PTT": [
       {
@@ -35,6 +35,18 @@
     ],
     "PG": [
       {
+        "headline": "Looking to Generate Passive Income From Stocks? 3 Unstoppable Dividend Stocks to Buy Now.",
+        "url": "https://finnhub.io/api/news?id=fd426f2f0dcc835eb8386bc149087730ea82724d65a1b0c3143864f0f901ed47",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-10T15:04:35.875175+00:00"
+      },
+      {
+        "headline": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
+        "url": "https://finnhub.io/api/news?id=582b05f0d569ee51c6b0bf6250a46451d2c42e0cdfa41d6823ef058dd06ca5e1",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-10T15:04:35.875175+00:00"
+      },
+      {
         "headline": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
         "url": "https://finnhub.io/api/news?id=582b05f0d569ee51c6b0bf6250a46451d2c42e0cdfa41d6823ef058dd06ca5e1",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=837899412ca90fb440861401f61ce0c54a661cfb43a0e5c8b1ba038ae6be9f54",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-08T01:00:32.575949+00:00"
-      },
-      {
-        "headline": "4 Dividend Kings Almost Nobody Talks About",
-        "url": "https://finnhub.io/api/news?id=b1209bb5e8ce5f86b509e8497815ff1b1fb3c3fbdca5c031c00e020f56a9148f",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-03T16:30:13.048767+00:00"
-      },
-      {
-        "headline": "4 Dividend Kings Almost Nobody Talks About",
-        "url": "https://finnhub.io/api/news?id=b1209bb5e8ce5f86b509e8497815ff1b1fb3c3fbdca5c031c00e020f56a9148f",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-03T01:00:41.626696+00:00"
       }
     ],
     "AVGO": [
@@ -80,6 +80,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Stop Buying Junk: These 2 Quality Income Picks Pay 8% And 10%",
+        "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
+        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
+        "detected_at": "2026-08-10T15:04:35.875175+00:00"
+      },
       {
         "headline": "Stop Buying Junk: These 2 Quality Income Picks Pay 8% And 10%",
         "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
@@ -101,12 +107,6 @@
       {
         "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-07T14:58:04.713373+00:00"
-      },
-      {
-        "headline": "Ares Capital: Income Investors Shouldn't Panic... Yet",
-        "url": "https://finnhub.io/api/news?id=32a2accc84d1cb8c980b2e586bf01f928c0425cb621f79923ef3e4e5bd497dcf",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-07T14:58:04.713373+00:00"
       }
