@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-11T01:00:34.351066+00:00",
+  "last_updated": "2026-08-11T15:03:26.598529+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-11T15:03:26.598529+00:00"
+      },
       {
         "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
@@ -26,6 +32,12 @@
         "headline": "Looking to Generate Passive Income From Stocks? 3 Unstoppable Dividend Stocks to Buy Now.",
         "url": "https://finnhub.io/api/news?id=fd426f2f0dcc835eb8386bc149087730ea82724d65a1b0c3143864f0f901ed47",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-11T15:03:26.598529+00:00"
+      },
+      {
+        "headline": "Looking to Generate Passive Income From Stocks? 3 Unstoppable Dividend Stocks to Buy Now.",
+        "url": "https://finnhub.io/api/news?id=fd426f2f0dcc835eb8386bc149087730ea82724d65a1b0c3143864f0f901ed47",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-11T01:00:34.351066+00:00"
       },
       {
@@ -45,12 +57,6 @@
         "url": "https://finnhub.io/api/news?id=582b05f0d569ee51c6b0bf6250a46451d2c42e0cdfa41d6823ef058dd06ca5e1",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-10T01:00:34.700638+00:00"
-      },
-      {
-        "headline": "The 4% Rule vs. a Dividend Paycheck: Which Makes $1.25 Million Last Longer?",
-        "url": "https://finnhub.io/api/news?id=837899412ca90fb440861401f61ce0c54a661cfb43a0e5c8b1ba038ae6be9f54",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-08T14:36:41.721025+00:00"
       }
     ],
     "AVGO": [
@@ -133,6 +139,14 @@
         "url": "https://finnhub.io/api/news?id=afa64e7298e65523dc1056862034eca1cb022ec855d1d81cd17934d67a37dd83",
         "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
         "detected_at": "2026-08-08T14:36:41.721025+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "What Johnson & Johnson (JNJ)'s OTTAVA FDA Win and Talc Deal Shift Mean For Shareholders",
+        "url": "https://finnhub.io/api/news?id=e8e6381f9ed73fb35f8db6760f5729e3f0b640f006cf3deacd9def67d779bf36",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-08-11T15:03:26.598529+00:00"
       }
     ]
   }
