@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-11T15:03:26.598529+00:00",
+  "last_updated": "2026-08-12T01:00:36.357729+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-12T01:00:36.357729+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
@@ -19,12 +25,6 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-05T01:00:41.878865+00:00"
-      },
-      {
-        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-04T16:15:38.697760+00:00"
       }
     ],
     "PG": [
@@ -65,12 +65,6 @@
         "url": "https://finnhub.io/api/news?id=45a3d006b9aa9ed765c3798a19df96653e71f83df7738c837105f6cb35a08c6c",
         "condition": "โมเดล asset-light + FCF สูง ทำให้จัดสรรทุนได้ยืดหยุ่น ทั้งลดหนี้ คืนผู้ถือหุ้น และลงทุน R&D ต่อได้พร้อมกัน",
         "detected_at": "2026-08-05T01:00:41.878865+00:00"
-      },
-      {
-        "headline": "What Could Push Broadcom Stock Higher Is Already Sitting In Its Order Book",
-        "url": "https://finnhub.io/api/news?id=80ab451eb18f12246e450ee2a2a1ec42e44dfd9adbd22670a53f26b779a1ad84",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-08-04T16:15:38.697760+00:00"
       }
     ],
     "ARCC": [
@@ -117,12 +111,6 @@
         "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-08-05T01:00:41.878865+00:00"
-      },
-      {
-        "headline": "Didn't We Go Through The 'SaaS-pocalypse'?",
-        "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-08-04T16:15:38.697760+00:00"
       }
     ],
     "GE": [
@@ -142,6 +130,12 @@
       }
     ],
     "JNJ": [
+      {
+        "headline": "What Johnson & Johnson (JNJ)'s OTTAVA FDA Win and Talc Deal Shift Mean For Shareholders",
+        "url": "https://finnhub.io/api/news?id=e8e6381f9ed73fb35f8db6760f5729e3f0b640f006cf3deacd9def67d779bf36",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-08-12T01:00:36.357729+00:00"
+      },
       {
         "headline": "What Johnson & Johnson (JNJ)'s OTTAVA FDA Win and Talc Deal Shift Mean For Shareholders",
         "url": "https://finnhub.io/api/news?id=e8e6381f9ed73fb35f8db6760f5729e3f0b640f006cf3deacd9def67d779bf36",
