@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-12T01:00:36.357729+00:00",
+  "last_updated": "2026-08-12T15:02:51.884018+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
+        "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
+      },
       {
         "headline": "Apple downgraded at Jefferies over iPhone yields and growth concerns",
         "url": "https://finnhub.io/api/news?id=6c588bf02492063202259240900f410d39a56bd991de76ee904447a8112d7b25",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-08-08T14:36:41.721025+00:00"
-      },
-      {
-        "headline": "Why Apple’s 10% Drop Fails to Tell the Whole Story",
-        "url": "https://finnhub.io/api/news?id=7a7d8345bc86fdc945bf0085bb48e75072fc3b0544a1120e16288bca5367e636",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-08-08T01:00:32.575949+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce — Now Nearly 800,000x the Average American",
+        "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
+      },
       {
         "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce — Now Nearly 800,000x the Average American",
         "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
@@ -57,44 +63,38 @@
         "url": "https://finnhub.io/api/news?id=d9e554d643827dcd4111de96db14c21e0f917d1d97272791a85650f7ef87e461",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-08-11T01:00:34.351066+00:00"
-      },
-      {
-        "headline": "Elon Musk Says This Is One of the Biggest Challenges for Public Companies",
-        "url": "https://finnhub.io/api/news?id=fa9ffcec91b6188b538f8565e497f3a73aa956166d9a5c768a8a8217b72869e6",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-08-10T15:04:35.875175+00:00"
       }
     ],
     "KBANK": [
       {
+        "headline": "บล.กรุงศรี มอง SET “ไซด์เวย์อัพ” ชู GULF-GPSC-KBANK เด่น รับงบ Q2-การลงทุนฟื้น - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvZzlFbW9sT2gwVC1pbXF6SlJQVm9fa2VYZ3ZLNUMyQmh5bGtqOUo2NEQxd2o1MTNOeHNTbjBQQUhZamxYdnFONm82MA?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
+      },
+      {
         "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” เล็ง PTT-KBANK-GULF เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUGtHY3pTZENPeDl3cGZKOExRbEE2RW5mSU9IQlZUdVBVTjA1Sm1pa0pyb3pFTkZiQXZ1UFV3bXk1VG5mby1ERm9lT3RTcWIyZXkxb3cwczY5Q0FpbzFWemlYM25XRnhuSjhxMlBPN1VNMjI4N2tEaGk5MDN4Z1FkeDlvR2d0TEZlS0tYb25JVGFtNzBLLUxlYjAxRjFTZzlmeWZLbHlwYU1YMExiejRlUFpmV1BLVzlnUDlEdm1vVnIyRUw0TFdTWG5mWXdxRUxuZGFxWjQxYWhnak5PbkRNenhqc292dHRSNHh4RFRITENEeXFzaUVlV0Vncmoyc094RHB1aVdHVWtUNkFPa3FOU0lWRTBIekxRRWlpeFVodkhQUlZIYXp6QS1GTlNqMURHZnhqQmR5RHgtbEcyc1RIckJVZW1oR2NLOV92M0JR?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-08-12T01:00:36.357729+00:00"
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
       },
       {
         "headline": "KSS คาด SET สัปดาห์นี้แกว่งขึ้น จับตาเฟด–งบหุ้น Real Sector ชู KBANK-KTB-AOT หุ้นเด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTHExZ3d6b2ZVcVdCRWwwRFh0UnlMdllUMFVKNnFaN09Kc1BRcmJPYU5ZQ3BPaGU4Zl9Bc0hHSHFVWUo2aEpPSE9KdHVZRjNRYkhRSkd3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-08-12T01:00:36.357729+00:00"
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
       },
       {
         "headline": "กรุงเทพธุรกิจ. . GULF แจงมีสิทธิ ขายหุ้น KBANK ประกาศ ‘ซื้อหุ้นคืน’ . 🟡 GULF ยืนยันสิทธิขายหุ้น KBANK ตามประกาศ \"ซื้อหุ้นคืน\" ระหว่าง 14 พ.ย. 68 - 13 พ.ค. 69 เนื่องจากเป็นการลงทุนระยะยาวไม่ได้ส่งตัวแทนหรือกรรมการ แม้ KBANK ทำหนังสือขอความร่วมมือไม่ให้ขายหุ้นออกมาช่วง - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNdFJNMmNBTWFoZDVSSlM2SEs1NGM1dVl3TEJxTDVzaDhZbUxuRjF5UUFCSDk2T1Y5UFNWWTVBbUQ3YjVYcjlRTFZJQmR0XzVVdFNVeWtNVUMtQlQ2SVVDR0o4RGtsU3ZSd0t4RVZZd0YweEpod3pqMjUxYjZVaGhENW9POWNka1lVWmkwekZCRDhBZGFhWG9ia1ZPMEFGYXF6V3Fhbk1wQTZueFhuRTRSQy04dnljVnlBcEVvQloyNGoxN092UkMzc0JuU3R3UU93N2lpTmtqODRnOXF1Q3YyR29meURhajJZVV8zZ21DbE9vQ004WlFUQVllNWRlT2VSRW1rQWhEd1BlcS1DRnREdnY0UWxlRHkxZjNqZTJMdVpxWkdtcDlHUXlkOXZMOThGMXM3TUJ0Zmx6bTVRY1hSeHJzMGtFTGNJaUJDVFVrYkdJOVgzMnB6Z2RSUDBmMVlIWmotYTBlXzFSMUNVYTBTRjVHQ1l3N1dWd0s2bHM5WEhGZEdrTXRNVUR4S0RpejI3dXNhSHBnYmRBODBfekxJd2JNblBwb3JZSWNhbWhNVjMzYkFBN1pIY283My1haG1wS1hYLWllTVoxelRMdW8yOS1YOGFUYUNNeHhZLUVEYi1sdFRDU0ItTXJ4OXpwYUZ3bXZnc0lRUm1Zc3pZVmVwYVU3SjM1THlnSnZoY0JuMkQ4MVllRGdlLU5LZzNIVy1wN05FazZJV3JLOHdZNUFwS2FtTHRpWnZJZGc?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-08-12T01:00:36.357729+00:00"
-      },
-      {
-        "headline": "KBANK-SCB-PTT นำทีม โบรกฯ เปิดโผ 15 หุ้นน่าซื้อ ก่อนช่วง “แจกปันผลกลางปี” - Share2Trade",
-        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOY3R5aFJKUmY4N1BpcWFwVHNDTFo2MnQyU0tKQW1pdUpZenUxZGNmeHhlWTlJVGFZTU1OMTRueFEtSEg1VlNSU3g2Slk5M01GTV85UzNPQXNwblJPR1RCODdjSlZ2REoxZ1NRZ091OHdqQVBZZkYyOEJwY0JYTVFtbzdzQlBBM0RDX3BTS3VkYnV6SVdCNDNqblByWGsweEp1Qy1hSWFQSkNTMlZfQ25vMi1SYk95VUNRbkQxbDF1UVY1N2pkXzNROVVpNHVHRzhFcHp2bThEVzZ1YnE4T2dZdkJESmh0VkFIclJJLVpVc1Q3ODNpdFFqSnVuV1A5Y2xWOEdEb21nOE5UYjI3bmwxOEltTllYZ1RuWU4zRWJqdm5QZHVWbUxHT21BQnNVWTJmakUwb01FNV9ob0pxaXNJaTF0ZDdnOTRuYjJBRVBtYWk2YW1qaWVkbEswZGFhMGFFalZzc3lQNjM0RnUyQXFzR0g1SHNCdXh4U29uZGxRZC1aU0ZYWGk2dXZFOHhmLWQ5dzdVUG1PanBpWVlOWFpxZE1KUEE5bEExWXFCZUhXTTB3Y0ZmUWx0ZzB4S01pbjZKdDhuZy1pb3VuYUFybmlvS3ltR29zWHlzOVNqekd6b1lIOWtHQklQd21MdG5ZN05CR0lCY1JpU0tSR3E4WHNzWThxTU1kSHotWmR1STRxUXMyVERRdEFJOTRHa3RmWXFhY3ZibHdlMWJlNkNHbE91MDB4REJ0QWNWc3ZFVHZDb2U1cDFzTmdHa1FKcWFwMC00V2dwakhTb2w5Q0dyLVF5a0VrSmsyYmFCanlPaVF2aU5uRHJGem43SkNiM25aVkIwVUFyMXZBODFlRVNrdnNDMmZWXy04elU2WVFkN2NvMk9vUHQtYkRtV2k1Q05sZnFHU2M3eFhVUzhXUQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-08-12T01:00:36.357729+00:00"
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
       },
       {
         "headline": "กรุงศรี คาด SET วันนี้ “แกว่งในกรอบ” เล็ง PTT-KBANK-GULF เด่น - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUGtHY3pTZENPeDl3cGZKOExRbEE2RW5mSU9IQlZUdVBVTjA1Sm1pa0pyb3pFTkZiQXZ1UFV3bXk1VG5mby1ERm9lT3RTcWIyZXkxb3cwczY5Q0FpbzFWemlYM25XRnhuSjhxMlBPN1VNMjI4N2tEaGk5MDN4Z1FkeDlvR2d0TEZlS0tYb25JVGFtNzBLLUxlYjAxRjFTZzlmeWZLbHlwYU1YMExiejRlUFpmV1BLVzlnUDlEdm1vVnIyRUw0TFdTWG5mWXdxRUxuZGFxWjQxYWhnak5PbkRNenhqc292dHRSNHh4RFRITENEeXFzaUVlV0Vncmoyc094RHB1aVdHVWtUNkFPa3FOU0lWRTBIekxRRWlpeFVodkhQUlZIYXp6QS1GTlNqMURHZnhqQmR5RHgtbEcyc1RIckJVZW1oR2NLOV92M0JR?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-08-11T15:03:26.598529+00:00"
+        "detected_at": "2026-08-12T01:00:36.357729+00:00"
       }
     ],
     "COST": [
@@ -198,6 +198,12 @@
         "headline": "Reported Earlier, TSMC And Sony Semiconductor Solutions To Form JV For Next-Generation Image Sensors; TSMC To Contribute ~¥282B And Sony To Contribute ~¥465B",
         "url": "https://finnhub.io/api/news?id=d0f4120e33c1d4484fc2b831c24dfbd33ac319c54109edb10368bc4b4b0a3ebd",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-08-12T15:02:51.884018+00:00"
+      },
+      {
+        "headline": "Reported Earlier, TSMC And Sony Semiconductor Solutions To Form JV For Next-Generation Image Sensors; TSMC To Contribute ~¥282B And Sony To Contribute ~¥465B",
+        "url": "https://finnhub.io/api/news?id=d0f4120e33c1d4484fc2b831c24dfbd33ac319c54109edb10368bc4b4b0a3ebd",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-08-12T01:00:36.357729+00:00"
       },
       {
@@ -217,12 +223,6 @@
         "url": "https://finnhub.io/api/news?id=fb65c8acb8a41ed558cbcde544d495faee06087f5950962969b8793a8ceeb771",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-08-11T15:03:26.598529+00:00"
-      },
-      {
-        "headline": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners",
-        "url": "https://finnhub.io/api/news?id=a108298b6e1e25a868b935b8a2086d76cae994a58df85f7b4dd8f618416572c5",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-08-11T01:00:34.351066+00:00"
       }
     ],
     "ABBV": [
@@ -243,12 +243,6 @@
         "url": "https://finnhub.io/api/news?id=69abc7bda0fef2cc41514d6b8a86bc01b40e4cb7b2b108f5ac878016d42a3aad",
         "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
         "detected_at": "2026-08-10T15:04:35.875175+00:00"
-      },
-      {
-        "headline": "ABBV Q2 Deep Dive: Immunology and Neuroscience Expansion Shape Outlook Amid Guidance Reset",
-        "url": "https://finnhub.io/api/news?id=6e7f4317cb786b7f9728ee04a233d67a2d9a56a04c50fa6ec2539e7df112e8db",
-        "condition": "GAAP earnings ต่ำมาก — ต้องเชื่อใน adjusted metrics ซึ่งตัด amortization ดีลออก",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
       }
     ],
     "KO": [
@@ -295,12 +289,6 @@
         "url": "https://finnhub.io/api/news?id=6c5f6c1f381ad52dfa5ee48bccf766724239dd7d87c26674b3bea66c453ddcfd",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      },
-      {
-        "headline": "Neurocrine (NBIX) Q2 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=6c5f6c1f381ad52dfa5ee48bccf766724239dd7d87c26674b3bea66c453ddcfd",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
       }
     ],
     "V": [
@@ -347,12 +335,6 @@
         "url": "https://finnhub.io/api/news?id=0c120d2af266f336db626816675dcc8f6df59b6ad0ebad6a92485b7085786a26",
         "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
         "detected_at": "2026-08-07T14:58:04.713373+00:00"
-      },
-      {
-        "headline": "AMD Stock Slides After Solid  Earnings Report",
-        "url": "https://finnhub.io/api/news?id=04049f70548d6062fb48dd9fc3c97398501bc3710be6613034edef44856dcfcf",
-        "condition": "ธุรกิจ e-commerce หลักมาร์จิ้นบางมาก (North America 6.9%, International 2.9%) — ไวต่อการแข่งขันด้านราคาและกำลังซื้อผู้บริโภค ถ้าเศรษฐกิจแย่ ผู้บริโภคลดใช้จ่าย margin ส่วนนี้จะถูกกดดันก่อน",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
       }
     ],
     "LOW": [
@@ -419,12 +401,6 @@
         "url": "https://finnhub.io/api/news?id=642413559b00149a2b71e8da4da142fcfaed48b8667747d630608015e4944183",
         "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
         "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      },
-      {
-        "headline": "Arm Jumps More Than 11%: Data Center Royalty Growth Drives Post-Selloff Semiconductor Rally",
-        "url": "https://finnhub.io/api/news?id=642413559b00149a2b71e8da4da142fcfaed48b8667747d630608015e4944183",
-        "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
-        "detected_at": "2026-08-05T01:00:41.878865+00:00"
       }
     ],
     "ZETA": [
