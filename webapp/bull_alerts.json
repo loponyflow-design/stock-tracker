@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-12T15:02:51.884018+00:00",
+  "last_updated": "2026-08-13T01:00:33.106164+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-13T01:00:33.106164+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
@@ -19,12 +25,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-11T15:03:26.598529+00:00"
-      },
-      {
-        "headline": "คงไว้ PTTEP-PTT หุ้นไทยผจญแรงขาย - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pT2JrV09YZnVpNkxZaFM3b3U1c0lXcnM0dVYtSEZOWU9pOHBITlFPWTdST1FVR1Y3X3JEVHlidVZ3RTJVTmZNazdvc1FXYWsyOTgtUGh2TQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-05T16:03:02.807965+00:00"
       }
     ],
     "PG": [
@@ -89,22 +89,6 @@
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-07T14:58:04.713373+00:00"
-      }
-    ],
-    "RBRK": [
-      {
-        "headline": "Didn't We Go Through The 'SaaS-pocalypse'?",
-        "url": "https://finnhub.io/api/news?id=40436564246864160ecb70887f76c7cc3ce73cb7c8c88541c2f4fc17891f210e",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-08-05T16:03:02.807965+00:00"
-      }
-    ],
-    "GE": [
-      {
-        "headline": "Strength in Commercial Engines Unit Drives GE Aerospace: Can It Sustain?",
-        "url": "https://finnhub.io/api/news?id=b4ec62c52757e5c303d831cb97e187ee6e156e1a66f785e5a7f2c60c947e354e",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-08-06T01:00:32.993775+00:00"
       }
     ],
     "LEN": [
