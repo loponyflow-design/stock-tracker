@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T05:58:46.075171+00:00",
+  "last_updated": "2026-08-14T14:56:49.069912+00:00",
   "alerts": {
     "PTT": [
       {
@@ -38,6 +38,12 @@
         "headline": "All It Takes Is $17,000 Invested in This High-Yield Dividend King Stock to Generate Over $500 in Yearly Dividends",
         "url": "https://finnhub.io/api/news?id=b27a23603320167a132cba99a24521689889e508551779fee0307e6fcdb39810",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-14T14:56:49.069912+00:00"
+      },
+      {
+        "headline": "All It Takes Is $17,000 Invested in This High-Yield Dividend King Stock to Generate Over $500 in Yearly Dividends",
+        "url": "https://finnhub.io/api/news?id=b27a23603320167a132cba99a24521689889e508551779fee0307e6fcdb39810",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-14T05:58:46.075171+00:00"
       },
       {
@@ -57,15 +63,15 @@
         "url": "https://finnhub.io/api/news?id=b27a23603320167a132cba99a24521689889e508551779fee0307e6fcdb39810",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-14T01:10:23.541371+00:00"
-      },
-      {
-        "headline": "All It Takes Is $17,000 Invested in This High-Yield Dividend King Stock to Generate Over $500 in Yearly Dividends",
-        "url": "https://finnhub.io/api/news?id=b27a23603320167a132cba99a24521689889e508551779fee0307e6fcdb39810",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-14T01:00:34.516135+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "My Near-Perfect $1 Million Retirement Portfolio",
+        "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-14T14:56:49.069912+00:00"
+      },
       {
         "headline": "Stop Buying Junk: These 2 Quality Income Picks Pay 8% And 10%",
         "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
@@ -89,12 +95,6 @@
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
         "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
         "detected_at": "2026-08-08T01:00:32.575949+00:00"
-      },
-      {
-        "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
-        "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-07T14:58:04.713373+00:00"
       }
     ],
     "LEN": [
