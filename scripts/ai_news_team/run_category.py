@@ -55,6 +55,38 @@ def _format_digest(items: list, result: dict, date_str: str) -> str:
     return "\n".join(lines).strip()
 
 
+def _format_fallback_digest(items: list, date_str: str) -> str:
+    """No-Claude fallback: formats classify_ticker_news() items directly —
+    the raw matched headline/condition per ticker, grouped and ranked the
+    same way the AI digest is — with no natural-language summary text and
+    no macro/sector synthesis (there's nothing to synthesize it from
+    without a model). Zero API cost. Used when the Claude call fails for
+    any reason (no credit, rate limit, network) so the pipeline still
+    delivers something instead of nothing."""
+    lines = [f"🤖 <b>AI News Team — Stocks Digest (no-AI fallback)</b> — {date_str}", ""]
+
+    agg = _aggregate_by_ticker(items)
+    by_ticker: dict = {}
+    for item in items:
+        by_ticker.setdefault(item["ticker"], []).append(item)
+
+    tickers_sorted = sorted(
+        agg.keys(),
+        key=lambda t: (_SIGNAL_RANK.get(agg[t]["signal_type"], 3), -agg[t]["count"]),
+    )
+    for ticker in tickers_sorted:
+        emoji = _SIGNAL_EMOJI.get(agg[ticker]["signal_type"], "•")
+        lines.append(f"{emoji} <b>${ticker}</b>")
+        for item in by_ticker[ticker]:
+            lines.append(f"📰 {item['headline']}")
+            condition = (item.get("condition") or "").strip()
+            if condition:
+                lines.append(f"📌 <i>{condition[:120]}</i>")
+        lines.append("")
+
+    return "\n".join(lines).strip()
+
+
 def run(category: dict):
     """Run one category end to end. Missing config (env vars not set yet)
     degrades to a no-op print instead of crashing the workflow step."""
@@ -74,8 +106,15 @@ def run(category: dict):
         print(f"run_category[{category['name']}]: no matched news today")
         return
 
-    result = summarize(items)
     date_str = datetime.now(timezone.utc).strftime("%d %b %Y")
-    digest = _format_digest(items, result, date_str)
+    try:
+        result = summarize(items)
+        digest = _format_digest(items, result, date_str)
+        mode = "AI"
+    except Exception as e:
+        print(f"run_category[{category['name']}]: Claude summarize failed ({e}), falling back to no-AI digest")
+        digest = _format_fallback_digest(items, date_str)
+        mode = "fallback"
+
     send_telegram_chunks(digest, output_token, int(output_chat))
-    print(f"run_category[{category['name']}]: sent digest ({len(items)} matched items)")
+    print(f"run_category[{category['name']}]: sent {mode} digest ({len(items)} matched items)")
