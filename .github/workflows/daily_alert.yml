@@ -35,6 +35,15 @@ jobs:
           DCA_WEBAPP_URL:   ${{ secrets.DCA_WEBAPP_URL }}
           DCA_WEBAPP_TOKEN: ${{ secrets.DCA_WEBAPP_TOKEN }}
 
+      - name: Run AI news team (stocks digest)
+        continue-on-error: true
+        run: python scripts/run_ai_news_team.py stocks
+        env:
+          FINNHUB_KEY:       ${{ secrets.FINNHUB_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TG_TOKEN:          ${{ secrets.TG_TOKEN }}
+          TG_CHAT:           ${{ secrets.TG_CHAT }}
+
       - name: Commit alert JSON if changed
         run: |
           git config user.name  "github-actions[bot]"

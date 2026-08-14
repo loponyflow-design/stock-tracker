@@ -27,6 +27,10 @@ desktop.ini
 .vscode/
 *.swp
 
+# Python bytecode
+__pycache__/
+*.pyc
+
 # dca-tracker (Google Apps Script via clasp)
 dca-tracker/node_modules/
 
