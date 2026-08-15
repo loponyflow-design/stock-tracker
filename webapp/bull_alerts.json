@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:56:49.069912+00:00",
+  "last_updated": "2026-08-15T01:00:40.727923+00:00",
   "alerts": {
     "PTT": [
       {
@@ -70,6 +70,12 @@
         "headline": "My Near-Perfect $1 Million Retirement Portfolio",
         "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-08-15T01:00:40.727923+00:00"
+      },
+      {
+        "headline": "My Near-Perfect $1 Million Retirement Portfolio",
+        "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-14T14:56:49.069912+00:00"
       },
       {
@@ -89,12 +95,6 @@
         "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-08T14:36:41.721025+00:00"
-      },
-      {
-        "headline": "Ares Capital: Q2 Performance Bounces Back, But Some Stress Remains",
-        "url": "https://finnhub.io/api/news?id=8170fc16c1ae8c0477519646a5e77de44d69bc31bed74f5b32d21585133e607d",
-        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
-        "detected_at": "2026-08-08T01:00:32.575949+00:00"
       }
     ],
     "LEN": [
