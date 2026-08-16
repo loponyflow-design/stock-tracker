@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:28:26.876501+00:00",
+  "last_updated": "2026-08-16T01:00:33.980262+00:00",
   "alerts": {
     "PTT": [
       {
@@ -95,14 +95,6 @@
         "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-10T01:00:34.700638+00:00"
-      }
-    ],
-    "LEN": [
-      {
-        "headline": "New Homes Sit On Market For 9.3 Months As Builders Slash Prices",
-        "url": "https://finnhub.io/api/news?id=afa64e7298e65523dc1056862034eca1cb022ec855d1d81cd17934d67a37dd83",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-08-08T14:36:41.721025+00:00"
       }
     ],
     "JNJ": [
