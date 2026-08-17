@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T01:00:33.980262+00:00",
+  "last_updated": "2026-08-17T01:00:37.445055+00:00",
   "alerts": {
     "PTT": [
       {
@@ -89,12 +89,6 @@
         "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
         "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
         "detected_at": "2026-08-10T15:04:35.875175+00:00"
-      },
-      {
-        "headline": "Stop Buying Junk: These 2 Quality Income Picks Pay 8% And 10%",
-        "url": "https://finnhub.io/api/news?id=1574e7ae12ebedd3a2ec7426d2c3026b92d17f123098afffb8596254efd84246",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-10T01:00:34.700638+00:00"
       }
     ],
     "JNJ": [
