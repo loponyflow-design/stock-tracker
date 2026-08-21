@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-20T14:41:36.336016+00:00",
+  "last_updated": "2026-08-21T01:00:40.157197+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-21T01:00:40.157197+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-19T01:00:41.693561+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-18T14:38:37.413185+00:00"
       }
     ],
     "PG": [
