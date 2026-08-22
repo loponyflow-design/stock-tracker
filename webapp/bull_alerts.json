@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-21T14:40:24.367621+00:00",
+  "last_updated": "2026-08-22T01:00:39.415511+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-22T01:00:39.415511+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
@@ -25,20 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-20T01:00:34.446764+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-19T14:39:01.432266+00:00"
-      }
-    ],
-    "PG": [
-      {
-        "headline": "All It Takes Is $17,000 Invested in This High-Yield Dividend King Stock to Generate Over $500 in Yearly Dividends",
-        "url": "https://finnhub.io/api/news?id=b27a23603320167a132cba99a24521689889e508551779fee0307e6fcdb39810",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-14T14:56:49.069912+00:00"
       }
     ],
     "ARCC": [
@@ -53,15 +45,15 @@
         "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-08-15T01:00:40.727923+00:00"
-      },
-      {
-        "headline": "My Near-Perfect $1 Million Retirement Portfolio",
-        "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-14T14:56:49.069912+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "Marvell: A $120 Billion Diamond In The Rough",
+        "url": "https://finnhub.io/api/news?id=fb0956b1237fa9dc2ea1c6e2af705dfcb9bb3504a039126c6e640e869e2eeef1",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-08-22T01:00:39.415511+00:00"
+      },
       {
         "headline": "Marvell: The Deal And The Dilution Are Both Real",
         "url": "https://finnhub.io/api/news?id=b5fbd015aa9fe59291856988109e96ec2f864c527b3f49ec724d7fc320554a99",
@@ -73,6 +65,14 @@
         "url": "https://finnhub.io/api/news?id=1fc826bb58c12a64eda93eedb38f7fef433fbd62aeeb51b0835e971898cc5918",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-08-20T01:00:34.446764+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
+        "url": "https://finnhub.io/api/news?id=55e10e9aff2d75884c263b54c5c4325670d5e2b2c852f419121d534eff6e07fe",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-08-22T01:00:39.415511+00:00"
       }
     ]
   }
