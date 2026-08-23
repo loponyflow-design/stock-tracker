@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-22T14:26:43.485143+00:00",
+  "last_updated": "2026-08-23T01:00:39.401532+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-23T01:00:39.401532+00:00"
+      },
+      {
+        "headline": "ผ่าความผันผวนราคาน้ำมัน กลยุทธ์เทรดดิ้งหุ้นพลังงาน อ่านรายละเอียด คลิก https://thunhoon.com/ptt-pttep-price-page1-20082026 #PTT #PTTEP #SET #Thunhoon #ทันหุ้น #ทันหุ้นออนไลน์ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxPNGwxek5Fc2tvc2xtYll5MG1UOTB5eE56UEJZTi11UEU1WmVnR01OOTQ5UktXMFJGTWNHNjg0NDh4dExNQTdqNnZPUDFiUzBId0FSdXk5akE1aWJZTEZmc3lFWUMtWFh5azlmUUZaVE1KNjF5SnpPZTQ5UHhBVkQ0R1RDT3hNckUyQzFDMzRLOG1ZREdtMmgwNElNNW5TaU9HNFRXWXlYcHU2VEVqbUxPTmlyOGpobnZrZGhucmM2NW9QTzF2b0ZiNF9hd0hEckRoREtyOEl4eGFvRmpGd0puS3J2dGVIUFQyckpaa2VDNzFZUnVQMlNGMWJDRmttX0xDaW1tdHRZMktNcGhXamhPYl9IclUyc2w4S3ZyOEY3NEsyV1BMWFF0TTMtM2JlcW40TS1fU2hNVVVGbDZyblNZVG1Ea1pxTnVScms5UWRCeE03Uk5FMy1MMGU5OFVMc2NBNUQxaS1ubHV0V2ZXZUpzenNCd1g4eWlBRmFJeFRxdlNJTXhGWWZVejdUZDdraHFfLXYtdTJ2REtXTjJUY0ZSUDM0QnFlTUYxYXZtOUNJTGRId0tjZ3U0N2syRmRiT2V5akpVVE5ueU1udzJwNUJpNF8ydTQ5bHAzY3RlTzdXQTVsTEZfaGlUOVp5WEIwczRqQlA4U0VfRXBSeE8zZUR1amoxZG9FcEJFTFVDWnFiOVJ2YS1oRFg0b2lJNm5vektVdDZ0UzlHX0lHcThSY1FJNEFQUDNjNTVoQy1DMTFTZTlHSWc3N25FVlNEUlNNY2pad2J0eTQxSTAyam9aN3JneF9EMkNXWlkwcWtjOHpCR1ZkbURXTDAtSjlMS0htUDhCOEVQZzB5RjdJbTMtb3pOWDV5X1FEOWUzRUJKYm5tckNQQm9sWENMYm5kOFA2MTNfbjMzcVFLcUZFSVNodGJzYThxSmdCZGoyS0s1MXhuZHd0eU84bGZqS0s2M1FfdHNtU2R4Yy1uQ1hmMTVuaERseFJtNmJic1gzMi1oaVNWUm5ySUtGVGlOR28tcUx0SjE0TUhaWVpHRDJsN3ZPZndfTVFzQUUwUDdtcDlfSjdPVFZUbXhycFlBZWVQM0djSkJDdTBTNmJkM2FYQzZjc081MGxqYktnWmszYkt4d2ZmN3c2dmZBTmJHQWdzNVhUMXR3M0Z3ZUM5cTcwaVVWZzd4ZEFlVDgzeE9rVXhsOFJ6SlNfX0VONXN3aWlFMkhrcUJLeDROT3VtRQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-23T01:00:39.401532+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
@@ -19,29 +31,15 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-22T01:00:39.415511+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-21T14:40:24.367621+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-21T01:00:40.157197+00:00"
-      }
-    ],
-    "ARCC": [
-      {
-        "headline": "My Near-Perfect $1 Million Retirement Portfolio",
-        "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-08-15T14:28:26.876501+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "Marvell vs. Broadcom: the custom silicon shift",
+        "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-08-23T01:00:39.401532+00:00"
+      },
       {
         "headline": "Marvell vs. Broadcom: the custom silicon shift",
         "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
