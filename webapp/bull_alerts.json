@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-24T01:00:39.825794+00:00",
+  "last_updated": "2026-08-24T14:48:22.586842+00:00",
   "alerts": {
     "PTT": [
       {
         "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-24T14:48:22.586842+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-24T01:00:39.825794+00:00"
       },
       {
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxPNGwxek5Fc2tvc2xtYll5MG1UOTB5eE56UEJZTi11UEU1WmVnR01OOTQ5UktXMFJGTWNHNjg0NDh4dExNQTdqNnZPUDFiUzBId0FSdXk5akE1aWJZTEZmc3lFWUMtWFh5azlmUUZaVE1KNjF5SnpPZTQ5UHhBVkQ0R1RDT3hNckUyQzFDMzRLOG1ZREdtMmgwNElNNW5TaU9HNFRXWXlYcHU2VEVqbUxPTmlyOGpobnZrZGhucmM2NW9QTzF2b0ZiNF9hd0hEckRoREtyOEl4eGFvRmpGd0puS3J2dGVIUFQyckpaa2VDNzFZUnVQMlNGMWJDRmttX0xDaW1tdHRZMktNcGhXamhPYl9IclUyc2w4S3ZyOEY3NEsyV1BMWFF0TTMtM2JlcW40TS1fU2hNVVVGbDZyblNZVG1Ea1pxTnVScms5UWRCeE03Uk5FMy1MMGU5OFVMc2NBNUQxaS1ubHV0V2ZXZUpzenNCd1g4eWlBRmFJeFRxdlNJTXhGWWZVejdUZDdraHFfLXYtdTJ2REtXTjJUY0ZSUDM0QnFlTUYxYXZtOUNJTGRId0tjZ3U0N2syRmRiT2V5akpVVE5ueU1udzJwNUJpNF8ydTQ5bHAzY3RlTzdXQTVsTEZfaGlUOVp5WEIwczRqQlA4U0VfRXBSeE8zZUR1amoxZG9FcEJFTFVDWnFiOVJ2YS1oRFg0b2lJNm5vektVdDZ0UzlHX0lHcThSY1FJNEFQUDNjNTVoQy1DMTFTZTlHSWc3N25FVlNEUlNNY2pad2J0eTQxSTAyam9aN3JneF9EMkNXWlkwcWtjOHpCR1ZkbURXTDAtSjlMS0htUDhCOEVQZzB5RjdJbTMtb3pOWDV5X1FEOWUzRUJKYm5tckNQQm9sWENMYm5kOFA2MTNfbjMzcVFLcUZFSVNodGJzYThxSmdCZGoyS0s1MXhuZHd0eU84bGZqS0s2M1FfdHNtU2R4Yy1uQ1hmMTVuaERseFJtNmJic1gzMi1oaVNWUm5ySUtGVGlOR28tcUx0SjE0TUhaWVpHRDJsN3ZPZndfTVFzQUUwUDdtcDlfSjdPVFZUbXhycFlBZWVQM0djSkJDdTBTNmJkM2FYQzZjc081MGxqYktnWmszYkt4d2ZmN3c2dmZBTmJHQWdzNVhUMXR3M0Z3ZUM5cTcwaVVWZzd4ZEFlVDgzeE9rVXhsOFJ6SlNfX0VONXN3aWlFMkhrcUJLeDROT3VtRQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-23T01:00:39.401532+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
       }
     ],
     "AVGO": [
@@ -67,6 +67,12 @@
     ],
     "TSM": [
       {
+        "headline": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
+        "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d",
+        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
+        "detected_at": "2026-08-24T14:48:22.586842+00:00"
+      },
+      {
         "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
         "url": "https://finnhub.io/api/news?id=55e10e9aff2d75884c263b54c5c4325670d5e2b2c852f419121d534eff6e07fe",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
@@ -81,10 +87,30 @@
     ],
     "PG": [
       {
+        "headline": "Best Dividend Kings: August 2026",
+        "url": "https://finnhub.io/api/news?id=32b08bbe296e7cb212fd1ae7c5aebca8ee10a12f8968f1cb43ac3b54896393a6",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-24T14:48:22.586842+00:00"
+      },
+      {
+        "headline": "3 Dividend Stocks to Buy Before August Ends and Hold for Life",
+        "url": "https://finnhub.io/api/news?id=add6950999ea07b5d9acc322723357a1e7a5583191c8d43dff15f16a8480da59",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-08-24T14:48:22.586842+00:00"
+      },
+      {
         "headline": "3 Dividend Stocks to Buy Before August Ends and Hold for Life",
         "url": "https://finnhub.io/api/news?id=add6950999ea07b5d9acc322723357a1e7a5583191c8d43dff15f16a8480da59",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-24T01:00:39.825794+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "Best Dividend Kings: August 2026",
+        "url": "https://finnhub.io/api/news?id=32b08bbe296e7cb212fd1ae7c5aebca8ee10a12f8968f1cb43ac3b54896393a6",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-08-24T14:48:22.586842+00:00"
       }
     ]
   }
