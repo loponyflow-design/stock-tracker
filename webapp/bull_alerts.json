@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-26T14:49:49.262145+00:00",
+  "last_updated": "2026-08-27T01:00:40.932296+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-27T01:00:40.932296+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 | ข่าวหุ้นธุรกิจ - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zTEdHek8zUFlUekx1cXNUZk1nVjFoU3QxWEhlTE4zNjJLbHRQZEpmUTVVcWM4SE1iTGRBQlhnUEdGcnRnWE9RRUcxb3lHS3pHVk1McWx3?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-27T01:00:40.932296+00:00"
+      },
       {
         "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
@@ -19,18 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-26T01:00:38.561754+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-26T01:00:38.561754+00:00"
-      },
-      {
-        "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-25T14:52:07.518010+00:00"
       }
     ],
     "AVGO": [
@@ -57,12 +57,6 @@
         "url": "https://finnhub.io/api/news?id=b5fbd015aa9fe59291856988109e96ec2f864c527b3f49ec724d7fc320554a99",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-08-20T14:41:36.336016+00:00"
-      },
-      {
-        "headline": "Marvell Is Very Risky Despite The New AI Deal With Alphabet",
-        "url": "https://finnhub.io/api/news?id=1fc826bb58c12a64eda93eedb38f7fef433fbd62aeeb51b0835e971898cc5918",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-08-20T01:00:34.446764+00:00"
       }
     ],
     "TSM": [
