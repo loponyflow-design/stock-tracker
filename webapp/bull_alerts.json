@@ -1,8 +1,14 @@
 {
-  "last_updated": "2026-08-28T01:00:38.498760+00:00",
+  "last_updated": "2026-08-28T23:29:36.940124+00:00",
   "alerts": {
     "PTT": [
       {
+        "headline": "PTT ลุ้นกำไรไตรมาส 2/69 โตเด่น โบรกชูธุรกิจก๊าซ-PTTEP หนุน ปันผลสูงเกิน 6% - bangkokbiznews",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hZGpuNDJBZVoxUlh0LVRtRkhqSTNnZ1hkQXFacjQwZno0Sl9jTzI1SnZEekpxSUtYVDJ4R1EteU0tYUpkRnR6aHluYmE3OUlVaXlmaVVqUUVWQ05HRXZWYmZ3?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-28T23:29:36.940124+00:00"
+      },
+      {
         "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-27T23:41:12.402770+00:00"
-      },
-      {
-        "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-27T01:00:40.932296+00:00"
       }
     ],
     "AVGO": [
