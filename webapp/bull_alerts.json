@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T01:00:38.968410+00:00",
+  "last_updated": "2026-08-29T17:37:17.268129+00:00",
   "alerts": {
     "PTT": [
       {
@@ -39,18 +39,6 @@
         "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-08-23T01:00:39.401532+00:00"
-      },
-      {
-        "headline": "Marvell vs. Broadcom: the custom silicon shift",
-        "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
-      },
-      {
-        "headline": "Marvell: A $120 Billion Diamond In The Rough",
-        "url": "https://finnhub.io/api/news?id=fb0956b1237fa9dc2ea1c6e2af705dfcb9bb3504a039126c6e640e869e2eeef1",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-08-22T01:00:39.415511+00:00"
       }
     ],
     "TSM": [
@@ -71,18 +59,6 @@
         "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d",
         "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
         "detected_at": "2026-08-24T14:48:22.586842+00:00"
-      },
-      {
-        "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
-        "url": "https://finnhub.io/api/news?id=55e10e9aff2d75884c263b54c5c4325670d5e2b2c852f419121d534eff6e07fe",
-        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
-      },
-      {
-        "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
-        "url": "https://finnhub.io/api/news?id=55e10e9aff2d75884c263b54c5c4325670d5e2b2c852f419121d534eff6e07fe",
-        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
-        "detected_at": "2026-08-22T01:00:39.415511+00:00"
       }
     ],
     "PG": [

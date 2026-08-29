@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-29T01:00:38.968410+00:00",
+  "last_updated": "2026-08-29T17:37:17.268129+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple: CEO Changes, But Double Compounding Does Not",
+        "url": "https://finnhub.io/api/news?id=1b5f89d6fcb7930c900891c077f1b2ab260649c50b000a9d1e2a6f63bc45873e",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
       {
         "headline": "The Deep Unknowns Of AI",
         "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
@@ -17,6 +23,12 @@
     ],
     "TSLA": [
       {
+        "headline": "This Week in Tesla: No More FSD in China? Elon Musk's Robovan Talk And More",
+        "url": "https://finnhub.io/api/news?id=f4ff9954c64b13fb2bcf1d926ed2aae92a41901b8f906ab0dedfab86f45c5d9d",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
+      {
         "headline": "Bernie Sanders Accuses Elon Musk of Trying to 'Buy' Texas Senate Seat With $200 Million Spending Plan",
         "url": "https://finnhub.io/api/news?id=7ead3defc88250dd38773f88c9b41521049e7f8b29ad8b2c5104ed5a38f8210d",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -27,12 +39,6 @@
         "url": "https://finnhub.io/api/news?id=ef35e65e980dccc76512ecb19f01c4b55f12dbb767de4ea31211fe1dbad7c1cd",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-08-23T01:00:39.401532+00:00"
-      },
-      {
-        "headline": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
-        "url": "https://finnhub.io/api/news?id=ef35e65e980dccc76512ecb19f01c4b55f12dbb767de4ea31211fe1dbad7c1cd",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
       }
     ],
     "KBANK": [
@@ -79,12 +85,6 @@
         "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-08-28T23:29:36.940124+00:00"
-      },
-      {
-        "headline": "SCHD: We Were Horribly Wrong",
-        "url": "https://finnhub.io/api/news?id=116c11c87c38da79036c16efcd11562a853d9083eec117f66078dbf626d0cc71",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-08-22T01:00:39.415511+00:00"
       }
     ],
     "AMZN": [
@@ -96,6 +96,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "U.S. Economy: The Outlook For Housing Worsens",
+        "url": "https://finnhub.io/api/news?id=1da0c4d0478114e97fef059c1db0232d159fcdf06ad232c894338d370fd2cd4e",
+        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
       {
         "headline": "U.S. Economy: The Outlook For Housing Worsens",
         "url": "https://finnhub.io/api/news?id=1da0c4d0478114e97fef059c1db0232d159fcdf06ad232c894338d370fd2cd4e",
@@ -119,28 +125,6 @@
         "url": "https://finnhub.io/api/news?id=11ada4ce36ae4285325a44bb0a22dd7168de0f3dbf389c4fc93a506ce5c26145",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-08-24T01:00:39.825794+00:00"
-      },
-      {
-        "headline": "The Toughest Questions HD Faced On Its Latest Call",
-        "url": "https://finnhub.io/api/news?id=a3142c55d72d80c3a5bcb50a79ca854183fc8798cc61f19a35719b1ccc3ecfb9",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
-      }
-    ],
-    "GE": [
-      {
-        "headline": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
-        "url": "https://finnhub.io/api/news?id=25595542c954f854dc850eb0078ca0894ab39750efa9c25c5000303b15e24f4d",
-        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
-        "detected_at": "2026-08-22T01:00:39.415511+00:00"
-      }
-    ],
-    "ABBV": [
-      {
-        "headline": "AbbVie (ABBV) Presented New Lung Cancer Clinical Data At WCLC 2026",
-        "url": "https://finnhub.io/api/news?id=60c1d685b6f9f61242d6bb6b2e8b7cb7a7bd12cfd211b1e9ef20c29498fd2d3d",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
       }
     ],
     "NBIX": [
@@ -149,23 +133,15 @@
         "url": "https://finnhub.io/api/news?id=28425575d77a46a9b6b6c07fd646f02e0117996560c9320a535e2337700461d6",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-08-23T01:00:39.401532+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences: 'House Full Of Options'",
-        "url": "https://finnhub.io/api/news?id=28425575d77a46a9b6b6c07fd646f02e0117996560c9320a535e2337700461d6",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
-      }
-    ],
-    "NDSN": [
-      {
-        "headline": "NDSN Q3 Earnings Beat Estimates on Broad Organic Growth",
-        "url": "https://finnhub.io/api/news?id=c0e93c0f53ad6ff0711ba408287af447e40a18f731daa3c1de4ffb12137ad67f",
-        "condition": "โตด้วยการซื้อกิจการมากกว่าธุรกิจเดิม — FY2025 organic ติดลบ ถ้าไม่มีดีลใหม่มาช่วย รายได้เดิมอาจนิ่งหรือหดตัวได้",
-        "detected_at": "2026-08-22T14:26:43.485143+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "Best Dividend Aristocrats For September 2026",
+        "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
       {
         "headline": "Best Dividend Aristocrats For September 2026",
         "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
@@ -189,12 +165,6 @@
         "url": "https://finnhub.io/api/news?id=eea8290c82672f96566ff581fc2bbe8ba47c7244d2f9d35aa22ecd47b15b78ab",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-08-27T01:00:40.932296+00:00"
-      },
-      {
-        "headline": "Retirement Income On Autopilot: 3 Dividend Growth Machines To Buy On The Dip",
-        "url": "https://finnhub.io/api/news?id=eea8290c82672f96566ff581fc2bbe8ba47c7244d2f9d35aa22ecd47b15b78ab",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-08-26T14:49:49.262145+00:00"
       }
     ],
     "COST": [
@@ -242,6 +212,12 @@
         "headline": "Best Dividend Aristocrats For September 2026",
         "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
+      {
+        "headline": "Best Dividend Aristocrats For September 2026",
+        "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
         "detected_at": "2026-08-29T01:00:38.968410+00:00"
       },
       {
@@ -261,12 +237,6 @@
         "url": "https://finnhub.io/api/news?id=71715f958e078e16d7809beb6428dc7073a4822380f49be8812942bf347d5a40",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
         "detected_at": "2026-08-27T01:00:40.932296+00:00"
-      },
-      {
-        "headline": "Nucor Corp (NYSE:NUE): Dividend Quality Meets Sustainable Growth",
-        "url": "https://finnhub.io/api/news?id=71715f958e078e16d7809beb6428dc7073a4822380f49be8812942bf347d5a40",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-08-26T14:49:49.262145+00:00"
       }
     ],
     "AVGO": [
@@ -278,6 +248,12 @@
       }
     ],
     "HEI.A": [
+      {
+        "headline": "HEICO: A Fundamentals Superstar But Also An Informational Enigma; Staying At 'Hold'",
+        "url": "https://finnhub.io/api/news?id=b044a9a6150988105c271b3444ae3e4c578089b6f855fc23986ff6b699133c30",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
       {
         "headline": "HEICO: A Fundamentals Superstar But Also An Informational Enigma; Staying At 'Hold'",
         "url": "https://finnhub.io/api/news?id=b044a9a6150988105c271b3444ae3e4c578089b6f855fc23986ff6b699133c30",
@@ -322,6 +298,18 @@
         "headline": "FDA Approves Stelara for Pediatric Ulcerative Colitis",
         "url": "https://finnhub.io/api/news?id=e708a3e3caeb62d314bc7aff88a96587fd102498e635e11de24aa36ba67757bd",
         "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
+      {
+        "headline": "Best Dividend Aristocrats For September 2026",
+        "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
+        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
+        "detected_at": "2026-08-29T17:37:17.268129+00:00"
+      },
+      {
+        "headline": "FDA Approves Stelara for Pediatric Ulcerative Colitis",
+        "url": "https://finnhub.io/api/news?id=e708a3e3caeb62d314bc7aff88a96587fd102498e635e11de24aa36ba67757bd",
+        "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
         "detected_at": "2026-08-29T01:00:38.968410+00:00"
       },
       {
@@ -334,12 +322,6 @@
         "headline": "FDA Approves Stelara for Pediatric Ulcerative Colitis",
         "url": "https://finnhub.io/api/news?id=e708a3e3caeb62d314bc7aff88a96587fd102498e635e11de24aa36ba67757bd",
         "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
-        "detected_at": "2026-08-28T23:29:36.940124+00:00"
-      },
-      {
-        "headline": "Best Dividend Aristocrats For September 2026",
-        "url": "https://finnhub.io/api/news?id=d92db7b94ab38deb8d45bd11ce337de7df789b48d477823807203626cf4038b8",
-        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
         "detected_at": "2026-08-28T23:29:36.940124+00:00"
       }
     ]
