@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-08-30T01:00:38.688150+00:00",
+  "last_updated": "2026-08-31T01:00:44.847316+00:00",
   "alerts": {
     "PTT": [
       {
         "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-31T01:00:44.847316+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-08-31T01:00:44.847316+00:00"
+      },
+      {
+        "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-30T01:00:38.688150+00:00"
       },
       {
@@ -19,26 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-29T01:00:38.968410+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-29T01:00:38.968410+00:00"
-      },
-      {
-        "headline": "PTT ลุ้นกำไรไตรมาส 2/69 โตเด่น โบรกชูธุรกิจก๊าซ-PTTEP หนุน ปันผลสูงเกิน 6% - bangkokbiznews",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hZGpuNDJBZVoxUlh0LVRtRkhqSTNnZ1hkQXFacjQwZno0Sl9jTzI1SnZEekpxSUtYVDJ4R1EteU0tYUpkRnR6aHluYmE3OUlVaXlmaVVqUUVWQ05HRXZWYmZ3?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-28T23:29:36.940124+00:00"
-      }
-    ],
-    "AVGO": [
-      {
-        "headline": "Marvell vs. Broadcom: the custom silicon shift",
-        "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-08-23T01:00:39.401532+00:00"
       }
     ],
     "TSM": [
@@ -85,12 +77,6 @@
         "url": "https://finnhub.io/api/news?id=add6950999ea07b5d9acc322723357a1e7a5583191c8d43dff15f16a8480da59",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-08-24T14:48:22.586842+00:00"
-      },
-      {
-        "headline": "3 Dividend Stocks to Buy Before August Ends and Hold for Life",
-        "url": "https://finnhub.io/api/news?id=add6950999ea07b5d9acc322723357a1e7a5583191c8d43dff15f16a8480da59",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-24T01:00:39.825794+00:00"
       }
     ],
     "LOW": [
