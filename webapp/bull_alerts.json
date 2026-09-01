@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-09-01T01:00:40.336207+00:00",
+  "last_updated": "2026-09-01T17:44:58.841581+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-01T17:44:58.841581+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
@@ -25,36 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-30T01:00:38.688150+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 1 จุด แรงซื้อ PTT-PTTEP หนุน บ่ายแกว่งกรอบ 1,610-1,640 - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-30T01:00:38.688150+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
-        "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-08-25T14:52:07.518010+00:00"
-      }
-    ],
-    "PG": [
-      {
-        "headline": "Best Dividend Kings: August 2026",
-        "url": "https://finnhub.io/api/news?id=32b08bbe296e7cb212fd1ae7c5aebca8ee10a12f8968f1cb43ac3b54896393a6",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-08-25T14:52:07.518010+00:00"
-      }
-    ],
-    "LOW": [
-      {
-        "headline": "Best Dividend Kings: August 2026",
-        "url": "https://finnhub.io/api/news?id=32b08bbe296e7cb212fd1ae7c5aebca8ee10a12f8968f1cb43ac3b54896393a6",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-08-25T14:52:07.518010+00:00"
       }
     ],
     "STZ": [
@@ -69,6 +45,22 @@
         "url": "https://finnhub.io/api/news?id=4191bf6baec8e933e87dce0bb4e8b8aeb4d58e5d8cef991de9b64fc1467f0135",
         "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
         "detected_at": "2026-08-26T01:00:38.561754+00:00"
+      }
+    ],
+    "NBIX": [
+      {
+        "headline": "Neurocrine's Crenessity Gains Ground in CAH: How Far Can Sales Go?",
+        "url": "https://finnhub.io/api/news?id=08922baef08c98700581a8eded622de2d1463417f2cddeb7318364886ec74fa5",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-09-01T17:44:58.841581+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
+        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-01T17:44:58.841581+00:00"
       }
     ]
   }
