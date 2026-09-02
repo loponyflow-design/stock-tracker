@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-09-01T17:44:58.841581+00:00",
+  "last_updated": "2026-09-02T01:00:41.990582+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UDZXWGJnSkx4czkxbnFESXR5MVdsTVU2X0tqSzZWeUZxdTFseHo4bThVdHd3NnRtU3huRlM0NU5nUXNqalRxYXM2U0ZxbWs?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-08-31T01:00:44.847316+00:00"
-      },
-      {
-        "headline": "หุ้นปิดครึ่งเช้าลบ 2.94 จุด ขาย PTT-DELTA-PTTEP - Hoonsmart",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fRS1mQ05nbVFMOHpER0p4LXNjMTRmMmo2NlFwa0w4MFJlcm1oQ3ZXVEg5RzF1Zl82Wm1NNnJUc1dhV1V4Z2hnR3dGWTR6Zw?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-08-30T01:00:38.688150+00:00"
       }
     ],
     "STZ": [
@@ -39,12 +39,6 @@
         "url": "https://finnhub.io/api/news?id=4191bf6baec8e933e87dce0bb4e8b8aeb4d58e5d8cef991de9b64fc1467f0135",
         "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
         "detected_at": "2026-08-26T14:49:49.262145+00:00"
-      },
-      {
-        "headline": "Full Transcript: Constellation Brands Q1 2027 Earnings Call",
-        "url": "https://finnhub.io/api/news?id=4191bf6baec8e933e87dce0bb4e8b8aeb4d58e5d8cef991de9b64fc1467f0135",
-        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
-        "detected_at": "2026-08-26T01:00:38.561754+00:00"
       }
     ],
     "NBIX": [
@@ -60,7 +54,21 @@
         "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
         "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      },
+      {
+        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
+        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-09-01T17:44:58.841581+00:00"
+      }
+    ],
+    "ARCC": [
+      {
+        "headline": "UBS Maintains Neutral on Ares Capital, Raises Price Target to $21",
+        "url": "https://finnhub.io/api/news?id=228ed8020d721e091ca31c826f97a73bbd7e68355fa8084d9e3c6f3de0033e13",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-02T01:00:41.990582+00:00"
       }
     ]
   }
