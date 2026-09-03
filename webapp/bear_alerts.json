@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T17:47:48.908892+00:00",
+  "last_updated": "2026-09-03T17:44:46.234995+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,12 @@
     ],
     "TSLA": [
       {
+        "headline": "SpaceX Rises 7% as Starship Test 14 Approaches, Tesla Jumps 7%, Rocket Lab Ticks Up",
+        "url": "https://finnhub.io/api/news?id=e405fec6bc74e130fd76a31cef3a26cb9f619a9044fcfb9e2d33cbec48326aa0",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "Elon Musk Says America’s Wealth Gap With Europe Is About to Get ‘Much Bigger’ — AI and Robots Are Why",
         "url": "https://finnhub.io/api/news?id=4f84f5438ed13bf631a8591d51cf990443017aa42d1e94464ff6996167910e33",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=fb6fe1c5b5bb64999b37840d0aed5d3b4dfddd5a56818d0d93413b95f58de3c8",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-09-01T01:00:40.336207+00:00"
-      },
-      {
-        "headline": "This Week in Tesla: No More FSD in China? Elon Musk's Robovan Talk And More",
-        "url": "https://finnhub.io/api/news?id=f4ff9954c64b13fb2bcf1d926ed2aae92a41901b8f906ab0dedfab86f45c5d9d",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-08-30T01:00:38.688150+00:00"
       }
     ],
     "KBANK": [
@@ -131,6 +131,18 @@
     ],
     "LOW": [
       {
+        "headline": "Home Depot vs. Lowe’s: One Dividend Looks Much Stronger Under the Hood",
+        "url": "https://finnhub.io/api/news?id=c6cf941bd98b3f33290b9aa1db15d4c15bd90fc6133db48777f6318d115c9567",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
+        "headline": "107-year-old Home Depot rival closing 25% of its stores",
+        "url": "https://finnhub.io/api/news?id=aca6ac648b5c9f70b929c1860e034a891deeae88d2d00314e53f072f041bb5fc",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "Home Depot Faces Weak DIY Demand: Should Investors be Concerned?",
         "url": "https://finnhub.io/api/news?id=44156e82b7d7dc01b84534c01be8a95f4feb7a6daedeb12d60ffd053247b07b2",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
@@ -147,18 +159,6 @@
         "url": "https://finnhub.io/api/news?id=1da0c4d0478114e97fef059c1db0232d159fcdf06ad232c894338d370fd2cd4e",
         "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
         "detected_at": "2026-08-29T17:37:17.268129+00:00"
-      },
-      {
-        "headline": "U.S. Economy: The Outlook For Housing Worsens",
-        "url": "https://finnhub.io/api/news?id=1da0c4d0478114e97fef059c1db0232d159fcdf06ad232c894338d370fd2cd4e",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
-        "detected_at": "2026-08-29T01:00:38.968410+00:00"
-      },
-      {
-        "headline": "U.S. Economy: The Outlook For Housing Worsens",
-        "url": "https://finnhub.io/api/news?id=1da0c4d0478114e97fef059c1db0232d159fcdf06ad232c894338d370fd2cd4e",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
-        "detected_at": "2026-08-28T23:29:36.940124+00:00"
       }
     ],
     "PG": [
@@ -203,6 +203,12 @@
     ],
     "TSM": [
       {
+        "headline": "EWT: High AI Potential, Tremendous Geopolitical Risks As China Preps For A Blockade",
+        "url": "https://finnhub.io/api/news?id=cab88e1ccd98fec1dbbdc33f1fdb36944e5d2f18b3a05310d5beeaa5ad5002f8",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
         "url": "https://finnhub.io/api/news?id=588551889f11d42fff4cd1fb39ae978e4eab4a5e5345f412c9f30956b8920882",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -239,12 +245,6 @@
         "url": "https://finnhub.io/api/news?id=71715f958e078e16d7809beb6428dc7073a4822380f49be8812942bf347d5a40",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
         "detected_at": "2026-08-27T23:41:12.402770+00:00"
-      },
-      {
-        "headline": "Nucor Corp (NYSE:NUE): Dividend Quality Meets Sustainable Growth",
-        "url": "https://finnhub.io/api/news?id=71715f958e078e16d7809beb6428dc7073a4822380f49be8812942bf347d5a40",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-08-27T01:00:40.932296+00:00"
       }
     ],
     "AVGO": [
@@ -259,12 +259,6 @@
         "url": "https://finnhub.io/api/news?id=34fcdc5b395ae44bd3a01c6180162677594447ca079b80f3c68238569f37151a",
         "condition": "รายได้ AI กระจุกตัวที่ลูกค้า 6 รายหลัก (hyperscaler) — ถ้าลูกค้ารายใหญ่ 2-3 รายชะลอ capex พร้อมกัน guidance ที่ตั้งไว้สูงมากจะพลาดทันที",
         "detected_at": "2026-09-01T01:00:40.336207+00:00"
-      },
-      {
-        "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-        "url": "https://finnhub.io/api/news?id=02442e0bda54dda66dd692a0f5def54bbd177fdb2d0a6cdd651af3fb8ff274da",
-        "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
-        "detected_at": "2026-08-27T01:00:40.932296+00:00"
       }
     ],
     "HEI.A": [
@@ -291,12 +285,6 @@
         "url": "https://finnhub.io/api/news?id=a5fb70c8b0fcab9ad9d9686992161c314b4116aeba99b3a3d35ba3652f456154",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-08-27T23:41:12.402770+00:00"
-      },
-      {
-        "headline": "HEICO Corporation (HEI) Q3 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=a5fb70c8b0fcab9ad9d9686992161c314b4116aeba99b3a3d35ba3652f456154",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-08-27T01:00:40.932296+00:00"
       }
     ],
     "RBRK": [
@@ -367,6 +355,12 @@
     ],
     "V": [
       {
+        "headline": "Visa (V) Could Be 92% Above Fair Value Following Its AI Fraud Detection Upgrade",
+        "url": "https://finnhub.io/api/news?id=6042dd4e82faaa3ffc54b772e4e070bb9450032a45d4efd7f9918a83ba80c309",
+        "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "Visa Launches Enhanced A2A Protect Innovations to Help Financial Institutions Stop Fraud Before Money Leaves Accounts",
         "url": "https://finnhub.io/api/news?id=a62fb2dc8ca371bfb4af68c2dd8439ad7b7722d57206c399e83b1884b70d50d2",
         "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
@@ -381,10 +375,24 @@
     ],
     "UNH": [
       {
+        "headline": "Is UnitedHealth Finally Turning the Corner After a Tough 2025?",
+        "url": "https://finnhub.io/api/news?id=3f111e4afb2da452197ce0feb8443e66586011e17d66dfe92dfe30c17857205f",
+        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "Can Centene's Marketplace Recovery Fuel Stronger Earnings Growth?",
         "url": "https://finnhub.io/api/news?id=e4986c7e355043e59c656a1c52dbe0d2e2b30ebbe6e03009de611177fa730fe7",
         "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
         "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      }
+    ],
+    "STAG": [
+      {
+        "headline": "5 Elite Dividend Stocks That Pay You Every Single Month",
+        "url": "https://finnhub.io/api/news?id=0feb46a81b16902fa8bea5b762afa1197a472a932bb3dc5c26cb57197f0ae749",
+        "condition": "Single-tenant risk — ผู้เช่า default/ไม่ต่อสัญญา = อาคารนั้นรายได้เป็นศูนย์ทันที (ต่างจาก multi-tenant)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
       }
     ]
   }

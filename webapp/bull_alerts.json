@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T17:47:48.908892+00:00",
+  "last_updated": "2026-09-03T17:44:46.234995+00:00",
   "alerts": {
     "PTT": [
       {
@@ -57,6 +57,18 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital (NASDAQ:ARCC) Presents a Technical Breakout Setup",
+        "url": "https://finnhub.io/api/news?id=53b4fed7e7a4a7430aef8e0ca6bba3fe3016828714332523e63218e4ce618702",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
+        "headline": "Blue Owl Capital: The Dividend Shoe Dropped, But Still A HOLD",
+        "url": "https://finnhub.io/api/news?id=9352d5b4408502a9787e6858b149d2bc3831d4b985e7bf0e9d4cd732a4ec7256",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      },
+      {
         "headline": "UBS Maintains Neutral on Ares Capital, Raises Price Target to $21",
         "url": "https://finnhub.io/api/news?id=228ed8020d721e091ca31c826f97a73bbd7e68355fa8084d9e3c6f3de0033e13",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -67,6 +79,14 @@
         "url": "https://finnhub.io/api/news?id=228ed8020d721e091ca31c826f97a73bbd7e68355fa8084d9e3c6f3de0033e13",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
+        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
       }
     ]
   }
