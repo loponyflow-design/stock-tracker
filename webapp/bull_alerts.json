@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-09-05T01:00:35.883773+00:00",
+  "last_updated": "2026-09-05T16:41:55.465172+00:00",
   "alerts": {
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-05T16:41:55.465172+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -25,12 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-02T17:47:48.908892+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-02T01:00:41.990582+00:00"
       }
     ],
     "NBIX": [
@@ -92,6 +92,12 @@
         "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
         "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-05T16:41:55.465172+00:00"
+      },
+      {
+        "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
+        "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-09-05T01:00:35.883773+00:00"
       },
       {
@@ -111,12 +117,14 @@
         "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
         "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
         "detected_at": "2026-09-04T01:00:35.914612+00:00"
-      },
+      }
+    ],
+    "PG": [
       {
-        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
-        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+        "headline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
+        "url": "https://finnhub.io/api/news?id=63ea1dba5b78b36a241409827bb3e0a2c3aa844307e0c561b62eb0ee513211ac",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-05T16:41:55.465172+00:00"
       }
     ]
   }
