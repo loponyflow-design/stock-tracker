@@ -1,0 +1,123 @@
+{
+  "last_updated": "2026-09-05T01:00:35.883773+00:00",
+  "alerts": {
+    "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-05T01:00:35.883773+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - kaohoon.com",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-04T17:30:39.645689+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-04T01:00:35.914612+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-02T17:47:48.908892+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      }
+    ],
+    "NBIX": [
+      {
+        "headline": "Neurocrine's Crenessity Gains Ground in CAH: How Far Can Sales Go?",
+        "url": "https://finnhub.io/api/news?id=08922baef08c98700581a8eded622de2d1463417f2cddeb7318364886ec74fa5",
+        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
+        "detected_at": "2026-09-01T17:44:58.841581+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
+        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-02T01:00:41.990582+00:00"
+      },
+      {
+        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
+        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-01T17:44:58.841581+00:00"
+      }
+    ],
+    "ARCC": [
+      {
+        "headline": "Ares Capital (NASDAQ:ARCC) Presents a Technical Breakout Setup",
+        "url": "https://finnhub.io/api/news?id=53b4fed7e7a4a7430aef8e0ca6bba3fe3016828714332523e63218e4ce618702",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-04T17:30:39.645689+00:00"
+      },
+      {
+        "headline": "Blue Owl Capital: The Dividend Shoe Dropped, But Still A HOLD",
+        "url": "https://finnhub.io/api/news?id=9352d5b4408502a9787e6858b149d2bc3831d4b985e7bf0e9d4cd732a4ec7256",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-04T17:30:39.645689+00:00"
+      },
+      {
+        "headline": "Ares Capital (NASDAQ:ARCC) Presents a Technical Breakout Setup",
+        "url": "https://finnhub.io/api/news?id=53b4fed7e7a4a7430aef8e0ca6bba3fe3016828714332523e63218e4ce618702",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-04T01:00:35.914612+00:00"
+      },
+      {
+        "headline": "Blue Owl Capital: The Dividend Shoe Dropped, But Still A HOLD",
+        "url": "https://finnhub.io/api/news?id=9352d5b4408502a9787e6858b149d2bc3831d4b985e7bf0e9d4cd732a4ec7256",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-04T01:00:35.914612+00:00"
+      },
+      {
+        "headline": "Ares Capital (NASDAQ:ARCC) Presents a Technical Breakout Setup",
+        "url": "https://finnhub.io/api/news?id=53b4fed7e7a4a7430aef8e0ca6bba3fe3016828714332523e63218e4ce618702",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
+        "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-05T01:00:35.883773+00:00"
+      },
+      {
+        "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
+        "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-04T17:30:39.645689+00:00"
+      },
+      {
+        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
+        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-04T17:30:39.645689+00:00"
+      },
+      {
+        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
+        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-04T01:00:35.914612+00:00"
+      },
+      {
+        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
+        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-03T17:44:46.234995+00:00"
+      }
+    ]
+  }
+}
