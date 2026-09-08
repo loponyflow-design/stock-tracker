@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T18:39:50.377402+00:00",
+  "last_updated": "2026-09-08T01:00:37.557473+00:00",
   "alerts": {
     "PTT": [
       {
@@ -60,31 +60,31 @@
         "headline": "Why I Recently Dumped Ares Capital Corporation",
         "url": "https://finnhub.io/api/news?id=8e427f584a1dbac34168474241334d67ea4a18cdfc686fc5a1f5590e8e0358ff",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       },
       {
         "headline": "Ares Capital Corporation (ARCC) is Attracting Investor Attention: Here is What You Should Know",
         "url": "https://finnhub.io/api/news?id=763d01e1f68d76569e1e6d870c6b7aca8e10ba8632af4558e65a63823c77cb9b",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       },
       {
         "headline": "Ares Capital Yields 9.6%, And Q2 Reinforced Why It's My Favorite BDC",
         "url": "https://finnhub.io/api/news?id=a86627d8efbb905766db2fc3dd344944f2bd8ddb3e3459133124510604d5ff4b",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       },
       {
         "headline": "Ares Capital: Growing Backlog Can Convert To Higher Earnings (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=ac61ba4f6b2c24211aa406699ca12482bad00b0d1fd2ad35228d6ea90e2c5dbc",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       },
       {
         "headline": "Buy The Sale: Elite Dividend Growth Machines On The Bargain Rack",
         "url": "https://finnhub.io/api/news?id=b575bf78b1e77da59d99abc5b32350406b1e18811b993fc44a7a91c980403078",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       }
     ],
     "LEN": [
@@ -120,6 +120,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "Procter & Gamble: A Dividend King Facing A New Consumer Reality",
+        "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+      },
       {
         "headline": "Procter & Gamble: A Dividend King Facing A New Consumer Reality",
         "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
@@ -162,6 +168,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
+        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+      },
       {
         "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
         "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
