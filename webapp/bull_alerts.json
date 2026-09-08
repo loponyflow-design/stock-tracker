@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T01:00:37.557473+00:00",
+  "last_updated": "2026-09-08T17:51:12.399769+00:00",
   "alerts": {
     "PTT": [
       {
@@ -33,26 +33,12 @@
         "detected_at": "2026-09-04T17:30:39.645689+00:00"
       }
     ],
-    "NBIX": [
-      {
-        "headline": "Neurocrine's Crenessity Gains Ground in CAH: How Far Can Sales Go?",
-        "url": "https://finnhub.io/api/news?id=08922baef08c98700581a8eded622de2d1463417f2cddeb7318364886ec74fa5",
-        "condition": "Cornered resource ชั่วคราวจากสิทธิบัตร + orphan drug exclusivity — INGREZZA และ CRENESSITY มีการคุ้มครองสิทธิบัตร/exclusivity ที่ทำให้คู่แข่ง generic เข้าตลาดไม่ได้ในช่วงเวลาหนึ่ง (CRENESSITY คุ้มครองถึงอย่างน้อยปี 2031)",
-        "detected_at": "2026-09-01T17:44:58.841581+00:00"
-      }
-    ],
     "V": [
       {
         "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
         "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-09-02T01:00:41.990582+00:00"
-      },
-      {
-        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
-        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-09-01T17:44:58.841581+00:00"
       }
     ],
     "ARCC": [
@@ -60,31 +46,31 @@
         "headline": "Why I Recently Dumped Ares Capital Corporation",
         "url": "https://finnhub.io/api/news?id=8e427f584a1dbac34168474241334d67ea4a18cdfc686fc5a1f5590e8e0358ff",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       },
       {
         "headline": "Ares Capital Corporation (ARCC) is Attracting Investor Attention: Here is What You Should Know",
         "url": "https://finnhub.io/api/news?id=763d01e1f68d76569e1e6d870c6b7aca8e10ba8632af4558e65a63823c77cb9b",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       },
       {
         "headline": "Ares Capital Yields 9.6%, And Q2 Reinforced Why It's My Favorite BDC",
         "url": "https://finnhub.io/api/news?id=a86627d8efbb905766db2fc3dd344944f2bd8ddb3e3459133124510604d5ff4b",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       },
       {
         "headline": "Ares Capital: Growing Backlog Can Convert To Higher Earnings (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=ac61ba4f6b2c24211aa406699ca12482bad00b0d1fd2ad35228d6ea90e2c5dbc",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       },
       {
         "headline": "Buy The Sale: Elite Dividend Growth Machines On The Bargain Rack",
         "url": "https://finnhub.io/api/news?id=b575bf78b1e77da59d99abc5b32350406b1e18811b993fc44a7a91c980403078",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       }
     ],
     "LEN": [
@@ -121,6 +107,12 @@
     ],
     "PG": [
       {
+        "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+        "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      },
+      {
         "headline": "Procter & Gamble: A Dividend King Facing A New Consumer Reality",
         "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -147,6 +139,12 @@
     ],
     "AVGO": [
       {
+        "headline": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
+        "url": "https://finnhub.io/api/news?id=6703f40f92b84495e824392f737bdca98811e91e51b0824c555374dde63ca3e7",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      },
+      {
         "headline": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
         "url": "https://finnhub.io/api/news?id=c698c3cd5183f58ca14f21253e285b623a7df657507fa969a2b9c0d7fa94ce0e",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
@@ -168,6 +166,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
+        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      },
       {
         "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
         "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
