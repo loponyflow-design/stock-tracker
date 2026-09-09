@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T01:00:41.616795+00:00",
+  "last_updated": "2026-09-09T17:44:03.576002+00:00",
   "alerts": {
     "PTT": [
       {
@@ -39,47 +39,47 @@
         "url": "https://finnhub.io/api/news?id=6fdb1c8c75bfd06236c18018d5f8e4318b39311911ef7202c2521adf11cdbd98",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-09-09T01:00:41.616795+00:00"
-      },
-      {
-        "headline": "Wildfire Appoints Mike Grillo as Senior Vice President of Data and Consumer Insights",
-        "url": "https://finnhub.io/api/news?id=6ee1cb2897aaebf729f74e9bb10a118e537feb73f65d7d92073822edb0012606",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-09-02T01:00:41.990582+00:00"
       }
     ],
     "ARCC": [
       {
+        "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
+        "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
+      {
+        "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
+        "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
+      {
+        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Vs. 11 BDC Peers - Part 1 (Includes Recommendations As Of 9/4/2026)",
+        "url": "https://finnhub.io/api/news?id=9323fbb019c6b223eb77382aea88e9b10091aded18ea7bc9c7fd4d772f2ab8d3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
+      {
         "headline": "Ares Capital (ARCC) Falls More Steeply Than Broader Market: What Investors Need to Know",
         "url": "https://finnhub.io/api/news?id=dae787658dbec9a3556ae430caf4e5de2451b992b87969ab7741cc7c9ef38cc8",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T01:00:41.616795+00:00"
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
       },
       {
         "headline": "ARES CAPITAL CORPORATION PRICES PUBLIC OFFERING OF $750 MILLION 6.250% UNSECURED NOTES DUE 2033",
         "url": "https://finnhub.io/api/news?id=07dc1fd0433aa72618b8c3bc0d2ded937a8a2e6d18dc9f108c472b48313ff157",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T01:00:41.616795+00:00"
-      },
-      {
-        "headline": "Ares Capital: A Premium Price For A Book That's Quietly Turning",
-        "url": "https://finnhub.io/api/news?id=16b28bafc89b035aa580ba39400ea77ebeb053ac2bc148859c9846e1fde6eb93",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T01:00:41.616795+00:00"
-      },
-      {
-        "headline": "Why I Recently Dumped Ares Capital Corporation",
-        "url": "https://finnhub.io/api/news?id=8e427f584a1dbac34168474241334d67ea4a18cdfc686fc5a1f5590e8e0358ff",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T17:51:12.399769+00:00"
-      },
-      {
-        "headline": "Ares Capital Corporation (ARCC) is Attracting Investor Attention: Here is What You Should Know",
-        "url": "https://finnhub.io/api/news?id=763d01e1f68d76569e1e6d870c6b7aca8e10ba8632af4558e65a63823c77cb9b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
       }
     ],
     "LEN": [
+      {
+        "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
+        "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
       {
         "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
         "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
@@ -103,15 +103,15 @@
         "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-09-04T17:30:39.645689+00:00"
-      },
-      {
-        "headline": "CSCI Secures 2,926 New Residential Units as Market Share Growth Continues Across Florida",
-        "url": "https://finnhub.io/api/news?id=2e8af34487393ec371d0485d23068e2815f82d6785dae0b00cce6015bbb19246",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-09-04T17:30:39.645689+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+        "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
       {
         "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
         "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
@@ -135,12 +135,6 @@
         "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-07T18:39:50.377402+00:00"
-      },
-      {
-        "headline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
-        "url": "https://finnhub.io/api/news?id=63ea1dba5b78b36a241409827bb3e0a2c3aa844307e0c561b62eb0ee513211ac",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-06T01:00:38.578649+00:00"
       }
     ],
     "AVGO": [
