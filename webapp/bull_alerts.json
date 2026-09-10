@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T01:00:38.112491+00:00",
+  "last_updated": "2026-09-10T17:36:29.975612+00:00",
   "alerts": {
     "PTT": [
       {
@@ -46,31 +46,31 @@
         "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
         "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-10T01:00:38.112491+00:00"
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       },
       {
         "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
         "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-10T01:00:38.112491+00:00"
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       },
       {
         "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Vs. 11 BDC Peers - Part 1 (Includes Recommendations As Of 9/4/2026)",
         "url": "https://finnhub.io/api/news?id=9323fbb019c6b223eb77382aea88e9b10091aded18ea7bc9c7fd4d772f2ab8d3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-10T01:00:38.112491+00:00"
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       },
       {
         "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
         "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
       },
       {
         "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
         "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
       }
     ],
     "LEN": [
@@ -183,6 +183,14 @@
         "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-07T18:39:50.377402+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Johnson & Johnson Receives CE Marking for ACUVUE OASYS MAX Reusable Contact Lenses",
+        "url": "https://finnhub.io/api/news?id=5c74f69b93b992bfe256b28a875edb9f706d15240b680468af9dffe6a096a3f3",
+        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       }
     ]
   }
