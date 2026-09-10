@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T17:44:03.576002+00:00",
+  "last_updated": "2026-09-10T01:00:38.112491+00:00",
   "alerts": {
     "PTT": [
       {
@@ -46,29 +46,29 @@
         "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
         "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
       },
       {
         "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
         "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
       },
       {
         "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Vs. 11 BDC Peers - Part 1 (Includes Recommendations As Of 9/4/2026)",
         "url": "https://finnhub.io/api/news?id=9323fbb019c6b223eb77382aea88e9b10091aded18ea7bc9c7fd4d772f2ab8d3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
       },
       {
-        "headline": "Ares Capital (ARCC) Falls More Steeply Than Broader Market: What Investors Need to Know",
-        "url": "https://finnhub.io/api/news?id=dae787658dbec9a3556ae430caf4e5de2451b992b87969ab7741cc7c9ef38cc8",
+        "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
+        "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-09T17:44:03.576002+00:00"
       },
       {
-        "headline": "ARES CAPITAL CORPORATION PRICES PUBLIC OFFERING OF $750 MILLION 6.250% UNSECURED NOTES DUE 2033",
-        "url": "https://finnhub.io/api/news?id=07dc1fd0433aa72618b8c3bc0d2ded937a8a2e6d18dc9f108c472b48313ff157",
+        "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
+        "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-09T17:44:03.576002+00:00"
       }
