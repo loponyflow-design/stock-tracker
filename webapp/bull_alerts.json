@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T17:36:29.975612+00:00",
+  "last_updated": "2026-09-11T01:00:41.658386+00:00",
   "alerts": {
     "PTT": [
       {
@@ -34,6 +34,12 @@
       }
     ],
     "V": [
+      {
+        "headline": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
+        "url": "https://finnhub.io/api/news?id=eb9bac701be2ce032ceaf614cf8c18423d6ad863ec8d83f35f8def597bd9980b",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-09-11T01:00:41.658386+00:00"
+      },
       {
         "headline": "Visa CEO Highlights Cross-Border Growth, AI Gains and Stablecoin Push",
         "url": "https://finnhub.io/api/news?id=6fdb1c8c75bfd06236c18018d5f8e4318b39311911ef7202c2521adf11cdbd98",
@@ -166,6 +172,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "5 Stocks That Keep Raising Their Dividend Regardless Of The Market",
+        "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-11T01:00:41.658386+00:00"
+      },
       {
         "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
         "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
