@@ -1,0 +1,211 @@
+{
+  "last_updated": "2026-09-12T01:00:40.644717+00:00",
+  "alerts": {
+    "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-07T01:00:37.157976+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-06T01:00:38.578649+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-05T16:41:55.465172+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
+        "url": "https://finnhub.io/api/news?id=eb9bac701be2ce032ceaf614cf8c18423d6ad863ec8d83f35f8def597bd9980b",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-09-11T01:00:41.658386+00:00"
+      },
+      {
+        "headline": "Visa CEO Highlights Cross-Border Growth, AI Gains and Stablecoin Push",
+        "url": "https://finnhub.io/api/news?id=6fdb1c8c75bfd06236c18018d5f8e4318b39311911ef7202c2521adf11cdbd98",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-09T01:00:41.616795+00:00"
+      }
+    ],
+    "ARCC": [
+      {
+        "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
+        "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
+      },
+      {
+        "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
+        "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
+      },
+      {
+        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Vs. 11 BDC Peers - Part 1 (Includes Recommendations As Of 9/4/2026)",
+        "url": "https://finnhub.io/api/news?id=9323fbb019c6b223eb77382aea88e9b10091aded18ea7bc9c7fd4d772f2ab8d3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
+      },
+      {
+        "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
+        "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
+      },
+      {
+        "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
+        "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-10T01:00:38.112491+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
+        "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
+      {
+        "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
+        "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-09T01:00:41.616795+00:00"
+      },
+      {
+        "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
+        "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-09-05T16:41:55.465172+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "Kimberly Clark is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
+        "url": "https://finnhub.io/api/news?id=40f8a5f2e1b84f1f606bc5ba78264b91bd95b6a6b5bfd818706aed83ae84839d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
+      {
+        "headline": "3 Dividend Kings to Buy if the Fed Starts Raising Rates: KO, PG, WMT",
+        "url": "https://finnhub.io/api/news?id=d74d6b8a1d612096bfa91de0f583b113d4af56d601cc738f02572050eea4710a",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
+      {
+        "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+        "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-09T17:44:03.576002+00:00"
+      },
+      {
+        "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+        "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-09T01:00:41.616795+00:00"
+      },
+      {
+        "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+        "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "MRVL Rides on the AI Capex Wave: What's Ahead for Investors?",
+        "url": "https://finnhub.io/api/news?id=c50ddb6f72b783bf664402d43ce1448b11ee1c6c49fb78aba76077b95f650859",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-09-11T17:40:45.875726+00:00"
+      },
+      {
+        "headline": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
+        "url": "https://finnhub.io/api/news?id=6703f40f92b84495e824392f737bdca98811e91e51b0824c555374dde63ca3e7",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      },
+      {
+        "headline": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+        "url": "https://finnhub.io/api/news?id=c698c3cd5183f58ca14f21253e285b623a7df657507fa969a2b9c0d7fa94ce0e",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-09-07T01:00:37.157976+00:00"
+      }
+    ],
+    "STZ": [
+      {
+        "headline": "Deutsche Bank Maintains Hold on Constellation Brands, Lowers Price Target to $136",
+        "url": "https://finnhub.io/api/news?id=ff89a00938c86d5ed8c123e7c212ed4ea903c6535566a80ee45f24d7d605d8d2",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
+      {
+        "headline": "Should you Avoid Constellation Brands Stock, Even at a 52-Week Low?",
+        "url": "https://finnhub.io/api/news?id=c5cb53821aefbfee1d82e1daff687822e5f43dfdf31c4701cd3758018f196fb5",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+      },
+      {
+        "headline": "Should you Avoid Constellation Brands Stock, Even at a 52-Week Low?",
+        "url": "https://finnhub.io/api/news?id=c5cb53821aefbfee1d82e1daff687822e5f43dfdf31c4701cd3758018f196fb5",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-09-07T01:00:37.157976+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "5 Stocks That Keep Raising Their Dividend Regardless Of The Market",
+        "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-11T17:40:45.875726+00:00"
+      },
+      {
+        "headline": "5 Stocks That Keep Raising Their Dividend Regardless Of The Market",
+        "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-11T01:00:41.658386+00:00"
+      },
+      {
+        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
+        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-08T17:51:12.399769+00:00"
+      },
+      {
+        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
+        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-08T01:00:37.557473+00:00"
+      },
+      {
+        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
+        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-07T18:39:50.377402+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Johnson & Johnson Receives CE Marking for ACUVUE OASYS MAX Reusable Contact Lenses",
+        "url": "https://finnhub.io/api/news?id=5c74f69b93b992bfe256b28a875edb9f706d15240b680468af9dffe6a096a3f3",
+        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
+        "detected_at": "2026-09-10T17:36:29.975612+00:00"
+      }
+    ],
+    "BRK.B": [
+      {
+        "headline": "Berkshire Hathaway vs. Lemonade: Which Financial Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=04d5b5db24133141b6ed38ec9af9136e6216ead7f1f751d68faecea6c74ae37c",
+        "condition": "Fortress balance sheet + anti-fragile — เงินสด $397B + ธุรกิจกระจาย ทำให้ รอด (และได้ประโยชน์) เมื่อ macro แย่ — ตรงสไตล์ \"เลี่ยงหุ้นที่พังเมื่อเศรษฐกิจแย่\" อย่างยิ่ง (Berkshire ซื้อตอนคนอื่นกลัว)",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      }
+    ]
+  }
+}
