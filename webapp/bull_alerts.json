@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T17:40:45.875726+00:00",
+  "last_updated": "2026-09-12T01:00:40.644717+00:00",
   "alerts": {
     "PTT": [
       {
@@ -19,12 +19,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-05T16:41:55.465172+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-05T01:00:35.883773+00:00"
       }
     ],
     "V": [
@@ -91,15 +85,21 @@
         "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-09-05T16:41:55.465172+00:00"
-      },
-      {
-        "headline": "Lennar (LEN) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
-        "url": "https://finnhub.io/api/news?id=a9d8131fef87f5392980bb90cce5979f070df0fd14734733db9211227a8f72e1",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-09-05T01:00:35.883773+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "Kimberly Clark is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
+        "url": "https://finnhub.io/api/news?id=40f8a5f2e1b84f1f606bc5ba78264b91bd95b6a6b5bfd818706aed83ae84839d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
+      {
+        "headline": "3 Dividend Kings to Buy if the Fed Starts Raising Rates: KO, PG, WMT",
+        "url": "https://finnhub.io/api/news?id=d74d6b8a1d612096bfa91de0f583b113d4af56d601cc738f02572050eea4710a",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
       {
         "headline": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
         "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
@@ -117,18 +117,6 @@
         "url": "https://finnhub.io/api/news?id=f663b4833cd38e00cacc7c46a1429b8951d9f7cbfff93a948b14098a83e0d5b7",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-08T17:51:12.399769+00:00"
-      },
-      {
-        "headline": "Procter & Gamble: A Dividend King Facing A New Consumer Reality",
-        "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
-      },
-      {
-        "headline": "Procter & Gamble: A Dividend King Facing A New Consumer Reality",
-        "url": "https://finnhub.io/api/news?id=8fb6a726dc772a29d234861e5e750a07474d06314b5bf85ecb2cb2e96fadefa2",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
       }
     ],
     "AVGO": [
@@ -152,6 +140,12 @@
       }
     ],
     "STZ": [
+      {
+        "headline": "Deutsche Bank Maintains Hold on Constellation Brands, Lowers Price Target to $136",
+        "url": "https://finnhub.io/api/news?id=ff89a00938c86d5ed8c123e7c212ed4ea903c6535566a80ee45f24d7d605d8d2",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
+      },
       {
         "headline": "Should you Avoid Constellation Brands Stock, Even at a 52-Week Low?",
         "url": "https://finnhub.io/api/news?id=c5cb53821aefbfee1d82e1daff687822e5f43dfdf31c4701cd3758018f196fb5",
@@ -203,6 +197,14 @@
         "url": "https://finnhub.io/api/news?id=5c74f69b93b992bfe256b28a875edb9f706d15240b680468af9dffe6a096a3f3",
         "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
         "detected_at": "2026-09-10T17:36:29.975612+00:00"
+      }
+    ],
+    "BRK.B": [
+      {
+        "headline": "Berkshire Hathaway vs. Lemonade: Which Financial Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=04d5b5db24133141b6ed38ec9af9136e6216ead7f1f751d68faecea6c74ae37c",
+        "condition": "Fortress balance sheet + anti-fragile — เงินสด $397B + ธุรกิจกระจาย ทำให้ รอด (และได้ประโยชน์) เมื่อ macro แย่ — ตรงสไตล์ \"เลี่ยงหุ้นที่พังเมื่อเศรษฐกิจแย่\" อย่างยิ่ง (Berkshire ซื้อตอนคนอื่นกลัว)",
+        "detected_at": "2026-09-12T01:00:40.644717+00:00"
       }
     ]
   }
