@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T16:53:08.840366+00:00",
+  "last_updated": "2026-09-13T01:00:39.743768+00:00",
   "alerts": {
     "PTT": [
       {
@@ -7,12 +7,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-07T01:00:37.157976+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-06T01:00:38.578649+00:00"
       }
     ],
     "V": [
@@ -30,6 +24,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
+        "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-13T01:00:39.743768+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
         "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
@@ -53,12 +53,6 @@
         "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-10T17:36:29.975612+00:00"
-      },
-      {
-        "headline": "FS KKR Capital: One Of The Steepest Discounts In The Sector, Still Not A Buy",
-        "url": "https://finnhub.io/api/news?id=fb6472d8264faba4dc8c33add9e228f1a7d71427369257670fdeba5ad7023c40",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       }
     ],
     "LEN": [
@@ -80,6 +74,12 @@
         "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
         "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-13T01:00:39.743768+00:00"
+      },
+      {
+        "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
+        "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
       },
       {
@@ -97,12 +97,6 @@
       {
         "headline": "Kimberly Clark is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
         "url": "https://finnhub.io/api/news?id=40f8a5f2e1b84f1f606bc5ba78264b91bd95b6a6b5bfd818706aed83ae84839d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-12T01:00:40.644717+00:00"
-      },
-      {
-        "headline": "3 Dividend Kings to Buy if the Fed Starts Raising Rates: KO, PG, WMT",
-        "url": "https://finnhub.io/api/news?id=d74d6b8a1d612096bfa91de0f583b113d4af56d601cc738f02572050eea4710a",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-12T01:00:40.644717+00:00"
       }
@@ -158,6 +152,12 @@
         "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
         "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-13T01:00:39.743768+00:00"
+      },
+      {
+        "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
+        "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
       },
       {
@@ -177,12 +177,6 @@
         "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-08T17:51:12.399769+00:00"
-      },
-      {
-        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
-        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-08T01:00:37.557473+00:00"
       }
     ],
     "JNJ": [
