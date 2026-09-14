@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T01:00:46.616319+00:00",
+  "last_updated": "2026-09-14T19:09:27.702269+00:00",
   "alerts": {
     "V": [
       {
@@ -16,6 +16,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Sept. 16 Will Provide a Clearer Path for Interest Rates -- These 3 High-Yield Dividend Stocks Win Either Way",
+        "url": "https://finnhub.io/api/news?id=d2f4583c3746ae9209e8036ec1f52a494cb5b7241b6e78bed48de69b631c82dd",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-14T19:09:27.702269+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
         "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
@@ -39,12 +45,6 @@
         "url": "https://finnhub.io/api/news?id=880933dfbd09e43b4fbc32f79aae5af35c9792716d2b6688e9303c504192cb40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
-      },
-      {
-        "headline": "Blackstone Secured Lending: Buy This High Yield At A Discount",
-        "url": "https://finnhub.io/api/news?id=dd0cc52f0e8a101e02faa96502a4a127c7ea145836195c988edb4743cfc476b9",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       }
     ],
     "LEN": [
@@ -119,12 +119,6 @@
         "url": "https://finnhub.io/api/news?id=ff89a00938c86d5ed8c123e7c212ed4ea903c6535566a80ee45f24d7d605d8d2",
         "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
         "detected_at": "2026-09-12T01:00:40.644717+00:00"
-      },
-      {
-        "headline": "Should you Avoid Constellation Brands Stock, Even at a 52-Week Low?",
-        "url": "https://finnhub.io/api/news?id=c5cb53821aefbfee1d82e1daff687822e5f43dfdf31c4701cd3758018f196fb5",
-        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
-        "detected_at": "2026-09-07T18:39:50.377402+00:00"
       }
     ],
     "LOW": [
@@ -182,6 +176,12 @@
       }
     ],
     "LAMR": [
+      {
+        "headline": "Dividend Announcements: August 29 - September 4, 2026",
+        "url": "https://finnhub.io/api/news?id=881b54b3f9794717f64b08658efb580bd7d47fef02a051a532709447ed890cca",
+        "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
+        "detected_at": "2026-09-14T19:09:27.702269+00:00"
+      },
       {
         "headline": "Dividend Announcements: August 29 - September 4, 2026",
         "url": "https://finnhub.io/api/news?id=881b54b3f9794717f64b08658efb580bd7d47fef02a051a532709447ed890cca",
