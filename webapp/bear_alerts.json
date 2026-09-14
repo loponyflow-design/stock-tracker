@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-09-13T01:00:39.743768+00:00",
+  "last_updated": "2026-09-14T01:00:46.616319+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple: Duo Won't Move The Needle",
+        "url": "https://finnhub.io/api/news?id=d1e1133a739d53bfb86e7a16c3d7f3798e28e0b487ce7dc0610584a9b5bc94d8",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-14T01:00:46.616319+00:00"
+      },
       {
         "headline": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
         "url": "https://finnhub.io/api/news?id=9800edf1611a06a111c18e1929db27b1209f5b8bfa2f8b5aac93e80430ddc6d5",
@@ -24,12 +30,6 @@
         "headline": "Apple Prioritizing Volume Over Margins With Modest Pricing Strategy, Morgan Stanley Says",
         "url": "https://finnhub.io/api/news?id=97563fbaa2dbd24259c19e64e4d9220b1cbb22287d259fe6ec1f196cc5ecce93",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-10T17:36:29.975612+00:00"
-      },
-      {
-        "headline": "Apple's iPhone Duo, AI Strategy Strengthen Growth Outlook, Morgan Stanley Says",
-        "url": "https://finnhub.io/api/news?id=107844787ab7b62e1b84256e1341454beecb25802216627e6f84dcc448d53628",
-        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
         "detected_at": "2026-09-10T17:36:29.975612+00:00"
       }
     ],
@@ -161,16 +161,16 @@
         "url": "https://finnhub.io/api/news?id=8487fe28c488d1907b6cc552d0af7d705c9556434cfb8670b05cf1c22e9e7aaa",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-09-07T18:39:50.377402+00:00"
-      },
-      {
-        "headline": "Costco Reports Double-Digit Growth in August 2026 Sales. What That Means for COST Stock.",
-        "url": "https://finnhub.io/api/news?id=6d58083e5bc4080b54306d571dea31fcad7476d2deb0fab2f514114ca4c10802",
-        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-09-07T01:00:37.157976+00:00"
       }
     ],
     "TSM": [
       {
+        "headline": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
+        "url": "https://finnhub.io/api/news?id=3a461a319b1aa58a968ebff66655ca54ce43bd37ddae590ef55f0fb922889376",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-14T01:00:46.616319+00:00"
+      },
+      {
         "headline": "Broadcom’s Custom AI Chip Boom Has a Powerful Landlord: TSM",
         "url": "https://finnhub.io/api/news?id=7376d3abf269ea758e4c34e245cc45d2d0121c3eb4c5b7962aba4318a3e388da",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -193,12 +193,6 @@
         "url": "https://finnhub.io/api/news?id=83c4b728c795b00010684b8e8271456fdf2b3ad6e2c8f37d786e1b6f63034822",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-09-12T01:00:40.644717+00:00"
-      },
-      {
-        "headline": "Prediction: This Will Be Taiwan Semiconductor's Stock Price at the End of 2027",
-        "url": "https://finnhub.io/api/news?id=fdf6d6c33483c8fe6b24066479806fec16a2f82b63d5b0e9efc1ee1bcca250fa",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-11T01:00:41.658386+00:00"
       }
     ],
     "AVGO": [
@@ -323,14 +317,6 @@
         "url": "https://finnhub.io/api/news?id=ebcc6dbaaab6eee00ec0740fa4e4b4ccdca870b9e11bddec202856bede869fdf",
         "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
         "detected_at": "2026-09-10T17:36:29.975612+00:00"
-      }
-    ],
-    "AMZN": [
-      {
-        "headline": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-        "url": "https://finnhub.io/api/news?id=0af492eafa8a1c2529e56b7c222f60c50e17739840635565e17003628c39c2fd",
-        "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
-        "detected_at": "2026-09-07T01:00:37.157976+00:00"
       }
     ],
     "GE": [
