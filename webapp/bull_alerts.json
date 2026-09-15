@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T19:09:27.702269+00:00",
+  "last_updated": "2026-09-15T01:00:39.163303+00:00",
   "alerts": {
     "V": [
       {
@@ -17,6 +17,18 @@
     ],
     "ARCC": [
       {
+        "headline": "How Much of a $9,100 Monthly Dividend Paycheck Do You Actually Keep After Taxes?",
+        "url": "https://finnhub.io/api/news?id=ab32d09b1691cbca7284db25fa84dd07fc2fb35e7c6211dde0ec983eea6e5624",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-15T01:00:39.163303+00:00"
+      },
+      {
+        "headline": "4 High-Yield Dividend Stocks Worth Having in Your Roth IRA",
+        "url": "https://finnhub.io/api/news?id=ef59ed30af9950c4615b2aba473b22d7984f15c06dda1958275dbef80ce57615",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-15T01:00:39.163303+00:00"
+      },
+      {
         "headline": "Sept. 16 Will Provide a Clearer Path for Interest Rates -- These 3 High-Yield Dividend Stocks Win Either Way",
         "url": "https://finnhub.io/api/news?id=d2f4583c3746ae9209e8036ec1f52a494cb5b7241b6e78bed48de69b631c82dd",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -31,18 +43,6 @@
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
         "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-12T16:53:08.840366+00:00"
-      },
-      {
-        "headline": "The Dividend Stocks That Generate $6,400 Tax-Free Inside a Roth (And What They Cost You in a Taxable Account)",
-        "url": "https://finnhub.io/api/news?id=925c03514d31e7f4c0ae7b4cb8b9171c087f47b6f1408bb0b633703c56351c2d",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-12T16:53:08.840366+00:00"
-      },
-      {
-        "headline": "The 10-Year Treasury Pays Nearly 5% These 6 Dividend Stocks Still Pay More",
-        "url": "https://finnhub.io/api/news?id=880933dfbd09e43b4fbc32f79aae5af35c9792716d2b6688e9303c504192cb40",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
       }
@@ -187,6 +187,14 @@
         "url": "https://finnhub.io/api/news?id=881b54b3f9794717f64b08658efb580bd7d47fef02a051a532709447ed890cca",
         "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
         "detected_at": "2026-09-14T01:00:46.616319+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "GE Aerospace: Hedge Funds Love The Stock, So Should You",
+        "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-09-15T01:00:39.163303+00:00"
       }
     ]
   }
