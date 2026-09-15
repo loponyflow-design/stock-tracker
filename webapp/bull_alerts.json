@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T01:00:39.163303+00:00",
+  "last_updated": "2026-09-15T18:03:21.012491+00:00",
   "alerts": {
     "V": [
       {
@@ -17,6 +17,18 @@
     ],
     "ARCC": [
       {
+        "headline": "Ares Capital Corp's Dividend Analysis",
+        "url": "https://finnhub.io/api/news?id=a6723811b96f33110c30efb1fbf38019523fde0234285fbd109acb5f1649513f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      },
+      {
+        "headline": "I Want Big BDC Income Without Buying Junk",
+        "url": "https://finnhub.io/api/news?id=b05c468a9c8b38a7b45fb67e0a7f31fde53133e84850bb53d3963abd4f467520",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      },
+      {
         "headline": "How Much of a $9,100 Monthly Dividend Paycheck Do You Actually Keep After Taxes?",
         "url": "https://finnhub.io/api/news?id=ab32d09b1691cbca7284db25fa84dd07fc2fb35e7c6211dde0ec983eea6e5624",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -33,18 +45,6 @@
         "url": "https://finnhub.io/api/news?id=d2f4583c3746ae9209e8036ec1f52a494cb5b7241b6e78bed48de69b631c82dd",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-14T19:09:27.702269+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
-        "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-13T01:00:39.743768+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
-        "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-12T16:53:08.840366+00:00"
       }
     ],
     "LEN": [
@@ -99,12 +99,6 @@
         "url": "https://finnhub.io/api/news?id=c50ddb6f72b783bf664402d43ce1448b11ee1c6c49fb78aba76077b95f650859",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-09-11T17:40:45.875726+00:00"
-      },
-      {
-        "headline": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
-        "url": "https://finnhub.io/api/news?id=6703f40f92b84495e824392f737bdca98811e91e51b0824c555374dde63ca3e7",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       }
     ],
     "STZ": [
@@ -145,12 +139,6 @@
         "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-11T01:00:41.658386+00:00"
-      },
-      {
-        "headline": "Lowe's: An Undervalued Dividend King For Long-Term Dividend Growth Investors",
-        "url": "https://finnhub.io/api/news?id=9dcce10f60b0dadf823ae06cd54f4aa5de75e9b1a6e203c00e9dac89a9b2d227",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-08T17:51:12.399769+00:00"
       }
     ],
     "JNJ": [
@@ -194,7 +182,37 @@
         "headline": "GE Aerospace: Hedge Funds Love The Stock, So Should You",
         "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      },
+      {
+        "headline": "GE Aerospace: Hedge Funds Love The Stock, So Should You",
+        "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-09-15T01:00:39.163303+00:00"
+      }
+    ],
+    "ANET": [
+      {
+        "headline": "Arista Networks: AI Networking And EOS Drive Multi-Year Growth",
+        "url": "https://finnhub.io/api/news?id=312b56fa7853b1b2834578159e8ad320634140e78763c101d2c8a2b3854cf0c9",
+        "condition": "Operating leverage ชัดเจน — margin ขยายต่อเนื่องพร้อมรายได้โต แปลว่าธุรกิจ scale ได้จริงไม่ใช่แค่โตแล้วต้นทุนโตตาม",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Rubrik: AI Singularity Underscores Cybersecurity Tailwinds - Momentum Fatigue Improves Entry Point",
+        "url": "https://finnhub.io/api/news?id=fb4e0763b1e5f5c0201c5a751dff7fd355c4d5f4b45d62312e4cd217505f0a61",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "MediaTek Cranks Up Pressure on Qualcomm With Cutting-Edge Smartphone Chip",
+        "url": "https://finnhub.io/api/news?id=79d063f81dc097e9d3df08212a3ff17d47659f3ab96c26b31a666958d2fa0959",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-09-15T18:03:21.012491+00:00"
       }
     ]
   }
