@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T01:00:38.495158+00:00",
+  "last_updated": "2026-09-16T18:03:20.469233+00:00",
   "alerts": {
     "V": [
       {
@@ -7,58 +7,38 @@
         "url": "https://finnhub.io/api/news?id=eb9bac701be2ce032ceaf614cf8c18423d6ad863ec8d83f35f8def597bd9980b",
         "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
         "detected_at": "2026-09-11T01:00:41.658386+00:00"
-      },
-      {
-        "headline": "Visa CEO Highlights Cross-Border Growth, AI Gains and Stablecoin Push",
-        "url": "https://finnhub.io/api/news?id=6fdb1c8c75bfd06236c18018d5f8e4318b39311911ef7202c2521adf11cdbd98",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-09-09T01:00:41.616795+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
+        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+        "url": "https://finnhub.io/api/news?id=a6fef68e85f4ab2e7badd8e592a87865e5ca4eee3bbbfeedc4e577d7e10a20ee",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "Ares Capital: Hold As Portfolio Growth Momentum Fades",
+        "url": "https://finnhub.io/api/news?id=99df7dbf7c8e62372e92065dacc8f1983ba1a0ba62b75a789596b897f1e2718c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "Boomers and Retirees Can Load IRAs With 4 Quality Ultra-High-Yield Dividend Giants (One Yields 12.3%)",
+        "url": "https://finnhub.io/api/news?id=18877871009663bcb8c0cb21fadee7756684f0688b37911a399e69b903d80937",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
       {
         "headline": "Ares Capital: Hold As Portfolio Growth Momentum Fades",
         "url": "https://finnhub.io/api/news?id=99df7dbf7c8e62372e92065dacc8f1983ba1a0ba62b75a789596b897f1e2718c",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "Ares Capital Corp's Dividend Analysis",
-        "url": "https://finnhub.io/api/news?id=a6723811b96f33110c30efb1fbf38019523fde0234285fbd109acb5f1649513f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "I Want Big BDC Income Without Buying Junk",
-        "url": "https://finnhub.io/api/news?id=b05c468a9c8b38a7b45fb67e0a7f31fde53133e84850bb53d3963abd4f467520",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "Ares Capital Corp's Dividend Analysis",
-        "url": "https://finnhub.io/api/news?id=a6723811b96f33110c30efb1fbf38019523fde0234285fbd109acb5f1649513f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      },
-      {
-        "headline": "I Want Big BDC Income Without Buying Junk",
-        "url": "https://finnhub.io/api/news?id=b05c468a9c8b38a7b45fb67e0a7f31fde53133e84850bb53d3963abd4f467520",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      }
-    ],
-    "LEN": [
-      {
-        "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
-        "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-09-09T17:44:03.576002+00:00"
-      },
-      {
-        "headline": "1 Value Stock with Exciting Potential and 2 We Brush Off",
-        "url": "https://finnhub.io/api/news?id=85f1e558ff47d64c2b4352a320ad4791c5fa38ee771097a0fc827f80c6056a2e",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-09-09T01:00:41.616795+00:00"
       }
     ],
     "PG": [
@@ -204,6 +184,24 @@
         "headline": "How Much Slowdown Is Rubrik Stock Priced For?",
         "url": "https://finnhub.io/api/news?id=8099b093015dfa895a67973d4638e316bdb2a5d61b5d5fc62b6a13029f153d0c",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "Rubrik Adds New MCP Support to Expand Access to Agentic Cyber Resilience",
+        "url": "https://finnhub.io/api/news?id=abbbc69a86bdfd19815e48bd09d25a43625770ae544099b8041a446af454a836",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "Rubrik: AI Singularity Underscores Cybersecurity Tailwinds - Momentum Fatigue Improves Entry Point",
+        "url": "https://finnhub.io/api/news?id=fb4e0763b1e5f5c0201c5a751dff7fd355c4d5f4b45d62312e4cd217505f0a61",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      },
+      {
+        "headline": "How Much Slowdown Is Rubrik Stock Priced For?",
+        "url": "https://finnhub.io/api/news?id=8099b093015dfa895a67973d4638e316bdb2a5d61b5d5fc62b6a13029f153d0c",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-09-16T01:00:38.495158+00:00"
       },
       {
@@ -211,18 +209,6 @@
         "url": "https://finnhub.io/api/news?id=abbbc69a86bdfd19815e48bd09d25a43625770ae544099b8041a446af454a836",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "Rubrik: AI Singularity Underscores Cybersecurity Tailwinds - Momentum Fatigue Improves Entry Point",
-        "url": "https://finnhub.io/api/news?id=fb4e0763b1e5f5c0201c5a751dff7fd355c4d5f4b45d62312e4cd217505f0a61",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "Rubrik: AI Singularity Underscores Cybersecurity Tailwinds - Momentum Fatigue Improves Entry Point",
-        "url": "https://finnhub.io/api/news?id=fb4e0763b1e5f5c0201c5a751dff7fd355c4d5f4b45d62312e4cd217505f0a61",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
       }
     ],
     "TSM": [
