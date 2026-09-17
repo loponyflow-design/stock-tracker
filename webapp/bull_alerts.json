@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-16T18:03:20.469233+00:00",
+  "last_updated": "2026-09-17T01:00:38.312267+00:00",
   "alerts": {
     "V": [
+      {
+        "headline": "Mastercard Slips as AI Payments Trade Exclusivity for Scale",
+        "url": "https://finnhub.io/api/news?id=49e13ad3ca1d1cd316241ec77db92f473e308cdc12076cb234b31ce00dbbb6ea",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-09-17T01:00:38.312267+00:00"
+      },
+      {
+        "headline": "Visa vs. Mastercard: Which Payment Stock Has More Upside?",
+        "url": "https://finnhub.io/api/news?id=b1ad63223728475a2a84813948e4edacf9b270265096651e6a934f91fa7981fc",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-09-17T01:00:38.312267+00:00"
+      },
       {
         "headline": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
         "url": "https://finnhub.io/api/news?id=eb9bac701be2ce032ceaf614cf8c18423d6ad863ec8d83f35f8def597bd9980b",
@@ -10,6 +22,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
+        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-17T01:00:38.312267+00:00"
+      },
       {
         "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
         "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
@@ -33,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=18877871009663bcb8c0cb21fadee7756684f0688b37911a399e69b903d80937",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-16T18:03:20.469233+00:00"
-      },
-      {
-        "headline": "Ares Capital: Hold As Portfolio Growth Momentum Fades",
-        "url": "https://finnhub.io/api/news?id=99df7dbf7c8e62372e92065dacc8f1983ba1a0ba62b75a789596b897f1e2718c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
       }
     ],
     "PG": [
