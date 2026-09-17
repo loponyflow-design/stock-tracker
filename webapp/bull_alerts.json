@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T01:00:38.312267+00:00",
+  "last_updated": "2026-09-17T18:04:30.299938+00:00",
   "alerts": {
     "V": [
       {
@@ -23,6 +23,24 @@
     ],
     "ARCC": [
       {
+        "headline": "Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps",
+        "url": "https://finnhub.io/api/news?id=f9bdb6c0f8697e676299912688c6398c1459250ddfeaafb73b4e522ac9ad8d55",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-17T18:04:30.299938+00:00"
+      },
+      {
+        "headline": "Brokers Suggest Investing in Ares Capital (ARCC): Read This Before Placing a Bet",
+        "url": "https://finnhub.io/api/news?id=8f5b063cd585165c8bc98729c8aea565af6dc1418e0dce68769a94f71333d7f4",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-17T18:04:30.299938+00:00"
+      },
+      {
+        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
+        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-17T18:04:30.299938+00:00"
+      },
+      {
         "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
         "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -31,24 +49,6 @@
       {
         "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
         "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T18:03:20.469233+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-        "url": "https://finnhub.io/api/news?id=a6fef68e85f4ab2e7badd8e592a87865e5ca4eee3bbbfeedc4e577d7e10a20ee",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T18:03:20.469233+00:00"
-      },
-      {
-        "headline": "Ares Capital: Hold As Portfolio Growth Momentum Fades",
-        "url": "https://finnhub.io/api/news?id=99df7dbf7c8e62372e92065dacc8f1983ba1a0ba62b75a789596b897f1e2718c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T18:03:20.469233+00:00"
-      },
-      {
-        "headline": "Boomers and Retirees Can Load IRAs With 4 Quality Ultra-High-Yield Dividend Giants (One Yields 12.3%)",
-        "url": "https://finnhub.io/api/news?id=18877871009663bcb8c0cb21fadee7756684f0688b37911a399e69b903d80937",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-16T18:03:20.469233+00:00"
       }
@@ -131,14 +131,6 @@
         "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-11T01:00:41.658386+00:00"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "Johnson & Johnson Receives CE Marking for ACUVUE OASYS MAX Reusable Contact Lenses",
-        "url": "https://finnhub.io/api/news?id=5c74f69b93b992bfe256b28a875edb9f706d15240b680468af9dffe6a096a3f3",
-        "condition": "Switching cost ใน MedTech: ศัลยแพทย์คุ้นเครื่องมือ/ระบบ (Abiomed, Shockwave, ACUVUE) เปลี่ยนยาก + dividend 63 ปีสะท้อนความสม่ำเสมอที่หาได้ยาก",
-        "detected_at": "2026-09-10T17:36:29.975612+00:00"
       }
     ],
     "BRK.B": [
@@ -235,6 +227,14 @@
         "url": "https://finnhub.io/api/news?id=79d063f81dc097e9d3df08212a3ff17d47659f3ab96c26b31a666958d2fa0959",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
         "detected_at": "2026-09-15T18:03:21.012491+00:00"
+      }
+    ],
+    "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-17T18:04:30.299938+00:00"
       }
     ]
   }
