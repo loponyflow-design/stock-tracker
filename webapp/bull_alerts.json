@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T18:04:30.299938+00:00",
+  "last_updated": "2026-09-18T01:00:40.443234+00:00",
   "alerts": {
     "V": [
       {
@@ -26,6 +26,12 @@
         "headline": "Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps",
         "url": "https://finnhub.io/api/news?id=f9bdb6c0f8697e676299912688c6398c1459250ddfeaafb73b4e522ac9ad8d55",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-18T01:00:40.443234+00:00"
+      },
+      {
+        "headline": "Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps",
+        "url": "https://finnhub.io/api/news?id=f9bdb6c0f8697e676299912688c6398c1459250ddfeaafb73b4e522ac9ad8d55",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-17T18:04:30.299938+00:00"
       },
       {
@@ -45,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-17T01:00:38.312267+00:00"
-      },
-      {
-        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
-        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-16T18:03:20.469233+00:00"
       }
     ],
     "PG": [
@@ -230,6 +230,12 @@
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-18T01:00:40.443234+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
