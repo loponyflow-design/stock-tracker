@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T01:00:40.443234+00:00",
+  "last_updated": "2026-09-18T17:36:33.936636+00:00",
   "alerts": {
     "V": [
       {
@@ -13,15 +13,15 @@
         "url": "https://finnhub.io/api/news?id=b1ad63223728475a2a84813948e4edacf9b270265096651e6a934f91fa7981fc",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-09-17T01:00:38.312267+00:00"
-      },
-      {
-        "headline": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
-        "url": "https://finnhub.io/api/news?id=eb9bac701be2ce032ceaf614cf8c18423d6ad863ec8d83f35f8def597bd9980b",
-        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
-        "detected_at": "2026-09-11T01:00:41.658386+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "Investors Heavily Search Ares Capital Corporation (ARCC): Here is What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps",
         "url": "https://finnhub.io/api/news?id=f9bdb6c0f8697e676299912688c6398c1459250ddfeaafb73b4e522ac9ad8d55",
@@ -45,15 +45,15 @@
         "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
-        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-17T01:00:38.312267+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
+        "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
         "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
@@ -77,12 +77,6 @@
         "url": "https://finnhub.io/api/news?id=d74d6b8a1d612096bfa91de0f583b113d4af56d601cc738f02572050eea4710a",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
-      },
-      {
-        "headline": "Kimberly Clark is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
-        "url": "https://finnhub.io/api/news?id=40f8a5f2e1b84f1f606bc5ba78264b91bd95b6a6b5bfd818706aed83ae84839d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-12T01:00:40.644717+00:00"
       }
     ],
     "AVGO": [
@@ -109,6 +103,12 @@
     ],
     "LOW": [
       {
+        "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
+        "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
         "headline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
         "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
@@ -125,12 +125,6 @@
         "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-11T17:40:45.875726+00:00"
-      },
-      {
-        "headline": "5 Stocks That Keep Raising Their Dividend Regardless Of The Market",
-        "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-11T01:00:41.658386+00:00"
       }
     ],
     "BRK.B": [
@@ -230,6 +224,12 @@
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",

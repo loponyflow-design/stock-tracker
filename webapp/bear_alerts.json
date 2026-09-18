@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-09-18T01:00:40.443234+00:00",
+  "last_updated": "2026-09-18T17:36:33.936636+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple iPhone Refresh Cycle Better-Than-Expected, Says Evercore As AAPL Stock Heads For 5th Straight Weekly Gain",
+        "url": "https://finnhub.io/api/news?id=f030797b65af02a39dc3cda3dc239d28d215994bf2f42f717d0da5946e2c1459",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "Apple (AAPL) Challenges Secret UK Order For An iPhone Backdoor",
         "url": "https://finnhub.io/api/news?id=ac97fd5cb78731320ba989319ed1e6456c87bf6ca09ea3aea71fea066636bde0",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=0078e1032fb647f22424aca113b33ff13e324bfa087dec12eebd65031470726b",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-09-17T01:00:38.312267+00:00"
-      },
-      {
-        "headline": "Jim Cramer Believes Apple (AAPL) Could See “Off The Charts” Demand For Its New Foldable",
-        "url": "https://finnhub.io/api/news?id=ab47b3997149b11cbe7332f6e1c49fb9a8ae0e6c5b7b9f6b5c34e1c46f0c229f",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?",
+        "url": "https://finnhub.io/api/news?id=67ce70fbf91f79b0684a2cf45343e5b80b855e4eeabfba23709b50e20b0da475",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "Elon Musk Says 'Excitement’ is Guaranteed at Tesla Roadster Reveal in October: Audience Would Need to ‘Vouch’ That 'This Is Not AI'",
         "url": "https://finnhub.io/api/news?id=831ca10a9788102915e4dfbeb3195601d5f8067adbb45fc3690d7a8b680fc4cf",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=da2f2145f193ffeba098896500ae24d126d835026e25c9be73d7c677e54fc4b3",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      },
-      {
-        "headline": "Elon Musk Is Teasing a Tesla and SpaceX Merger Again",
-        "url": "https://finnhub.io/api/news?id=b894235f1e5f834c26cd5ce5a03b70aae6af4d04b172cea7f4bbb90aae69f56d",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-18T01:00:40.443234+00:00"
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
       },
       {
         "headline": "KSS คาด SET สัปดาห์นี้แกว่งขึ้น จับตาเฟด–งบหุ้น Real Sector ชู KBANK-KTB-AOT หุ้นเด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTHExZ3d6b2ZVcVdCRWwwRFh0UnlMdllUMFVKNnFaN09Kc1BRcmJPYU5ZQ3BPaGU4Zl9Bc0hHSHFVWUo2aEpPSE9KdHVZRjNRYkhRSkd3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-18T01:00:40.443234+00:00"
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
       },
       {
         "headline": "KBANK-SCB-PTT นำทีม โบรกฯ เปิดโผ 15 หุ้นน่าซื้อ ก่อนช่วง “แจกปันผลกลางปี” - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOY3R5aFJKUmY4N1BpcWFwVHNDTFo2MnQyU0tKQW1pdUpZenUxZGNmeHhlWTlJVGFZTU1OMTRueFEtSEg1VlNSU3g2Slk5M01GTV85UzNPQXNwblJPR1RCODdjSlZ2REoxZ1NRZ091OHdqQVBZZkYyOEJwY0JYTVFtbzdzQlBBM0RDX3BTS3VkYnV6SVdCNDNqblByWGsweEp1Qy1hSWFQSkNTMlZfQ25vMi1SYk95VUNRbkQxbDF1UVY1N2pkXzNROVVpNHVHRzhFcHp2bThEVzZ1YnE4T2dZdkJESmh0VkFIclJJLVpVc1Q3ODNpdFFqSnVuV1A5Y2xWOEdEb21nOE5UYjI3bmwxOEltTllYZ1RuWU4zRWJqdm5QZHVWbUxHT21BQnNVWTJmakUwb01FNV9ob0pxaXNJaTF0ZDdnOTRuYjJBRVBtYWk2YW1qaWVkbEswZGFhMGFFalZzc3lQNjM0RnUyQXFzR0g1SHNCdXh4U29uZGxRZC1aU0ZYWGk2dXZFOHhmLWQ5dzdVUG1PanBpWVlOWFpxZE1KUEE5bEExWXFCZUhXTTB3Y0ZmUWx0ZzB4S01pbjZKdDhuZy1pb3VuYUFybmlvS3ltR29zWHlzOVNqekd6b1lIOWtHQklQd21MdG5ZN05CR0lCY1JpU0tSR3E4WHNzWThxTU1kSHotWmR1STRxUXMyVERRdEFJOTRHa3RmWXFhY3ZibHdlMWJlNkNHbE91MDB4REJ0QWNWc3ZFVHZDb2U1cDFzTmdHa1FKcWFwMC00V2dwakhTb2w5Q0dyLVF5a0VrSmsyYmFCanlPaVF2aU5uRHJGem43SkNiM25aVkIwVUFyMXZBODFlRVNrdnNDMmZWXy04elU2WVFkN2NvMk9vUHQtYkRtV2k1Q05sZnFHU2M3eFhVUzhXUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-18T01:00:40.443234+00:00"
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
       },
       {
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
+        "detected_at": "2026-09-18T01:00:40.443234+00:00"
       },
       {
         "headline": "KSS คาด SET สัปดาห์นี้แกว่งขึ้น จับตาเฟด–งบหุ้น Real Sector ชู KBANK-KTB-AOT หุ้นเด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTHExZ3d6b2ZVcVdCRWwwRFh0UnlMdllUMFVKNnFaN09Kc1BRcmJPYU5ZQ3BPaGU4Zl9Bc0hHSHFVWUo2aEpPSE9KdHVZRjNRYkhRSkd3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
+        "detected_at": "2026-09-18T01:00:40.443234+00:00"
       }
     ],
     "LOW": [
@@ -157,6 +157,24 @@
     ],
     "TSM": [
       {
+        "headline": "Why Is Taiwan Semiconductor Manufacturing (TSM) Ramping 2nm Production And Spending More?",
+        "url": "https://finnhub.io/api/news?id=8237836198e63b6a24506018ea0c7bb96887dff0010314cfb0bc5789b5ac6b58",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
+        "headline": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
+        "url": "https://finnhub.io/api/news?id=6913d0365ea3e2cdf61414cafbb0e40a4adf3a233087baa2ca218817cbdb8fbd",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
+        "headline": "Forget the AI Bubble: VanEck’s Nick Frasse Explains How MU, SK Hynix, ASML, and TSMC Control the Pace of 'Token Factories'",
+        "url": "https://finnhub.io/api/news?id=7e50a34f87d22b735b4a6f7f6905f3bd9ecdc7234d21cc1824cf2d19a579f90f",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
         "headline": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
         "url": "https://finnhub.io/api/news?id=218d21846fa112156e9b6773bb7d3a46c07d33324a44296c8c40ae43b2ef0d8d",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -167,27 +185,15 @@
         "url": "https://finnhub.io/api/news?id=480bafda0063e4a11596c882535086fef3b75453661fcc6d0ae437bd5d9de568",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-09-18T01:00:40.443234+00:00"
-      },
-      {
-        "headline": "TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race",
-        "url": "https://finnhub.io/api/news?id=05a6ee56ba2aa7cd3f7895633fa84c91a94806be694a10304aaab247f8759682",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade",
-        "url": "https://finnhub.io/api/news?id=db035b591ca8903280685f01b101a1217a2745dd6d71144f697a151f9c7e4279",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race",
-        "url": "https://finnhub.io/api/news?id=05a6ee56ba2aa7cd3f7895633fa84c91a94806be694a10304aaab247f8759682",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-17T01:00:38.312267+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "Here’s When Nividia’s Dominance Fades, Opening Broadcom’s Era of Dominance",
+        "url": "https://finnhub.io/api/news?id=20247d906545b87ad0ff00906d5d206158c21068a623438c5e3701d9f556ee42",
+        "condition": "รายได้ AI กระจุกตัวที่ลูกค้า 6 รายหลัก (hyperscaler) — ถ้าลูกค้ารายใหญ่ 2-3 รายชะลอ capex พร้อมกัน guidance ที่ตั้งไว้สูงมากจะพลาดทันที",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
       {
         "headline": "Investors Want to Know When Broadcom’s Custom Hyperscaler Chips Will Move Share Prices",
         "url": "https://finnhub.io/api/news?id=a729b9ee706afbcfbb75d7af45b2d3f8ab29cb4b211da9d5f3733bd2ffcd4109",
@@ -315,12 +321,6 @@
         "url": "https://finnhub.io/api/news?id=62893c934108390cb4e84f708579862ec5e7b3b4291db08db0f2465e4946203f",
         "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
         "detected_at": "2026-09-17T01:00:38.312267+00:00"
-      },
-      {
-        "headline": "CVS Health Eyes Margin Recovery, Cash Flow as 2027 Headwinds Loom",
-        "url": "https://finnhub.io/api/news?id=ebcc6dbaaab6eee00ec0740fa4e4b4ccdca870b9e11bddec202856bede869fdf",
-        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
-        "detected_at": "2026-09-11T01:00:41.658386+00:00"
       }
     ],
     "GE": [
@@ -393,34 +393,34 @@
     ],
     "HEI.A": [
       {
+        "headline": "Heico: Founding Family With Expertise In M&A",
+        "url": "https://finnhub.io/api/news?id=eeedc076b032cce4591f32d61c6f6694d48595866442937acfa03ef09d713e83",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
+        "headline": "3 Stocks Worth Watching Following New Analyst Coverage",
+        "url": "https://finnhub.io/api/news?id=bf4525f1ff2855bf95cee6476e18fa000ad5c2c8c52ac6e0766fd8d134ae58b1",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
+        "headline": "3 Reasons Why Growth Investors Shouldn't Overlook Heico (HEI)",
+        "url": "https://finnhub.io/api/news?id=41961b4db5550395812e7e6c1ebe92a14570e6c897e07d1ae198b36369693dc1",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
+        "headline": "Zacks Industry Outlook HEICO, ATI and AAR",
+        "url": "https://finnhub.io/api/news?id=5a92d5bfcceb2995b36e3232c862891bed07221099e72de613440f238c1b9347",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
+      },
+      {
         "headline": "Zacks Industry Outlook HEICO, ATI and AAR",
         "url": "https://finnhub.io/api/news?id=5a92d5bfcceb2995b36e3232c862891bed07221099e72de613440f238c1b9347",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-09-18T01:00:40.443234+00:00"
-      },
-      {
-        "headline": "HEICO (HEI) Could Be 22% Undervalued On Its Pullback",
-        "url": "https://finnhub.io/api/news?id=1d7087ea8979699a294837d740e4dbe646e7ab2d3d7e78b351bf5de6be98a33b",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-09-18T01:00:40.443234+00:00"
-      },
-      {
-        "headline": "Zacks Industry Outlook HEICO, ATI and AAR",
-        "url": "https://finnhub.io/api/news?id=5a92d5bfcceb2995b36e3232c862891bed07221099e72de613440f238c1b9347",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "HEICO (HEI) Could Be 22% Undervalued On Its Pullback",
-        "url": "https://finnhub.io/api/news?id=1d7087ea8979699a294837d740e4dbe646e7ab2d3d7e78b351bf5de6be98a33b",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "VPT Announces the FLX Series, a Highly Scalable DC-DC Converter Power Solution for Mission-Critical Applications",
-        "url": "https://finnhub.io/api/news?id=3071d3470a15607b91876e88809ad1108d6501e4ec9587cc1f86d51a971f3b97",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
       }
     ],
     "KO": [
@@ -449,6 +449,14 @@
         "url": "https://finnhub.io/api/news?id=ad5b4028cebaf4a5631bb267f2b2a9d65ac41a16a03623c1032f1267d7e783eb",
         "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
         "detected_at": "2026-09-16T18:03:20.469233+00:00"
+      }
+    ],
+    "NBIX": [
+      {
+        "headline": "Neurocrine’s (NBIX) Data Deluge Reshapes A Familiar Growth Story",
+        "url": "https://finnhub.io/api/news?id=d259a1eec5eea7aaccbe72197d167bb5abdceeadd134ae651d153ee4d7c75d11",
+        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
+        "detected_at": "2026-09-18T17:36:33.936636+00:00"
       }
     ]
   }
