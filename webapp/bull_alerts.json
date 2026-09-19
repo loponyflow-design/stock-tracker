@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T17:36:33.936636+00:00",
+  "last_updated": "2026-09-19T01:00:39.551942+00:00",
   "alerts": {
     "V": [
       {
@@ -16,6 +16,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Investors Heavily Search Ares Capital Corporation (ARCC): Here is What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-19T01:00:39.551942+00:00"
+      },
       {
         "headline": "Investors Heavily Search Ares Capital Corporation (ARCC): Here is What You Need to Know",
         "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
@@ -37,12 +43,6 @@
       {
         "headline": "Brokers Suggest Investing in Ares Capital (ARCC): Read This Before Placing a Bet",
         "url": "https://finnhub.io/api/news?id=8f5b063cd585165c8bc98729c8aea565af6dc1418e0dce68769a94f71333d7f4",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-17T18:04:30.299938+00:00"
-      },
-      {
-        "headline": "Ares Capital: I'm Buying This 9.7% Yield At Book Value",
-        "url": "https://finnhub.io/api/news?id=3a9307f3b0ed21da2d03493fc1ac8dd74b13db860007247f7dcbbab1d642f1cb",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-17T18:04:30.299938+00:00"
       }
@@ -79,14 +79,6 @@
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
       }
     ],
-    "AVGO": [
-      {
-        "headline": "MRVL Rides on the AI Capex Wave: What's Ahead for Investors?",
-        "url": "https://finnhub.io/api/news?id=c50ddb6f72b783bf664402d43ce1448b11ee1c6c49fb78aba76077b95f650859",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-09-11T17:40:45.875726+00:00"
-      }
-    ],
     "STZ": [
       {
         "headline": "Deutsche Bank Maintains Hold on Constellation Brands, Lowers Price Target to $136",
@@ -106,6 +98,12 @@
         "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
         "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-19T01:00:39.551942+00:00"
+      },
+      {
+        "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
+        "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-18T17:36:33.936636+00:00"
       },
       {
@@ -119,12 +117,6 @@
         "url": "https://finnhub.io/api/news?id=10017d38eb1e1440de117405860b44bc6ab7a8abb058a07ce0f2b7fe8598c924",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-12T16:53:08.840366+00:00"
-      },
-      {
-        "headline": "5 Stocks That Keep Raising Their Dividend Regardless Of The Market",
-        "url": "https://finnhub.io/api/news?id=7db3baa9e1a64f58224c7f38ec429edbe712e084cc253c581473a3c6fc14a24f",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-11T17:40:45.875726+00:00"
       }
     ],
     "BRK.B": [
@@ -228,6 +220,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-19T01:00:39.551942+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-18T17:36:33.936636+00:00"
       },
       {
@@ -241,6 +239,14 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-17T18:04:30.299938+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Lennar (LEN) Stock Could Be 17% Overvalued Despite Weaker Earnings Guidance",
+        "url": "https://finnhub.io/api/news?id=b1831739b353d9fbf4c9a5f1689d6f8d10b1fb41388cafa3237f432cd23a9d39",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-19T01:00:39.551942+00:00"
       }
     ]
   }
