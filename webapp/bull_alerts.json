@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T01:00:43.307518+00:00",
+  "last_updated": "2026-09-22T18:00:31.534335+00:00",
   "alerts": {
     "V": [
       {
@@ -23,6 +23,18 @@
     ],
     "ARCC": [
       {
+        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
+        "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-22T18:00:31.534335+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
+        "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-22T18:00:31.534335+00:00"
+      },
+      {
         "headline": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
         "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -39,21 +51,15 @@
         "url": "https://finnhub.io/api/news?id=76bd99e9b32f07d42ddf58a9045d5d27e370ce24699dcbc8e4314320d8b9e725",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
-      },
-      {
-        "headline": "Ares Capital Remains The Gold Standard In BDCs",
-        "url": "https://finnhub.io/api/news?id=76bd99e9b32f07d42ddf58a9045d5d27e370ce24699dcbc8e4314320d8b9e725",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-21T01:00:40.021634+00:00"
-      },
-      {
-        "headline": "Investors Heavily Search Ares Capital Corporation (ARCC): Here is What You Need to Know",
-        "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-19T17:06:05.913391+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
+        "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-22T18:00:31.534335+00:00"
+      },
       {
         "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
         "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
@@ -62,6 +68,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
+        "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-22T18:00:31.534335+00:00"
+      },
       {
         "headline": "The Dividend Kings Ranked By Quality Scores (September 2026)",
         "url": "https://finnhub.io/api/news?id=8356bac81b787ef1c8c2563fd1a0271c3a89e7f23b26f70675040b8e00a1ed71",
@@ -148,6 +160,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-22T18:00:31.534335+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-22T01:00:43.307518+00:00"
       },
       {
@@ -167,12 +185,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-20T01:00:39.922623+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-19T17:06:05.913391+00:00"
       }
     ],
     "LEN": [
