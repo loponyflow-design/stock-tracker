@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T19:11:38.941868+00:00",
+  "last_updated": "2026-09-22T01:00:43.307518+00:00",
   "alerts": {
     "V": [
       {
@@ -26,6 +26,12 @@
         "headline": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
         "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-22T01:00:43.307518+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
+        "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
       },
       {
@@ -45,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-19T17:06:05.913391+00:00"
-      },
-      {
-        "headline": "Investors Heavily Search Ares Capital Corporation (ARCC): Here is What You Need to Know",
-        "url": "https://finnhub.io/api/news?id=9985a44333f2d192f6567f0ec70e481d014fb4cf97082d2408423d9615a313cd",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-19T01:00:39.551942+00:00"
       }
     ],
     "PG": [
@@ -87,12 +87,6 @@
         "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      },
-      {
-        "headline": "GE Aerospace: Hedge Funds Love The Stock, So Should You",
-        "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-09-15T01:00:39.163303+00:00"
       }
     ],
     "ANET": [
@@ -154,6 +148,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-22T01:00:43.307518+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
       },
       {
@@ -173,15 +173,15 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-19T17:06:05.913391+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-19T01:00:39.551942+00:00"
       }
     ],
     "LEN": [
+      {
+        "headline": "Is Lennar Stock Really On Sale?",
+        "url": "https://finnhub.io/api/news?id=586b269ff363eb6aafe5fbbb22d2d215639bf02322d351fecdf9e3da60d5b067",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-09-22T01:00:43.307518+00:00"
+      },
       {
         "headline": "Lennar (LEN) Stock Could Be 17% Overvalued Despite Weaker Earnings Guidance",
         "url": "https://finnhub.io/api/news?id=b1831739b353d9fbf4c9a5f1689d6f8d10b1fb41388cafa3237f432cd23a9d39",
