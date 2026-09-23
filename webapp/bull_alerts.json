@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T18:00:31.534335+00:00",
+  "last_updated": "2026-09-23T01:00:42.802976+00:00",
   "alerts": {
     "V": [
       {
@@ -26,6 +26,12 @@
         "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
         "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-23T01:00:42.802976+00:00"
+      },
+      {
+        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
+        "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-22T18:00:31.534335+00:00"
       },
       {
@@ -45,15 +51,15 @@
         "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
-      },
-      {
-        "headline": "Ares Capital Remains The Gold Standard In BDCs",
-        "url": "https://finnhub.io/api/news?id=76bd99e9b32f07d42ddf58a9045d5d27e370ce24699dcbc8e4314320d8b9e725",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-21T19:11:38.941868+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
+        "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-23T01:00:42.802976+00:00"
+      },
       {
         "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
         "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
@@ -93,22 +99,6 @@
         "detected_at": "2026-09-18T17:36:33.936636+00:00"
       }
     ],
-    "GE": [
-      {
-        "headline": "GE Aerospace: Hedge Funds Love The Stock, So Should You",
-        "url": "https://finnhub.io/api/news?id=b6b4be69ee9ba9393ab3fa62affa6f40ee4c38157fb8c135cc87b386c6da3f12",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      }
-    ],
-    "ANET": [
-      {
-        "headline": "Arista Networks: AI Networking And EOS Drive Multi-Year Growth",
-        "url": "https://finnhub.io/api/news?id=312b56fa7853b1b2834578159e8ad320634140e78763c101d2c8a2b3854cf0c9",
-        "condition": "Operating leverage ชัดเจน — margin ขยายต่อเนื่องพร้อมรายได้โต แปลว่าธุรกิจ scale ได้จริงไม่ใช่แค่โตแล้วต้นทุนโตตาม",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
-      }
-    ],
     "RBRK": [
       {
         "headline": "How Much Slowdown Is Rubrik Stock Priced For?",
@@ -127,35 +117,15 @@
         "url": "https://finnhub.io/api/news?id=fb4e0763b1e5f5c0201c5a751dff7fd355c4d5f4b45d62312e4cd217505f0a61",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-09-16T18:03:20.469233+00:00"
-      },
-      {
-        "headline": "How Much Slowdown Is Rubrik Stock Priced For?",
-        "url": "https://finnhub.io/api/news?id=8099b093015dfa895a67973d4638e316bdb2a5d61b5d5fc62b6a13029f153d0c",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "Rubrik Adds New MCP Support to Expand Access to Agentic Cyber Resilience",
-        "url": "https://finnhub.io/api/news?id=abbbc69a86bdfd19815e48bd09d25a43625770ae544099b8041a446af454a836",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "There Is One Thing ASML’s $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.",
-        "url": "https://finnhub.io/api/news?id=3ce699436503b8e3860dd28f3bd804b1ccb3f8aa0d648c781f7fd1f4a0fac06d",
-        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
-        "detected_at": "2026-09-16T01:00:38.495158+00:00"
-      },
-      {
-        "headline": "MediaTek Cranks Up Pressure on Qualcomm With Cutting-Edge Smartphone Chip",
-        "url": "https://finnhub.io/api/news?id=79d063f81dc097e9d3df08212a3ff17d47659f3ab96c26b31a666958d2fa0959",
-        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
-        "detected_at": "2026-09-15T18:03:21.012491+00:00"
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-23T01:00:42.802976+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -179,12 +149,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-21T01:00:40.021634+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-20T01:00:39.922623+00:00"
       }
     ],
     "LEN": [
