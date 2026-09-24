@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T01:00:40.801701+00:00",
+  "last_updated": "2026-09-24T18:21:05.232726+00:00",
   "alerts": {
     "V": [
       {
@@ -10,6 +10,18 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+        "url": "https://finnhub.io/api/news?id=9e067bd831ebb1d39d1250d5532f4d59dc4e35d7e157dff99d916dca1efae77c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-24T18:21:05.232726+00:00"
+      },
+      {
+        "headline": "How to Build $5,350 a Month in Tax-Free Dividend Income Inside a Roth IRA",
+        "url": "https://finnhub.io/api/news?id=92ddf97a93f9059ace785bf80bf22b741696bdade5b1efc97f2107297e3deaca",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-24T18:21:05.232726+00:00"
+      },
       {
         "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
         "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
@@ -27,18 +39,6 @@
         "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-23T01:00:42.802976+00:00"
-      },
-      {
-        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
-        "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-22T18:00:31.534335+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
-        "url": "https://finnhub.io/api/news?id=89bde1813a06cb467490ee7640705752bee7e1d310dc405ec8cfce39dd95dafa",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-22T18:00:31.534335+00:00"
       }
     ],
     "PG": [
@@ -98,6 +98,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-24T18:21:05.232726+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-24T01:00:40.801701+00:00"
       },
       {
@@ -117,12 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-22T18:00:31.534335+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-22T01:00:43.307518+00:00"
       }
     ],
     "LEN": [
@@ -165,6 +165,14 @@
         "url": "https://finnhub.io/api/news?id=ea22888d3113d47bbc94883e8f6611403b64f3cd6d01a70dbff3531bce502a86",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "GE Aerospace Faces Margin Pressure From Rising Costs: Can It Recover?",
+        "url": "https://finnhub.io/api/news?id=2e0c8c4c1608dabc51b70987e7be760bd109010e6268825de4916795fbbb9591",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-09-24T18:21:05.232726+00:00"
       }
     ]
   }
