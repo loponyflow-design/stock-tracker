@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T18:24:13.596383+00:00",
+  "last_updated": "2026-09-26T01:00:39.545427+00:00",
   "alerts": {
     "V": [
       {
@@ -23,6 +23,12 @@
     ],
     "ARCC": [
       {
+        "headline": "How To Build A $75,000 Dividend Portfolio With SCHD And 5 High-Yield Picks",
+        "url": "https://finnhub.io/api/news?id=ff6983ae53d6ccc1e09f0dc6e30c545fcf2fba94e386e2209c7847467b9be2c7",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-26T01:00:39.545427+00:00"
+      },
+      {
         "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
         "url": "https://finnhub.io/api/news?id=9e067bd831ebb1d39d1250d5532f4d59dc4e35d7e157dff99d916dca1efae77c",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -45,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=25a5b0eee400adb72266bcabc47adcd219ea1b9520129a23a8644b1623d514c9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
-      },
-      {
-        "headline": "Blackstone Secured Lending's NAV, Valuation, And Dividend Versus 11 BDC Peers - Part 2 (Includes Calendar Q4 2026 - Q1 2027 Dividend Projections)",
-        "url": "https://finnhub.io/api/news?id=db7acf902130670b0702161c2c1670eea15e155d64bc26253e1b93efcfbf150c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-23T01:00:42.802976+00:00"
       }
     ],
     "PG": [
@@ -98,6 +98,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-26T01:00:39.545427+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-25T18:24:13.596383+00:00"
       },
       {
@@ -117,12 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-24T01:00:40.801701+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-23T18:20:15.938746+00:00"
       }
     ],
     "LEN": [
