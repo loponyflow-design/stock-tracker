@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T01:00:41.500136+00:00",
+  "last_updated": "2026-09-28T20:27:23.186835+00:00",
   "alerts": {
     "V": [
       {
@@ -13,15 +13,15 @@
         "url": "https://finnhub.io/api/news?id=7e670f20ff362dba32c429fe7ccc75cb0a5cdb1b74b58c9963acbda8d872a170",
         "condition": "Toll-road economics — margin 60%, asset-light, FCF มหาศาล, demand ทน recession (คนใช้จ่ายต่อ) — ตรงสไตล์ \"รายได้สม่ำเสมอ กำไรโต เลี่ยง macro\"",
         "detected_at": "2026-09-25T01:00:41.343159+00:00"
-      },
-      {
-        "headline": "Visa Just Fired 2,600 People. Here’s Where That Money Is Going",
-        "url": "https://finnhub.io/api/news?id=c868c780c725ee6d1d472ab72fbf0283625440367ce7e373f40e435e4cb46f8e",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-09-21T19:11:38.941868+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike",
+        "url": "https://finnhub.io/api/news?id=d432306ee738c70adb9e1d490f421a6bf55f81068aeed38aaba04d36fe97bd5c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-28T20:27:23.186835+00:00"
+      },
       {
         "headline": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike",
         "url": "https://finnhub.io/api/news?id=d432306ee738c70adb9e1d490f421a6bf55f81068aeed38aaba04d36fe97bd5c",
@@ -43,12 +43,6 @@
       {
         "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
         "url": "https://finnhub.io/api/news?id=9e067bd831ebb1d39d1250d5532f4d59dc4e35d7e157dff99d916dca1efae77c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-24T18:21:05.232726+00:00"
-      },
-      {
-        "headline": "How to Build $5,350 a Month in Tax-Free Dividend Income Inside a Roth IRA",
-        "url": "https://finnhub.io/api/news?id=92ddf97a93f9059ace785bf80bf22b741696bdade5b1efc97f2107297e3deaca",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-24T18:21:05.232726+00:00"
       }
@@ -110,6 +104,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-09-28T20:27:23.186835+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-28T01:00:41.500136+00:00"
       },
       {
@@ -129,12 +129,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-26T01:00:39.545427+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-25T18:24:13.596383+00:00"
       }
     ],
     "LEN": [
@@ -185,6 +179,14 @@
         "url": "https://finnhub.io/api/news?id=5acbdd41f5c5fd66f9d1bf8a13b9bd2ffea9eb6a33c2d106a70b73abc5cca616",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-09-25T01:00:41.343159+00:00"
+      }
+    ],
+    "NUE": [
+      {
+        "headline": "Best Dividend Aristocrats For October 2026",
+        "url": "https://finnhub.io/api/news?id=a858de7c4755f727def1d938c4a395431e61d53c9193adecc8cfe68e25951e21",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-09-28T20:27:23.186835+00:00"
       }
     ]
   }
