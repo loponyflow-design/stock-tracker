@@ -1,39 +1,45 @@
 {
-  "last_updated": "2026-09-27T01:00:40.598435+00:00",
+  "last_updated": "2026-09-28T01:00:41.500136+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple (AAPL) Opens the Ternus Era with a Foldable iPhone. Can Premium Devices Lift Revenue?",
+        "url": "https://finnhub.io/api/news?id=22875a979b52b6fa94eb6c8e453cf31005a6c2a5444db907e0d269ec79fe277b",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
+        "headline": "Australia is Cracking Down on Social Media. Could Apple Benefit from the Shift?",
+        "url": "https://finnhub.io/api/news?id=950b358b6ca6d4e1ade0389d85b334206ec216361ae6090a891010838066f47c",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
+        "headline": "Apple Faces a Deeper iPhone Probe in India. Could its Software Warranty Become the Bigger Issue?",
+        "url": "https://finnhub.io/api/news?id=9e45140676f5872ed3913d64c2e641609d6bcfbc8c7a76b624e31d82ecf51143",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
+        "headline": "Musk’s X Corp and SpaceXAI Drop Apple From AI Antitrust Fight. Is One Legal Headache Gone for the iPhone Maker?",
+        "url": "https://finnhub.io/api/news?id=5e77fbfbcea3633886e80b3fba334a187a056ae961dbd462ccfde0723f000718",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
       {
         "headline": "Apple Eyes the Rapidly Growing Fitness Tracker Segment. What That Could Mean for AAPL Stock.",
         "url": "https://finnhub.io/api/news?id=8d4f85b71d4dd50e0ffb26b5027e6cc48b84e3bc6b27c74f05d56720de8bb1ba",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-09-27T01:00:40.598435+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Rises Higher Than Market: Key Facts",
-        "url": "https://finnhub.io/api/news?id=436869c3b68c85d4ff9aaa26b7340070b20e28ff9b257c7f3308e1110b29f398",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-26T01:00:39.545427+00:00"
-      },
-      {
-        "headline": "Could John Ternus’ Product Strategy Reshape Apple’s (AAPL) Next Growth Phase?",
-        "url": "https://finnhub.io/api/news?id=72d34ba905adbcf6740562a2ad4917293136e78112f143fc7db5c8f1665340e5",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
-      },
-      {
-        "headline": "Apple Average iPhone Wait Times Increase, UBS Says; Maintains 'Neutral' Rating",
-        "url": "https://finnhub.io/api/news?id=38173ac803e90b3dbbf4cfa350223cf6d1a98dbb86a1fd93f9df263711d7a20b",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-23T18:20:15.938746+00:00"
-      },
-      {
-        "headline": "Apple’s new iPhone Duo: Will consumers bite?",
-        "url": "https://finnhub.io/api/news?id=bbd917c872e3586286da3a57c65cda3c6296f3c6a9339a79fc040f7318f703f4",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-09-21T19:11:38.941868+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "SpaceX vs. Tesla: Which Will Be the Largest Company at the End of 2027?",
+        "url": "https://finnhub.io/api/news?id=b7231a61a8c8c915f3f0938d8002ed62a6a20c573f12a33cf38cdb7ce98d0bc6",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
       {
         "headline": "In 2018, He Was Sleeping On The Factory Floor As His Company Kept Missing Production Targets. Less Than 3 Years Later, Tesla Shareholders Had Made Over 13 Times Their Money, And Elon Musk Was The Richest Man In The World.",
         "url": "https://finnhub.io/api/news?id=de7c30f4af875f837a32dff4fe3d494cbc275fd02bdc1b57553fa3b490a12c22",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=2342fceb448c284cac884bf0c4f74e86271dee69931e23ddfdae040ce3e5b025",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
-      },
-      {
-        "headline": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
-        "url": "https://finnhub.io/api/news?id=a5606e383dfa8c18a9cf65f6588d368df45b000d09e8daecfc080952191f840a",
-        "condition": "คู่แข่ง EV จีน (BYD, Xiaomi) ราคาต่ำกว่าและเร็วกว่าในการออกรุ่นใหม่ กดดัน margin ต่อเนื่อง",
-        "detected_at": "2026-09-23T18:20:15.938746+00:00"
       }
     ],
     "KBANK": [
@@ -70,34 +70,40 @@
         "headline": "หุ้นไทยพักเที่ยงวันนี้(24 ก.ย.) ร่วง 6.74 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTTlvbU04eXh0a2lKLXVwckxFV1BqRk1kX0tqbE5EZl9ndXBqOFk4dlJldS04djBxR05TdklTcDAwRmtyeEZmdVdRQ1ZrTnNMUU1WNVA3STJrYUVL?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-27T01:00:40.598435+00:00"
-      },
-      {
-        "headline": "SET ปิดตลาด 1,598.03 จุด บวก 13.88 จุด หุ้นแบงก์คึกคัก SCB-KBANK นำตลาด - thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRmNaRGR1bkRBOThaSVhmSlhlOWRBa1l2QXpnQkg1S0gyUjA2WWx6Z05yWXZZQjZDZFFneW4wSGR0SkpMSUhJb1dPWFZ2VjRRSEh3c2l1SXlHSjJveGRUNTJickFOUQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-27T01:00:40.598435+00:00"
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ร่วง 8.12 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUOTRnLUQ5eS1VVU5zUVhwVnBjcHBtbzk0anR6enludkppa2d4UVRaeEJxUEJNZ1FucmtSWVpYTXZyU1Z5NEJ4MFE2aEU5YWloMkpUWlJndUN0aDh6cHFKdmFyc2w?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-27T01:00:40.598435+00:00"
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
+        "headline": "SET ปิดตลาด 1,598.03 จุด บวก 13.88 จุด หุ้นแบงก์คึกคัก SCB-KBANK นำตลาด - ฐานเศรษฐกิจ",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRmNaRGR1bkRBOThaSVhmSlhlOWRBa1l2QXpnQkg1S0gyUjA2WWx6Z05yWXZZQjZDZFFneW4wSGR0SkpMSUhJb1dPWFZ2VjRRSEh3c2l1SXlHSjJveGRUNTJickFOUQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
       },
       {
         "headline": "หุ้นไทยพักเที่ยงวันนี้(24 ก.ย.) ร่วง 6.74 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTTlvbU04eXh0a2lKLXVwckxFV1BqRk1kX0tqbE5EZl9ndXBqOFk4dlJldS04djBxR05TdklTcDAwRmtyeEZmdVdRQ1ZrTnNMUU1WNVA3STJrYUVL?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-26T17:40:56.384592+00:00"
+        "detected_at": "2026-09-27T01:00:40.598435+00:00"
       },
       {
         "headline": "SET ปิดตลาด 1,598.03 จุด บวก 13.88 จุด หุ้นแบงก์คึกคัก SCB-KBANK นำตลาด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRmNaRGR1bkRBOThaSVhmSlhlOWRBa1l2QXpnQkg1S0gyUjA2WWx6Z05yWXZZQjZDZFFneW4wSGR0SkpMSUhJb1dPWFZ2VjRRSEh3c2l1SXlHSjJveGRUNTJickFOUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-09-26T17:40:56.384592+00:00"
+        "detected_at": "2026-09-27T01:00:40.598435+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "Is Home Depot’s Dividend Safe if Housing Stays Frozen?",
+        "url": "https://finnhub.io/api/news?id=59c4c5426fde620f40cc895bf6ea3289e8fc67e7079947c8c65474a2f0b2e7bb",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
       {
         "headline": "Is Home Depot's Next Big Thing Already In Its Stores?",
         "url": "https://finnhub.io/api/news?id=0acf0bb94933efc0fd270859fd5429b0c2ec64ab96b0ec19f2b97d83dd70c53a",
@@ -119,12 +125,6 @@
       {
         "headline": "Is HD Stock Worth Buying as Pro Growth Battles Housing Headwinds?",
         "url": "https://finnhub.io/api/news?id=3f9cafd10a4112b0672539050ce4e9b3415830022a4153741e9ffdc1e9b8a49e",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
-      },
-      {
-        "headline": "HD Stock Falls 11.4% in a Month. Does the Pullback Offer Opportunity?",
-        "url": "https://finnhub.io/api/news?id=e44ac8bfb72fd23e8f8fe8b179df19c9176d62564a51db2b4e34233bebec6289",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-09-25T01:00:41.343159+00:00"
       }
@@ -157,6 +157,18 @@
     ],
     "TSM": [
       {
+        "headline": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+        "url": "https://finnhub.io/api/news?id=6602eed32d6d3cb5bb39f3f4585548f730f587e1ef705d400102e1ad537f1b22",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
+        "headline": "TSMC: An AI Technology Leader Trading At Just 0.7x PEG",
+        "url": "https://finnhub.io/api/news?id=15e0bf7e8b8a4d1ae3681d61eb46e97a6eb85e2ea24f6844287c02750f928e67",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
         "headline": "TSMC: The Crown Jewel In The World Of Silicon Is Trading At A Discount Today",
         "url": "https://finnhub.io/api/news?id=8a5eedccf93c70f68f67e75114b2a34730f20f929e270ca08a07b0bd4119ee64",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -173,18 +185,6 @@
         "url": "https://finnhub.io/api/news?id=082f6c627d0f4b1b9ad678fc01cf875df4a81252e9b0b69f4cf59cdd61590dcb",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-09-26T01:00:39.545427+00:00"
-      },
-      {
-        "headline": "Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued",
-        "url": "https://finnhub.io/api/news?id=6e9a1a3e190893444c4c1d2e31900440dcd4076b447d01bd3e8a2b21b13fd072",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-26T01:00:39.545427+00:00"
-      },
-      {
-        "headline": "TSMC Offers AI Upside No Matter Who Wins The Race",
-        "url": "https://finnhub.io/api/news?id=082f6c627d0f4b1b9ad678fc01cf875df4a81252e9b0b69f4cf59cdd61590dcb",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-09-25T18:24:13.596383+00:00"
       }
     ],
     "AVGO": [
@@ -235,6 +235,12 @@
     ],
     "ABBV": [
       {
+        "headline": "AI Could Give AbbVie (ABBV) a New Route to Long-Term Pipeline Growth",
+        "url": "https://finnhub.io/api/news?id=0e5698ad0bcb12cbd00feef319fa1ad4f4307cd210834aec3642a9c7b7783918",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
         "headline": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
         "url": "https://finnhub.io/api/news?id=68c6d99ecb3945426214e324f0415ce3bfad6b187bddbedeb0207483edb9d72e",
         "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
@@ -257,12 +263,6 @@
         "url": "https://finnhub.io/api/news?id=62962e6245623a4dd3de16eebd576930f12a9e486287d87ad70b81f0ed363131",
         "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
         "detected_at": "2026-09-25T18:24:13.596383+00:00"
-      },
-      {
-        "headline": "AbbVie vs. Novo Nordisk: Which Drug Giant Stock Is a Better Buy in 2026?",
-        "url": "https://finnhub.io/api/news?id=a527e44c28e4d2901c54177a49412223ada2e94c09864f8c6483e6026a3335f0",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
       }
     ],
     "V": [
@@ -307,6 +307,12 @@
     ],
     "GE": [
       {
+        "headline": "GE Aerospace Is Spending $12 Billion on an Acquisition. Is It Still the Best Aerospace Stock to Own?",
+        "url": "https://finnhub.io/api/news?id=6f2d496af82d9835f3f4b5a3d7312d5b28752891e8a83eca084672b0bde3e8e5",
+        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
+        "detected_at": "2026-09-28T01:00:41.500136+00:00"
+      },
+      {
         "headline": "GE Aerospace is Spending $11.75 Billion to Fix a Supply-Chain Bottleneck. Will it Pay Off?",
         "url": "https://finnhub.io/api/news?id=c8b5c494c20f41476518963ca559ee11b0e8935425716a6db9a53ea141f95e91",
         "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
@@ -329,12 +335,6 @@
         "url": "https://finnhub.io/api/news?id=f376fe2f24ab82e71367453674f905ea2d838855a33f23b683011a0a36eca854",
         "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
         "detected_at": "2026-09-24T01:00:40.801701+00:00"
-      },
-      {
-        "headline": "The Zacks Analyst Blog Highlights NVIDIA, Berkshire Hathaway and GE Aerospace",
-        "url": "https://finnhub.io/api/news?id=f376fe2f24ab82e71367453674f905ea2d838855a33f23b683011a0a36eca854",
-        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
-        "detected_at": "2026-09-23T18:20:15.938746+00:00"
       }
     ],
     "ZETA": [
@@ -407,12 +407,6 @@
         "url": "https://finnhub.io/api/news?id=ea6d7be28edc0676089ebb22c2af0f75132a67be12a267011a91b1f12bf57dda",
         "condition": "IRS transfer pricing dispute — อาจต้องจ่ายภาษีย้อนหลังก้อนใหญ่ (วางมัดจำ ~$6B แล้ว) เป็น overhang",
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
-      },
-      {
-        "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
-        "url": "https://finnhub.io/api/news?id=877160de7e7ec1fd614c09b3f0c6826bd3186e7c21f2c350c78bf542c516578c",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-09-21T01:00:40.021634+00:00"
       }
     ],
     "AMZN": [
@@ -449,26 +443,12 @@
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
       }
     ],
-    "BRK.B": [
-      {
-        "headline": "Berkshire Hathaway: The World Isn't Ready For Warren Buffett's Successor",
-        "url": "https://finnhub.io/api/news?id=a2267ef53062db4a77af43d269be7c32809114eabdc9db502152cc745d435902",
-        "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
-        "detected_at": "2026-09-21T01:00:40.021634+00:00"
-      }
-    ],
     "LAMR": [
       {
         "headline": "The REIT Conundrum",
         "url": "https://finnhub.io/api/news?id=d3ab27d7d1b29cd7b91c398a80397f25f165b02fd178c1523a9e5b57e24cfc3c",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
-      },
-      {
-        "headline": "The REIT Conundrum",
-        "url": "https://finnhub.io/api/news?id=d3ab27d7d1b29cd7b91c398a80397f25f165b02fd178c1523a9e5b57e24cfc3c",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-09-21T01:00:40.021634+00:00"
       }
     ],
     "LEN": [
@@ -477,12 +457,6 @@
         "url": "https://finnhub.io/api/news?id=698d7dbf5f2e3589571a510c35fc0d56e86207b6b6510acf7dc3ef4cbea11029",
         "condition": "Margin ถูกบีบหนักกว่าคู่แข่ง — GM 15.2% ต่ำกว่า DHI (~22% ฟื้นแล้ว) มาก; กลยุทธ์ volume-over-margin ทำกำไรผันผวนรุนแรง",
         "detected_at": "2026-09-21T19:11:38.941868+00:00"
-      },
-      {
-        "headline": "Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?",
-        "url": "https://finnhub.io/api/news?id=698d7dbf5f2e3589571a510c35fc0d56e86207b6b6510acf7dc3ef4cbea11029",
-        "condition": "Margin ถูกบีบหนักกว่าคู่แข่ง — GM 15.2% ต่ำกว่า DHI (~22% ฟื้นแล้ว) มาก; กลยุทธ์ volume-over-margin ทำกำไรผันผวนรุนแรง",
-        "detected_at": "2026-09-21T01:00:40.021634+00:00"
       }
     ],
     "PG": [
