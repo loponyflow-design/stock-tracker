@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T01:00:44.599637+00:00",
+  "last_updated": "2026-09-29T19:13:52.998437+00:00",
   "alerts": {
     "V": [
       {
@@ -16,6 +16,12 @@
       }
     ],
     "ARCC": [
+      {
+        "headline": "Why I Won't Risk My Dividends On ARCC And BXSL",
+        "url": "https://finnhub.io/api/news?id=586a5fe27ea54e07e95f85b53e9bd7978af8ef13c1114fadb4bc9c9ba62a878a",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-09-29T19:13:52.998437+00:00"
+      },
       {
         "headline": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike",
         "url": "https://finnhub.io/api/news?id=d432306ee738c70adb9e1d490f421a6bf55f81068aeed38aaba04d36fe97bd5c",
@@ -39,15 +45,15 @@
         "url": "https://finnhub.io/api/news?id=ff6983ae53d6ccc1e09f0dc6e30c545fcf2fba94e386e2209c7847467b9be2c7",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-26T01:00:39.545427+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-        "url": "https://finnhub.io/api/news?id=9e067bd831ebb1d39d1250d5532f4d59dc4e35d7e157dff99d916dca1efae77c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-24T18:21:05.232726+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "I'd Put $1,000 Into Each of These 3 Dividend Stocks and Lose the Password",
+        "url": "https://finnhub.io/api/news?id=4d2b664551be13ea8bc19f7bb6ee3d5ecd814ca0365e92ebe683d0f8ef728eb3",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-09-29T19:13:52.998437+00:00"
+      },
       {
         "headline": "Colgate-Palmolive Has Paid a Dividend Since 1895. Does That Streak Still Deserves Your Money?",
         "url": "https://finnhub.io/api/news?id=e78ace9aceb95a8594cd518c292e436992c2bdefb0fac4e49379f1ecc0f4f790",
@@ -71,15 +77,15 @@
         "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-23T18:20:15.938746+00:00"
-      },
-      {
-        "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
-        "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-23T01:00:42.802976+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "3 Dividend Growth Stocks That Have Recently Hit New 52-Week Lows",
+        "url": "https://finnhub.io/api/news?id=b81d16c3a4a9b90f4371b490df1697dae126b72a5edba40d66a01c09c2471556",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-09-29T19:13:52.998437+00:00"
+      },
       {
         "headline": "Best Dividend Kings: September 2026",
         "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
@@ -91,12 +97,6 @@
         "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-26T17:40:56.384592+00:00"
-      },
-      {
-        "headline": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
-        "url": "https://finnhub.io/api/news?id=6db9d342897d4642340e45ad5ad474404d5cfaceb664af8e6673d33f75249144",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-22T18:00:31.534335+00:00"
       }
     ],
     "PTT": [
@@ -193,6 +193,14 @@
         "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-09-29T01:00:44.599637+00:00"
+      }
+    ],
+    "DHI": [
+      {
+        "headline": "Berkshire Deepens U.S. Housing Exposure With Integrated Scale",
+        "url": "https://finnhub.io/api/news?id=24f34cdd3274d00e418e464e91ef9f965a3cb4417b7edb378b332d66f5258903",
+        "condition": "Scale ที่ใหญ่สุด = Scale Economies — ซื้อวัสดุ/ที่ดิน, spread fixed cost, เจรจา subcontractor ได้ดีกว่าคู่แข่ง; entry-level focus ตรงกับ demand bracket ที่ใหญ่สุด",
+        "detected_at": "2026-09-29T19:13:52.998437+00:00"
       }
     ]
   }
