@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T19:00:50.139209+00:00",
+  "last_updated": "2026-10-01T01:00:43.771712+00:00",
   "alerts": {
     "V": [
       {
@@ -49,6 +49,12 @@
     ],
     "PG": [
       {
+        "headline": "Kimberly-Clark Keeps Raising Its Dividend. The Question Is Whether It Is Keeping Up With Your Costs",
+        "url": "https://finnhub.io/api/news?id=066bf2564f254aedbacda2d000272a88b64519146307cfa05c2b5210848181c4",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-01T01:00:43.771712+00:00"
+      },
+      {
         "headline": "I'd Put $1,000 Into Each of These 3 Dividend Stocks and Lose the Password",
         "url": "https://finnhub.io/api/news?id=4d2b664551be13ea8bc19f7bb6ee3d5ecd814ca0365e92ebe683d0f8ef728eb3",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -71,12 +77,6 @@
         "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-27T01:00:40.598435+00:00"
-      },
-      {
-        "headline": "Best Dividend Kings: September 2026",
-        "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-26T17:40:56.384592+00:00"
       }
     ],
     "LOW": [
@@ -135,14 +135,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-28T20:27:23.186835+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "Qualcomm Comes For Apple’s A20 Pro With New AI-First Snapdragon Chips",
-        "url": "https://finnhub.io/api/news?id=ea22888d3113d47bbc94883e8f6611403b64f3cd6d01a70dbff3531bce502a86",
-        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
-        "detected_at": "2026-09-24T01:00:40.801701+00:00"
       }
     ],
     "GE": [
