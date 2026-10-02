@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T19:22:10.894349+00:00",
+  "last_updated": "2026-10-02T01:00:42.736278+00:00",
   "alerts": {
     "V": [
       {
@@ -7,15 +7,15 @@
         "url": "https://finnhub.io/api/news?id=7e670f20ff362dba32c429fe7ccc75cb0a5cdb1b74b58c9963acbda8d872a170",
         "condition": "Toll-road economics — margin 60%, asset-light, FCF มหาศาล, demand ทน recession (คนใช้จ่ายต่อ) — ตรงสไตล์ \"รายได้สม่ำเสมอ กำไรโต เลี่ยง macro\"",
         "detected_at": "2026-09-25T18:24:13.596383+00:00"
-      },
-      {
-        "headline": "Visa (V) vs American Express (AXP): Which is a Better Stock to Buy",
-        "url": "https://finnhub.io/api/news?id=7e670f20ff362dba32c429fe7ccc75cb0a5cdb1b74b58c9963acbda8d872a170",
-        "condition": "Toll-road economics — margin 60%, asset-light, FCF มหาศาล, demand ทน recession (คนใช้จ่ายต่อ) — ตรงสไตล์ \"รายได้สม่ำเสมอ กำไรโต เลี่ยง macro\"",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
       }
     ],
     "ARCC": [
+      {
+        "headline": "My Top 10 High-Yield Picks For October 2026: Two Yielding Above 10%",
+        "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-02T01:00:42.736278+00:00"
+      },
       {
         "headline": "My Top 10 High-Yield Picks For October 2026: Two Yielding Above 10%",
         "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
@@ -39,12 +39,6 @@
         "url": "https://finnhub.io/api/news?id=586a5fe27ea54e07e95f85b53e9bd7978af8ef13c1114fadb4bc9c9ba62a878a",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-09-30T19:00:50.139209+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Ascends While Market Falls: Some Facts to Note",
-        "url": "https://finnhub.io/api/news?id=07642f6e2b947f9526b98427b851068b6da50cbe4ea4fbcdfd40e542b00cbbf0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
       }
     ],
     "PG": [
@@ -143,20 +137,6 @@
         "url": "https://finnhub.io/api/news?id=2e0c8c4c1608dabc51b70987e7be760bd109010e6268825de4916795fbbb9591",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-09-25T18:24:13.596383+00:00"
-      },
-      {
-        "headline": "GE Aerospace Faces Margin Pressure From Rising Costs: Can It Recover?",
-        "url": "https://finnhub.io/api/news?id=2e0c8c4c1608dabc51b70987e7be760bd109010e6268825de4916795fbbb9591",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "J&J’s RYBREVANT Shows Strong Survival. Is J&J’s Oncology Franchise Gaining?",
-        "url": "https://finnhub.io/api/news?id=5acbdd41f5c5fd66f9d1bf8a13b9bd2ffea9eb6a33c2d106a70b73abc5cca616",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-09-25T01:00:41.343159+00:00"
       }
     ],
     "NUE": [
