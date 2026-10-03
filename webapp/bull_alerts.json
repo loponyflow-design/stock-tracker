@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-03T01:00:39.513970+00:00",
+  "last_updated": "2026-10-03T17:51:12.314569+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Is Ares Capital (ARCC) a Buy as Wall Street Analysts Look Optimistic?",
+        "url": "https://finnhub.io/api/news?id=246d15dac1e6faf922bcf8649e07b6e4558462005bc02ae61ce656c8b68c541b",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      },
+      {
+        "headline": "ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMBER 30, 2026",
+        "url": "https://finnhub.io/api/news?id=25b874ae16621520d9a68c1c6c5527933daa068e04fd501400906035b7d34387",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      },
       {
         "headline": "ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMBER 30, 2026",
         "url": "https://finnhub.io/api/news?id=25b874ae16621520d9a68c1c6c5527933daa068e04fd501400906035b7d34387",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-02T19:05:25.706773+00:00"
-      },
-      {
-        "headline": "My Top 10 High-Yield Picks For October 2026: Two Yielding Above 10%",
-        "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-02T01:00:42.736278+00:00"
-      },
-      {
-        "headline": "My Top 10 High-Yield Picks For October 2026: Two Yielding Above 10%",
-        "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-01T19:22:10.894349+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "This Dividend King Is 18.5% Below Its All-Time High and Yields 3%. Is This a Real Opportunity or a Value Trap?",
+        "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      },
       {
         "headline": "Kimberly-Clark Keeps Raising Its Dividend. The Question Is Whether It Is Keeping Up With Your Costs",
         "url": "https://finnhub.io/api/news?id=066bf2564f254aedbacda2d000272a88b64519146307cfa05c2b5210848181c4",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=e78ace9aceb95a8594cd518c292e436992c2bdefb0fac4e49379f1ecc0f4f790",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-28T01:00:41.500136+00:00"
-      },
-      {
-        "headline": "Best Dividend Kings: September 2026",
-        "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-27T01:00:40.598435+00:00"
       }
     ],
     "LOW": [
@@ -83,12 +83,6 @@
         "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-27T01:00:40.598435+00:00"
-      },
-      {
-        "headline": "Best Dividend Kings: September 2026",
-        "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-26T17:40:56.384592+00:00"
       }
     ],
     "PTT": [
@@ -170,6 +164,12 @@
         "headline": "Legend Biotech Faces Pressure From Rivals Ahead of Key FDA Decision, UBS Says",
         "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      },
+      {
+        "headline": "Legend Biotech Faces Pressure From Rivals Ahead of Key FDA Decision, UBS Says",
+        "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-10-03T01:00:39.513970+00:00"
       },
       {
@@ -191,6 +191,14 @@
         "url": "https://finnhub.io/api/news?id=cf8acf78f3e6eebd8e525ccae538985f55d93fdb8381a705be3f81c62fa3902b",
         "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
         "detected_at": "2026-10-02T19:05:25.706773+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=1cabc81d1a5b21809cde0f24043052a6e40eb0f2cce7f8724115a66f7dc77786",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
       }
     ]
   }
