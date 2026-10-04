@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T17:51:12.314569+00:00",
+  "last_updated": "2026-10-04T01:00:39.641048+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -38,34 +38,52 @@
         "headline": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
         "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       },
       {
         "headline": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
         "url": "https://finnhub.io/api/news?id=2b892ea2017ef309bd3f6990028921e6f7a7f855897b953a5e30d736bce6967c",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       },
       {
         "headline": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus",
         "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       },
       {
         "headline": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
         "url": "https://finnhub.io/api/news?id=65ea1f431dfbec59e9385e95702ccc0cda18a538d91cb49c6f944db7c48fcb82",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       },
       {
-        "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
-        "url": "https://finnhub.io/api/news?id=fcf67aa83e6e7c7f767d7e5f3acab229f459cc21c7999b5f79d77630c862e083",
+        "headline": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
+        "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-02T01:00:42.736278+00:00"
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
       }
     ],
     "KBANK": [
+      {
+        "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้ปรับลง 8.07 จุด ขาย KBANK-SCB ซื้อ DELTA - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOTFldnljYm5fdXcwWjduanFKMm5GaUhlZ1NpcUxkQXBLR21WQ2lUNG1ES2JnR3dhY0FtdXJEcnBTSEVKU3FyMUx4ZXVtU2JxMUs4bDc2THNta1VGbUJtWU1lU1ZwUQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
+      {
+        "headline": "KSS คาด SET สัปดาห์นี้แกว่งขึ้น จับตาเฟด–งบหุ้น Real Sector ชู KBANK-KTB-AOT หุ้นเด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTHExZ3d6b2ZVcVdCRWwwRFh0UnlMdllUMFVKNnFaN09Kc1BRcmJPYU5ZQ3BPaGU4Zl9Bc0hHSHFVWUo2aEpPSE9KdHVZRjNRYkhRSkd3?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
@@ -77,24 +95,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOTFldnljYm5fdXcwWjduanFKMm5GaUhlZ1NpcUxkQXBLR21WQ2lUNG1ES2JnR3dhY0FtdXJEcnBTSEVKU3FyMUx4ZXVtU2JxMUs4bDc2THNta1VGbUJtWU1lU1ZwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-10-03T17:51:12.314569+00:00"
-      },
-      {
-        "headline": "KSS คาด SET สัปดาห์นี้แกว่งขึ้น จับตาเฟด–งบหุ้น Real Sector ชู KBANK-KTB-AOT หุ้นเด่น | ข่าวหุ้นธุรกิจ - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTHExZ3d6b2ZVcVdCRWwwRFh0UnlMdllUMFVKNnFaN09Kc1BRcmJPYU5ZQ3BPaGU4Zl9Bc0hHSHFVWUo2aEpPSE9KdHVZRjNRYkhRSkd3?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
-      },
-      {
-        "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-03T01:00:39.513970+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้ปรับลง 8.07 จุด ขาย KBANK-SCB ซื้อ DELTA - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQU0hYbUxYenNIekY5ekhWaEtzWkFGODJ0N2QtUkMxZ0pRd1dTbGgwbkU1Z0JkaTlraWhULU9HV05FMmE4RWhkMTB3SlRKaFlrSnR4Y3VodzRwVFptTFdlMUx5Y0tzVWJPTGVVZjlaM2lQWHNyS0xVOUtOaHRlX2JPeTdkdG5mdnBxWDQ0eDIyM2xndnVyZnNXamg1bURjOU9VOTRLSjExcDNHTWJ6dGI0eXoyZXpPelR1ZGRLU1M4WFY4VWtSNjhtRndLYVdqMnBLOWhPN2t2V05QSjRwdnQ3NWtvYzJEUjM3dFJQbjNFNnM1dkphV2lJN3QwdHFnbjdOTjhLS1E0ZkhvR2xscF9zZGsyeXFrWDZrd1hvbDJVdUswMkJESjNHVTZ0UWhuMHVsbWx5M090TldUb19WRHNIQVRQaFBPaHRmcVJuakpjcTZCN2tmQmY1VUxqZEdYWXgzVzR3N3pPcnhPNkMxNHhUbDd3MXphdWZoRnV0bTJFcURIb3ZWZkxqa3lzejg1Zkt0QVJfWjZYRjkxNURpRk9hRFduYmxkY01XWHpTaGxRNnBCeGFQNGJiRUlETDJlb1I0MkxqV29MU3BrM2ZNM1NoaWFMZ1RzaUZSSDdTYXlaVUtQVnhmbTl3ZlBnSTU?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-03T01:00:39.513970+00:00"
       }
     ],
     "LOW": [
@@ -163,6 +163,12 @@
     ],
     "TSM": [
       {
+        "headline": "ASML vs. Taiwan Semiconductor Manufacturing Company: What Revenue Trends Tell Investors About These Companies Tied to Artificial Intelligence",
+        "url": "https://finnhub.io/api/news?id=aacc6d37ee82de492e2d813fb9db320c0c5343f102affa917d473bc613df5f8e",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
+      {
         "headline": "TSMC (TSM) Exceeds Market Returns: Some Facts to Consider",
         "url": "https://finnhub.io/api/news?id=b5ac58428a3bb12501e77bd5e0055aee4cea51cb828804c5dc772c8608f40ce2",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -185,12 +191,6 @@
         "url": "https://finnhub.io/api/news?id=ae0f6af34d0d23c70d176ca3b6c8b31e7528942ad7f2aaeb5847229f7e5175fb",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-02T19:05:25.706773+00:00"
-      },
-      {
-        "headline": "'TSMC Mulls Multibillion-Dollar Texas Campus for More AI Chips' - Bloomberg",
-        "url": "https://finnhub.io/api/news?id=d996c407476320a84a09d18adf4d2ae4922f1f9d72327f629f841df5638b7f8c",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-02T01:00:42.736278+00:00"
       }
     ],
     "AVGO": [

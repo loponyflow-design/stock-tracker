@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-03T17:51:12.314569+00:00",
+  "last_updated": "2026-10-04T01:00:39.641048+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "5 High-Yield Dividend Stocks to Buy for October Income with Cash Flow to Spare",
+        "url": "https://finnhub.io/api/news?id=7496c1f33c01476aee148b5bcda2e3403de430e63c148d98e44da2e0dc1017e1",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
+      {
+        "headline": "Investing $50,000 Each in These 4 Dividend Stocks Spins off $18,000 a Year in Passive Income",
+        "url": "https://finnhub.io/api/news?id=17c608f5862db2144bbb124bafe6251ad58dd45c76569a7ee0cdfd0ea9b3168d",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
       {
         "headline": "Is Ares Capital (ARCC) a Buy as Wall Street Analysts Look Optimistic?",
         "url": "https://finnhub.io/api/news?id=246d15dac1e6faf922bcf8649e07b6e4558462005bc02ae61ce656c8b68c541b",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=25b874ae16621520d9a68c1c6c5527933daa068e04fd501400906035b7d34387",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-03T01:00:39.513970+00:00"
-      },
-      {
-        "headline": "ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMBER 30, 2026",
-        "url": "https://finnhub.io/api/news?id=25b874ae16621520d9a68c1c6c5527933daa068e04fd501400906035b7d34387",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-02T19:05:25.706773+00:00"
-      },
-      {
-        "headline": "My Top 10 High-Yield Picks For October 2026: Two Yielding Above 10%",
-        "url": "https://finnhub.io/api/news?id=96bcff2ce07a30010a00cfd8e24a898ad48c59b99138052e497dca610a6c908e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-02T19:05:25.706773+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "This Dividend King Is 18.5% Below Its All-Time High and Yields 3%. Is This a Real Opportunity or a Value Trap?",
+        "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-04T01:00:39.641048+00:00"
+      },
       {
         "headline": "This Dividend King Is 18.5% Below Its All-Time High and Yields 3%. Is This a Real Opportunity or a Value Trap?",
         "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=4d2b664551be13ea8bc19f7bb6ee3d5ecd814ca0365e92ebe683d0f8ef728eb3",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-09-29T19:13:52.998437+00:00"
-      },
-      {
-        "headline": "Colgate-Palmolive Has Paid a Dividend Since 1895. Does That Streak Still Deserves Your Money?",
-        "url": "https://finnhub.io/api/news?id=e78ace9aceb95a8594cd518c292e436992c2bdefb0fac4e49379f1ecc0f4f790",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-28T01:00:41.500136+00:00"
       }
     ],
     "LOW": [
