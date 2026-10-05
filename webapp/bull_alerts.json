@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T01:00:39.641048+00:00",
+  "last_updated": "2026-10-05T01:00:42.955961+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -77,12 +77,6 @@
         "url": "https://finnhub.io/api/news?id=b81d16c3a4a9b90f4371b490df1697dae126b72a5edba40d66a01c09c2471556",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-29T19:13:52.998437+00:00"
-      },
-      {
-        "headline": "Best Dividend Kings: September 2026",
-        "url": "https://finnhub.io/api/news?id=a4f92bd1831f5e2f976ab0483dbf881e406ba812d7f17d2da0bb27b125a0344b",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-27T01:00:40.598435+00:00"
       }
     ],
     "PTT": [
@@ -132,6 +126,12 @@
       }
     ],
     "AVGO": [
+      {
+        "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
+        "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-05T01:00:42.955961+00:00"
+      },
       {
         "headline": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
         "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
