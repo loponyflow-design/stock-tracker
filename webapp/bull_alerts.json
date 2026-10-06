@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-05T21:25:41.185026+00:00",
+  "last_updated": "2026-10-06T01:00:40.641570+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
+        "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      },
+      {
+        "headline": "Dividend Harvesting Portfolio Week 292: $29,100 Allocated, $3,382.93 In Projected Dividends",
+        "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      },
       {
         "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
         "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=07ec13ae18478b9d657a2e28de49fe7fd7250d695ce0789a66ac5ce7064cd288",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-05T21:25:41.185026+00:00"
-      },
-      {
-        "headline": "My 3 Favorite Ultra-High-Yield Dividend Stocks to Buy for October",
-        "url": "https://finnhub.io/api/news?id=f5e2a0f1c45494d4396eee075fbab901e1915ade28a1c02d1ae15084b1995b87",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-05T21:25:41.185026+00:00"
-      },
-      {
-        "headline": "5 High-Yield Dividend Stocks to Buy for October Income with Cash Flow to Spare",
-        "url": "https://finnhub.io/api/news?id=7496c1f33c01476aee148b5bcda2e3403de430e63c148d98e44da2e0dc1017e1",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
+        "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      },
       {
         "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
         "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=066bf2564f254aedbacda2d000272a88b64519146307cfa05c2b5210848181c4",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-01T01:00:43.771712+00:00"
-      },
-      {
-        "headline": "I'd Put $1,000 Into Each of These 3 Dividend Stocks and Lose the Password",
-        "url": "https://finnhub.io/api/news?id=4d2b664551be13ea8bc19f7bb6ee3d5ecd814ca0365e92ebe683d0f8ef728eb3",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
       }
     ],
     "LOW": [
@@ -168,6 +168,12 @@
       }
     ],
     "LEN": [
+      {
+        "headline": "Why Lennar Stock Just Suffered Its Worst Drop Since 2024",
+        "url": "https://finnhub.io/api/news?id=bcc9439d963f9ab272bd376814fa5d629ef5866674cf0928f1f2fcae1662fee3",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      },
       {
         "headline": "Is Lennar (LEN) Quietly Recasting Its Capital and Community Strategy With Active Adult Dividends?",
         "url": "https://finnhub.io/api/news?id=cf8acf78f3e6eebd8e525ccae538985f55d93fdb8381a705be3f81c62fa3902b",
