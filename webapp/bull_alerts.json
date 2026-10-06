@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-10-06T01:00:40.641570+00:00",
+  "last_updated": "2026-10-06T19:22:45.281333+00:00",
   "alerts": {
     "ARCC": [
       {
         "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
         "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-06T19:22:45.281333+00:00"
+      },
+      {
+        "headline": "Dividend Harvesting Portfolio Week 292: $29,100 Allocated, $3,382.93 In Projected Dividends",
+        "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-06T19:22:45.281333+00:00"
+      },
+      {
+        "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
+        "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-06T01:00:40.641570+00:00"
       },
       {
@@ -17,18 +29,6 @@
       {
         "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
         "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-05T21:25:41.185026+00:00"
-      },
-      {
-        "headline": "Dividend Harvesting Portfolio Week 292: $29,100 Allocated, $3,382.93 In Projected Dividends",
-        "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-05T21:25:41.185026+00:00"
-      },
-      {
-        "headline": "How to Build $4,850 a Month in Tax-Free Dividend Income Inside a Roth IRA",
-        "url": "https://finnhub.io/api/news?id=07ec13ae18478b9d657a2e28de49fe7fd7250d695ce0789a66ac5ce7064cd288",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-05T21:25:41.185026+00:00"
       }
@@ -71,12 +71,6 @@
         "url": "https://finnhub.io/api/news?id=b81d16c3a4a9b90f4371b490df1697dae126b72a5edba40d66a01c09c2471556",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-09-30T01:00:39.923312+00:00"
-      },
-      {
-        "headline": "3 Dividend Growth Stocks That Have Recently Hit New 52-Week Lows",
-        "url": "https://finnhub.io/api/news?id=b81d16c3a4a9b90f4371b490df1697dae126b72a5edba40d66a01c09c2471556",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-29T19:13:52.998437+00:00"
       }
     ],
     "PTT": [
@@ -97,20 +91,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-30T01:00:39.923312+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - kaohoon.com",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-29T01:00:44.599637+00:00"
-      }
-    ],
-    "NUE": [
-      {
-        "headline": "Best Dividend Aristocrats For October 2026",
-        "url": "https://finnhub.io/api/news?id=a858de7c4755f727def1d938c4a395431e61d53c9193adecc8cfe68e25951e21",
-        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
-        "detected_at": "2026-09-29T01:00:44.599637+00:00"
       }
     ],
     "AVGO": [
@@ -119,12 +99,6 @@
         "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-10-05T01:00:42.955961+00:00"
-      },
-      {
-        "headline": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
-        "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-09-29T01:00:44.599637+00:00"
       }
     ],
     "DHI": [
@@ -139,12 +113,6 @@
         "url": "https://finnhub.io/api/news?id=24f34cdd3274d00e418e464e91ef9f965a3cb4417b7edb378b332d66f5258903",
         "condition": "Scale ที่ใหญ่สุด = Scale Economies — ซื้อวัสดุ/ที่ดิน, spread fixed cost, เจรจา subcontractor ได้ดีกว่าคู่แข่ง; entry-level focus ตรงกับ demand bracket ที่ใหญ่สุด",
         "detected_at": "2026-09-30T01:00:39.923312+00:00"
-      },
-      {
-        "headline": "Berkshire Deepens U.S. Housing Exposure With Integrated Scale",
-        "url": "https://finnhub.io/api/news?id=24f34cdd3274d00e418e464e91ef9f965a3cb4417b7edb378b332d66f5258903",
-        "condition": "Scale ที่ใหญ่สุด = Scale Economies — ซื้อวัสดุ/ที่ดิน, spread fixed cost, เจรจา subcontractor ได้ดีกว่าคู่แข่ง; entry-level focus ตรงกับ demand bracket ที่ใหญ่สุด",
-        "detected_at": "2026-09-29T19:13:52.998437+00:00"
       }
     ],
     "JNJ": [
@@ -193,6 +161,14 @@
         "url": "https://finnhub.io/api/news?id=1cabc81d1a5b21809cde0f24043052a6e40eb0f2cce7f8724115a66f7dc77786",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
         "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Proof Appoints Jeremiah Glodoveza as Chief Marketing Officer",
+        "url": "https://finnhub.io/api/news?id=0413e09a6053a079fdae65e241225acd3d9ae8e52540a1abaf85e19ce8fc8063",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-10-06T19:22:45.281333+00:00"
       }
     ]
   }
