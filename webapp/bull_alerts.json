@@ -1,8 +1,14 @@
 {
-  "last_updated": "2026-10-06T19:22:45.281333+00:00",
+  "last_updated": "2026-10-07T01:00:41.299440+00:00",
   "alerts": {
     "ARCC": [
       {
+        "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
+        "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-07T01:00:41.299440+00:00"
+      },
+      {
         "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
         "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-06T01:00:40.641570+00:00"
-      },
-      {
-        "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
-        "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-05T21:25:41.185026+00:00"
       }
     ],
     "PG": [
@@ -65,32 +65,12 @@
         "detected_at": "2026-10-01T01:00:43.771712+00:00"
       }
     ],
-    "LOW": [
-      {
-        "headline": "3 Dividend Growth Stocks That Have Recently Hit New 52-Week Lows",
-        "url": "https://finnhub.io/api/news?id=b81d16c3a4a9b90f4371b490df1697dae126b72a5edba40d66a01c09c2471556",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
-      }
-    ],
     "PTT": [
       {
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-09-30T19:00:50.139209+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
       }
     ],
     "AVGO": [
@@ -107,12 +87,6 @@
         "url": "https://finnhub.io/api/news?id=24f34cdd3274d00e418e464e91ef9f965a3cb4417b7edb378b332d66f5258903",
         "condition": "Scale ที่ใหญ่สุด = Scale Economies — ซื้อวัสดุ/ที่ดิน, spread fixed cost, เจรจา subcontractor ได้ดีกว่าคู่แข่ง; entry-level focus ตรงกับ demand bracket ที่ใหญ่สุด",
         "detected_at": "2026-09-30T19:00:50.139209+00:00"
-      },
-      {
-        "headline": "Berkshire Deepens U.S. Housing Exposure With Integrated Scale",
-        "url": "https://finnhub.io/api/news?id=24f34cdd3274d00e418e464e91ef9f965a3cb4417b7edb378b332d66f5258903",
-        "condition": "Scale ที่ใหญ่สุด = Scale Economies — ซื้อวัสดุ/ที่ดิน, spread fixed cost, เจรจา subcontractor ได้ดีกว่าคู่แข่ง; entry-level focus ตรงกับ demand bracket ที่ใหญ่สุด",
-        "detected_at": "2026-09-30T01:00:39.923312+00:00"
       }
     ],
     "JNJ": [
