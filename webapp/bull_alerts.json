@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-08T01:00:43.588302+00:00",
+  "last_updated": "2026-10-08T19:45:24.989528+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
+        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-08T19:45:24.989528+00:00"
+      },
       {
         "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
         "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
@@ -23,12 +29,6 @@
       {
         "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
         "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-06T19:22:45.281333+00:00"
-      },
-      {
-        "headline": "Dividend Harvesting Portfolio Week 292: $29,100 Allocated, $3,382.93 In Projected Dividends",
-        "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-06T19:22:45.281333+00:00"
       }
@@ -57,12 +57,6 @@
         "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-03T17:51:12.314569+00:00"
-      },
-      {
-        "headline": "Kimberly-Clark Keeps Raising Its Dividend. The Question Is Whether It Is Keeping Up With Your Costs",
-        "url": "https://finnhub.io/api/news?id=066bf2564f254aedbacda2d000272a88b64519146307cfa05c2b5210848181c4",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-01T01:00:43.771712+00:00"
       }
     ],
     "AVGO": [
