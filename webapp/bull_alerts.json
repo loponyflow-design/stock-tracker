@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-07T19:49:55.607650+00:00",
+  "last_updated": "2026-10-08T01:00:43.588302+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
+        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-08T01:00:43.588302+00:00"
+      },
       {
         "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
         "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=30a9687201b46f83ed6a0943c0b825892baf2d6c8ebfd405cc864beccd5549c6",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-06T19:22:45.281333+00:00"
-      },
-      {
-        "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
-        "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-06T01:00:40.641570+00:00"
       }
     ],
     "PG": [
