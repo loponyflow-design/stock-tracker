@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T19:45:24.989528+00:00",
+  "last_updated": "2026-10-09T01:00:42.472751+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -121,6 +121,14 @@
         "url": "https://finnhub.io/api/news?id=0413e09a6053a079fdae65e241225acd3d9ae8e52540a1abaf85e19ce8fc8063",
         "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
         "detected_at": "2026-10-06T19:22:45.281333+00:00"
+      }
+    ],
+    "AAPL": [
+      {
+        "headline": "Why Buy-and-Hold Investors Are Switching From QQQ to This Lower-Fee Alternative",
+        "url": "https://finnhub.io/api/news?id=c5b01c1a236768a41c8c725c60dce675c04463a93ee2d5a52465d93ff168fdec",
+        "condition": "Services มี Scale Economies ชัดเจน — marginal cost แทบศูนย์ ยิ่ง installed base 2.5B โต ARPU ก็โตโดยไม่ต้องขาย hardware เพิ่ม",
+        "detected_at": "2026-10-09T01:00:42.472751+00:00"
       }
     ]
   }
