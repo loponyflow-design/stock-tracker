@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T01:00:42.472751+00:00",
+  "last_updated": "2026-10-09T19:22:22.271565+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -35,6 +35,18 @@
     ],
     "PG": [
       {
+        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
+        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
+      {
+        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
+      {
         "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
         "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -51,15 +63,15 @@
         "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-04T01:00:39.641048+00:00"
-      },
-      {
-        "headline": "This Dividend King Is 18.5% Below Its All-Time High and Yields 3%. Is This a Real Opportunity or a Value Trap?",
-        "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-03T17:51:12.314569+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "AMD vs. Broadcom: How Much Faster Must AMD’s Cash Flow Grow to Earn Its Premium?",
+        "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
       {
         "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
         "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
@@ -79,12 +91,6 @@
         "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-10-03T01:00:39.513970+00:00"
-      },
-      {
-        "headline": "Legend Biotech Faces Pressure From Rivals Ahead of Key FDA Decision, UBS Says",
-        "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-10-02T19:05:25.706773+00:00"
       }
     ],
     "LEN": [
@@ -99,12 +105,6 @@
         "url": "https://finnhub.io/api/news?id=cf8acf78f3e6eebd8e525ccae538985f55d93fdb8381a705be3f81c62fa3902b",
         "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
         "detected_at": "2026-10-03T01:00:39.513970+00:00"
-      },
-      {
-        "headline": "Is Lennar (LEN) Quietly Recasting Its Capital and Community Strategy With Active Adult Dividends?",
-        "url": "https://finnhub.io/api/news?id=cf8acf78f3e6eebd8e525ccae538985f55d93fdb8381a705be3f81c62fa3902b",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-10-02T19:05:25.706773+00:00"
       }
     ],
     "TSM": [
