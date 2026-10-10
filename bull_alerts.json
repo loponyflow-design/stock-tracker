@@ -1,0 +1,143 @@
+{
+  "last_updated": "2026-10-10T01:00:33.864654+00:00",
+  "alerts": {
+    "ARCC": [
+      {
+        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
+        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-08T19:45:24.989528+00:00"
+      },
+      {
+        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
+        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-08T01:00:43.588302+00:00"
+      },
+      {
+        "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
+        "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-07T19:49:55.607650+00:00"
+      },
+      {
+        "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
+        "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-07T01:00:41.299440+00:00"
+      },
+      {
+        "headline": "Blue Owl Capital Corporation: 72 Cents On The Dollar After The Dividend Reset",
+        "url": "https://finnhub.io/api/news?id=838128bffc799fa4d95f524441407f67a08ccc6bbecc6dfc51639468f35f0302",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-06T19:22:45.281333+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
+        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      },
+      {
+        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      },
+      {
+        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
+        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
+      {
+        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
+      {
+        "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
+        "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "AMD vs. Broadcom: How Much Faster Must AMD’s Cash Flow Grow to Earn Its Premium?",
+        "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-09T19:22:22.271565+00:00"
+      },
+      {
+        "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
+        "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-05T01:00:42.955961+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Legend Biotech Faces Pressure From Rivals Ahead of Key FDA Decision, UBS Says",
+        "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      },
+      {
+        "headline": "Legend Biotech Faces Pressure From Rivals Ahead of Key FDA Decision, UBS Says",
+        "url": "https://finnhub.io/api/news?id=ab2ab560f4925378beb465ae0245e168c9c54c5752738e6f441da4f852ff4daa",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-03T01:00:39.513970+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Why Lennar Stock Just Suffered Its Worst Drop Since 2024",
+        "url": "https://finnhub.io/api/news?id=bcc9439d963f9ab272bd376814fa5d629ef5866674cf0928f1f2fcae1662fee3",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-06T01:00:40.641570+00:00"
+      },
+      {
+        "headline": "Is Lennar (LEN) Quietly Recasting Its Capital and Community Strategy With Active Adult Dividends?",
+        "url": "https://finnhub.io/api/news?id=cf8acf78f3e6eebd8e525ccae538985f55d93fdb8381a705be3f81c62fa3902b",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-03T01:00:39.513970+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=1cabc81d1a5b21809cde0f24043052a6e40eb0f2cce7f8724115a66f7dc77786",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-10-03T17:51:12.314569+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Proof Appoints Jeremiah Glodoveza as Chief Marketing Officer",
+        "url": "https://finnhub.io/api/news?id=0413e09a6053a079fdae65e241225acd3d9ae8e52540a1abaf85e19ce8fc8063",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-10-06T19:22:45.281333+00:00"
+      }
+    ],
+    "AAPL": [
+      {
+        "headline": "Why Buy-and-Hold Investors Are Switching From QQQ to This Lower-Fee Alternative",
+        "url": "https://finnhub.io/api/news?id=c5b01c1a236768a41c8c725c60dce675c04463a93ee2d5a52465d93ff168fdec",
+        "condition": "Services มี Scale Economies ชัดเจน — marginal cost แทบศูนย์ ยิ่ง installed base 2.5B โต ARPU ก็โตโดยไม่ต้องขาย hardware เพิ่ม",
+        "detected_at": "2026-10-09T01:00:42.472751+00:00"
+      }
+    ],
+    "STZ": [
+      {
+        "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
+        "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      }
+    ]
+  }
+}
