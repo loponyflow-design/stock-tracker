@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T19:22:22.271565+00:00",
+  "last_updated": "2026-10-10T01:00:33.864654+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,18 @@
         "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
         "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      },
+      {
+        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      },
+      {
+        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
+        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
       },
       {
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-06T01:00:40.641570+00:00"
-      },
-      {
-        "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
-        "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-05T21:25:41.185026+00:00"
-      },
-      {
-        "headline": "This Dividend King Is 18.5% Below Its All-Time High and Yields 3%. Is This a Real Opportunity or a Value Trap?",
-        "url": "https://finnhub.io/api/news?id=b15c334b89ad2917a55fbd78b8f227bbf60c811c4039c1e05aadd1545761ee76",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-04T01:00:39.641048+00:00"
       }
     ],
     "AVGO": [
@@ -129,6 +129,14 @@
         "url": "https://finnhub.io/api/news?id=c5b01c1a236768a41c8c725c60dce675c04463a93ee2d5a52465d93ff168fdec",
         "condition": "Services มี Scale Economies ชัดเจน — marginal cost แทบศูนย์ ยิ่ง installed base 2.5B โต ARPU ก็โตโดยไม่ต้องขาย hardware เพิ่ม",
         "detected_at": "2026-10-09T01:00:42.472751+00:00"
+      }
+    ],
+    "STZ": [
+      {
+        "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
+        "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-10-10T01:00:33.864654+00:00"
       }
     ]
   }
