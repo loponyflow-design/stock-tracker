@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-10T18:22:37.241516+00:00",
+  "last_updated": "2026-10-11T01:00:33.919308+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
+        "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
         "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-07T19:49:55.607650+00:00"
-      },
-      {
-        "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
-        "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-07T01:00:41.299440+00:00"
       }
     ],
     "PG": [
@@ -80,6 +80,12 @@
       }
     ],
     "LEN": [
+      {
+        "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
+        "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
       {
         "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
         "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",

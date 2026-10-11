@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T18:22:37.241516+00:00",
+  "last_updated": "2026-10-11T01:00:33.919308+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -70,31 +70,31 @@
         "headline": "หุ้นไทยวันนี้ทรุด 14.02 จุด ขาย AOT-KBANK-TRUE - Facebook",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZVFRY1NBQXVOVUluMFZ3UDA1T25fZHZULUwyZnVkZFpxSDZYZnUxNFNycmxQaTJzUXhzUUNjOVdNTkVDR3IwOXVPVERfZm5SQ01uYWlxU1hLVjNjZTY1dWJsQlBnQU14ZHotLVVwRDRfNi1XdU02ZkVQWUNab2VKdDEwTFFWMk92WUt4YzFrdk5rdWhtOHFLREFnTDF1eW5MZF9KU0U5bmN1VlFORmN6bl8tVUtRMW4zSlhYYnJRMmpTRXlsOExPNmlMZ3R2Y3JHNjFfTFNQQ1VCUzdaTGlXbTljOUtXcVlQMDVuZXZnc0JqTFd5TXpYWFFZZkFMY3V0VnNKVUh5aWU4elhvWkVFVHAyY1FsSlFrUDdxZXhURHJib1dwUVNJMXMwV2xVSm1Xb3d0YzMwNnVjOV9NZHRUMzN2c1JfSkRHS0JzRk1wSXlOSE1pT0hGRVlDb010clM5RkExeFBfTm5TUEFhUGhfdDFkZldISUZXdkh5M2ZNZHRYUTVPcTZLN2Zmb1V2SGVHSlZzMVhOY3RVNlBvLTNHSEJ5NA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
       },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
       },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
+      {
+        "headline": "หุ้นไทยพักเที่ยงวันนี้(24 ก.ย.) ร่วง 6.74 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTTlvbU04eXh0a2lKLXVwckxFV1BqRk1kX0tqbE5EZl9ndXBqOFk4dlJldS04djBxR05TdklTcDAwRmtyeEZmdVdRQ1ZrTnNMUU1WNVA3STJrYUVL?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ทรุด 14.02 จุด ขาย AOT-KBANK-TRUE - Facebook",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZVFRY1NBQXVOVUluMFZ3UDA1T25fZHZULUwyZnVkZFpxSDZYZnUxNFNycmxQaTJzUXhzUUNjOVdNTkVDR3IwOXVPVERfZm5SQ01uYWlxU1hLVjNjZTY1dWJsQlBnQU14ZHotLVVwRDRfNi1XdU02ZkVQWUNab2VKdDEwTFFWMk92WUt4YzFrdk5rdWhtOHFLREFnTDF1eW5MZF9KU0U5bmN1VlFORmN6bl8tVUtRMW4zSlhYYnJRMmpTRXlsOExPNmlMZ3R2Y3JHNjFfTFNQQ1VCUzdaTGlXbTljOUtXcVlQMDVuZXZnc0JqTFd5TXpYWFFZZkFMY3V0VnNKVUh5aWU4elhvWkVFVHAyY1FsSlFrUDdxZXhURHJib1dwUVNJMXMwV2xVSm1Xb3d0YzMwNnVjOV9NZHRUMzN2c1JfSkRHS0JzRk1wSXlOSE1pT0hGRVlDb010clM5RkExeFBfTm5TUEFhUGhfdDFkZldISUZXdkh5M2ZNZHRYUTVPcTZLN2Zmb1V2SGVHSlZzMVhOY3RVNlBvLTNHSEJ5NA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T01:00:33.864654+00:00"
-      },
-      {
-        "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T01:00:33.864654+00:00"
+        "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
     "LOW": [
@@ -163,6 +163,18 @@
     ],
     "TSM": [
       {
+        "headline": "3 AI Infrastructure Stocks to Watch Before TSMC Earnings",
+        "url": "https://finnhub.io/api/news?id=6fcb8a412635074ef76d309152bacad28bda2c216a258be43b5a1fd52cd265dd",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
+      {
+        "headline": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for October 15",
+        "url": "https://finnhub.io/api/news?id=fdf2eaaf6fce505b28d23a262cd159badbd9ba632e31d888eecb3f2301b72b33",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
+      {
         "headline": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
         "url": "https://finnhub.io/api/news?id=d1efd34311188a766fb9d012b138bbd5e690bc09f5c08cbaf163356237297861",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -179,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=dd4e4eee517fc2d9be85a0f25db35c688051272177d74e18221311d5363a8be8",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-10T01:00:33.864654+00:00"
-      },
-      {
-        "headline": "3 Great Growth Stocks To Own In October 2026",
-        "url": "https://finnhub.io/api/news?id=6fea22d3bc929d54015c9ad682baf0c3c0bd0f74cf275fbc048434aaa30d07e4",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "AMD CEO delivers stark warning on chip market’s future",
-        "url": "https://finnhub.io/api/news?id=dd4e4eee517fc2d9be85a0f25db35c688051272177d74e18221311d5363a8be8",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-09T19:22:22.271565+00:00"
       }
     ],
     "AVGO": [
