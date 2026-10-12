@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T01:00:33.919308+00:00",
+  "last_updated": "2026-10-12T01:00:36.813367+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -127,6 +127,14 @@
         "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
         "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
         "detected_at": "2026-10-10T01:00:33.864654+00:00"
+      }
+    ],
+    "DHI": [
+      {
+        "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
+        "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       }
     ]
   }

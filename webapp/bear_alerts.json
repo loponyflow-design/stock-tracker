@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-11T01:00:33.919308+00:00",
+  "last_updated": "2026-10-12T01:00:36.813367+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple Has Consistently Lost the Smart-Home Race. A New Partnership With LG Could Change That.",
+        "url": "https://finnhub.io/api/news?id=8a6778f04906f3d0f94c7e7cdb7777307cfc6cca81306a9ea0b7f05cbbb3a749",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
       {
         "headline": "Tim Cook's Final Apple Earnings Call Showed the Company Made More Quarterly Revenue Than It Booked in All of Fiscal 2011, the Year He Became CEO. What Does That Growth Curve Mean for Apple Under John Ternus?",
         "url": "https://finnhub.io/api/news?id=263f2f821607813f449e6d755990abdba91f2ab782261180438ea449f97d80ae",
@@ -25,15 +31,27 @@
         "url": "https://finnhub.io/api/news?id=d43f1ddef215c790aa3c296cc12a0c81865a274945ee96b0a16f98327aef0075",
         "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "What Does Western Digital Offer That Apple Does Not?",
-        "url": "https://finnhub.io/api/news?id=2a3621c8b55a07d1a8a7dcf01f1d30071115719690917cf3c476d8874772b6c4",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-09T01:00:42.472751+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
+        "url": "https://finnhub.io/api/news?id=ce451ca76f764ec2674fcbb9e6d5a6b159cf1228b8df2decd3e1f083addfa827",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
+      {
+        "headline": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
+        "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
+        "condition": "คู่แข่ง EV จีน (BYD, Xiaomi) ราคาต่ำกว่าและเร็วกว่าในการออกรุ่นใหม่ กดดัน margin ต่อเนื่อง",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
+      {
+        "headline": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+        "url": "https://finnhub.io/api/news?id=7bac0d84d8d335b2a85a6d26c4f1d3ede45477161d5ac112cc0665ae2f948efe",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
       {
         "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
         "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
@@ -45,24 +63,6 @@
         "url": "https://finnhub.io/api/news?id=4f3fdaf1aef71c14c17c968b989f101123c1be5919a6314bea1e83c82552c98e",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "Elon Musk is a Trillionaire Again Thanks to SpaceX Stock",
-        "url": "https://finnhub.io/api/news?id=fbf242acb03b036a99726ff35e1f5459a0bcdd821ad3e4ad638a5161b0ebc1d7",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-08T01:00:43.588302+00:00"
-      },
-      {
-        "headline": "Musk: “Let There Be ZERO Doubt” SpaceX Will Run Terafab – Here’s What that Means for TSMC",
-        "url": "https://finnhub.io/api/news?id=317813418574ab7ccd63a1f6c49b348b5856e6bf40b3bc3d9165a714eb928fe8",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-07T19:49:55.607650+00:00"
-      },
-      {
-        "headline": "Elon Musk Clarifies TSMC's Terafab Role; Grok Adds Rival Models",
-        "url": "https://finnhub.io/api/news?id=8894efc246585a33add0f7e82e2e8552f867542b4f4f825ba729bd68adbfa389",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-07T19:49:55.607650+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "หุ้นไทยวันนี้ทรุด 14.02 จุด ขาย AOT-KBANK-TRUE - Facebook",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZVFRY1NBQXVOVUluMFZ3UDA1T25fZHZULUwyZnVkZFpxSDZYZnUxNFNycmxQaTJzUXhzUUNjOVdNTkVDR3IwOXVPVERfZm5SQ01uYWlxU1hLVjNjZTY1dWJsQlBnQU14ZHotLVVwRDRfNi1XdU02ZkVQWUNab2VKdDEwTFFWMk92WUt4YzFrdk5rdWhtOHFLREFnTDF1eW5MZF9KU0U5bmN1VlFORmN6bl8tVUtRMW4zSlhYYnJRMmpTRXlsOExPNmlMZ3R2Y3JHNjFfTFNQQ1VCUzdaTGlXbTljOUtXcVlQMDVuZXZnc0JqTFd5TXpYWFFZZkFMY3V0VnNKVUh5aWU4elhvWkVFVHAyY1FsSlFrUDdxZXhURHJib1dwUVNJMXMwV2xVSm1Xb3d0YzMwNnVjOV9NZHRUMzN2c1JfSkRHS0JzRk1wSXlOSE1pT0hGRVlDb010clM5RkExeFBfTm5TUEFhUGhfdDFkZldISUZXdkh5M2ZNZHRYUTVPcTZLN2Zmb1V2SGVHSlZzMVhOY3RVNlBvLTNHSEJ5NA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       },
       {
         "headline": "หุ้นไทยพักเที่ยงวันนี้(24 ก.ย.) ร่วง 6.74 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTTlvbU04eXh0a2lKLXVwckxFV1BqRk1kX0tqbE5EZl9ndXBqOFk4dlJldS04djBxR05TdklTcDAwRmtyeEZmdVdRQ1ZrTnNMUU1WNVA3STJrYUVL?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ทรุด 14.02 จุด ขาย AOT-KBANK-TRUE - Facebook",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZVFRY1NBQXVOVUluMFZ3UDA1T25fZHZULUwyZnVkZFpxSDZYZnUxNFNycmxQaTJzUXhzUUNjOVdNTkVDR3IwOXVPVERfZm5SQ01uYWlxU1hLVjNjZTY1dWJsQlBnQU14ZHotLVVwRDRfNi1XdU02ZkVQWUNab2VKdDEwTFFWMk92WUt4YzFrdk5rdWhtOHFLREFnTDF1eW5MZF9KU0U5bmN1VlFORmN6bl8tVUtRMW4zSlhYYnJRMmpTRXlsOExPNmlMZ3R2Y3JHNjFfTFNQQ1VCUzdaTGlXbTljOUtXcVlQMDVuZXZnc0JqTFd5TXpYWFFZZkFMY3V0VnNKVUh5aWU4elhvWkVFVHAyY1FsSlFrUDdxZXhURHJib1dwUVNJMXMwV2xVSm1Xb3d0YzMwNnVjOV9NZHRUMzN2c1JfSkRHS0JzRk1wSXlOSE1pT0hGRVlDb010clM5RkExeFBfTm5TUEFhUGhfdDFkZldISUZXdkh5M2ZNZHRYUTVPcTZLN2Zmb1V2SGVHSlZzMVhOY3RVNlBvLTNHSEJ5NA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
       }
     ],
     "LOW": [
@@ -293,6 +293,12 @@
     ],
     "KO": [
       {
+        "headline": "Coca-Cola Has a Dividend Investors Love. Its Valuation is Another Story",
+        "url": "https://finnhub.io/api/news?id=88d7d7970188e8599e2122b766d4044f51127a94ba014a5cb0edb6288254d5c5",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
+      {
         "headline": "Should Coca-Cola’s Upgraded Outlook and Prebiotic Push Require Action From Coca-Cola (KO) Investors?",
         "url": "https://finnhub.io/api/news?id=848dc9c8042a046c30b42078486eac48a44b667ae2eb3d88b8e31a2063492611",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
@@ -377,6 +383,12 @@
     ],
     "RBRK": [
       {
+        "headline": "Zscaler Powered By Agentic AI Growth",
+        "url": "https://finnhub.io/api/news?id=22b7d93c6a062ccaad32447c0847e9945147afa34f5740184e973f0b6f7626a7",
+        "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
+      {
         "headline": "Rubrik (RBRK) Has Outperformed the Market in 2026. Is the Rally Sustainable?",
         "url": "https://finnhub.io/api/news?id=12aadfe9d3b85abe1ae4ecb9f775af68acafd69b3f2e16dc28bca89702ab427c",
         "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
@@ -454,6 +466,12 @@
       }
     ],
     "V": [
+      {
+        "headline": "Visa (V): Are Bigger Client Rebates Worth the Valuation?",
+        "url": "https://finnhub.io/api/news?id=ba9c21f2351b95fbc2083815dc6a336fdb08c5e25a3805fb613dae59dffcc789",
+        "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      },
       {
         "headline": "Visa is Betting on Stablecoins and AI: Why Should Investors Care?",
         "url": "https://finnhub.io/api/news?id=c384bbc3eaa90c4dd1a5ef5a70e00f49472e37a4c895fb8287b2fc81ce0f6a15",
