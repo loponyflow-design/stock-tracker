@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T01:00:36.813367+00:00",
+  "last_updated": "2026-10-12T22:01:27.868654+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -71,15 +71,15 @@
         "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
-        "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-10-05T01:00:42.955961+00:00"
       }
     ],
     "LEN": [
+      {
+        "headline": "Lennar (LEN) Breaks Ground On Broadcast District After Expansion Narrative Points To Fair Value",
+        "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      },
       {
         "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
         "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
@@ -134,7 +134,21 @@
         "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
         "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
         "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      },
+      {
+        "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
+        "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
         "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "AMD Makes Big Agentic AI Push With Helion",
+        "url": "https://finnhub.io/api/news?id=e2348859c42c11acda96bbe074b91fd0e9661f2d6b0ec79388c4459d85a763dc",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
       }
     ]
   }
