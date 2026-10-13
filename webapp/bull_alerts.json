@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-13T01:00:38.225753+00:00",
+  "last_updated": "2026-10-13T20:08:55.307964+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Every Roth IRA Needs These High-Yield Dividend Stocks Over 6%",
+        "url": "https://finnhub.io/api/news?id=60a00608051592e1bd42c963200dfe98d0e3d1ff585b7d1b523e74914558da47",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-13T20:08:55.307964+00:00"
+      },
+      {
+        "headline": "Ares Capital Corporation (ARCC) is Attracting Investor Attention: Here is What You Should Know",
+        "url": "https://finnhub.io/api/news?id=7a6e4247d3484137158583e64469f788b1fd3bc4362dc1bc3fa5e7bdb4e87e09",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-13T20:08:55.307964+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
         "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
@@ -19,22 +31,16 @@
         "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-08T19:45:24.989528+00:00"
-      },
-      {
-        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
-        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-08T01:00:43.588302+00:00"
-      },
-      {
-        "headline": "A $500,000 Roth Portfolio Loaded With These Dividend Stocks Pays $50,925 a Year and the IRS Gets None of It",
-        "url": "https://finnhub.io/api/news?id=5718c78f5d92bd2985151f6d3b5e815f8c749fabd8dadbc41d2785d1ae05a02f",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-07T19:49:55.607650+00:00"
       }
     ],
     "PG": [
       {
+        "headline": "Why I Just Invested in This Dividend King -- Even Though a Smaller Rival Has Grown Faster.",
+        "url": "https://finnhub.io/api/news?id=5efd5a5df41b5e0de4d45a2d85b0662504c10ca0830a1ade56c7cb168f1f7956",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-13T20:08:55.307964+00:00"
+      },
+      {
         "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
         "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "Jim Cramer says he's willing to stick his neck out for this stock",
-        "url": "https://finnhub.io/api/news?id=9b5caa60be2615a0e5b732a9baf84893084f839369ee0d1f6b5816602894907c",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-06T01:00:40.641570+00:00"
       }
     ],
     "AVGO": [
@@ -97,20 +97,6 @@
         "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
         "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
         "detected_at": "2026-10-10T18:22:37.241516+00:00"
-      },
-      {
-        "headline": "Why Lennar Stock Just Suffered Its Worst Drop Since 2024",
-        "url": "https://finnhub.io/api/news?id=bcc9439d963f9ab272bd376814fa5d629ef5866674cf0928f1f2fcae1662fee3",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-10-06T01:00:40.641570+00:00"
-      }
-    ],
-    "V": [
-      {
-        "headline": "Proof Appoints Jeremiah Glodoveza as Chief Marketing Officer",
-        "url": "https://finnhub.io/api/news?id=0413e09a6053a079fdae65e241225acd3d9ae8e52540a1abaf85e19ce8fc8063",
-        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
-        "detected_at": "2026-10-06T19:22:45.281333+00:00"
       }
     ],
     "AAPL": [
