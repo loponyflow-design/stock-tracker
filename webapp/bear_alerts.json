@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T22:01:27.868654+00:00",
+  "last_updated": "2026-10-13T01:00:38.225753+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -70,34 +70,52 @@
         "headline": "หุ้นไทยวันนี้ทรุด 14.02 จุด ขาย AOT-KBANK-TRUE - Facebook",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZVFRY1NBQXVOVUluMFZ3UDA1T25fZHZULUwyZnVkZFpxSDZYZnUxNFNycmxQaTJzUXhzUUNjOVdNTkVDR3IwOXVPVERfZm5SQ01uYWlxU1hLVjNjZTY1dWJsQlBnQU14ZHotLVVwRDRfNi1XdU02ZkVQWUNab2VKdDEwTFFWMk92WUt4YzFrdk5rdWhtOHFLREFnTDF1eW5MZF9KU0U5bmN1VlFORmN6bl8tVUtRMW4zSlhYYnJRMmpTRXlsOExPNmlMZ3R2Y3JHNjFfTFNQQ1VCUzdaTGlXbTljOUtXcVlQMDVuZXZnc0JqTFd5TXpYWFFZZkFMY3V0VnNKVUh5aWU4elhvWkVFVHAyY1FsSlFrUDdxZXhURHJib1dwUVNJMXMwV2xVSm1Xb3d0YzMwNnVjOV9NZHRUMzN2c1JfSkRHS0JzRk1wSXlOSE1pT0hGRVlDb010clM5RkExeFBfTm5TUEFhUGhfdDFkZldISUZXdkh5M2ZNZHRYUTVPcTZLN2Zmb1V2SGVHSlZzMVhOY3RVNlBvLTNHSEJ5NA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
-      },
-      {
-        "headline": "GBS คาด SET สัปดาห์นี้ 1,550-1,590 จุด กังวลสหรัฐฯ-อิหร่านตึงเครียด ชู 5 หุ้นเด่น BDMS-KBANK-DELTA-GULF-CRC - efin.finance",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90STVTZXNGajkzUHpJNmE3bUkyNTJPelpWY1NtZDRkeTlGQzBWTHlyaTdvZkF5VGNabjNoR0Q5N2N3a3JsazA1UHp4TkhfMUVPSHZCcWNrMmkxcVBWUEZHRjB3?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
       },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "GBS คาด SET สัปดาห์นี้ 1,550-1,590 จุด กังวลสหรัฐฯ-อิหร่านตึงเครียด ชู 5 หุ้นเด่น BDMS-KBANK-DELTA-GULF-CRC - efin.finance",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90STVTZXNGajkzUHpJNmE3bUkyNTJPelpWY1NtZDRkeTlGQzBWTHlyaTdvZkF5VGNabjNoR0Q5N2N3a3JsazA1UHp4TkhfMUVPSHZCcWNrMmkxcVBWUEZHRjB3?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
       },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
       },
       {
         "headline": "หุ้นไทยพักเที่ยงวันนี้(24 ก.ย.) ร่วง 6.74 จุด ขาย GULF-KBANK ซื้อ PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTTlvbU04eXh0a2lKLXVwckxFV1BqRk1kX0tqbE5EZl9ndXBqOFk4dlJldS04djBxR05TdklTcDAwRmtyeEZmdVdRQ1ZrTnNMUU1WNVA3STJrYUVL?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "What Is The One Risk Every Home Depot Investor Should Know?",
+        "url": "https://finnhub.io/api/news?id=6d46c94f1085d978dfc1cf3692f7c5dc22d0032430e14f39480141c76ca0ae5c",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "How Are Strategic Investments Shaping Home Depot's Future?",
+        "url": "https://finnhub.io/api/news?id=7337c57caed7ec97fcc544a9552718ebb862576ed83e6c4dd55019ac44131ad3",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "From Brooklyn to Home Depot, Walmart and Amazon: Mitch Gould's Retail Journey",
+        "url": "https://finnhub.io/api/news?id=7236ca2e62050d6d09a64f4d69524934757f8221193b554985ab06e51f9ed9a5",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
       {
         "headline": "How Are Strategic Investments Shaping Home Depot's Future?",
         "url": "https://finnhub.io/api/news?id=7337c57caed7ec97fcc544a9552718ebb862576ed83e6c4dd55019ac44131ad3",
@@ -109,24 +127,6 @@
         "url": "https://finnhub.io/api/news?id=7236ca2e62050d6d09a64f4d69524934757f8221193b554985ab06e51f9ed9a5",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-10-12T22:01:27.868654+00:00"
-      },
-      {
-        "headline": "Home Depot and Lowe’s Hit 52-Week Lows—But Analysts Aren’t Giving Up",
-        "url": "https://finnhub.io/api/news?id=ac05fb7b5b3f847a095ca6c496bf961550514b8e9ca391043df7e7380604e14d",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-12T22:01:27.868654+00:00"
-      },
-      {
-        "headline": "Has Home Depot (HD) Fallen Far Enough for Its Cash Flow?",
-        "url": "https://finnhub.io/api/news?id=9e837efbe9494734246e15f60b3874373ed1b9f7961bbd639ccac0fc8baea9f3",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
-      },
-      {
-        "headline": "Home Depot's Valuation Looks Expensive: Right Time to Buy or Wait?",
-        "url": "https://finnhub.io/api/news?id=0931fbdf9fbf04593f39a94859558921cfae30014765ae92e0329032c6402f04",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
     "COST": [
@@ -163,6 +163,18 @@
     ],
     "TSM": [
       {
+        "headline": "TSMC Revenue Growth Accelerated Faster Than Expected Last Quarter. Here's Why It's My Top AI Chip Stock to Buy.",
+        "url": "https://finnhub.io/api/news?id=2bf91d69685b34cdc9d861c9d5f862a9769637d4c02d64ec49a549e8d626b417",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "ASML vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=ec7291fcd6063f2c3392fddb5ddfc7a835a81e91f9262c2be1542e9e1292af74",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
         "headline": "TSMC Q3 Preview: The Road To $3 Trillion Is Hiding In Plain Sight",
         "url": "https://finnhub.io/api/news?id=33d5854049eff9b7dd5e2bf832c562bc01da3bcc5d96e7a4692adce034ce3234",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -179,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=6fcb8a412635074ef76d309152bacad28bda2c216a258be43b5a1fd52cd265dd",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-11T01:00:33.919308+00:00"
-      },
-      {
-        "headline": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for October 15",
-        "url": "https://finnhub.io/api/news?id=fdf2eaaf6fce505b28d23a262cd159badbd9ba632e31d888eecb3f2301b72b33",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
-      },
-      {
-        "headline": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
-        "url": "https://finnhub.io/api/news?id=d1efd34311188a766fb9d012b138bbd5e690bc09f5c08cbaf163356237297861",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
     "AVGO": [
@@ -202,6 +202,18 @@
       }
     ],
     "JNJ": [
+      {
+        "headline": "New TREMFYA® (guselkumab) study shows consistent perianal fistula remission across key Crohn's disease patient subgroups",
+        "url": "https://finnhub.io/api/news?id=b9d663d4e14ac1ed4d82bfde16d662ad78cb813f058557513759e39941946518",
+        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "TREMFYA® (guselkumab) demonstrated sustained clinical and endoscopic remission through 3 years in moderately to severely active Crohn's disease",
+        "url": "https://finnhub.io/api/news?id=600278e63fdc1879e283fe7a2110f745bcd417f4f0512d611d90dd3014612bfc",
+        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
       {
         "headline": "J&J Stock Ahead of Q3 Earnings: Should You Buy, Sell or Hold?",
         "url": "https://finnhub.io/api/news?id=33ef5177fa0c98f377877068c3a5507f0878cfe0d58604eec85f72d8c6c160e5",
@@ -219,12 +231,6 @@
         "url": "https://finnhub.io/api/news?id=25c5fd40b420dea0f8a388ecd7e0cab953e8946ed0648dfaa9f044c8880127c0",
         "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
         "detected_at": "2026-10-07T01:00:41.299440+00:00"
-      },
-      {
-        "headline": "Procter & Gamble Has Raised Its Dividend for 70 Years. These 4 Stocks Share Its Reliability",
-        "url": "https://finnhub.io/api/news?id=25c5fd40b420dea0f8a388ecd7e0cab953e8946ed0648dfaa9f044c8880127c0",
-        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
-        "detected_at": "2026-10-06T19:22:45.281333+00:00"
       }
     ],
     "ZETA": [
@@ -504,6 +510,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "Boeing vs. GE Aerospace: Which U.S. Industrial Giant's Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=560df1f6e134d481ebf3a79e455bbae8a398abfc27336c1db2cf286b351a1e19",
+        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
       {
         "headline": "Boeing vs. GE Aerospace: Which U.S. Industrial Giant's Stock Is a Better Buy in 2026?",
         "url": "https://finnhub.io/api/news?id=560df1f6e134d481ebf3a79e455bbae8a398abfc27336c1db2cf286b351a1e19",

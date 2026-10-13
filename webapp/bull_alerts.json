@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T22:01:27.868654+00:00",
+  "last_updated": "2026-10-13T01:00:38.225753+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -74,6 +74,12 @@
       }
     ],
     "LEN": [
+      {
+        "headline": "Lennar (LEN) Breaks Ground On Broadcast District After Expansion Narrative Points To Fair Value",
+        "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
       {
         "headline": "Lennar (LEN) Breaks Ground On Broadcast District After Expansion Narrative Points To Fair Value",
         "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
