@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-13T20:08:55.307964+00:00",
+  "last_updated": "2026-10-14T01:00:39.438996+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
+        "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-14T01:00:39.438996+00:00"
+      },
       {
         "headline": "Every Roth IRA Needs These High-Yield Dividend Stocks Over 6%",
         "url": "https://finnhub.io/api/news?id=60a00608051592e1bd42c963200dfe98d0e3d1ff585b7d1b523e74914558da47",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-10T18:22:37.241516+00:00"
-      },
-      {
-        "headline": "Why Ares Capital (ARCC) Dipped More Than Broader Market Today",
-        "url": "https://finnhub.io/api/news?id=a599dae97a739979a13007887b64e9cea65039415dbdb03f2dcef2b6891f27a6",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-08T19:45:24.989528+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "The Market Is Flashing Warning Signals Not Seen in Years. Here’s Why I Just Bought 3 of SCHD’s Dividend Kings.",
+        "url": "https://finnhub.io/api/news?id=9e3a9d5059477fa73d09ff98b5c5f62910957b8221b686b77a184b0b0873a7ce",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-14T01:00:39.438996+00:00"
+      },
       {
         "headline": "Why I Just Invested in This Dividend King -- Even Though a Smaller Rival Has Grown Faster.",
         "url": "https://finnhub.io/api/news?id=5efd5a5df41b5e0de4d45a2d85b0662504c10ca0830a1ade56c7cb168f1f7956",
@@ -55,12 +61,6 @@
       {
         "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
         "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      },
-      {
-        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-09T19:22:22.271565+00:00"
       }
