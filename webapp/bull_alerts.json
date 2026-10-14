@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-14T01:00:39.438996+00:00",
+  "last_updated": "2026-10-14T18:25:41.632713+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
+        "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-14T18:25:41.632713+00:00"
+      },
       {
         "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
         "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-11T01:00:33.919308+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
-        "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
     "PG": [
@@ -141,6 +141,14 @@
         "url": "https://finnhub.io/api/news?id=e2348859c42c11acda96bbe074b91fd0e9661f2d6b0ec79388c4459d85a763dc",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
         "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
+        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-14T18:25:41.632713+00:00"
       }
     ]
   }
