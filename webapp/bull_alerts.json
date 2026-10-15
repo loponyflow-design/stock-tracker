@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T18:25:41.632713+00:00",
+  "last_updated": "2026-10-15T01:00:36.913824+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -144,6 +144,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
+        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-15T01:00:36.913824+00:00"
+      },
       {
         "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
         "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
