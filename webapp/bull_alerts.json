@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-10-15T01:00:36.913824+00:00",
+  "last_updated": "2026-10-15T18:08:20.338836+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
+        "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-15T18:08:20.338836+00:00"
+      },
+      {
+        "headline": "Boomers Are Quietly Buying These 7-9% ‘Forever Income’ Dividend Stocks",
+        "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-15T18:08:20.338836+00:00"
+      },
+      {
+        "headline": "The IRS Hates This $500,000 Roth High-Yield Dividend Strategy",
+        "url": "https://finnhub.io/api/news?id=9bd8a12d634e75273ce2a5b5ac0aa15e4f06c458a828a4a1934ad6108e5c7ecd",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-15T18:08:20.338836+00:00"
+      },
+      {
+        "headline": "The 3-Bucket Income System Making $13,000/Month in Pure Dividends",
+        "url": "https://finnhub.io/api/news?id=931b36566ec23c66fd80f3da2316a383e543e0e0ac72e8c91f17629a91edad8d",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-15T18:08:20.338836+00:00"
+      },
       {
         "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
         "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-14T18:25:41.632713+00:00"
-      },
-      {
-        "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
-        "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-14T01:00:39.438996+00:00"
-      },
-      {
-        "headline": "Every Roth IRA Needs These High-Yield Dividend Stocks Over 6%",
-        "url": "https://finnhub.io/api/news?id=60a00608051592e1bd42c963200dfe98d0e3d1ff585b7d1b523e74914558da47",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-13T20:08:55.307964+00:00"
-      },
-      {
-        "headline": "Ares Capital Corporation (ARCC) is Attracting Investor Attention: Here is What You Should Know",
-        "url": "https://finnhub.io/api/news?id=7a6e4247d3484137158583e64469f788b1fd3bc4362dc1bc3fa5e7bdb4e87e09",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-13T20:08:55.307964+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
-        "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
       }
     ],
     "PG": [
