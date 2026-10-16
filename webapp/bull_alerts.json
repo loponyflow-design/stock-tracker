@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-16T01:00:37.861861+00:00",
+  "last_updated": "2026-10-16T17:54:43.244094+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
+        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
       {
         "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
         "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-16T01:00:37.861861+00:00"
-      },
-      {
-        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
-        "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-15T18:08:20.338836+00:00"
-      },
-      {
-        "headline": "Boomers Are Quietly Buying These 7-9% ‘Forever Income’ Dividend Stocks",
-        "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-15T18:08:20.338836+00:00"
       }
     ],
     "PG": [
@@ -99,14 +99,6 @@
         "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
-    "AAPL": [
-      {
-        "headline": "Why Buy-and-Hold Investors Are Switching From QQQ to This Lower-Fee Alternative",
-        "url": "https://finnhub.io/api/news?id=c5b01c1a236768a41c8c725c60dce675c04463a93ee2d5a52465d93ff168fdec",
-        "condition": "Services มี Scale Economies ชัดเจน — marginal cost แทบศูนย์ ยิ่ง installed base 2.5B โต ARPU ก็โตโดยไม่ต้องขาย hardware เพิ่ม",
-        "detected_at": "2026-10-09T01:00:42.472751+00:00"
-      }
-    ],
     "STZ": [
       {
         "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
@@ -145,6 +137,12 @@
     ],
     "LOW": [
       {
+        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
+        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
         "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
         "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
@@ -155,6 +153,20 @@
         "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-14T18:25:41.632713+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "Turkish Airlines and CFM sign MOU for more than 600 LEAP-1B engines",
+        "url": "https://finnhub.io/api/news?id=eda8b1c08840ac206e83c1cd4afe9deddf921edf11711738c929d755c256bdd4",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "GE Aerospace JV CFM International Signs MoU With Turkish Airlines To Purchase 300+ LEAP-1B Engines, Including Spares",
+        "url": "https://finnhub.io/api/news?id=3633a72cf05323d814d34b8910ea38bdb9d8a18aefa778aea33464156bcffeac",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
       }
     ]
   }
