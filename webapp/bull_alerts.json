@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-15T18:08:20.338836+00:00",
+  "last_updated": "2026-10-16T01:00:37.861861+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T01:00:37.861861+00:00"
+      },
+      {
+        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
+        "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T01:00:37.861861+00:00"
+      },
+      {
+        "headline": "Boomers Are Quietly Buying These 7-9% ‘Forever Income’ Dividend Stocks",
+        "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T01:00:37.861861+00:00"
+      },
       {
         "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
         "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-15T18:08:20.338836+00:00"
-      },
-      {
-        "headline": "The IRS Hates This $500,000 Roth High-Yield Dividend Strategy",
-        "url": "https://finnhub.io/api/news?id=9bd8a12d634e75273ce2a5b5ac0aa15e4f06c458a828a4a1934ad6108e5c7ecd",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-15T18:08:20.338836+00:00"
-      },
-      {
-        "headline": "The 3-Bucket Income System Making $13,000/Month in Pure Dividends",
-        "url": "https://finnhub.io/api/news?id=931b36566ec23c66fd80f3da2316a383e543e0e0ac72e8c91f17629a91edad8d",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-15T18:08:20.338836+00:00"
-      },
-      {
-        "headline": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
-        "url": "https://finnhub.io/api/news?id=061d706d37a381f2bc6d4446dffb372ec4d344b9ca330fcf6725dd5aecdc6900",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-14T18:25:41.632713+00:00"
       }
     ],
     "PG": [
