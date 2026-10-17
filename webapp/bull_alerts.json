@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-17T01:00:37.432004+00:00",
+  "last_updated": "2026-10-17T16:56:04.626529+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
+        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-17T16:56:04.626529+00:00"
+      },
+      {
+        "headline": "Retire on Dividends Alone: The Super-High-Yield Stocks Boomers Are Buying and Never Selling",
+        "url": "https://finnhub.io/api/news?id=c7692143d0586aa2215bb05c58d631675734de5ecf2eb6c16ff0b59767eb7ae6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-17T16:56:04.626529+00:00"
+      },
       {
         "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
         "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-16T17:54:43.244094+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
-        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-16T01:00:37.861861+00:00"
-      },
-      {
-        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
-        "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-16T01:00:37.861861+00:00"
       }
     ],
     "PG": [
@@ -97,6 +97,12 @@
     ],
     "TSM": [
       {
+        "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
+        "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
+        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
+        "detected_at": "2026-10-17T16:56:04.626529+00:00"
+      },
+      {
         "headline": "AMD Makes Big Agentic AI Push With Helion",
         "url": "https://finnhub.io/api/news?id=e2348859c42c11acda96bbe074b91fd0e9661f2d6b0ec79388c4459d85a763dc",
         "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
@@ -130,6 +136,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
+        "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-17T16:56:04.626529+00:00"
+      },
       {
         "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
         "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
