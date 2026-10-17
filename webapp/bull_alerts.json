@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-16T17:54:43.244094+00:00",
+  "last_updated": "2026-10-17T01:00:37.432004+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
+        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
       {
         "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
         "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-16T01:00:37.861861+00:00"
-      },
-      {
-        "headline": "Boomers Are Quietly Buying These 7-9% ‘Forever Income’ Dividend Stocks",
-        "url": "https://finnhub.io/api/news?id=7c0f46998b15700c5fca3c8a92bc79f78943b207b72547b96463e374174a1216",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-16T01:00:37.861861+00:00"
       }
     ],
     "PG": [
@@ -45,32 +45,6 @@
         "url": "https://finnhub.io/api/news?id=5efd5a5df41b5e0de4d45a2d85b0662504c10ca0830a1ade56c7cb168f1f7956",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-13T20:08:55.307964+00:00"
-      },
-      {
-        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
-        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-10T01:00:33.864654+00:00"
-      },
-      {
-        "headline": "4 Dividend Stocks Boomers Can Safely Buy Now and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=43808c8e98ca54dfa3535432fd3158504395a69f430c5d63bee9715950ef0322",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-10T01:00:33.864654+00:00"
-      },
-      {
-        "headline": "Hedge Funds Think Colgate-Palmolive Is One of the Best Dividend King Stocks To Buy",
-        "url": "https://finnhub.io/api/news?id=469d6ae71d7c04441d85b046035856271631c6fcb8bb1589c1b9d16a3d6c194d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-09T19:22:22.271565+00:00"
-      }
-    ],
-    "AVGO": [
-      {
-        "headline": "AMD vs. Broadcom: How Much Faster Must AMD’s Cash Flow Grow to Earn Its Premium?",
-        "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-10-09T19:22:22.271565+00:00"
       }
     ],
     "LEN": [
@@ -105,12 +79,6 @@
         "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
         "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
         "detected_at": "2026-10-10T18:22:37.241516+00:00"
-      },
-      {
-        "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
-        "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
-        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
-        "detected_at": "2026-10-10T01:00:33.864654+00:00"
       }
     ],
     "DHI": [
@@ -140,6 +108,12 @@
         "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
         "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
+      {
+        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
+        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-16T17:54:43.244094+00:00"
       },
       {
@@ -156,6 +130,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
+        "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
       {
         "headline": "Turkish Airlines and CFM sign MOU for more than 600 LEAP-1B engines",
         "url": "https://finnhub.io/api/news?id=eda8b1c08840ac206e83c1cd4afe9deddf921edf11711738c929d755c256bdd4",
