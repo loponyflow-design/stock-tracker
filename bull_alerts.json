@@ -1,0 +1,153 @@
+{
+  "last_updated": "2026-10-17T01:00:37.432004+00:00",
+  "alerts": {
+    "ARCC": [
+      {
+        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
+        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
+      {
+        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
+        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T01:00:37.861861+00:00"
+      },
+      {
+        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
+        "url": "https://finnhub.io/api/news?id=abcd5bed4b2a0254b145639ef192d89ee222237889f39c65024195c4d4337191",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-16T01:00:37.861861+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "The Market Is Flashing Warning Signals Not Seen in Years. Here’s Why I Just Bought 3 of SCHD’s Dividend Kings.",
+        "url": "https://finnhub.io/api/news?id=9e3a9d5059477fa73d09ff98b5c5f62910957b8221b686b77a184b0b0873a7ce",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-14T01:00:39.438996+00:00"
+      },
+      {
+        "headline": "Why I Just Invested in This Dividend King -- Even Though a Smaller Rival Has Grown Faster.",
+        "url": "https://finnhub.io/api/news?id=5efd5a5df41b5e0de4d45a2d85b0662504c10ca0830a1ade56c7cb168f1f7956",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-13T20:08:55.307964+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Lennar (LEN) Breaks Ground On Broadcast District After Expansion Narrative Points To Fair Value",
+        "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-13T01:00:38.225753+00:00"
+      },
+      {
+        "headline": "Lennar (LEN) Breaks Ground On Broadcast District After Expansion Narrative Points To Fair Value",
+        "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      },
+      {
+        "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
+        "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-11T01:00:33.919308+00:00"
+      },
+      {
+        "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
+        "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+      }
+    ],
+    "STZ": [
+      {
+        "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
+        "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
+        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
+        "detected_at": "2026-10-10T18:22:37.241516+00:00"
+      }
+    ],
+    "DHI": [
+      {
+        "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
+        "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      },
+      {
+        "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
+        "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
+        "detected_at": "2026-10-12T01:00:36.813367+00:00"
+      }
+    ],
+    "TSM": [
+      {
+        "headline": "AMD Makes Big Agentic AI Push With Helion",
+        "url": "https://finnhub.io/api/news?id=e2348859c42c11acda96bbe074b91fd0e9661f2d6b0ec79388c4459d85a763dc",
+        "condition": "Process Power + Scale ที่แทบผูกขาด leading-edge — TSMC นำ yield/technology เหนือ Samsung/Intel ชัดเจน; ใครทำชิป AI/มือถือ flagship ต้องผ่าน TSMC = pricing power (gross margin 62%)",
+        "detected_at": "2026-10-12T22:01:27.868654+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
+        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
+      {
+        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
+        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
+        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-15T01:00:36.913824+00:00"
+      },
+      {
+        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
+        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-14T18:25:41.632713+00:00"
+      }
+    ],
+    "GE": [
+      {
+        "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
+        "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-17T01:00:37.432004+00:00"
+      },
+      {
+        "headline": "Turkish Airlines and CFM sign MOU for more than 600 LEAP-1B engines",
+        "url": "https://finnhub.io/api/news?id=eda8b1c08840ac206e83c1cd4afe9deddf921edf11711738c929d755c256bdd4",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      },
+      {
+        "headline": "GE Aerospace JV CFM International Signs MoU With Turkish Airlines To Purchase 300+ LEAP-1B Engines, Including Spares",
+        "url": "https://finnhub.io/api/news?id=3633a72cf05323d814d34b8910ea38bdb9d8a18aefa778aea33464156bcffeac",
+        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
+        "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      }
+    ]
+  }
+}
