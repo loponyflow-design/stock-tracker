@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-17T16:56:04.626529+00:00",
+  "last_updated": "2026-10-18T01:00:38.269499+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "How a 73-Year-Old Collects $5,450 a Month From Just Three Tickers: SCHD, VICI, and ARCC",
+        "url": "https://finnhub.io/api/news?id=c80a5cff08e3a6038a55f5858c04730ad9a70b426ea759f0d26da4b8357af9c6",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-18T01:00:38.269499+00:00"
+      },
       {
         "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
         "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
@@ -23,12 +29,6 @@
       {
         "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
         "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-16T17:54:43.244094+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Outperforms Broader Market: What You Need to Know",
-        "url": "https://finnhub.io/api/news?id=16a5d7199ab82f1cb1b3f36413fb52518948df980732ccfdf1e4543cda369cbe",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-16T17:54:43.244094+00:00"
       }
@@ -59,26 +59,6 @@
         "url": "https://finnhub.io/api/news?id=cf7ad82a381e62ee5cf276b49ce39a768b36a3f492f74ab7e9f8fd2c6df95844",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-10-12T22:01:27.868654+00:00"
-      },
-      {
-        "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
-        "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-10-11T01:00:33.919308+00:00"
-      },
-      {
-        "headline": "Warren Buffett’s Berkshire Now Owns 12% of This Homebuilder — Just as America’s Housing Market Deteriorates",
-        "url": "https://finnhub.io/api/news?id=cbd823d5c17c529b06037f030a2d4db3c09b947a633ba7afc5c705e2112a9a16",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
-      }
-    ],
-    "STZ": [
-      {
-        "headline": "Constellation Brands (STZ) Stock Looks Undervalued After a 42% Three Year Slide",
-        "url": "https://finnhub.io/api/news?id=9f8959b1fbc5e4186d515bf3a5159b46483e32d73278232dcdb4a3514d5cb477",
-        "condition": "Brand power ที่ลูกค้าเหนียวแน่นในกลุ่มเบียร์นำเข้า — Modelo แซง Bud Light ขึ้นเป็นเบียร์ขายดีสุดในสหรัฐฯ มาหลายปี ความภักดีต่อแบรนด์ในกลุ่มผู้บริโภคเบียร์นำเข้าสูง เปลี่ยนพฤติกรรมยาก",
-        "detected_at": "2026-10-10T18:22:37.241516+00:00"
       }
     ],
     "DHI": [
@@ -96,6 +76,12 @@
       }
     ],
     "TSM": [
+      {
+        "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
+        "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
+        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
+        "detected_at": "2026-10-18T01:00:38.269499+00:00"
+      },
       {
         "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
         "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
