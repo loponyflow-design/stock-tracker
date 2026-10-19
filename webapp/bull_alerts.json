@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-19T01:00:36.767115+00:00",
+  "last_updated": "2026-10-19T19:44:06.918155+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "2 BDCs To Buy That Could Replace ARCC And OBDC In Your Portfolio",
+        "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-19T19:44:06.918155+00:00"
+      },
       {
         "headline": "How a 73-Year-Old Collects $5,450 a Month From Just Three Tickers: SCHD, VICI, and ARCC",
         "url": "https://finnhub.io/api/news?id=c80a5cff08e3a6038a55f5858c04730ad9a70b426ea759f0d26da4b8357af9c6",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-17T01:00:37.432004+00:00"
-      },
-      {
-        "headline": "Buy The Dip: Sustainable And Growing 10%+ Yields",
-        "url": "https://finnhub.io/api/news?id=8c5d0aa98ad36344bf60f8cd0e9239d67c8188acf2cde70a0c23e50f7c05ad41",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-16T17:54:43.244094+00:00"
       }
     ],
     "PG": [
@@ -67,12 +67,6 @@
         "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
         "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
         "detected_at": "2026-10-12T22:01:27.868654+00:00"
-      },
-      {
-        "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
-        "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
-        "condition": "Balance sheet อนุรักษ์นิยม — net debt/cap 11%, FCF แข็ง → ซื้อหุ้นคืน + รอด down-cycle ได้",
-        "detected_at": "2026-10-12T01:00:36.813367+00:00"
       }
     ],
     "TSM": [
@@ -145,6 +139,14 @@
         "url": "https://finnhub.io/api/news?id=3633a72cf05323d814d34b8910ea38bdb9d8a18aefa778aea33464156bcffeac",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-10-16T17:54:43.244094+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "Marvell Jumps 6% as GF Securities Says Google Chip Delay Won’t Dent Its Position; Broadcom Rises 3%",
+        "url": "https://finnhub.io/api/news?id=3f646b562aa3ac37aa7f2b73570329bd642c4eebfee2483f939c356f0d2f7b7b",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-19T19:44:06.918155+00:00"
       }
     ]
   }
