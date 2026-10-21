@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T18:24:35.149413+00:00",
+  "last_updated": "2026-10-21T01:00:33.305095+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,12 @@
         "headline": "Rising Income Over Big Yields: 4 Dividend Kings That Have Raised Payouts for 70 Years Straight",
         "url": "https://finnhub.io/api/news?id=088e1398824e0c7a7a56e4d6aecc4e6971cda256d939b30167bc23b859be0618",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-21T01:00:33.305095+00:00"
+      },
+      {
+        "headline": "Rising Income Over Big Yields: 4 Dividend Kings That Have Raised Payouts for 70 Years Straight",
+        "url": "https://finnhub.io/api/news?id=088e1398824e0c7a7a56e4d6aecc4e6971cda256d939b30167bc23b859be0618",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
       },
       {
@@ -51,12 +57,6 @@
         "url": "https://finnhub.io/api/news?id=9e3a9d5059477fa73d09ff98b5c5f62910957b8221b686b77a184b0b0873a7ce",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-14T01:00:39.438996+00:00"
-      },
-      {
-        "headline": "Why I Just Invested in This Dividend King -- Even Though a Smaller Rival Has Grown Faster.",
-        "url": "https://finnhub.io/api/news?id=5efd5a5df41b5e0de4d45a2d85b0662504c10ca0830a1ade56c7cb168f1f7956",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-13T20:08:55.307964+00:00"
       }
     ],
     "TSM": [
@@ -138,10 +138,22 @@
         "headline": "Is Open AI Rack Launch Altering The Investment Case For Arista Networks Stock?",
         "url": "https://finnhub.io/api/news?id=53f10a68349424911c2300add3376aaf26c6051ffa92e23dd799235512907a5e",
         "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-10-21T01:00:33.305095+00:00"
+      },
+      {
+        "headline": "Is Open AI Rack Launch Altering The Investment Case For Arista Networks Stock?",
+        "url": "https://finnhub.io/api/news?id=53f10a68349424911c2300add3376aaf26c6051ffa92e23dd799235512907a5e",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "DHI": [
+      {
+        "headline": "The housing market is on the verge of collapse, again",
+        "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
+        "condition": "Housing shortage เชิงโครงสร้างในสหรัฐ — demand ระยะยาวหนุน; orders/backlog ฟื้น (Q2 FY2026 +11%/+17%)",
+        "detected_at": "2026-10-21T01:00:33.305095+00:00"
+      },
       {
         "headline": "The housing market is on the verge of collapse, again",
         "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
