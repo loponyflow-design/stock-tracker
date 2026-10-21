@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-21T01:00:33.305095+00:00",
+  "last_updated": "2026-10-21T18:30:23.430006+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
+        "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+      },
+      {
+        "headline": "A $750,000 Dividend Portfolio Could Lose $13,920 a Year to Taxes. Here’s the Roth Alternative",
+        "url": "https://finnhub.io/api/news?id=778db3b9dc32e45381a6b0dcce7992a67b4354f2c857a1412534483d3f52737c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+      },
       {
         "headline": "Is It Worth Investing in Ares Capital (ARCC) Based on Wall Street's Bullish Views?",
         "url": "https://finnhub.io/api/news?id=80d08eb7e0c10f77ac4a049e94b43c0b80d6f63f6e9e1aa7b64643554fd85d15",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-20T01:00:35.656667+00:00"
-      },
-      {
-        "headline": "2 BDCs To Buy That Could Replace ARCC And OBDC In Your Portfolio",
-        "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-19T19:44:06.918155+00:00"
-      },
-      {
-        "headline": "How a 73-Year-Old Collects $5,450 a Month From Just Three Tickers: SCHD, VICI, and ARCC",
-        "url": "https://finnhub.io/api/news?id=c80a5cff08e3a6038a55f5858c04730ad9a70b426ea759f0d26da4b8357af9c6",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-18T01:00:38.269499+00:00"
       }
     ],
     "PG": [
@@ -51,12 +51,6 @@
         "url": "https://finnhub.io/api/news?id=b5d5c4ea62f15cf3379a9ee2becf9b9f7905015aa3949c87ed364628265c86f1",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "The Market Is Flashing Warning Signals Not Seen in Years. Here’s Why I Just Bought 3 of SCHD’s Dividend Kings.",
-        "url": "https://finnhub.io/api/news?id=9e3a9d5059477fa73d09ff98b5c5f62910957b8221b686b77a184b0b0873a7ce",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-14T01:00:39.438996+00:00"
       }
     ],
     "TSM": [
@@ -91,12 +85,6 @@
         "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-15T01:00:36.913824+00:00"
-      },
-      {
-        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
-        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-14T18:25:41.632713+00:00"
       }
     ],
     "GE": [
@@ -148,6 +136,12 @@
       }
     ],
     "DHI": [
+      {
+        "headline": "The housing market is on the verge of collapse, again",
+        "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
+        "condition": "Housing shortage เชิงโครงสร้างในสหรัฐ — demand ระยะยาวหนุน; orders/backlog ฟื้น (Q2 FY2026 +11%/+17%)",
+        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+      },
       {
         "headline": "The housing market is on the verge of collapse, again",
         "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
