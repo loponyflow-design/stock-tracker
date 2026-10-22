@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-22T01:00:35.696957+00:00",
+  "last_updated": "2026-10-22T18:25:55.686301+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Prospect Capital Yields 28%. Is This Dividend Too Good to Be True?",
+        "url": "https://finnhub.io/api/news?id=6c0920676a420c066a24162f584b48d47cb020b64f51e0dd5b14c234a68e0909",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-22T18:25:55.686301+00:00"
+      },
+      {
+        "headline": "Find Out How Much Passive Income $50,000 Generates in These 4 High Yield Stocks",
+        "url": "https://finnhub.io/api/news?id=ab40e9d2001cc8920f07de87ae2d3a0dfd4f2307c073302feb93431ce354f89c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-22T18:25:55.686301+00:00"
+      },
+      {
+        "headline": "Ares Capital Set to Release Q3 Earnings: Here's What to Expect",
+        "url": "https://finnhub.io/api/news?id=83dec845b47db2c73c4b9d50c729504c3a381f511db36a5a76246d83b546d11e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-22T18:25:55.686301+00:00"
+      },
       {
         "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
         "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-21T18:30:23.430006+00:00"
-      },
-      {
-        "headline": "A $750,000 Dividend Portfolio Could Lose $13,920 a Year to Taxes. Here’s the Roth Alternative",
-        "url": "https://finnhub.io/api/news?id=778db3b9dc32e45381a6b0dcce7992a67b4354f2c857a1412534483d3f52737c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
-      },
-      {
-        "headline": "Is It Worth Investing in Ares Capital (ARCC) Based on Wall Street's Bullish Views?",
-        "url": "https://finnhub.io/api/news?id=80d08eb7e0c10f77ac4a049e94b43c0b80d6f63f6e9e1aa7b64643554fd85d15",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "2 BDCs To Buy That Could Replace ARCC And OBDC In Your Portfolio",
-        "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "PG": [
@@ -79,12 +79,6 @@
         "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-16T17:54:43.244094+00:00"
-      },
-      {
-        "headline": "Lowe’s Dividend Sustainability Looks Solid, but Returns Face a Test",
-        "url": "https://finnhub.io/api/news?id=00a0eea93468aaf7a7ee94e84437bd62263112301ba23359e99a4f15c749a589",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-15T01:00:36.913824+00:00"
       }
     ],
     "GE": [
