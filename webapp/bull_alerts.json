@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-21T18:30:23.430006+00:00",
+  "last_updated": "2026-10-22T01:00:35.696957+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
+        "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
       {
         "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
         "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "2 BDCs To Buy That Could Replace ARCC And OBDC In Your Portfolio",
-        "url": "https://finnhub.io/api/news?id=8732df08abbc449e25609557b5f68a3c089f45114a40a6fa1a6d4b1dc8587461",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-20T01:00:35.656667+00:00"
       }
     ],
     "PG": [

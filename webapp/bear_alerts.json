@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T18:30:23.430006+00:00",
+  "last_updated": "2026-10-22T01:00:35.696957+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,18 @@
     ],
     "TSLA": [
       {
+        "headline": "SpaceX shares soar on possible tie-up with Tesla",
+        "url": "https://finnhub.io/api/news?id=967b3ef0d1aba9da774b5b149d41199f4daa474a56479b401e1fc6c437a12667",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
+      {
+        "headline": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+        "url": "https://finnhub.io/api/news?id=cb984dff87c16cb0fb9dc5bdb0ae874b9a3b6de4e0696a3acc91bdec5631af8e",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
+      {
         "headline": "Tesla Earnings Loom; SpaceX Merger, Robotaxi, Optimus, CapEx In Focus (Live Coverage)",
         "url": "https://finnhub.io/api/news?id=437bde7b830bd643997a6e1a6c58ee6db65450c70e8e228957b79984f8839fda",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=12bdb7d7140d8ee3ee24397443b452a8773c75ba24acf45ed5543811def36b78",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "SpaceX, Tesla Form Independent Committees To Explore Merger: Elon Musk Says Deal ‘Not A Certainty’",
-        "url": "https://finnhub.io/api/news?id=ed844a42880ea3e9dc3c9b07bcd928574874bd60d1ece0c9ef63cb4e25e573c0",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "Musk backs SpaceX-Tesla merger as rocket firm turns profit",
-        "url": "https://finnhub.io/api/news?id=4854d6b33fec55bb18a28229fdb711e9fd9d4be46ccbe8cea4a4ccb8ac94c137",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-21T01:00:33.305095+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "หุ้นไทยวันนี้พลิกเป็นบวก 1.15 จุด ซื้อ KBANK-TRUE ขาย DELTA - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0R2x0VjZFcC0xdDFoSlZQRDdUeUhrbV95OTEzRXBlVDJHa3c3dk4ySlBTZHZzaXZab2JKLUxCbHBfdWl2Q1owdFkzNFVMdXM0QWswa0RBRWRsb3l4RmhMWXVRMU1oYzg?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
       },
       {
         "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #KBANK ไตรมาส 3/2569 กำไรสุทธิ 12,720 ลบ. -2.21% YoY รายได้ดอกเบี้ยร่วงแรง - Facebook",
         "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxPdGdJUERxYjRrLUppb2h2eGd1NUJ2eHdsMjZmU0tsN3IzUkJ5Mk1Bbm9OOEw3VC14RWhXT2FReVdVZjZlS3ZzNTVSTWxHdmprR2JKaFR4RGdPUVBYSUFHVkszOXZGajdXbmxmaUFxcmJPYXBSdXgwQXpEaURPQkU0VG5jRUgyZGlKcV9VOHhGOVFBUm9BbmdtMVlSQTFJSWI4VFU2VHRyV0lKQUhGOXdQOUpxSGs4bG9PUzJBbnJZU2VuOEdMZUVZRmpoYlhsQ0d3UnBEdGNBOGZ6OVQxMkpwQjQ1eEx5emxXYjEwc2tKOXFGSXdXakE1WjlzX0NKVDZESDdpeWFpRmg4Z2c5WXBlSVZUU0lrM2hVNjB6Q2pzeUlBYV9mbUhud1U5LUh3MkMxbFUwUEdTZzMtcURFVnd3aGcyRnpWYXNtQ21MSW5oS0UwUmFNbnJleTB6ZGVnNXNJeC1yYmZqQ0NCbW56RHRDalNuazBlcnpGR2tURlFxMHBPZDBLSkVycUk0UUNlZi1ZdEhyeTg5MFQ3N2tVem1aVFZ6V0owMktyaHhLN25ZQmhRalIwY2ZrdUE2NnY4c1p1YklMWVM2MTJpb3Rld09sdi1SNm1LNldtamhwRmgzeklSaFhMUUlJVE1wV3lkYXNCYk5ra3ZSV0hRbU81b01ybHl5dVVDR3lWTXZsQWlIclNKOWpiRGNNS05iZkZZbS1TVk9Mem5OeG9zeS14bm5lZHVjOGtNM3djUkNqcjF0clZBTElxNDY0dERGMUpJNWVTaGk0X25XbUh5a0M1alotOHRqRTNsTE9EWWhyQ21BWk5Nam1Od2VQNHVlY082TlVZeUZkR21ENkRDWFNhaXpJclRyV3MzR0FpalFtYw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
       },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
       },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
       },
       {
-        "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
+        "headline": "KBANK-SCB-PTT นำทีม โบรกฯ เปิดโผ 15 หุ้นน่าซื้อ ก่อนช่วง “แจกปันผลกลางปี” - Share2Trade",
+        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxOY3R5aFJKUmY4N1BpcWFwVHNDTFo2MnQyU0tKQW1pdUpZenUxZGNmeHhlWTlJVGFZTU1OMTRueFEtSEg1VlNSU3g2Slk5M01GTV85UzNPQXNwblJPR1RCODdjSlZ2REoxZ1NRZ091OHdqQVBZZkYyOEJwY0JYTVFtbzdzQlBBM0RDX3BTS3VkYnV6SVdCNDNqblByWGsweEp1Qy1hSWFQSkNTMlZfQ25vMi1SYk95VUNRbkQxbDF1UVY1N2pkXzNROVVpNHVHRzhFcHp2bThEVzZ1YnE4T2dZdkJESmh0VkFIclJJLVpVc1Q3ODNpdFFqSnVuV1A5Y2xWOEdEb21nOE5UYjI3bmwxOEltTllYZ1RuWU4zRWJqdm5QZHVWbUxHT21BQnNVWTJmakUwb01FNV9ob0pxaXNJaTF0ZDdnOTRuYjJBRVBtYWk2YW1qaWVkbEswZGFhMGFFalZzc3lQNjM0RnUyQXFzR0g1SHNCdXh4U29uZGxRZC1aU0ZYWGk2dXZFOHhmLWQ5dzdVUG1PanBpWVlOWFpxZE1KUEE5bEExWXFCZUhXTTB3Y0ZmUWx0ZzB4S01pbjZKdDhuZy1pb3VuYUFybmlvS3ltR29zWHlzOVNqekd6b1lIOWtHQklQd21MdG5ZN05CR0lCY1JpU0tSR3E4WHNzWThxTU1kSHotWmR1STRxUXMyVERRdEFJOTRHa3RmWXFhY3ZibHdlMWJlNkNHbE91MDB4REJ0QWNWc3ZFVHZDb2U1cDFzTmdHa1FKcWFwMC00V2dwakhTb2w5Q0dyLVF5a0VrSmsyYmFCanlPaVF2aU5uRHJGem43SkNiM25aVkIwVUFyMXZBODFlRVNrdnNDMmZWXy04elU2WVFkN2NvMk9vUHQtYkRtV2k1Q05sZnFHU2M3eFhVUzhXUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-21T01:00:33.305095+00:00"
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
       }
     ],
     "LOW": [
@@ -302,6 +302,12 @@
         "headline": "Procter & Gamble (PG) Expects 1% to 3% Organic Growth, Is That Enough?",
         "url": "https://finnhub.io/api/news?id=a3b7c5ba6607dde941d36ce1db67c0e685ebea3df0f22ecec1a5b4e7cc121f03",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
+      {
+        "headline": "Procter & Gamble (PG) Expects 1% to 3% Organic Growth, Is That Enough?",
+        "url": "https://finnhub.io/api/news?id=a3b7c5ba6607dde941d36ce1db67c0e685ebea3df0f22ecec1a5b4e7cc121f03",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-10-21T18:30:23.430006+00:00"
       },
       {
@@ -321,12 +327,6 @@
         "url": "https://finnhub.io/api/news?id=7305a8bd327a27b47a5517d74edcf76341c1ff9ee2e3025a3ff4af9234bb072e",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "Procter & Gamble's Innovation Push: Catalyst for Long-Term Growth?",
-        "url": "https://finnhub.io/api/news?id=dbdcab237833141c5c761226e99fea104f21a3b272e1c1a57942d62264eaa0d8",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-10-20T01:00:35.656667+00:00"
       }
     ],
     "UNH": [
@@ -406,6 +406,12 @@
         "headline": "Zacks Investment Ideas feature highlights: GE Aerospace, Boeing and Airbus",
         "url": "https://finnhub.io/api/news?id=4bf2b4d448ac4bf508228605f2dba0bdc407acbfd041cfc9b8265da9c4f0e71c",
         "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
+      {
+        "headline": "Zacks Investment Ideas feature highlights: GE Aerospace, Boeing and Airbus",
+        "url": "https://finnhub.io/api/news?id=4bf2b4d448ac4bf508228605f2dba0bdc407acbfd041cfc9b8265da9c4f0e71c",
+        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
         "detected_at": "2026-10-21T18:30:23.430006+00:00"
       },
       {
@@ -478,6 +484,12 @@
       }
     ],
     "ANET": [
+      {
+        "headline": "Arista Networks Vs. Cisco Systems: Modern AI Data Center Networking vs. Legacy Enterprise Switch Leader",
+        "url": "https://finnhub.io/api/news?id=601124bb4e1bc9c5049eed96b5a2eccdbf28b38d20fa6b77ae5d32015b9bd436",
+        "condition": "รายได้กระจุกตัวที่ hyperscaler 2-3 ราย — ถ้า Microsoft หรือ Meta ชะลอ capex ด้าน AI แม้แค่ปีเดียว รายได้ Arista จะกระทบทันทีเพราะไม่มีฐานลูกค้าที่กระจายพอ",
+        "detected_at": "2026-10-22T01:00:35.696957+00:00"
+      },
       {
         "headline": "Arista Networks Vs. Cisco Systems: Modern AI Data Center Networking vs. Legacy Enterprise Switch Leader",
         "url": "https://finnhub.io/api/news?id=601124bb4e1bc9c5049eed96b5a2eccdbf28b38d20fa6b77ae5d32015b9bd436",
