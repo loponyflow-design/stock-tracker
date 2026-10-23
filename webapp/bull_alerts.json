@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-10-23T01:00:40.655994+00:00",
+  "last_updated": "2026-10-23T18:12:04.599504+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital (ARCC) Ascends While Market Falls: Some Facts to Note",
+        "url": "https://finnhub.io/api/news?id=a4f33b0cfdc1f77da3eeea40b9708b8b2a448fb335d16c2326efe66b80fd6c32",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+      },
+      {
+        "headline": "How Much Does a 62-Year-Old Need in a Roth IRA to Collect $6,100 a Month Tax-Free for Life?",
+        "url": "https://finnhub.io/api/news?id=74d78cd08eb5d8ef2259bb0b4f29a66a43ad19f4c73ffc3a288c4ff3b5e2777e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+      },
+      {
+        "headline": "Stay Ahead of the Game With Ares Capital (ARCC) Q3 Earnings: Wall Street's Insights on Key Metrics",
+        "url": "https://finnhub.io/api/news?id=32d4c9e7d44926f8cfcef81afcfc5d986fe16cd5102af2ade03d1686568e5884",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+      },
+      {
+        "headline": "Top 5 Safe Dividend Stocks Paying 6.9%+ Right Now",
+        "url": "https://finnhub.io/api/news?id=50b53cbfb20bbd2c02b504b2c6b201c8d77e56464da127eff55cd867095efdf9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+      },
       {
         "headline": "Prospect Capital Yields 28%. Is This Dividend Too Good to Be True?",
         "url": "https://finnhub.io/api/news?id=6c0920676a420c066a24162f584b48d47cb020b64f51e0dd5b14c234a68e0909",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-22T18:25:55.686301+00:00"
-      },
-      {
-        "headline": "Find Out How Much Passive Income $50,000 Generates in These 4 High Yield Stocks",
-        "url": "https://finnhub.io/api/news?id=ab40e9d2001cc8920f07de87ae2d3a0dfd4f2307c073302feb93431ce354f89c",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
-      },
-      {
-        "headline": "Ares Capital Set to Release Q3 Earnings: Here's What to Expect",
-        "url": "https://finnhub.io/api/news?id=83dec845b47db2c73c4b9d50c729504c3a381f511db36a5a76246d83b546d11e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
-      },
-      {
-        "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
-        "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-22T01:00:35.696957+00:00"
-      },
-      {
-        "headline": "Is Ares Capital Stock a Buy, Sell, or Hold Below Its Net Asset Value?",
-        "url": "https://finnhub.io/api/news?id=6f1625e86ec2b68b6e5a61970722b582664af3643ead22d68f8ebfe00ee526c4",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-21T18:30:23.430006+00:00"
       }
     ],
     "PG": [
@@ -73,12 +73,6 @@
         "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-17T01:00:37.432004+00:00"
-      },
-      {
-        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
-        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-16T17:54:43.244094+00:00"
       }
     ],
     "GE": [
@@ -93,18 +87,6 @@
         "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
         "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
         "detected_at": "2026-10-17T01:00:37.432004+00:00"
-      },
-      {
-        "headline": "Turkish Airlines and CFM sign MOU for more than 600 LEAP-1B engines",
-        "url": "https://finnhub.io/api/news?id=eda8b1c08840ac206e83c1cd4afe9deddf921edf11711738c929d755c256bdd4",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-10-16T17:54:43.244094+00:00"
-      },
-      {
-        "headline": "GE Aerospace JV CFM International Signs MoU With Turkish Airlines To Purchase 300+ LEAP-1B Engines, Including Spares",
-        "url": "https://finnhub.io/api/news?id=3633a72cf05323d814d34b8910ea38bdb9d8a18aefa778aea33464156bcffeac",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-10-16T17:54:43.244094+00:00"
       }
     ],
     "AVGO": [
