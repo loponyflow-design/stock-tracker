@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-24T01:00:33.696123+00:00",
+  "last_updated": "2026-10-24T17:17:30.175624+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
+        "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+      },
+      {
+        "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
+        "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+      },
       {
         "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
         "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=a4f33b0cfdc1f77da3eeea40b9708b8b2a448fb335d16c2326efe66b80fd6c32",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "How Much Does a 62-Year-Old Need in a Roth IRA to Collect $6,100 a Month Tax-Free for Life?",
-        "url": "https://finnhub.io/api/news?id=74d78cd08eb5d8ef2259bb0b4f29a66a43ad19f4c73ffc3a288c4ff3b5e2777e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "Stay Ahead of the Game With Ares Capital (ARCC) Q3 Earnings: Wall Street's Insights on Key Metrics",
-        "url": "https://finnhub.io/api/news?id=32d4c9e7d44926f8cfcef81afcfc5d986fe16cd5102af2ade03d1686568e5884",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "Procter & Gamble's Earnings Show a Resilient Consumer Despite Price Hikes. Is the Dividend King Stock a Buy?",
+        "url": "https://finnhub.io/api/news?id=87af113463dffacd686da1c9c9ce71fff8d30d944bd6b0f48d132a743c45d01b",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+      },
       {
         "headline": "Rising Income Over Big Yields: 4 Dividend Kings That Have Raised Payouts for 70 Years Straight",
         "url": "https://finnhub.io/api/news?id=088e1398824e0c7a7a56e4d6aecc4e6971cda256d939b30167bc23b859be0618",
@@ -59,34 +65,6 @@
         "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
         "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
         "detected_at": "2026-10-18T01:00:38.269499+00:00"
-      },
-      {
-        "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
-        "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-10-17T16:56:04.626529+00:00"
-      }
-    ],
-    "LOW": [
-      {
-        "headline": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
-        "url": "https://finnhub.io/api/news?id=40096ae83757b88837938c72760e62ab93e0243513be3c9f50f2b8222f11df44",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-17T01:00:37.432004+00:00"
-      }
-    ],
-    "GE": [
-      {
-        "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
-        "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-10-17T16:56:04.626529+00:00"
-      },
-      {
-        "headline": "What GE Aerospace's Earnings Outlook Means For Shareholders",
-        "url": "https://finnhub.io/api/news?id=c8be0ed55128545d15cef25a6d0c2094932e5bb83119266817875a6e72f51f29",
-        "condition": "Cornered resource ด้าน installed base: เครื่องยนต์ LEAP ที่ติดตั้งไปแล้วนับหมื่นเครื่องต้องใช้อะไหล่/บริการจาก GE เท่านั้นตลอดอายุการใช้งาน 10-25 ปี — สร้างรายได้ recurring ที่คาดการณ์ได้จาก backlog $190.6B",
-        "detected_at": "2026-10-17T01:00:37.432004+00:00"
       }
     ],
     "AVGO": [
@@ -132,6 +110,12 @@
       }
     ],
     "LEN": [
+      {
+        "headline": "Did Falling Treasury Yields Just Shift Lennar's (LEN) Stock Narrative?",
+        "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+      },
       {
         "headline": "Did Falling Treasury Yields Just Shift Lennar's (LEN) Stock Narrative?",
         "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
