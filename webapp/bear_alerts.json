@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-23T18:12:04.599504+00:00",
+  "last_updated": "2026-10-24T01:00:33.696123+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
+        "url": "https://finnhub.io/api/news?id=80bbd637676f4f2dc8208719fb33387328a1fb3edcd3295ba57ccef3aea9c748",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "3 Portfolio-Worthy Stocks Hitting 52-Week Highs: AAPL, LLY & KO",
+        "url": "https://finnhub.io/api/news?id=f04a55b6b65dc12f321f20143f46b49e8a787cce7587a12230c7a35976fc91f9",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "DEPH Labs Appoints Lisa Loud as CEO to Accelerate Privacy-Centric Precision Health and Biological Age Testing",
+        "url": "https://finnhub.io/api/news?id=d144ce0342728dc74cf435d393f5cf78efd38b1d429af5f38dd095335a047035",
+        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
       {
         "headline": "How Apple dethroned Nvidia to become world's most valuable company",
         "url": "https://finnhub.io/api/news?id=eabc5f90f77eac6f4f03f5e2f6fba873383507277d5869ce259a4c44ee87062b",
@@ -13,27 +31,21 @@
         "url": "https://finnhub.io/api/news?id=2eed7344507f1c52444e8c625ec3f23de6288e5daf36d2ce89c4975433ce7e3c",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-10-23T01:00:40.655994+00:00"
-      },
-      {
-        "headline": "Apple’s foldable iPhone has a $2,000 app problem",
-        "url": "https://finnhub.io/api/news?id=44f7e2c85ac670d2eca210b86d3ddd07a722d4b77e3c3685c25fb464e0f88e87",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-23T01:00:40.655994+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Stock Could Be 25% Overvalued Despite New Device Launch Plans",
-        "url": "https://finnhub.io/api/news?id=c785ec2d2ccbb6a1d93701c9fbe9946dc56441d1f1e692f26b3f22507bbadde1",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
-      },
-      {
-        "headline": "Apple’s $1,999 foldable phone is set to hit stores Friday, are you buying one?",
-        "url": "https://finnhub.io/api/news?id=94acab55f66bc8142e2cd2ab1d4b0e3100568ea60acb0eb51954f0387279a823",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-21T01:00:33.305095+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "3 Defense Stocks Investors May Prefer Over Musk Linked Aerospace Bets",
+        "url": "https://finnhub.io/api/news?id=93b6ac33938d1311906bb13b1eab2d92715666f2142f70e39376aac193783df4",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
+        "url": "https://finnhub.io/api/news?id=5e234762848ac80360dddf23773d810b4b3dc9712f60e5561314d5d62ef1dc70",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
       {
         "headline": "SpaceX CEO Elon Musk is 'one of one': Will the market give Anthropic's Dario Amodei the same leeway?",
         "url": "https://finnhub.io/api/news?id=3c7019a73f9f9b34007fa8e19d45f252d2ab266f8a26195d8bc305b0e933dd41",
@@ -51,50 +63,38 @@
         "url": "https://finnhub.io/api/news?id=f2339d3eb39fa2ad1883a50c157c0298dfd7d9fd7e4a04bbbb1a06a6581282b4",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "Musk wants to merge SpaceX and Tesla: Here's what to know",
-        "url": "https://finnhub.io/api/news?id=794a2a1fd4f13b1235098299f312d5f3f3bccb5556be569d9ffc46c67b9afe28",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-23T01:00:40.655994+00:00"
-      },
-      {
-        "headline": "Could a Tesla-SpaceX merger really be the next big move for Elon Musk?",
-        "url": "https://finnhub.io/api/news?id=eb490c64e638deff95627bc404b197326925a895c56727e4448f3ffc7450d3eb",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
       }
     ],
     "KBANK": [
       {
-        "headline": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #KBANK ไตรมาส 3/2569 กำไรสุทธิ 12,720 ลบ. -2.21% YoY รายได้ดอกเบี้ยร่วงแรง - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxPdGdJUERxYjRrLUppb2h2eGd1NUJ2eHdsMjZmU0tsN3IzUkJ5Mk1Bbm9OOEw3VC14RWhXT2FReVdVZjZlS3ZzNTVSTWxHdmprR2JKaFR4RGdPUVBYSUFHVkszOXZGajdXbmxmaUFxcmJPYXBSdXgwQXpEaURPQkU0VG5jRUgyZGlKcV9VOHhGOVFBUm9BbmdtMVlSQTFJSWI4VFU2VHRyV0lKQUhGOXdQOUpxSGs4bG9PUzJBbnJZU2VuOEdMZUVZRmpoYlhsQ0d3UnBEdGNBOGZ6OVQxMkpwQjQ1eEx5emxXYjEwc2tKOXFGSXdXakE1WjlzX0NKVDZESDdpeWFpRmg4Z2c5WXBlSVZUU0lrM2hVNjB6Q2pzeUlBYV9mbUhud1U5LUh3MkMxbFUwUEdTZzMtcURFVnd3aGcyRnpWYXNtQ21MSW5oS0UwUmFNbnJleTB6ZGVnNXNJeC1yYmZqQ0NCbW56RHRDalNuazBlcnpGR2tURlFxMHBPZDBLSkVycUk0UUNlZi1ZdEhyeTg5MFQ3N2tVem1aVFZ6V0owMktyaHhLN25ZQmhRalIwY2ZrdUE2NnY4c1p1YklMWVM2MTJpb3Rld09sdi1SNm1LNldtamhwRmgzeklSaFhMUUlJVE1wV3lkYXNCYk5ra3ZSV0hRbU81b01ybHl5dVVDR3lWTXZsQWlIclNKOWpiRGNNS05iZkZZbS1TVk9Mem5OeG9zeS14bm5lZHVjOGtNM3djUkNqcjF0clZBTElxNDY0dERGMUpJNWVTaGk0X25XbUh5a0M1alotOHRqRTNsTE9EWWhyQ21BWk5Nam1Od2VQNHVlY082TlVZeUZkR21ENkRDWFNhaXpJclRyV3MzR0FpalFtYw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
         "headline": "CGSI ชี้ SET ลุ้นฟื้นต่อ รับหุ้น AI โลกรีบาวด์ ชู DELTA-KBANK เด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JZTdRN1N1TXpacnBSNWNCRTItS3QtdHJveGU1T2U2MnlCS1lXOEh5U1lzZXZNaW9xN2FPU3dUUFMxVE91Ni1xQXNSMA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ร่วงหนัก 35.29 จุด ขายบิ๊กแคป KBANK-KTB-DELTA - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92eFlwNkZHLUd5R2hoMUh4TDV3MHVGZkZoN3BKYXBRRDRSWGU5ck9GVHRhS2NRa01sY1NNeEZHU3pHRmZ2OXVIUmlMN0pmZEpuQjVndk85cmVNOTlDOVMwcV9DZUZ1Zw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       },
       {
-        "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
+        "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       },
       {
         "headline": "KBANK ส่องหุ้นร้อน 6 ส.ค. 69 - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG9EZVA5ZENtZXBneDA2Q29IcnJ3ZFBYdVVOQTFadTA5N1NXcmJsclAxcjFSSkZmTVpxZEVDV2xjd2x2VFJGdThCYnFZMzNBV3Z2MjVZSnRWOUNLNFdRNHZBd3VJTXMyRnlkVUFPYzdEcl8xZUtqVlVzdVI4dHNwcEZ2YXBGZzljZVFyMzFwMVNQOW1yWnpiZUJDbzJsc0c4NkktZnlmOUhNeE41elc0dDFHOGtabk1DZ21jLUwxazhTOWswdjNDYVFRSUtBcVh5VF90WXIyWGlaQms3ZXlySC1CT192cWMxbFVTeS1abUJINk9tQzhoUWFIQjVSN1ZsaWJWMEhPYXY?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "LOW": [
@@ -160,6 +160,12 @@
         "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
         "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+        "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
       },
       {
@@ -177,12 +183,6 @@
       {
         "headline": "'TSMC Seeks Factory-Equipment Alternatives To Thwart China's Rare Earths Grip, Sources Say' - Reuters Exclusive",
         "url": "https://finnhub.io/api/news?id=60d17a256d5853fea3feabd44246d2b1f14c8171f1dde71163c2481a3a07ea4c",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
-      },
-      {
-        "headline": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
-        "url": "https://finnhub.io/api/news?id=6d4415f3e40155eb64fc4f566904ab0123506534699ec0b44d88bff7953a584d",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-22T18:25:55.686301+00:00"
       }
@@ -359,6 +359,18 @@
     ],
     "ABBV": [
       {
+        "headline": "AbbVie’s Dividend Survived Humira’s Patent Cliff. Will Merck and Amgen’s?",
+        "url": "https://finnhub.io/api/news?id=d385d0367b432398a06e8239b3eaa57779475a38f37b07323817f3edd33f2db5",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
+        "url": "https://finnhub.io/api/news?id=abc8806fb03ae6aac8e2e6124c786823f98383f8d2b8bdb9442e05884f80c76d",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
         "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
         "url": "https://finnhub.io/api/news?id=abc8806fb03ae6aac8e2e6124c786823f98383f8d2b8bdb9442e05884f80c76d",
         "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
@@ -422,6 +434,12 @@
         "headline": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
         "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
         "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
+        "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
+        "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
       }
     ],
@@ -434,6 +452,12 @@
       }
     ],
     "NDSN": [
+      {
+        "headline": "Nordson Corporation Completes Acquisition of Contrinex, Expanding Its Industrial Sensing and Automation Portfolio",
+        "url": "https://finnhub.io/api/news?id=20e2026ed483b83310d412949b3b029e2d45c7511e3df4521c65ebb59669a831",
+        "condition": "โตด้วยการซื้อกิจการมากกว่าธุรกิจเดิม — FY2025 organic ติดลบ ถ้าไม่มีดีลใหม่มาช่วย รายได้เดิมอาจนิ่งหรือหดตัวได้",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
       {
         "headline": "Nordson Corporation Completes Acquisition of Contrinex, Expanding Its Industrial Sensing and Automation Portfolio",
         "url": "https://finnhub.io/api/news?id=20e2026ed483b83310d412949b3b029e2d45c7511e3df4521c65ebb59669a831",
@@ -456,6 +480,12 @@
       }
     ],
     "ARM": [
+      {
+        "headline": "Arm Stock Has a Growth Opportunity That Extends Far Beyond Smartphones",
+        "url": "https://finnhub.io/api/news?id=5bc6235969ef629b87782350e1c791a6694252fae461d685a02a39a8dd16ebdd",
+        "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
       {
         "headline": "Arm Stock Has a Growth Opportunity That Extends Far Beyond Smartphones",
         "url": "https://finnhub.io/api/news?id=5bc6235969ef629b87782350e1c791a6694252fae461d685a02a39a8dd16ebdd",

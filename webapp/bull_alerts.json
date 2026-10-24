@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-23T18:12:04.599504+00:00",
+  "last_updated": "2026-10-24T01:00:33.696123+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
+        "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
+      {
+        "headline": "Is Most-Watched Stock Ares Capital Corporation (ARCC) Worth Betting on Now?",
+        "url": "https://finnhub.io/api/news?id=5dfd3e56b8bc42ee02960f8213ce898e92adc9f42105e400672d2ef7e3967d1e",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      },
       {
         "headline": "Ares Capital (ARCC) Ascends While Market Falls: Some Facts to Note",
         "url": "https://finnhub.io/api/news?id=a4f33b0cfdc1f77da3eeea40b9708b8b2a448fb335d16c2326efe66b80fd6c32",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=32d4c9e7d44926f8cfcef81afcfc5d986fe16cd5102af2ade03d1686568e5884",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "Top 5 Safe Dividend Stocks Paying 6.9%+ Right Now",
-        "url": "https://finnhub.io/api/news?id=50b53cbfb20bbd2c02b504b2c6b201c8d77e56464da127eff55cd867095efdf9",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "Prospect Capital Yields 28%. Is This Dividend Too Good to Be True?",
-        "url": "https://finnhub.io/api/news?id=6c0920676a420c066a24162f584b48d47cb020b64f51e0dd5b14c234a68e0909",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-22T18:25:55.686301+00:00"
       }
     ],
     "PG": [
@@ -129,6 +129,14 @@
         "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
         "condition": "Housing shortage เชิงโครงสร้างในสหรัฐ — demand ระยะยาวหนุน; orders/backlog ฟื้น (Q2 FY2026 +11%/+17%)",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Did Falling Treasury Yields Just Shift Lennar's (LEN) Stock Narrative?",
+        "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ]
   }
