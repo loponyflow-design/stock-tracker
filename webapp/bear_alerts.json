@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T17:17:30.175624+00:00",
+  "last_updated": "2026-10-25T01:00:38.847666+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -38,6 +38,12 @@
         "headline": "Musk Calls Tesla’s Merger Vote “Quite a High Hurdle.” JPMorgan’s Premium Math Puts the Stock Near $500.",
         "url": "https://finnhub.io/api/news?id=846d0f5d391b9285bf49e4e000092f3d8d40f6ecb2f6c56476fadc46c8bb530e",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
+      {
+        "headline": "Musk Calls Tesla’s Merger Vote “Quite a High Hurdle.” JPMorgan’s Premium Math Puts the Stock Near $500.",
+        "url": "https://finnhub.io/api/news?id=846d0f5d391b9285bf49e4e000092f3d8d40f6ecb2f6c56476fadc46c8bb530e",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
       },
       {
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=3c7019a73f9f9b34007fa8e19d45f252d2ab266f8a26195d8bc305b0e933dd41",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-23T18:12:04.599504+00:00"
-      },
-      {
-        "headline": "Stock Market Week: Chips, AI Sector Dive But Other Sectors Healthy; SpaceX, Tesla, Meta In Focus",
-        "url": "https://finnhub.io/api/news?id=5ac988fb0ac99a068bc54f91ca048b95c9658149c53a1aa9fdd4afc2a2f67524",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "CGSI ชี้ SET ลุ้นฟื้นต่อ รับหุ้น AI โลกรีบาวด์ ชู DELTA-KBANK เด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JZTdRN1N1TXpacnBSNWNCRTItS3QtdHJveGU1T2U2MnlCS1lXOEh5U1lzZXZNaW9xN2FPU3dUUFMxVE91Ni1xQXNSMA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ร่วงหนัก 35.29 จุด ขายบิ๊กแคป KBANK-KTB-DELTA - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92eFlwNkZHLUd5R2hoMUh4TDV3MHVGZkZoN3BKYXBRRDRSWGU5ck9GVHRhS2NRa01sY1NNeEZHU3pHRmZ2OXVIUmlMN0pmZEpuQjVndk85cmVNOTlDOVMwcV9DZUZ1Zw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       },
       {
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       },
       {
         "headline": "KBANK ส่องหุ้นร้อน 6 ส.ค. 69 - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG9EZVA5ZENtZXBneDA2Q29IcnJ3ZFBYdVVOQTFadTA5N1NXcmJsclAxcjFSSkZmTVpxZEVDV2xjd2x2VFJGdThCYnFZMzNBV3Z2MjVZSnRWOUNLNFdRNHZBd3VJTXMyRnlkVUFPYzdEcl8xZUtqVlVzdVI4dHNwcEZ2YXBGZzljZVFyMzFwMVNQOW1yWnpiZUJDbzJsc0c4NkktZnlmOUhNeE41elc0dDFHOGtabk1DZ21jLUwxazhTOWswdjNDYVFRSUtBcVh5VF90WXIyWGlaQms3ZXlySC1CT192cWMxbFVTeS1abUJINk9tQzhoUWFIQjVSN1ZsaWJWMEhPYXY?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       },
       {
         "headline": "หุ้นไทยฟื้น 7.71 จุด มูลค่าซื้อขาย 7.1 หมื่นล้าน KBANK นำตลาด - thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PNTA3dVNfNGtZWUJyZ25CNGJOU2gzSWJJU1FUWkxlR0p0V3YybnR2OXNRUVpLVldzODc2cUg4bXBDM3pDeVdLTGZlRk5iVEluaWllUDY4RFl0V1VrY18tWnJRSzAwUQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       }
     ],
     "LOW": [
@@ -131,6 +131,18 @@
     ],
     "COST": [
       {
+        "headline": "Costco sees massive surge in cruise vacation offerings",
+        "url": "https://finnhub.io/api/news?id=f5e54823da9cd150499d20b6946a1fd6b153759506a552c29698234a7d225e36",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
+      {
+        "headline": "Costco Wholesale (COST) Adds AI Smartphone Gimbal To Member Only Shelves",
+        "url": "https://finnhub.io/api/news?id=c2896481b69bc4ccb27810eccfeb87d20363b51a2714bf0e09504488d505bf25",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
+      {
         "headline": "Costco Wholesale (COST) Adds AI Smartphone Gimbal To Member Only Shelves",
         "url": "https://finnhub.io/api/news?id=c2896481b69bc4ccb27810eccfeb87d20363b51a2714bf0e09504488d505bf25",
         "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
@@ -147,15 +159,27 @@
         "url": "https://finnhub.io/api/news?id=97a210c20993ba80d03184208531ce0197d70aa2885c7b4ff946f8f7c56c6754",
         "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "Costco (COST): Can Its Membership Model Travel Further Overseas?",
-        "url": "https://finnhub.io/api/news?id=97a210c20993ba80d03184208531ce0197d70aa2885c7b4ff946f8f7c56c6754",
-        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "Making Advanced MicroChips Takes a Global Ecosystem",
+        "url": "https://finnhub.io/api/news?id=87c7c48a5dc5829147ac4af061981d6eb4943ba0bc016f75fb50b3c0dae19bad",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
+      {
+        "headline": "TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade)",
+        "url": "https://finnhub.io/api/news?id=7359cf030acf2d56a10ad8fb1c7ffd6cb15cfbc7df40c115439603d3f72c4766",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
+      {
+        "headline": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+        "url": "https://finnhub.io/api/news?id=ad89f690c50c89b4e20fc0ddbef098ae4bd22de2dedc3344e9fa4879ebde00bb",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
       {
         "headline": "TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=7359cf030acf2d56a10ad8fb1c7ffd6cb15cfbc7df40c115439603d3f72c4766",
@@ -167,38 +191,20 @@
         "url": "https://finnhub.io/api/news?id=ad89f690c50c89b4e20fc0ddbef098ae4bd22de2dedc3344e9fa4879ebde00bb",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
-        "url": "https://finnhub.io/api/news?id=bbc49cb5517d4801b8399f740d13de056ad70ebea77ddefb967c8866f3281ab6",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
-        "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
-      },
-      {
-        "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
-        "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
       }
     ],
     "JNJ": [
+      {
+        "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
+        "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
+        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
       {
         "headline": "Johnson & Johnson (JNJ) Debuts New Coronary Catheter In The U.S.",
         "url": "https://finnhub.io/api/news?id=c9a6adea1a7931c137055ece28d72433e1d6738884fabd3b5db95561c1bd8b58",
         "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "AbbVie’s Dividend Keeps Climbing. Is It Still a Buy for Income Investors?",
-        "url": "https://finnhub.io/api/news?id=3cd6b334dacd22b1da54c95de7946c5985810e696ccdc4478ddbe6dac4398fb7",
-        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
-        "detected_at": "2026-10-18T01:00:38.269499+00:00"
       }
     ],
     "ZETA": [
@@ -281,12 +287,6 @@
         "url": "https://finnhub.io/api/news?id=c649df9d8cf1e06c799fd38e761a6ac2d4b08152acafab58f6783a8b1690f361",
         "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global",
-        "url": "https://finnhub.io/api/news?id=a277141a760630a157712d76d62cb02449062f26886c3ec0295fa17a6a923d2b",
-        "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
-        "detected_at": "2026-10-18T01:00:38.269499+00:00"
       }
     ],
     "ABBV": [

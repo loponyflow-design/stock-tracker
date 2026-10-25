@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-24T17:17:30.175624+00:00",
+  "last_updated": "2026-10-25T01:00:38.847666+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
+        "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-25T01:00:38.847666+00:00"
+      },
       {
         "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
         "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=5dfd3e56b8bc42ee02960f8213ce898e92adc9f42105e400672d2ef7e3967d1e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-24T01:00:33.696123+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Ascends While Market Falls: Some Facts to Note",
-        "url": "https://finnhub.io/api/news?id=a4f33b0cfdc1f77da3eeea40b9708b8b2a448fb335d16c2326efe66b80fd6c32",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-23T18:12:04.599504+00:00"
       }
     ],
     "PG": [
@@ -57,14 +57,6 @@
         "url": "https://finnhub.io/api/news?id=b5d5c4ea62f15cf3379a9ee2becf9b9f7905015aa3949c87ed364628265c86f1",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      }
-    ],
-    "TSM": [
-      {
-        "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
-        "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6",
-        "condition": "AI super-cycle เป็น secular tailwind — AI accelerator CAGR ~55%, hyperscaler capex หนุน demand หลายปี",
-        "detected_at": "2026-10-18T01:00:38.269499+00:00"
       }
     ],
     "AVGO": [
