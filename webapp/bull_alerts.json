@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:00:39.104125+00:00",
+  "last_updated": "2026-10-26T19:48:48.876409+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -59,14 +59,6 @@
         "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
-    "AVGO": [
-      {
-        "headline": "Marvell Jumps 6% as GF Securities Says Google Chip Delay Won’t Dent Its Position; Broadcom Rises 3%",
-        "url": "https://finnhub.io/api/news?id=3f646b562aa3ac37aa7f2b73570329bd642c4eebfee2483f939c356f0d2f7b7b",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-10-19T19:44:06.918155+00:00"
-      }
-    ],
     "ANET": [
       {
         "headline": "Is Open AI Rack Launch Altering The Investment Case For Arista Networks Stock?",
@@ -121,6 +113,20 @@
         "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-10-26T01:00:39.104125+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
+        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-26T19:48:48.876409+00:00"
+      },
+      {
+        "headline": "Best Dividend Kings: October 2026",
+        "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-26T19:48:48.876409+00:00"
       }
     ]
   }
