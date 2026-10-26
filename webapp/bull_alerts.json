@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T01:00:38.847666+00:00",
+  "last_updated": "2026-10-26T01:00:39.104125+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -113,6 +113,14 @@
         "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-10-24T01:00:33.696123+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
+        "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-26T01:00:39.104125+00:00"
       }
     ]
   }
