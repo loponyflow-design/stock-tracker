@@ -1,39 +1,45 @@
 {
-  "last_updated": "2026-10-27T01:00:36.768683+00:00",
+  "last_updated": "2026-10-27T19:18:18.184478+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital (NASDAQ:ARCC) Posts Q3 Miss as MidCap Acquisition and Dividend Draw Focus",
+        "url": "https://finnhub.io/api/news?id=1b2e1800e0b7f8c72e143f715debdbfb5f98a3e185bc2b74a94abd669848bffa",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
+      {
+        "headline": "Ares Capital: Q3 Earnings Snapshot",
+        "url": "https://finnhub.io/api/news?id=d074e5567582b9323f08db1006f390989a9a94d2e551f954cac1f15763205a7d",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
+      {
+        "headline": "ARES CAPITAL CORPORATION ANNOUNCES SEPTEMBER 30, 2026 FINANCIAL RESULTS AND DECLARES FOURTH QUARTER 2026 DIVIDEND OF $0.48 PER SHARE DIVIDEND DECLARATIONS",
+        "url": "https://finnhub.io/api/news?id=afce7466f5b4f4cc48e25c50402ee6e8ef504f845d93f2ebf13e9e75f10e1cc5",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
+      {
+        "headline": "Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation",
+        "url": "https://finnhub.io/api/news?id=a6097368bec07af9fbccd3d5c1df81458b8da21cd3e434ee3a4e62d2cf85c03a",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
       {
         "headline": "The BDC Battle: Hercules' Superior Credit Metrics And Higher Yields Outshine Ares",
         "url": "https://finnhub.io/api/news?id=59f58215be2637f7dd8044f50dc3d500fced80031dfe700be7d04f58c2f919ba",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-27T01:00:36.768683+00:00"
-      },
-      {
-        "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
-        "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-25T01:00:38.847666+00:00"
-      },
-      {
-        "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
-        "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
-        "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
-        "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "4 Consumer Staples Dividend Kings That Have Raised Shareholder Payouts for Decades",
+        "url": "https://finnhub.io/api/news?id=05625553c54d943c2ae17ee667e3a2657362f8b9524d2dc07ebe3371d20f01b9",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
       {
         "headline": "Procter & Gamble's Earnings Show a Resilient Consumer Despite Price Hikes. Is the Dividend King Stock a Buy?",
         "url": "https://finnhub.io/api/news?id=87af113463dffacd686da1c9c9ce71fff8d30d944bd6b0f48d132a743c45d01b",
@@ -45,18 +51,6 @@
         "url": "https://finnhub.io/api/news?id=088e1398824e0c7a7a56e4d6aecc4e6971cda256d939b30167bc23b859be0618",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "Rising Income Over Big Yields: 4 Dividend Kings That Have Raised Payouts for 70 Years Straight",
-        "url": "https://finnhub.io/api/news?id=088e1398824e0c7a7a56e4d6aecc4e6971cda256d939b30167bc23b859be0618",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
-      },
-      {
-        "headline": "4 Dividend Kings Retirees Can Buy and Hold Forever: Safe Income for the Next 60 Years",
-        "url": "https://finnhub.io/api/news?id=b5d5c4ea62f15cf3379a9ee2becf9b9f7905015aa3949c87ed364628265c86f1",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "ANET": [
@@ -65,12 +59,6 @@
         "url": "https://finnhub.io/api/news?id=53f10a68349424911c2300add3376aaf26c6051ffa92e23dd799235512907a5e",
         "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "Is Open AI Rack Launch Altering The Investment Case For Arista Networks Stock?",
-        "url": "https://finnhub.io/api/news?id=53f10a68349424911c2300add3376aaf26c6051ffa92e23dd799235512907a5e",
-        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "DHI": [
@@ -85,12 +73,6 @@
         "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
         "condition": "Housing shortage เชิงโครงสร้างในสหรัฐ — demand ระยะยาวหนุน; orders/backlog ฟื้น (Q2 FY2026 +11%/+17%)",
         "detected_at": "2026-10-21T01:00:33.305095+00:00"
-      },
-      {
-        "headline": "The housing market is on the verge of collapse, again",
-        "url": "https://finnhub.io/api/news?id=4de41020a819be862926fa2a122da205f1b77349defad5def31e9f2350e5c3b5",
-        "condition": "Housing shortage เชิงโครงสร้างในสหรัฐ — demand ระยะยาวหนุน; orders/backlog ฟื้น (Q2 FY2026 +11%/+17%)",
-        "detected_at": "2026-10-20T18:24:35.149413+00:00"
       }
     ],
     "LEN": [
@@ -122,6 +104,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
+        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
       {
         "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
         "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
