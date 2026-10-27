@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-26T19:48:48.876409+00:00",
+  "last_updated": "2026-10-27T01:00:36.768683+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "The BDC Battle: Hercules' Superior Credit Metrics And Higher Yields Outshine Ares",
+        "url": "https://finnhub.io/api/news?id=59f58215be2637f7dd8044f50dc3d500fced80031dfe700be7d04f58c2f919ba",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
       {
         "headline": "Ares Capital: This 10%+ Yield Is An Undervalued Buy",
         "url": "https://finnhub.io/api/news?id=1d6a471016dc009c0eb58c17666476f2717b8f8fa9a4ddb3a2383cec4defd573",
@@ -23,12 +29,6 @@
       {
         "headline": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
         "url": "https://finnhub.io/api/news?id=14d2335898db3784ec346d4f6d62740fa07b2fa015b5b298c2c5546313d752d0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
-      },
-      {
-        "headline": "Is Most-Watched Stock Ares Capital Corporation (ARCC) Worth Betting on Now?",
-        "url": "https://finnhub.io/api/news?id=5dfd3e56b8bc42ee02960f8213ce898e92adc9f42105e400672d2ef7e3967d1e",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
@@ -109,6 +109,12 @@
     ],
     "JNJ": [
       {
+        "headline": "What Do Johnson & Johnson (JNJ) Cancer Trial Wins Mean For Its Stock?",
+        "url": "https://finnhub.io/api/news?id=03b50bb6c8bd6a1b07ef04cd73daec48fbc83a368e1f645db5dc6021db89ea8d",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
+      {
         "headline": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
         "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
@@ -116,6 +122,18 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
+        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
+      {
+        "headline": "Best Dividend Kings: October 2026",
+        "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
       {
         "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
         "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
