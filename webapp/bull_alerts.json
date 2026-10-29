@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-28T19:24:11.557057+00:00",
+  "last_updated": "2026-10-29T01:00:40.776467+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Ares Capital Q3 Earnings Call Highlights MidCap Deal and Lending Outlook",
+        "url": "https://finnhub.io/api/news?id=7d9163346bb28a502ed3ec7269078353fb938554b3f7e49dff84aa649ec122c0",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      },
+      {
+        "headline": "These 5 High-Yield Dividend Stocks Are Hiding in Wall Street’s Least Popular Sectors",
+        "url": "https://finnhub.io/api/news?id=0efb078142c4e720360851feb7155b7e1d48daae0e3906c16ed1c7aea78fa9b8",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      },
+      {
+        "headline": "ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout",
+        "url": "https://finnhub.io/api/news?id=caf9ab9bae01a9d54f0a65f0f8cf70f6ad6c2c666b92d7f998763e1d5ac23b00",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      },
       {
         "headline": "Ares Capital Bulls, It's Time To Rethink Your Position",
         "url": "https://finnhub.io/api/news?id=33002bc82abcf0610bb2a2f9cdf8e32e509b4629db0ed17e5e9627da41c01d37",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=5daf67a99873723babf6fad48faf245833f2f7901ecb07225ba370c1410d6b37",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-28T19:24:11.557057+00:00"
-      },
-      {
-        "headline": "Ares Capital: Double-Digit Yield, A Huge Acquisition, And A Major Warning",
-        "url": "https://finnhub.io/api/news?id=37a9acaed29d5ae8e4e549916d23e7d22617be15c741c93f65be81970c2cb9f0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-28T19:24:11.557057+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Q3 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=691cb2d269d8d4eed6ac96a023288620a797001807423976be5cac6ae9156b99",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-28T19:24:11.557057+00:00"
-      },
-      {
-        "headline": "Ares Capital (ARCC) Q3 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=b310cfbab00e51e683525abb23041fa189a3e49bd1896cbb5fbc155695a3e2f2",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-28T01:00:39.399028+00:00"
       }
     ],
     "PG": [
@@ -130,7 +130,29 @@
         "headline": "Options Technology Announces Major Upgrade to its Global Layer 1 Switching Network with Integration to its AtlasVision and Trident Platforms",
         "url": "https://finnhub.io/api/news?id=6f6ae9c3d7943800420522c816258064091e960fb15586f7929609eed8c7e368",
         "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      },
+      {
+        "headline": "Options Technology Announces Major Upgrade to its Global Layer 1 Switching Network with Integration to its AtlasVision and Trident Platforms",
+        "url": "https://finnhub.io/api/news?id=6f6ae9c3d7943800420522c816258064091e960fb15586f7929609eed8c7e368",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
         "detected_at": "2026-10-28T19:24:11.557057+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
+        "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Visa Q4 Earnings Call Highlights FY27 Outlook and Growth Priorities",
+        "url": "https://finnhub.io/api/news?id=193deb0ada0a640c5e608ea6177a40212eed416edd71026e8366f0e8b9181959",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ]
   }
