@@ -1,39 +1,45 @@
 {
-  "last_updated": "2026-10-30T01:00:40.410638+00:00",
+  "last_updated": "2026-10-30T19:05:22.615559+00:00",
   "alerts": {
     "ARCC": [
       {
+        "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
+        "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Ares Capital: NII Slips Below The Dividend And A Discounted Acquisition Looms - HOLD",
+        "url": "https://finnhub.io/api/news?id=cb938cbce94e012694d7bab4455302be1042cf476ce39ed1ea1c269dce15c9a1",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Is Ares Capital Corp a Buy After Its Latest Earnings Report?",
+        "url": "https://finnhub.io/api/news?id=feb21600cd5e52164155fd1509a6c2e07169de3210b9f6e10b5bdc52afa21515",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Roth IRA vs. Taxable Account: The Tax Difference on $25,500 in Annual Dividends",
+        "url": "https://finnhub.io/api/news?id=217a48e54bf488de1a366bb53ce97440cdb96f019132beca771ada8d0a26947d",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
         "headline": "UBS Upgrades Ares Capital to Buy, Maintains Price Target to $21",
         "url": "https://finnhub.io/api/news?id=5c24c9f4c6e83b5e9ec56a941def9668351907bf7c30820c299eb0bb67aaec82",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-30T01:00:40.410638+00:00"
-      },
-      {
-        "headline": "Ares Capital: Its MidCap Price Says OTF, OBDC, And MSDL Are Too Cheap",
-        "url": "https://finnhub.io/api/news?id=44be315b4e42f714176e6c9ac29db81f7eca986691824003d9ceaa1659c4a388",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-30T01:00:40.410638+00:00"
-      },
-      {
-        "headline": "UBS Upgrades Ares Capital to Buy, Maintains Price Target to $21",
-        "url": "https://finnhub.io/api/news?id=5c24c9f4c6e83b5e9ec56a941def9668351907bf7c30820c299eb0bb67aaec82",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "Ares Capital: Its MidCap Price Says OTF, OBDC, And MSDL Are Too Cheap",
-        "url": "https://finnhub.io/api/news?id=44be315b4e42f714176e6c9ac29db81f7eca986691824003d9ceaa1659c4a388",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "Ares Capital Q3 Earnings Call Highlights MidCap Deal and Lending Outlook",
-        "url": "https://finnhub.io/api/news?id=7d9163346bb28a502ed3ec7269078353fb938554b3f7e49dff84aa649ec122c0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
       {
         "headline": "4 Consumer Staples Dividend Kings That Have Raised Shareholder Payouts for Decades",
         "url": "https://finnhub.io/api/news?id=05625553c54d943c2ae17ee667e3a2657362f8b9524d2dc07ebe3371d20f01b9",
@@ -95,6 +101,12 @@
     ],
     "LOW": [
       {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
         "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
         "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
@@ -115,12 +127,6 @@
       {
         "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
         "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-26T19:48:48.876409+00:00"
-      },
-      {
-        "headline": "Best Dividend Kings: October 2026",
-        "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-26T19:48:48.876409+00:00"
       }
