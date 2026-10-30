@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-29T19:28:27.539340+00:00",
+  "last_updated": "2026-10-30T01:00:40.410638+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Alphabet: Why I'm Buying The Free Cash Flow Scare",
+        "url": "https://finnhub.io/api/news?id=213ab532240d5fe40f9412d824cc1df4298cbe8cfaaf5b8197cb78032bc89181",
+        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Apple's Q4 Earnings Loom: Buy or Sell AAPL Stock Ahead of Results?",
+        "url": "https://finnhub.io/api/news?id=8b9cda59162a27c4aaf3fb8095c457059f7a5c28299d10ea2672fb6b2176ecd9",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "Microsoft beat estimates while Google looks at a value hit, and rising risks at Nvidia",
         "url": "https://finnhub.io/api/news?id=c9b5abdcf75b229552c9e4fce4794e765be623ca04272dd3561779f1da7d2931",
@@ -19,21 +31,21 @@
         "url": "https://finnhub.io/api/news?id=9accd71815ba2e4c5caf3157027e0f3a58f8730acd1d1916c02e17126814f81d",
         "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
         "detected_at": "2026-10-29T01:00:40.776467+00:00"
-      },
-      {
-        "headline": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
-        "url": "https://finnhub.io/api/news?id=5a20a5cb48520ed92950f4dd08f36ce8d4b73664df81de2dc9b8ffe307a0fbd4",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-28T01:00:39.399028+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Could Be 36% Overvalued As AI Launches Meet iPhone Duo Scrutiny",
-        "url": "https://finnhub.io/api/news?id=80f06520e64b65a1ea0906249d4d1201a199d756c03e4a682ecad81c733d057a",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-28T01:00:39.399028+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk, crypto just placed huge midterm bets, and traders should pay attention",
+        "url": "https://finnhub.io/api/news?id=72b74c4e2998107b0e877088697c551d34d7a1bdc12975197890b1f8d603dec6",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Barclays sees major Tesla upside for retirement investors",
+        "url": "https://finnhub.io/api/news?id=efdb0a62f93ff31d0c921ff6fb224740459e4bac418deb1ae3fe143c78cbb1bb",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "Barclays sees major Tesla upside for retirement investors",
         "url": "https://finnhub.io/api/news?id=efdb0a62f93ff31d0c921ff6fb224740459e4bac418deb1ae3fe143c78cbb1bb",
@@ -51,21 +63,21 @@
         "url": "https://finnhub.io/api/news?id=879ebb87cff2c79f4e7fdacd849b41c857766dd4e6d36cfbbde28742c88310a6",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "Elon Musk Says Neoclouds Face a \"Guppy Level\" Death. IREN Is Down 64% From Its High. Is He Talking About This Stock?",
-        "url": "https://finnhub.io/api/news?id=4c3ce8d0bf65abd4bea30df0cd1be8b8f71350ef745a29aac7f65d3ecb3f9e67",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
-      },
-      {
-        "headline": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
-        "url": "https://finnhub.io/api/news?id=4f0b6876c7cc838c5e3b5d86581d8aa566c17f10477f22f9630e971ff919ea8d",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ],
     "KBANK": [
+      {
+        "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "แบงก์ถูกขายหนัก ฉุดหุ้นไทยร่วงเกือบ 31 จุด KBANK ดิ่ง 10 บาท - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWdXZZQnAzTlplMkM3Vk44ZXZzcXJCSEdJVm9xSi1CMXlMVG1VM2tmeE03WURTTmNjNDdiMjg1NmNCX2RibUxPYmJaOFl3NHoyaVN2QUZzaFQ2Z1VfOGNOZm4wenRJdw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
@@ -81,18 +93,6 @@
       {
         "headline": "หุ้นไทยวันนี้ลบ 2.87 จุด ขาย DELTA ซื้อ TRUE-KBANK - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jV2pUTDFoTE1qRFowOFptRTAxa0pVN2tFdUk3MEsweDl4UGEwTHlvLS16cXRPQm1wX1pTdXU2N0lXVXZIemRTbEEzTFJ3d0RqMThDZ2hzUzJGZGxMRjY2MTAtR0Q2bjA?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "หุ้นไทยปิดลบ 8 จุด ต่างชาติขายหนัก 7.6 พันล้าน KBANK ร่วงเกือบ 4% - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QLV9QZ20xN2Y2Vmg1UzJ0S25CTnBtQXpnMWpmWEowLXFTYmNYSWZvcUZjM0RtdlpRSjFiNmYyQldxLWF4cWg4QnNsbER5M1d4Q0txSjczenpBN2hQMC1VOTR5QTFWUQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "KBANK ส่องหุ้นร้อน 6 ส.ค. 69 - Share2Trade",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG9EZVA5ZENtZXBneDA2Q29IcnJ3ZFBYdVVOQTFadTA5N1NXcmJsclAxcjFSSkZmTVpxZEVDV2xjd2x2VFJGdThCYnFZMzNBV3Z2MjVZSnRWOUNLNFdRNHZBd3VJTXMyRnlkVUFPYzdEcl8xZUtqVlVzdVI4dHNwcEZ2YXBGZzljZVFyMzFwMVNQOW1yWnpiZUJDbzJsc0c4NkktZnlmOUhNeE41elc0dDFHOGtabk1DZ21jLUwxazhTOWswdjNDYVFRSUtBcVh5VF90WXIyWGlaQms3ZXlySC1CT192cWMxbFVTeS1abUJINk9tQzhoUWFIQjVSN1ZsaWJWMEhPYXY?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
       }
@@ -198,6 +198,12 @@
         "headline": "Johnson & Johnson Is Up 42% in a Year: Take Profits, or Buy More?",
         "url": "https://finnhub.io/api/news?id=7eb0ee8d7380d0431b1b09a8ef494a239bec19d94476ed8dcfc1a9141c44d890",
         "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Johnson & Johnson Is Up 42% in a Year: Take Profits, or Buy More?",
+        "url": "https://finnhub.io/api/news?id=7eb0ee8d7380d0431b1b09a8ef494a239bec19d94476ed8dcfc1a9141c44d890",
+        "condition": "STELARA biosimilar กดแล้วจริง — ฉุดยอดขายรวม −6.2% ใน FY2025 และจะต่อเนื่อง เป็นตัวอย่างว่ายาเรือธงหมดสิทธิบัตรแล้วร่วงเร็วแค่ไหน",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
       },
       {
@@ -249,6 +255,18 @@
     ],
     "PG": [
       {
+        "headline": "Haleon Sinks 14% on Growth Downgrade Despite £500 Million Buyback: “Q3 Was Below Our Expectations”",
+        "url": "https://finnhub.io/api/news?id=b04b874b3a67c02d4107aa04a5c1f50493a82374fc00a46f2b93d00b7057e6d1",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Building A 7%-Yielding Dividend Growth Portfolio With SCHD As Its Core Holding",
+        "url": "https://finnhub.io/api/news?id=fe9bc37eefd4d1fc24c9474ba6233cdd55673a315472b08f4a2e5ae7fca4a7b1",
+        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
         "headline": "Building A 7%-Yielding Dividend Growth Portfolio With SCHD As Its Core Holding",
         "url": "https://finnhub.io/api/news?id=fe9bc37eefd4d1fc24c9474ba6233cdd55673a315472b08f4a2e5ae7fca4a7b1",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
@@ -263,12 +281,6 @@
       {
         "headline": "Procter & Gamble Q1 Earnings Call Highlights",
         "url": "https://finnhub.io/api/news?id=23166c86125ffe5aaeb1c5c67ba25410187d1e03834a407f66a6ef1cd2a05da2",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-10-23T01:00:40.655994+00:00"
-      },
-      {
-        "headline": "P&G’s Boosts Q1 Beauty Sales, but Says It Can Do Better",
-        "url": "https://finnhub.io/api/news?id=d06e0fd0882cde9643134c2d31d89bf15741361f1e3a0da822405214f1c9a25f",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-10-23T01:00:40.655994+00:00"
       }
@@ -304,6 +316,18 @@
         "headline": "AbbVie Stock: What 10 Years of Growth and Dividends Did for $1,000",
         "url": "https://finnhub.io/api/news?id=d079a3d2eb4b6c433c686d3901d485bac6e2f70021c991a8e6421084f0d82656",
         "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Merck Rises 5% as Earnings Beat Lifts Profit Outlook; Eli Lilly Climbs 7%, Johnson & Johnson Edges Higher",
+        "url": "https://finnhub.io/api/news?id=e259a031dec8c9bdc996f2ccf4fa1715be906660130a1d2c9bf6a2478761b3e6",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "AbbVie Stock: What 10 Years of Growth and Dividends Did for $1,000",
+        "url": "https://finnhub.io/api/news?id=d079a3d2eb4b6c433c686d3901d485bac6e2f70021c991a8e6421084f0d82656",
+        "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
       },
       {
@@ -317,18 +341,6 @@
         "url": "https://finnhub.io/api/news?id=d385d0367b432398a06e8239b3eaa57779475a38f37b07323817f3edd33f2db5",
         "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
-        "url": "https://finnhub.io/api/news?id=abc8806fb03ae6aac8e2e6124c786823f98383f8d2b8bdb9442e05884f80c76d",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "AbbVie’s Dividend Survived Humira’s Patent Cliff. Will Merck and Amgen’s?",
-        "url": "https://finnhub.io/api/news?id=d385d0367b432398a06e8239b3eaa57779475a38f37b07323817f3edd33f2db5",
-        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "GE": [
@@ -452,6 +464,18 @@
       }
     ],
     "AMZN": [
+      {
+        "headline": "Amazon cloud business accelerates but shares drop on profit miss",
+        "url": "https://finnhub.io/api/news?id=e7f1fed084d9d894a2e68171ba02aee1dd8c2f645684487a44d3364aab55aab0",
+        "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "AMZN Stock Drops 7% As AI Spending Soars Past Expectations, While E-Commerce Growth Cools",
+        "url": "https://finnhub.io/api/news?id=358dd998db973fd21ec56b516758867d2868b470711df5ed790ef600bc58068f",
+        "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?",
         "url": "https://finnhub.io/api/news?id=bd0851042772508515d0345ece1c85f9516b9a56a9b2576ef218dd582f0fe673",

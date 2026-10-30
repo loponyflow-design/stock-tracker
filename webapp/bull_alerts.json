@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-29T19:28:27.539340+00:00",
+  "last_updated": "2026-10-30T01:00:40.410638+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "UBS Upgrades Ares Capital to Buy, Maintains Price Target to $21",
+        "url": "https://finnhub.io/api/news?id=5c24c9f4c6e83b5e9ec56a941def9668351907bf7c30820c299eb0bb67aaec82",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Ares Capital: Its MidCap Price Says OTF, OBDC, And MSDL Are Too Cheap",
+        "url": "https://finnhub.io/api/news?id=44be315b4e42f714176e6c9ac29db81f7eca986691824003d9ceaa1659c4a388",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "UBS Upgrades Ares Capital to Buy, Maintains Price Target to $21",
         "url": "https://finnhub.io/api/news?id=5c24c9f4c6e83b5e9ec56a941def9668351907bf7c30820c299eb0bb67aaec82",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=7d9163346bb28a502ed3ec7269078353fb938554b3f7e49dff84aa649ec122c0",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "Ares Capital Q3 Earnings Call Highlights MidCap Deal and Lending Outlook",
-        "url": "https://finnhub.io/api/news?id=7d9163346bb28a502ed3ec7269078353fb938554b3f7e49dff84aa649ec122c0",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
-      },
-      {
-        "headline": "These 5 High-Yield Dividend Stocks Are Hiding in Wall Street’s Least Popular Sectors",
-        "url": "https://finnhub.io/api/news?id=0efb078142c4e720360851feb7155b7e1d48daae0e3906c16ed1c7aea78fa9b8",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ],
     "PG": [
@@ -158,6 +158,12 @@
         "headline": "Mastercard Beats Q3 Earnings on Higher Cross-Border Volumes & Pricing",
         "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Mastercard Beats Q3 Earnings on Higher Cross-Border Volumes & Pricing",
+        "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
       },
       {
@@ -168,6 +174,12 @@
       }
     ],
     "NUE": [
+      {
+        "headline": "Best Dividend Aristocrats For November 2026",
+        "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
       {
         "headline": "Best Dividend Aristocrats For November 2026",
         "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
