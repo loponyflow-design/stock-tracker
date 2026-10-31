@@ -1,0 +1,205 @@
+{
+  "last_updated": "2026-10-31T01:00:42.587884+00:00",
+  "alerts": {
+    "ARCC": [
+      {
+        "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
+        "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "Ares Capital: NII Slips Below The Dividend And A Discounted Acquisition Looms - HOLD",
+        "url": "https://finnhub.io/api/news?id=cb938cbce94e012694d7bab4455302be1042cf476ce39ed1ea1c269dce15c9a1",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
+        "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Ares Capital: NII Slips Below The Dividend And A Discounted Acquisition Looms - HOLD",
+        "url": "https://finnhub.io/api/news?id=cb938cbce94e012694d7bab4455302be1042cf476ce39ed1ea1c269dce15c9a1",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Is Ares Capital Corp a Buy After Its Latest Earnings Report?",
+        "url": "https://finnhub.io/api/news?id=feb21600cd5e52164155fd1509a6c2e07169de3210b9f6e10b5bdc52afa21515",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "3 Dividend Stocks With Yields Up To 4%",
+        "url": "https://finnhub.io/api/news?id=6ef6a20a7bec32743137a418cbbce3a1e2096fac45587a5bde147403a45a46cf",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "4 Consumer Staples Dividend Kings That Have Raised Shareholder Payouts for Decades",
+        "url": "https://finnhub.io/api/news?id=05625553c54d943c2ae17ee667e3a2657362f8b9524d2dc07ebe3371d20f01b9",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-28T01:00:39.399028+00:00"
+      },
+      {
+        "headline": "4 Consumer Staples Dividend Kings That Have Raised Shareholder Payouts for Decades",
+        "url": "https://finnhub.io/api/news?id=05625553c54d943c2ae17ee667e3a2657362f8b9524d2dc07ebe3371d20f01b9",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "5 Stocks You Are Selling and Insiders Are Buying",
+        "url": "https://finnhub.io/api/news?id=aa7c4a5056f58cdad01cf4918a6aed78e06a0b99e63ee9c028f0c4fac000137d",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-28T19:24:11.557057+00:00"
+      },
+      {
+        "headline": "5 Stocks You Are Selling and Insiders Are Buying",
+        "url": "https://finnhub.io/api/news?id=aa7c4a5056f58cdad01cf4918a6aed78e06a0b99e63ee9c028f0c4fac000137d",
+        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
+        "detected_at": "2026-10-28T01:00:39.399028+00:00"
+      },
+      {
+        "headline": "Did Falling Treasury Yields Just Shift Lennar's (LEN) Stock Narrative?",
+        "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-10-24T17:17:30.175624+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "What Do Johnson & Johnson (JNJ) Cancer Trial Wins Mean For Its Stock?",
+        "url": "https://finnhub.io/api/news?id=03b50bb6c8bd6a1b07ef04cd73daec48fbc83a368e1f645db5dc6021db89ea8d",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
+      {
+        "headline": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
+        "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-10-26T01:00:39.104125+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-30T19:05:22.615559+00:00"
+      },
+      {
+        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
+        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T19:18:18.184478+00:00"
+      },
+      {
+        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
+        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      },
+      {
+        "headline": "Best Dividend Kings: October 2026",
+        "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-27T01:00:36.768683+00:00"
+      }
+    ],
+    "ANET": [
+      {
+        "headline": "Options Technology Announces Major Upgrade to its Global Layer 1 Switching Network with Integration to its AtlasVision and Trident Platforms",
+        "url": "https://finnhub.io/api/news?id=6f6ae9c3d7943800420522c816258064091e960fb15586f7929609eed8c7e368",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      },
+      {
+        "headline": "Options Technology Announces Major Upgrade to its Global Layer 1 Switching Network with Integration to its AtlasVision and Trident Platforms",
+        "url": "https://finnhub.io/api/news?id=6f6ae9c3d7943800420522c816258064091e960fb15586f7929609eed8c7e368",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-10-28T19:24:11.557057+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "Why Is Broadcom (AVGO) Now Central To AI Funding And Infrastructure?",
+        "url": "https://finnhub.io/api/news?id=b051716a5cf47621868346f3727d0b5359edba61b811aa287ff3717501fa116a",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-29T19:28:27.539340+00:00"
+      },
+      {
+        "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
+        "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Mastercard Beats Q3 Earnings on Higher Cross-Border Volumes & Pricing",
+        "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Mastercard Beats Q3 Earnings on Higher Cross-Border Volumes & Pricing",
+        "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-10-29T19:28:27.539340+00:00"
+      },
+      {
+        "headline": "Visa Q4 Earnings Call Highlights FY27 Outlook and Growth Priorities",
+        "url": "https://finnhub.io/api/news?id=193deb0ada0a640c5e608ea6177a40212eed416edd71026e8366f0e8b9181959",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-10-29T01:00:40.776467+00:00"
+      }
+    ],
+    "NUE": [
+      {
+        "headline": "Best Dividend Aristocrats For November 2026",
+        "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-10-30T01:00:40.410638+00:00"
+      },
+      {
+        "headline": "Best Dividend Aristocrats For November 2026",
+        "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-10-29T19:28:27.539340+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Virtual Machine Backup and Recovery - Global Strategic Business Report: Capitalize on a US$6.8 Billion Market by 2030 as Veeam, Rubrik, Cohesity, Commvault and Acronis Battle for Share",
+        "url": "https://finnhub.io/api/news?id=00cbafb71a996bada72b03339cd80cbd7efcc13ea0cf5caa4b18a17d6b260a05",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-10-29T19:28:27.539340+00:00"
+      }
+    ]
+  }
+}
