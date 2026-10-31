@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-10-30T19:05:22.615559+00:00",
+  "last_updated": "2026-10-31T01:00:42.587884+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+        "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "Apple iPhone Duo Wait Times Trend Lower But Remain Elevated, UBS Says",
         "url": "https://finnhub.io/api/news?id=add054cf96fd49c829025d25c1d183d608b0914afb9634485a5f3c624452c014",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=213ab532240d5fe40f9412d824cc1df4298cbe8cfaaf5b8197cb78032bc89181",
         "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
         "detected_at": "2026-10-30T01:00:40.410638+00:00"
-      },
-      {
-        "headline": "Apple's Q4 Earnings Loom: Buy or Sell AAPL Stock Ahead of Results?",
-        "url": "https://finnhub.io/api/news?id=8b9cda59162a27c4aaf3fb8095c457059f7a5c28299d10ea2672fb6b2176ecd9",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-10-30T01:00:40.410638+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+        "url": "https://finnhub.io/api/news?id=7f34fc9533cba3c15e97ae9bb977eb23ae50098ce48614d51c630916bc84efa4",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "Elon Musk, crypto just placed huge midterm bets, and traders should pay attention",
         "url": "https://finnhub.io/api/news?id=72b74c4e2998107b0e877088697c551d34d7a1bdc12975197890b1f8d603dec6",
@@ -55,12 +61,6 @@
       {
         "headline": "Musk: Robot RAM Needs “Will Exceed Everything Else on Earth.” What That Means for Micron",
         "url": "https://finnhub.io/api/news?id=104d6fa21d6af817210d81c7639d42b7ddec59b06a7747a1fc9783d5348737b4",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "Musk Says A Tesla-SpaceX Merger Is “A Good Idea,” But Admits It Would Require 1.98 Billion “Yes” Votes. He Calls It “Quite A High Hurdle”",
-        "url": "https://finnhub.io/api/news?id=879ebb87cff2c79f4e7fdacd849b41c857766dd4e6d36cfbbde28742c88310a6",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
       }
@@ -102,6 +102,12 @@
         "headline": "Are Smaller Home Projects Sustaining Home Depot's Sales Growth?",
         "url": "https://finnhub.io/api/news?id=633e7a01fc1b0c997454074cc4ed174256de11b5c2406b788110209b7fdbd854",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "Are Smaller Home Projects Sustaining Home Depot's Sales Growth?",
+        "url": "https://finnhub.io/api/news?id=633e7a01fc1b0c997454074cc4ed174256de11b5c2406b788110209b7fdbd854",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-10-30T19:05:22.615559+00:00"
       },
       {
@@ -121,15 +127,15 @@
         "url": "https://finnhub.io/api/news?id=65d4f5aab12292f26d2ae97271ef82d5c9d3113c4e8a6d98b7b08d838c98e2c5",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "3 Home Improvement Stocks That Are Going to Heat Up",
-        "url": "https://finnhub.io/api/news?id=648e3be28706fe5a15678155d7772f2bd9a28583ab2f0ae48f298eea94485a93",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ],
     "COST": [
+      {
+        "headline": "Sanofi Q3 Earnings Call Highlights",
+        "url": "https://finnhub.io/api/news?id=943d6d4e79f892b04c8fd1e054130b598947e59a4c1d40354b40d253bba1578d",
+        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "Sanofi Q3 Earnings Call Highlights",
         "url": "https://finnhub.io/api/news?id=943d6d4e79f892b04c8fd1e054130b598947e59a4c1d40354b40d253bba1578d",
@@ -153,15 +159,15 @@
         "url": "https://finnhub.io/api/news?id=f9d6748994ecf40a988829fa5ce89538195ab991065ad392a035c58b0dd76bde",
         "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
         "detected_at": "2026-10-28T19:24:11.557057+00:00"
-      },
-      {
-        "headline": "Costco: Walmart And Amazon Are Competing For More Than Membership Fees",
-        "url": "https://finnhub.io/api/news?id=7c766ddb87237b660a80e0f0b7751dd00e54fe1a0bc498d7ff36c5ced2ebbf34",
-        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
-        "detected_at": "2026-10-28T01:00:39.399028+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "Here’s What a $10,000 Investment in TSMC Stock Will Be Worth by 2030",
+        "url": "https://finnhub.io/api/news?id=5bd6ab28e097a5631ac7d0c54747b332b0cfb74ceb3b68a1744e0310cc91d22b",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "TSMC: The Cracks Are Showing",
         "url": "https://finnhub.io/api/news?id=0d5426dd4e349b120b5674aa382a2dcda35590dc1ad414d0930e5a2f9d3b9064",
@@ -185,15 +191,15 @@
         "url": "https://finnhub.io/api/news?id=c22def8eabeb1124f996894697dfb776d285ec5de398535c3ed84fdbd18b2190",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-10-27T19:18:18.184478+00:00"
-      },
-      {
-        "headline": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)",
-        "url": "https://finnhub.io/api/news?id=ae51c4a38475115b646b687d453f65ec1b4862be223fd88918849b91414b62b8",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-10-27T19:18:18.184478+00:00"
       }
     ],
     "JNJ": [
+      {
+        "headline": "How Investors Are Reacting To Johnson & Johnson Stock New Drug Progress",
+        "url": "https://finnhub.io/api/news?id=c93530163de3ad62afc4c4c894ae6f69a6c1ef9ad1765e1cc5e30e545e1f6125",
+        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "Johnson & Johnson Is Up 42% in a Year: Take Profits, or Buy More?",
         "url": "https://finnhub.io/api/news?id=7eb0ee8d7380d0431b1b09a8ef494a239bec19d94476ed8dcfc1a9141c44d890",
@@ -217,12 +223,6 @@
         "url": "https://finnhub.io/api/news?id=0653f7e1d71706bb0cca3988ba445d4df05f7f54fa9b178c25cb5c79579b28df",
         "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
         "detected_at": "2026-10-28T01:00:39.399028+00:00"
-      },
-      {
-        "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
-        "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
-        "condition": "Talc litigation เปิด tail risk ไม่จำกัด: มิ.ย. 2026 มี 68,000 คดีค้าง, ศาลปัด bankruptcy รอบ 3, JNJ ถอนข้อเสนอ settlement ~$7B และประกาศสู้คดี — แพ้ 2 คดีแรก + โดน verdict $1.5B (Maryland) — เป็นความเสี่ยงที่ประเมินมูลค่าไม่ได้",
-        "detected_at": "2026-10-25T01:00:38.847666+00:00"
       }
     ],
     "KO": [
@@ -345,12 +345,6 @@
         "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
         "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
-        "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
-        "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "NDSN": [
@@ -359,12 +353,6 @@
         "url": "https://finnhub.io/api/news?id=20e2026ed483b83310d412949b3b029e2d45c7511e3df4521c65ebb59669a831",
         "condition": "โตด้วยการซื้อกิจการมากกว่าธุรกิจเดิม — FY2025 organic ติดลบ ถ้าไม่มีดีลใหม่มาช่วย รายได้เดิมอาจนิ่งหรือหดตัวได้",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Nordson Corporation Completes Acquisition of Contrinex, Expanding Its Industrial Sensing and Automation Portfolio",
-        "url": "https://finnhub.io/api/news?id=20e2026ed483b83310d412949b3b029e2d45c7511e3df4521c65ebb59669a831",
-        "condition": "โตด้วยการซื้อกิจการมากกว่าธุรกิจเดิม — FY2025 organic ติดลบ ถ้าไม่มีดีลใหม่มาช่วย รายได้เดิมอาจนิ่งหรือหดตัวได้",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "ARM": [
@@ -373,12 +361,6 @@
         "url": "https://finnhub.io/api/news?id=5bc6235969ef629b87782350e1c791a6694252fae461d685a02a39a8dd16ebdd",
         "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Arm Stock Has a Growth Opportunity That Extends Far Beyond Smartphones",
-        "url": "https://finnhub.io/api/news?id=5bc6235969ef629b87782350e1c791a6694252fae461d685a02a39a8dd16ebdd",
-        "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "NBIX": [
@@ -444,6 +426,12 @@
         "headline": "HEICO: Operational Excellence Cannot Justify An Extreme Valuation Premium",
         "url": "https://finnhub.io/api/news?id=86da53df87366d3cd1786eda75011dabe5f60dd61544c1e2a0c1e71017a9c7eb",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "HEICO: Operational Excellence Cannot Justify An Extreme Valuation Premium",
+        "url": "https://finnhub.io/api/news?id=86da53df87366d3cd1786eda75011dabe5f60dd61544c1e2a0c1e71017a9c7eb",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-10-30T19:05:22.615559+00:00"
       },
       {
@@ -500,6 +488,18 @@
       }
     ],
     "NUE": [
+      {
+        "headline": "Global Structural Steel Fabrication Market Opportunities and Strategies to 2035 | Capitalize on Automation and Modular Construction with Nucor, Canam, Schuff Steel and SteelFab",
+        "url": "https://finnhub.io/api/news?id=87aa83847cc86eb8a0fcdd5fcd31d9f32c6ac03b5dfc76fcc8272b963591b8f1",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "Nucor (NYSE:NUE): A GARP Candidate With Lynch-Style Fundamentals",
+        "url": "https://finnhub.io/api/news?id=dacceb8eb7d4fe8ad866315f5d83bf875a4638a21e1a5b6ffa216e4b491df411",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "Global Structural Steel Fabrication Market Opportunities and Strategies to 2035 | Capitalize on Automation and Modular Construction with Nucor, Canam, Schuff Steel and SteelFab",
         "url": "https://finnhub.io/api/news?id=87aa83847cc86eb8a0fcdd5fcd31d9f32c6ac03b5dfc76fcc8272b963591b8f1",

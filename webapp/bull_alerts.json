@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-30T19:05:22.615559+00:00",
+  "last_updated": "2026-10-31T01:00:42.587884+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
+        "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "Ares Capital: NII Slips Below The Dividend And A Discounted Acquisition Looms - HOLD",
+        "url": "https://finnhub.io/api/news?id=cb938cbce94e012694d7bab4455302be1042cf476ce39ed1ea1c269dce15c9a1",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
         "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
@@ -19,21 +31,21 @@
         "url": "https://finnhub.io/api/news?id=feb21600cd5e52164155fd1509a6c2e07169de3210b9f6e10b5bdc52afa21515",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-30T19:05:22.615559+00:00"
-      },
-      {
-        "headline": "Roth IRA vs. Taxable Account: The Tax Difference on $25,500 in Annual Dividends",
-        "url": "https://finnhub.io/api/news?id=217a48e54bf488de1a366bb53ce97440cdb96f019132beca771ada8d0a26947d",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-30T19:05:22.615559+00:00"
-      },
-      {
-        "headline": "UBS Upgrades Ares Capital to Buy, Maintains Price Target to $21",
-        "url": "https://finnhub.io/api/news?id=5c24c9f4c6e83b5e9ec56a941def9668351907bf7c30820c299eb0bb67aaec82",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-30T01:00:40.410638+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "3 Dividend Stocks With Yields Up To 4%",
+        "url": "https://finnhub.io/api/news?id=6ef6a20a7bec32743137a418cbbce3a1e2096fac45587a5bde147403a45a46cf",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
         "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
@@ -51,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=05625553c54d943c2ae17ee667e3a2657362f8b9524d2dc07ebe3371d20f01b9",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-10-27T19:18:18.184478+00:00"
-      },
-      {
-        "headline": "Procter & Gamble's Earnings Show a Resilient Consumer Despite Price Hikes. Is the Dividend King Stock a Buy?",
-        "url": "https://finnhub.io/api/news?id=87af113463dffacd686da1c9c9ce71fff8d30d944bd6b0f48d132a743c45d01b",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-10-24T17:17:30.175624+00:00"
       }
     ],
     "LEN": [
@@ -77,12 +83,6 @@
         "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-10-24T17:17:30.175624+00:00"
-      },
-      {
-        "headline": "Did Falling Treasury Yields Just Shift Lennar's (LEN) Stock Narrative?",
-        "url": "https://finnhub.io/api/news?id=9ef3a79ce5d31d65e2522ddf64c0115e9381da49c03add378476bd8435382640",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-10-24T01:00:33.696123+00:00"
       }
     ],
     "JNJ": [
@@ -100,6 +100,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
+        "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-10-31T01:00:42.587884+00:00"
+      },
       {
         "headline": "4 Dividend Kings With 50-Plus Years of Payout Increases for Retirement Income",
         "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
@@ -123,12 +129,6 @@
         "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-27T01:00:36.768683+00:00"
-      },
-      {
-        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
-        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-26T19:48:48.876409+00:00"
       }
     ],
     "ANET": [
