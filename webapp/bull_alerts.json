@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T18:23:01.870331+00:00",
+  "last_updated": "2026-11-01T01:00:42.105499+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -154,6 +154,12 @@
       }
     ],
     "V": [
+      {
+        "headline": "V Q3 deep dive: value-added services and agentic commerce drive steady growth",
+        "url": "https://finnhub.io/api/news?id=4093e8f4e6ee206671db0f45ccf559e574722c069eaaea750df6bfe44a2b1b13",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-01T01:00:42.105499+00:00"
+      },
       {
         "headline": "V Q3 deep dive: value-added services and agentic commerce drive steady growth",
         "url": "https://finnhub.io/api/news?id=4093e8f4e6ee206671db0f45ccf559e574722c069eaaea750df6bfe44a2b1b13",
