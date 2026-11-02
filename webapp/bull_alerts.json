@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T01:00:42.105499+00:00",
+  "last_updated": "2026-11-02T01:00:43.726123+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -85,12 +85,6 @@
         "url": "https://finnhub.io/api/news?id=03b50bb6c8bd6a1b07ef04cd73daec48fbc83a368e1f645db5dc6021db89ea8d",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-10-27T01:00:36.768683+00:00"
-      },
-      {
-        "headline": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
-        "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-10-26T01:00:39.104125+00:00"
       }
     ],
     "LOW": [
