@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-03T01:00:42.889676+00:00",
+  "last_updated": "2026-11-03T20:27:32.684690+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "I'm Buying Up To 10% Yield For Recurring Income",
+        "url": "https://finnhub.io/api/news?id=254650d27aab0f0f8fd11442c377cf395b294216d2c25368b281bdb811ddbd49",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
+      },
+      {
+        "headline": "Ares Capital: Complex BDC, Slightly Below Fair Value, MFIC Acquisition A Neutral Event (Rating Downgrade)",
+        "url": "https://finnhub.io/api/news?id=f6547128f0737d538b29254b124781d02e767602b71ddb29616a153088ab7069",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
+      },
       {
         "headline": "Ares Capital: Complex BDC, Slightly Below Fair Value, MFIC Acquisition A Neutral Event (Rating Downgrade)",
         "url": "https://finnhub.io/api/news?id=f6547128f0737d538b29254b124781d02e767602b71ddb29616a153088ab7069",
@@ -17,18 +29,6 @@
       {
         "headline": "MidCap Financial Investment Corporation Cancels Earnings Conference Call Due to Pending Acquisition",
         "url": "https://finnhub.io/api/news?id=374d6e879b1a7bda0ffd0633c8acd2c336f5ab86b4056b8698b40b2ab10e75be",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-31T18:23:01.870331+00:00"
-      },
-      {
-        "headline": "A $500,000 Dividend Portfolio Pays $48,900 a Year. How Much Could a Roth IRA Save?",
-        "url": "https://finnhub.io/api/news?id=de0ab71ff078c5ba953974d44766b9f6b2f1beda55f013b9b0060f56cd643485",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-10-31T18:23:01.870331+00:00"
-      },
-      {
-        "headline": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
-        "url": "https://finnhub.io/api/news?id=09cecd212c9c2d9cca6371f2c76b04ef3c3eed0764dd1e86343fdabb919b8be9",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-10-31T18:23:01.870331+00:00"
       }
@@ -97,12 +97,6 @@
         "url": "https://finnhub.io/api/news?id=3a90490d90c170da7feffd7fcfdb39aa74f7f754b22cb6f75353494d09799de6",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-10-30T19:05:22.615559+00:00"
-      },
-      {
-        "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
-        "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-10-27T19:18:18.184478+00:00"
       }
     ],
     "ANET": [
@@ -179,6 +173,12 @@
     ],
     "NUE": [
       {
+        "headline": "Can NUE's Strong Balance Sheet Power Bigger Shareholder Returns Ahead?",
+        "url": "https://finnhub.io/api/news?id=e3e5d09dd08f446ad694e16cbdc6c8405666890ced7a32015993f627c8abd7c0",
+        "condition": "Best-in-class cyclical — low-cost EAF + scale + product breadth ทำให้ทำกำไรได้แม้ down-cycle (ที่คู่แข่งขาดทุน) — เป็น Cornered Resource (scrap network) + Process Power",
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
+      },
+      {
         "headline": "Best Dividend Aristocrats For November 2026",
         "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
         "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
@@ -204,31 +204,31 @@
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-03T01:00:42.889676+00:00"
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-03T01:00:42.889676+00:00"
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EazJvM3lsUUlQSmtxR0FHc29uSEE2Mzdpb3ZVbHVLbHhjRmRGWWxrSDM2WmVHMWNMbTJ0cHdqbkYzNHlsQWZ6d3l1dDBpYWpGVElaYXdSNTFYMlNJMUduc2pvUmp4UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-03T01:00:42.889676+00:00"
+        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       },
       {
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-02T22:40:07.943217+00:00"
+        "detected_at": "2026-11-03T01:00:42.889676+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-02T22:40:07.943217+00:00"
+        "detected_at": "2026-11-03T01:00:42.889676+00:00"
       }
     ]
   }
