@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-11-05T01:00:38.823856+00:00",
+  "last_updated": "2026-11-05T20:58:07.640968+00:00",
   "alerts": {
     "ARCC": [
       {
         "headline": "Ares Capital: The Dividend Shortfall Doesn't Break My Thesis...Yet",
         "url": "https://finnhub.io/api/news?id=9c3f8c9466a5f76d9363a6409958c339ad2295dc95c7b5e97f5fd620a4a242d7",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-05T20:58:07.640968+00:00"
+      },
+      {
+        "headline": "Ares Capital: The Dividend Squeeze Is On",
+        "url": "https://finnhub.io/api/news?id=b8517a9fd4d5f55c02e6408457120afdc1323428f3954080110077d8d273bdd4",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-05T20:58:07.640968+00:00"
+      },
+      {
+        "headline": "Ares Capital: The Dividend Shortfall Doesn't Break My Thesis...Yet",
+        "url": "https://finnhub.io/api/news?id=9c3f8c9466a5f76d9363a6409958c339ad2295dc95c7b5e97f5fd620a4a242d7",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-05T01:00:38.823856+00:00"
       },
       {
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=9c3f8c9466a5f76d9363a6409958c339ad2295dc95c7b5e97f5fd620a4a242d7",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "Ares Capital: The Dividend Squeeze Is On",
-        "url": "https://finnhub.io/api/news?id=b8517a9fd4d5f55c02e6408457120afdc1323428f3954080110077d8d273bdd4",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "I'm Buying Up To 10% Yield For Recurring Income",
-        "url": "https://finnhub.io/api/news?id=254650d27aab0f0f8fd11442c377cf395b294216d2c25368b281bdb811ddbd49",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
       }
     ],
     "PG": [
@@ -111,12 +111,6 @@
         "url": "https://finnhub.io/api/news?id=37663fc847b40eeacdd7a9518ea0e28b2b345fc40624f964b4287c8914805ac9",
         "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
         "detected_at": "2026-11-02T22:40:07.943217+00:00"
-      },
-      {
-        "headline": "Options Technology Announces Major Upgrade to its Global Layer 1 Switching Network with Integration to its AtlasVision and Trident Platforms",
-        "url": "https://finnhub.io/api/news?id=6f6ae9c3d7943800420522c816258064091e960fb15586f7929609eed8c7e368",
-        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ],
     "AVGO": [
@@ -125,18 +119,6 @@
         "url": "https://finnhub.io/api/news?id=687db919b1ba2d977891a1a69f7919ebaaf342be93cb50e45e6cd2f810f104b1",
         "condition": "โมเดล asset-light + FCF สูง ทำให้จัดสรรทุนได้ยืดหยุ่น ทั้งลดหนี้ คืนผู้ถือหุ้น และลงทุน R&D ต่อได้พร้อมกัน",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "Why Is Broadcom (AVGO) Now Central To AI Funding And Infrastructure?",
-        "url": "https://finnhub.io/api/news?id=b051716a5cf47621868346f3727d0b5359edba61b811aa287ff3717501fa116a",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      },
-      {
-        "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
-        "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
-        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
-        "detected_at": "2026-10-29T01:00:40.776467+00:00"
       }
     ],
     "V": [
@@ -163,12 +145,6 @@
         "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-10-30T01:00:40.410638+00:00"
-      },
-      {
-        "headline": "Mastercard Beats Q3 Earnings on Higher Cross-Border Volumes & Pricing",
-        "url": "https://finnhub.io/api/news?id=67519f1d0a36e3bd5b1ed4e709de607142e8cdbfd45c7e75237bf989395b3609",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
       }
     ],
     "NUE": [
@@ -189,20 +165,6 @@
         "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
         "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
         "detected_at": "2026-10-30T01:00:40.410638+00:00"
-      },
-      {
-        "headline": "Best Dividend Aristocrats For November 2026",
-        "url": "https://finnhub.io/api/news?id=807257c13e74946a68a21be02d49c23d4fc998bc7d72b757ba6622fe1a0b343a",
-        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
-      }
-    ],
-    "RBRK": [
-      {
-        "headline": "Virtual Machine Backup and Recovery - Global Strategic Business Report: Capitalize on a US$6.8 Billion Market by 2030 as Veeam, Rubrik, Cohesity, Commvault and Acronis Battle for Share",
-        "url": "https://finnhub.io/api/news?id=00cbafb71a996bada72b03339cd80cbd7efcc13ea0cf5caa4b18a17d6b260a05",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-10-29T19:28:27.539340+00:00"
       }
     ],
     "PTT": [
@@ -210,6 +172,18 @@
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-05T20:58:07.640968+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-05T20:58:07.640968+00:00"
+      },
+      {
+        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-05T01:00:38.823856+00:00"
       },
       {
@@ -223,18 +197,6 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
       }
     ]
   }
