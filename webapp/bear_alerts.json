@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-04T20:42:58.220901+00:00",
+  "last_updated": "2026-11-05T01:00:38.823856+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+        "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
       {
         "headline": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
         "url": "https://finnhub.io/api/news?id=e450ea498b8f23de5b0eaad0757d576e4fec76e9c2160498ae380e11fd54c8be",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=89a91e58fc6fa37e7df4332d10125227954f51893d956e9db44a9541636f45a0",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-03T01:00:42.889676+00:00"
-      },
-      {
-        "headline": "Despite Apple's earnings beat, Wall Street has a big 'concern' about next quarter",
-        "url": "https://finnhub.io/api/news?id=b692922ff0a3c7096d61d07414f0e0353ec634120020f70daad1129a6d645821",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-02T22:40:07.943217+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser”",
+        "url": "https://finnhub.io/api/news?id=52406f7d101ae1da14af05a2410d2b930c81671b7f3a025d7084fc765947a0d9",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
       {
         "headline": "Was Elon Musk the Midterms’ Biggest Loser? What It Means for Tesla and SpaceX Investors",
         "url": "https://finnhub.io/api/news?id=cb1617e386e01795e2a507e13e88df42ea1b06cc4e783ffb12a91ddb6c055fd0",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=69838ae550f572e3d3d578dbf2ce8c7dab10dbec7d2071ccc398abf0eb71aacc",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "Tesla Stocks Move Lower With Fort Worth Robotaxi Expansion in Focus",
-        "url": "https://finnhub.io/api/news?id=4c9c92ff9ad0e0cb61a70ae624b7958a11f7230146ee7a9b92ba42e841d1c733",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       }
     ],
     "KBANK": [
@@ -70,34 +70,52 @@
         "headline": "บ่ายยังร่วง SET -12.05 จุด แตะ 1,506.54 จุด DELTA -0.99% PTTEP -3.33% PTT -1.79% KBANK -1.63% SCB -1.02% KKP -3.00% #ทันหุ้น - Facebook",
         "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTTJJRWJteTdCdUwyX1BBbTFoQmVjeEdoSFZMcEFKV2VKdllIQzM4QzNDeGg0dVc2SkhZZ1hsUmlWWC1IVXhJSE1kbTRENE13TldNVmpYY2taeVRJMC1pNncteFQ3RUt3MnFJUE14UVZjRmo5MWNfVjFQa18tR2lNVHdWaGVkTU9VNHN6ay1wRnZVMFBDS1R6T0pDV3hnMWFLblh0UnRsZWRnTzRHekUwZmFEVlFHaFlXNmpCWFliYUJyRlJuQXhXbi1BWWw5V1NuX2RpeHZoRldSWEp2NTFXZU51UGV6eG1HLWlkZG5NNzFlRXd3ZzNQTzd1YmFrbEttUkdhSV9FcTBIa1h1QmpsMGF4bnFDYVRrNmJyR296dl93azVYNVM1MFZncnVZTnVyVkl4MVh6aXF0V2xJQTFudk9jZGtSbHhYNGJwUXd2UkczZVBzdmdZN0JNSlJ2aGdnZVJVa0I4cmRwdnA2UWFKTmlzY3IxRGF6a2duNm5WaFpjUG5LMkIzYjBGQl81S2JSQUNBSkxIRFZFOFNoVWJxVzVaSDY1UDgweUdsMzU3UTZNdw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
       },
       {
         "headline": "กรุงศรีคาด SET สัปดาห์นี้แกว่งไซด์เวย์ ชู AWC-KBANK-KTB เด่น จับตางบ Q3-เลือกตั้งสหรัฐ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5SDNEZFdaNDJGVFlRb1N1MGlnTnJxT1JjNHJRS0ZOaWNOMFVZdGVGblV6VGNPanZ1TURpRnlZbVpWR0FKYU1VZzRSOA?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
       },
       {
         "headline": "TTB-KBANK มีแวว จ่ายปันผลเพิ่มขึ้นอีก หลังเงินเหลือจากซื้อหุ้นคืน - Share2Trade",
         "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPcUJRRkxseFNhMHoxUGVuNzJwek5YQjJQbS1rNnMxTFpCcWVLTGVuOUpaRlJ5UDRDaE5GeTBkdGVkam8zb2pRT3FwSUY0cE82aGE5dVdjX216VEw2Qnh1NkRodXplOWFYamR5Q0lIZVdkWFlBWWctTHdvVERiVzB3SnV5VUxxX3I4Q2FvWjNkOEp1cms2WkdBanJ0bG80N1dNT25sQVloT0FEX1hPVTBxTHdObkRzZHAtcHVXb0dQLXFiVHJCQ0hHYlo3OUZ0Zm4zYmROZ0VCZDJ5MkhoRTVkajB0Nkp2SDFOSjRQYnhOb1RQVmtkZHg4VmRYeVBHSHVHbTNRZWpKeG0yQV9CYmFpNDhuOUxIamlYOGcxeHN4WFhNLXBZREtqTEFka2xWRG5Fd1A0aERGd2lLNV9IS2Fpd2dWM2VPelhqSlczNVZUd1U5ZDZVc1Q2Q21TTllESkhDYzJCNlhyQ3dFUVh1TUp4MVBXZkkzNmNzdDczUG1sbWdjNnNVOG9NNmwwVkFncVU5Mm05Z0lpOTY3YXgtdDR3dEUxUEtFNFd4cEVJLUd4cUJaMm5yMDBJVUFWT1AzUmFEQVRYQ2gwSVZBdGFsMEdZTTRydHNqQ2RvYnllclpZZnZuQWJJRzNSNnlNVFFYX2U1Ym0xNFhab2MxWm05bkZEempmdDQ0MnpLTklvNHBianhLX0VTaU8tckdETUJ6emxadGcwY0RmQVV0THlUWTVfZUlGTTV6ZnZONmNKZTRfRzV2cDhxTG9uSzh1ZG9yN3JQTmI3VzYyZURWTEVjZ3gtWkR4N1plclFIMl9kYkNmb2Nzc2RycFZlZ0lOdU1yNzNiZnpCSjFRejRmRG1IWEQyV01QX043U0UwekJmT1QzV3NYWDVVR2liaVBNaEdtU3lRMFVkVjJvRDZLV1dFQm4yNFZaZTRRUE9fZUs5RkhTcUZ4aUlWdVlORkJ5Rlg?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "แบงก์ถูกขายหนัก ฉุดหุ้นไทยร่วงเกือบ 31 จุด KBANK ดิ่ง 10 บาท - thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWdXZZQnAzTlplMkM3Vk44ZXZzcXJCSEdJVm9xSi1CMXlMVG1VM2tmeE03WURTTmNjNDdiMjg1NmNCX2RibUxPYmJaOFl3NHoyaVN2QUZzaFQ2Z1VfOGNOZm4wenRJdw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
       },
       {
         "headline": "บ่ายยังร่วง SET -12.05 จุด แตะ 1,506.54 จุด DELTA -0.99% PTTEP -3.33% PTT -1.79% KBANK -1.63% SCB -1.02% KKP -3.00% #ทันหุ้น - Facebook",
         "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTTJJRWJteTdCdUwyX1BBbTFoQmVjeEdoSFZMcEFKV2VKdllIQzM4QzNDeGg0dVc2SkhZZ1hsUmlWWC1IVXhJSE1kbTRENE13TldNVmpYY2taeVRJMC1pNncteFQ3RUt3MnFJUE14UVZjRmo5MWNfVjFQa18tR2lNVHdWaGVkTU9VNHN6ay1wRnZVMFBDS1R6T0pDV3hnMWFLblh0UnRsZWRnTzRHekUwZmFEVlFHaFlXNmpCWFliYUJyRlJuQXhXbi1BWWw5V1NuX2RpeHZoRldSWEp2NTFXZU51UGV6eG1HLWlkZG5NNzFlRXd3ZzNQTzd1YmFrbEttUkdhSV9FcTBIa1h1QmpsMGF4bnFDYVRrNmJyR296dl93azVYNVM1MFZncnVZTnVyVkl4MVh6aXF0V2xJQTFudk9jZGtSbHhYNGJwUXd2UkczZVBzdmdZN0JNSlJ2aGdnZVJVa0I4cmRwdnA2UWFKTmlzY3IxRGF6a2duNm5WaFpjUG5LMkIzYjBGQl81S2JSQUNBSkxIRFZFOFNoVWJxVzVaSDY1UDgweUdsMzU3UTZNdw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "กรุงศรีคาด SET สัปดาห์นี้แกว่งไซด์เวย์ ชู AWC-KBANK-KTB เด่น จับตางบ Q3-เลือกตั้งสหรัฐ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5SDNEZFdaNDJGVFlRb1N1MGlnTnJxT1JjNHJRS0ZOaWNOMFVZdGVGblV6VGNPanZ1TURpRnlZbVpWR0FKYU1VZzRSOA?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
+        "detected_at": "2026-11-04T20:42:58.220901+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "Here’s What Democrats Taking Back the House and Senate Could Mean for Housing Stocks Like Home Depot and Lowe’s",
+        "url": "https://finnhub.io/api/news?id=ae14895110275e0a9e11628853ff3505b31dec10980648edaec652d94883aff0",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "Home Depot Soars 7% as Housing Stocks Rally on Midterm Election Results",
+        "url": "https://finnhub.io/api/news?id=fc983a933d0c43d7dfa41e550ff12c199adf9d81b822874dac106a227d4a0701",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "Home Depot's Margin Outlook Faces Inflationary Headwinds",
+        "url": "https://finnhub.io/api/news?id=334577e048f27b455a6a768226f9c1404a99ae22ebd32b8208a4ed015d9c5970",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
       {
         "headline": "Home Depot's Margin Outlook Faces Inflationary Headwinds",
         "url": "https://finnhub.io/api/news?id=334577e048f27b455a6a768226f9c1404a99ae22ebd32b8208a4ed015d9c5970",
@@ -109,27 +127,15 @@
         "url": "https://finnhub.io/api/news?id=a84b6fc1d77c9765982b579e2b47fb6dfcfb87a785cb18f81ace38036592db56",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "Home Depot Stock Could Be Poised for a Turnaround. Here’s How High It Could Go",
-        "url": "https://finnhub.io/api/news?id=a84b6fc1d77c9765982b579e2b47fb6dfcfb87a785cb18f81ace38036592db56",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
-      },
-      {
-        "headline": "Are Smaller Home Projects Sustaining Home Depot's Sales Growth?",
-        "url": "https://finnhub.io/api/news?id=633e7a01fc1b0c997454074cc4ed174256de11b5c2406b788110209b7fdbd854",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-31T18:23:01.870331+00:00"
-      },
-      {
-        "headline": "Are Smaller Home Projects Sustaining Home Depot's Sales Growth?",
-        "url": "https://finnhub.io/api/news?id=633e7a01fc1b0c997454074cc4ed174256de11b5c2406b788110209b7fdbd854",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-10-31T01:00:42.587884+00:00"
       }
     ],
     "COST": [
+      {
+        "headline": "Costco Wholesale Corporation Reports October Sales Results",
+        "url": "https://finnhub.io/api/news?id=1fbaaf95b48a1f18982a123156c865402e9f3c998d41e8a14d56a81070398deb",
+        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
       {
         "headline": "Sanofi Q3 Earnings Call Highlights",
         "url": "https://finnhub.io/api/news?id=943d6d4e79f892b04c8fd1e054130b598947e59a4c1d40354b40d253bba1578d",
@@ -160,6 +166,18 @@
         "headline": "Forget Nvidia: Why Samsung, TSMC, and Micron Just Generated 'More Free Cash Flow... Than Any Other Listed US Company'",
         "url": "https://finnhub.io/api/news?id=319602b323b12228f11ba0710797039b960cfbdf136e7f75de6517bc1258e430",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "What Is Going On With Nvidia Stock on Wednesday?",
+        "url": "https://finnhub.io/api/news?id=cef05b1e29fc830348ec4293a72d6c4b5c254c28b1ce2d62ab44d297da50c210",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "Forget Nvidia: Why Samsung, TSMC, and Micron Just Generated 'More Free Cash Flow... Than Any Other Listed US Company'",
+        "url": "https://finnhub.io/api/news?id=319602b323b12228f11ba0710797039b960cfbdf136e7f75de6517bc1258e430",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
       },
       {
@@ -173,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=0847660880c3555021880cff3a5fa45adf677c515bb786736a1b1eb89dcc90d9",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "TSMC Is Down 18%: The 2nm Ramp Should Change That",
-        "url": "https://finnhub.io/api/news?id=0847660880c3555021880cff3a5fa45adf677c515bb786736a1b1eb89dcc90d9",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
-      },
-      {
-        "headline": "Cathie Wood Makes Major Shift After Big Tech Gains",
-        "url": "https://finnhub.io/api/news?id=9aa524d27bb2de01af5b77da7c2d74c0ecb33bf7c3b0151da8e72138ad309b2a",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       }
     ],
     "JNJ": [
@@ -316,6 +322,12 @@
         "headline": "Neurocrine Biosciences: 3 Growth Drivers And An Attractive Valuation",
         "url": "https://finnhub.io/api/news?id=1a607f769d81cb7d88d099e43ce925837358ac6ab03f2f73fea5795a6ac20880",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "Neurocrine Biosciences: 3 Growth Drivers And An Attractive Valuation",
+        "url": "https://finnhub.io/api/news?id=1a607f769d81cb7d88d099e43ce925837358ac6ab03f2f73fea5795a6ac20880",
+        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
       },
       {
@@ -335,12 +347,6 @@
         "url": "https://finnhub.io/api/news?id=59f83dd6f978db80561146bafc6cf7ac90e677f4ad123bb6b06a2e31640302ad",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "This Biopharma Stock Hit a 6-Year High—and It Can Keep Climbing",
-        "url": "https://finnhub.io/api/news?id=59f83dd6f978db80561146bafc6cf7ac90e677f4ad123bb6b06a2e31640302ad",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       }
     ],
     "AMZN": [
@@ -374,6 +380,18 @@
         "headline": "The Zacks Analyst Blog Highlights Kratos Defense & Security Solutions, Heico, Curtiss-Wright and AeroVironment",
         "url": "https://finnhub.io/api/news?id=a0961ecf7fbcddac073a4827c1ea6552619cfe77c3558515e97527cbe1f5388c",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "Earnings Upgrades Might Change The Case For Investing In HEICO Stock (HEI)",
+        "url": "https://finnhub.io/api/news?id=79bccf25551be65a4310f55cc65ff263979dd3f424ee9d0400cacf19ac4414df",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-11-05T01:00:38.823856+00:00"
+      },
+      {
+        "headline": "The Zacks Analyst Blog Highlights Kratos Defense & Security Solutions, Heico, Curtiss-Wright and AeroVironment",
+        "url": "https://finnhub.io/api/news?id=a0961ecf7fbcddac073a4827c1ea6552619cfe77c3558515e97527cbe1f5388c",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
       },
       {
@@ -385,18 +403,6 @@
       {
         "headline": "HEICO (HEI) Stock Could Be 24% Undervalued On Cash Flow Outlook",
         "url": "https://finnhub.io/api/news?id=e3384abed2934bdcdd8ba8e4b52a24299a1ff2bc4b901ff01b98ad7a568fb3dc",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "Is HEICO (HEI) Undervalued On Earnings Optimism Or Is Its P/E Too Rich?",
-        "url": "https://finnhub.io/api/news?id=f739a7d12ca605e31d37de206426b61fb09fa7feb03eb61526ea6be22dfbe143",
-        "condition": "ผูก commercial aviation cycle (58% ของรายได้) — ถ้า air travel ตกแรงแบบ 2020 (โรคระบาด/เศรษฐกิจถดถอย) aftermarket หดทันที — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\" บางส่วน",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
-      },
-      {
-        "headline": "Are Aerospace Stocks Lagging  Heico (HEI) This Year?",
-        "url": "https://finnhub.io/api/news?id=435e66aa49e2ceb4d28bf2d7111660d5d52745b97d2621111d08bb22bb616f2e",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-11-04T20:42:58.220901+00:00"
       }
