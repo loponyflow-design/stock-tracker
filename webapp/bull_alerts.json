@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T20:58:07.640968+00:00",
+  "last_updated": "2026-11-06T01:00:36.198058+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -172,6 +172,18 @@
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-06T01:00:36.198058+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-06T01:00:36.198058+00:00"
+      },
+      {
+        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-05T20:58:07.640968+00:00"
       },
       {
@@ -185,18 +197,6 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-05T01:00:38.823856+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-05T01:00:38.823856+00:00"
-      },
-      {
-        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
       }
     ]
   }
