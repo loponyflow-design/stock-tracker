@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T20:19:03.545643+00:00",
+  "last_updated": "2026-11-07T01:00:36.536310+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -74,6 +74,12 @@
       }
     ],
     "LOW": [
+      {
+        "headline": "Lowe’s Just Paid Another Dividend. Its 64-Year Streak Is the Real Story",
+        "url": "https://finnhub.io/api/news?id=25c774c2b58ee71495c0c0806356e7d41a98fe9685fe36dcd3968cca73339779",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
       {
         "headline": "Lowe’s Just Paid Another Dividend. Its 64-Year Streak Is the Real Story",
         "url": "https://finnhub.io/api/news?id=25c774c2b58ee71495c0c0806356e7d41a98fe9685fe36dcd3968cca73339779",
@@ -182,6 +188,12 @@
       }
     ],
     "JNJ": [
+      {
+        "headline": "First Therapy for Advanced Head & Neck Cancer in 10 Years: Johnson & Johnson Secures Accelerated FDA Nod",
+        "url": "https://finnhub.io/api/news?id=14117617065c147b657f92fab7b1f2005e580fa90a44f7ca39c42e761f257035",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
       {
         "headline": "First Therapy for Advanced Head & Neck Cancer in 10 Years: Johnson & Johnson Secures Accelerated FDA Nod",
         "url": "https://finnhub.io/api/news?id=14117617065c147b657f92fab7b1f2005e580fa90a44f7ca39c42e761f257035",

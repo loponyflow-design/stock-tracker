@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T20:19:03.545643+00:00",
+  "last_updated": "2026-11-07T01:00:36.536310+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,18 @@
     ],
     "TSLA": [
       {
+        "headline": "Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab",
+        "url": "https://finnhub.io/api/news?id=b30791aa96108fb53006969dc0674cbada31f7456f4db892c855be4265991d02",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
+        "url": "https://finnhub.io/api/news?id=378e940ecd251312d4b4842099b719eaa05c1093d0d3ab6e0d3d60c9d5c0bbd3",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
         "headline": "Elon Musk's longtime backer exits Tesla after 13-fold gain",
         "url": "https://finnhub.io/api/news?id=8cbf6d81cfd68bf3a689cb0b5961fa881d14b2ea631191641f4c133534f1b01a",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=e281462ee86f86328f1c88ff192f534c0e443ff5d402cd3db57604dc141f8b9b",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
-      },
-      {
-        "headline": "SpaceX (SPCX) Stock Gets Fair Value Boost As Analysts Weigh AI Growth And Risks",
-        "url": "https://finnhub.io/api/news?id=0b61c3f1ae1da917bc2255e0adce6702a2597e85271c5492d4dee761fab84d0c",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-05T20:58:07.640968+00:00"
-      },
-      {
-        "headline": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser”",
-        "url": "https://finnhub.io/api/news?id=52406f7d101ae1da14af05a2410d2b930c81671b7f3a025d7084fc765947a0d9",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-05T01:00:38.823856+00:00"
       }
     ],
     "KBANK": [
@@ -134,6 +134,12 @@
         "headline": "Costco's October Net Sales Jump 12.6% as Digital Growth Accelerates",
         "url": "https://finnhub.io/api/news?id=6b6809590b25d08768fc5d6ea5f09a9af2c95314f61780ce9e57c6885d872314",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "Costco's October Net Sales Jump 12.6% as Digital Growth Accelerates",
+        "url": "https://finnhub.io/api/news?id=6b6809590b25d08768fc5d6ea5f09a9af2c95314f61780ce9e57c6885d872314",
+        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
       },
       {
@@ -153,15 +159,15 @@
         "url": "https://finnhub.io/api/news?id=c56ea5674b05010f2912850288ed6bd833c55ade0a03ebce3b00ff0fd8878d9c",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-11-05T20:58:07.640968+00:00"
-      },
-      {
-        "headline": "Energy-Drinks Are Exploding. Why Is Celsius Stock Fizzling?",
-        "url": "https://finnhub.io/api/news?id=3f81074af9ff700137925fbcbc0752e27bf506a4e24af7c0b781d90c12eb8dee",
-        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-11-05T20:58:07.640968+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "'TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending' - The Information",
+        "url": "https://finnhub.io/api/news?id=370229f52df29b055482f797009ca36175be117a9142097b7d55e22cf34642a4",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
       {
         "headline": "'TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending' - The Information",
         "url": "https://finnhub.io/api/news?id=370229f52df29b055482f797009ca36175be117a9142097b7d55e22cf34642a4",
@@ -185,12 +191,6 @@
         "url": "https://finnhub.io/api/news?id=2a37e6548e8559bda6a9a4c95a623c895fc9140ed2df394f5725367cc99933f0",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-06T01:00:36.198058+00:00"
-      },
-      {
-        "headline": "AI Stocks Are Having The Sale Of The Year, But Avoid These",
-        "url": "https://finnhub.io/api/news?id=3702e12efa426c0c127cc809ace6da2533a8bd8316c7095e4c3c3951f62658ea",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-05T20:58:07.640968+00:00"
       }
     ],
     "JNJ": [
@@ -304,6 +304,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "Global Narrowbody Aircraft Market Report 2026: Size, Share and Forecast to 2030 | Airbus, Boeing and GE Aerospace Capitalize on $126.9 Billion Fuel-Efficient Fleet Demand",
+        "url": "https://finnhub.io/api/news?id=e3e82fb46a4d748c98c2783f642d47912758b6d7197576156af436919cb5b583",
+        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
       {
         "headline": "Global Narrowbody Aircraft Market Report 2026: Size, Share and Forecast to 2030 | Airbus, Boeing and GE Aerospace Capitalize on $126.9 Billion Fuel-Efficient Fleet Demand",
         "url": "https://finnhub.io/api/news?id=e3e82fb46a4d748c98c2783f642d47912758b6d7197576156af436919cb5b583",
@@ -452,6 +458,12 @@
         "headline": "Is Zeta Global Holdings (ZETA) Below Fair Value on Cash Flow?",
         "url": "https://finnhub.io/api/news?id=5b4e6c2992cdda66e16a475cb8b906fc621f623890407408c431f0d5219e3315",
         "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "Is Zeta Global Holdings (ZETA) Below Fair Value on Cash Flow?",
+        "url": "https://finnhub.io/api/news?id=5b4e6c2992cdda66e16a475cb8b906fc621f623890407408c431f0d5219e3315",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
       },
       {
@@ -471,12 +483,6 @@
         "url": "https://finnhub.io/api/news?id=8be78a856c42a4808ca245713b62eec5362e0db606e468b0345077b5281077cb",
         "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
         "detected_at": "2026-11-03T20:27:32.684690+00:00"
-      },
-      {
-        "headline": "1 small-cap stock with competitive advantages and 2 facing challenges",
-        "url": "https://finnhub.io/api/news?id=fac956baa1e87cd9fa8da273c5ae47f6678b7bea2119ab8a2ec9cfb01dab2e6c",
-        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-10-31T18:23:01.870331+00:00"
       }
     ],
     "ANET": [
@@ -494,6 +500,12 @@
       }
     ],
     "ARM": [
+      {
+        "headline": "Arm CEO Sees Data Center Royalties “Growing Triple Digits” as Phone Royalties Stall",
+        "url": "https://finnhub.io/api/news?id=6f4799ff88235e204d6c7a4d51db1607a6cfe65944b59f96dfe539c8151ccdfc",
+        "condition": "RISC-V (open-source ฟรี ไม่มี royalty) — ภัยคุกคามเชิงโครงสร้างต่อโมเดล licensing โดยตรง เริ่มจาก IoT/embedded",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
       {
         "headline": "Arm Stocks Decline 1.2% With Earnings Putting Royalty Mix Under Scrutiny",
         "url": "https://finnhub.io/api/news?id=c0c2e489a38e29119cdeb28b993de207fd28077043df1de90458de061a9f9444",
@@ -525,6 +537,18 @@
       {
         "headline": "Lamar Advertising Co (LAMR) Q3 2026 Earnings Call Highlights: Record October Revenue, Raised ...",
         "url": "https://finnhub.io/api/news?id=1bdf0ba299ea8e23b70af3a1eeb81cc2252ee4d0384cba11c0ce55a62b8c00a1",
+        "condition": "Growth ช้า (revenue +2.7%, AFFO +3-4%) — ผลตอบแทนพึ่ง dividend เป็นหลัก, upside จำกัดถ้าซื้อแพง",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "Lamar Advertising: Prudently Managed With Moderate Growth",
+        "url": "https://finnhub.io/api/news?id=45d6c6f8f0d9019f94828386405345cbb9b9e11eeed212e7905a61444f658740",
+        "condition": "Growth ช้า (revenue +2.7%, AFFO +3-4%) — ผลตอบแทนพึ่ง dividend เป็นหลัก, upside จำกัดถ้าซื้อแพง",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "Lamar Advertising Co (LAMR) Q3 2026 Earnings Call Highlights: Record October Revenue, Raised ...",
+        "url": "https://finnhub.io/api/news?id=1bdf0ba299ea8e23b70af3a1eeb81cc2252ee4d0384cba11c0ce55a62b8c00a1",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
       },
@@ -540,7 +564,21 @@
         "headline": "These Warehouse REITs Are Riding the E-Commerce Boom. Which Pays the Safest Dividend?",
         "url": "https://finnhub.io/api/news?id=a3dba93d71e22dbf8dfbc4638561e1c5c5047d9268ef602207aac6ebee6b9a11",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
+      },
+      {
+        "headline": "These Warehouse REITs Are Riding the E-Commerce Boom. Which Pays the Safest Dividend?",
+        "url": "https://finnhub.io/api/news?id=a3dba93d71e22dbf8dfbc4638561e1c5c5047d9268ef602207aac6ebee6b9a11",
+        "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery?",
+        "url": "https://finnhub.io/api/news?id=ceb93d212de466d3444f3787ae127328490c94f329e2391674794bab5b44860d",
+        "condition": "Hyperscaler เริ่มกระจายซัพพลายเออร์ชิป custom (เช่น Google เพิ่ม Marvell) — แปลว่าความสัมพันธ์แบบผูกขาดในระยะยาวไม่แน่นอน 100%",
+        "detected_at": "2026-11-07T01:00:36.536310+00:00"
       }
     ]
   }
