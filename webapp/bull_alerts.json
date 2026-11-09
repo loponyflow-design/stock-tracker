@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T01:00:40.654954+00:00",
+  "last_updated": "2026-11-09T01:00:39.815782+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -34,6 +34,12 @@
       }
     ],
     "PG": [
+      {
+        "headline": "This Dividend King Has Raised Its Payout Through Every Recession Since the 1950s. I'm Buying Before the End of the Year.",
+        "url": "https://finnhub.io/api/news?id=9843f7861128e7ec221db2d4e02bef02ec27a7327627250d9fc0d4ffa7e1c2ec",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-09T01:00:39.815782+00:00"
+      },
       {
         "headline": "Here’s Why Dividend Kings Coca-Cola, Procter & Gamble, and Colgate-Palmolive Are Hitting 52-Week Highs Following Midterm Election Results",
         "url": "https://finnhub.io/api/news?id=4214f121d9edadb298e76208e80c46b4d84e41a0252f2a5f14c31204ee00f427",
@@ -115,12 +121,6 @@
         "url": "https://finnhub.io/api/news?id=b6e69acef829874882ae9d6e13de56658f2ea6d2e3bcc29c706cade5161f8337",
         "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
         "detected_at": "2026-11-02T22:40:07.943217+00:00"
-      },
-      {
-        "headline": "V Q3 deep dive: value-added services and agentic commerce drive steady growth",
-        "url": "https://finnhub.io/api/news?id=4093e8f4e6ee206671db0f45ccf559e574722c069eaaea750df6bfe44a2b1b13",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-11-01T01:00:42.105499+00:00"
       }
     ],
     "NUE": [
@@ -142,6 +142,18 @@
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-09T01:00:39.815782+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-09T01:00:39.815782+00:00"
+      },
+      {
+        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-08T01:00:40.654954+00:00"
       },
       {
@@ -155,18 +167,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-08T01:00:40.654954+00:00"
-      },
-      {
-        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้ทรุด 11.39 จุด ขาย DELTA-PTTEP-PTT - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPOWw2VWN4azNmWGFpczNxWTRfRHhMdThxTThNYzJmM19iek1IU1c1TWZTZmhNZ2dhQ1RyYjBHUUZvRTlKUzcyNHFMd1QxVlgyWGlhYmdCUGtkblFXNFprRk1yV1diZ0RHbW9QRzJHMzJUTmVVUmtGd1E2MW0wX2JUQXdfcXFXaElqTnV3ZVZkVXdmTUZwTFljeVRhTzA5dHBXdzEtd1JNdGpzd0FUeGRfNDVkc1NNMGxlTnFIcjNJWEVoLVlYRlhQSm9vNFFadmlYSGliSFVzaTIzdE4wZVpHeHNoVWN2cmtJemJPVjVYNnd6SzdGaFg5N0hvRnk2SDZVU3hXMUxkRk8tNUJaeUhMZ1dVaVp4UUpGa3IyZ0Y2VjE2YXJFR0ttdnJBRnpnQ1dhR2EycnZRNWJNS1hZc1hiMkxOaEotUFROQlFhWXJ3U253cjk2c091RmNVTFk5SEZCVTZUT1QzR2tfQWhrTXR4b2UzUHpTbllhd1cxQXFsVW1Fcnd4VHVBNmhqeXZIMVZTSzZCeGw1X3B1bzJ3NVNpUng4NlU?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
       }
     ],
     "JNJ": [
