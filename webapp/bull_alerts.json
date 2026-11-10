@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-10T01:00:38.278647+00:00",
+  "last_updated": "2026-11-10T20:44:35.181456+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "Morgan Stanley Direct Lending: Contrarian Value With A 13% Yield",
+        "url": "https://finnhub.io/api/news?id=2d574bdbe2c0a160f36bc884f3076bd0a3de9e85646f5f68f8eb65cbea2d5c3b",
+        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
+        "detected_at": "2026-11-10T20:44:35.181456+00:00"
+      },
+      {
+        "headline": "Capital Southwest Yields Nearly 10%. Is Its Dividend Actually Safer Than It Looks?",
+        "url": "https://finnhub.io/api/news?id=5d4d13d834f32ec57b944a79bac8086aa2cacf30f77d252c323d5172bce67ae3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-10T20:44:35.181456+00:00"
+      },
       {
         "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (November 2026)",
         "url": "https://finnhub.io/api/news?id=2d7933e41c48901112f5efbd44f69b3100156c2961e77bc20e1d8a52ce4c781e",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=ec41412bb4710d25df14e419ae6dcf8b35b5e88158c3835bb23d29f1a0a6bcfd",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here’s How",
-        "url": "https://finnhub.io/api/news?id=e90713d88606b4c94627dc534aa013edd64d726a4b8f896af1b12cf58fa4e924",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-06T20:19:03.545643+00:00"
-      },
-      {
-        "headline": "Ares Capital: The Dividend Shortfall Doesn't Break My Thesis...Yet",
-        "url": "https://finnhub.io/api/news?id=9c3f8c9466a5f76d9363a6409958c339ad2295dc95c7b5e97f5fd620a4a242d7",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-05T20:58:07.640968+00:00"
       }
     ],
     "PG": [
@@ -111,14 +111,6 @@
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
       }
     ],
-    "ANET": [
-      {
-        "headline": "AMD, Arista, Supermicro Earnings Previews: Can AI Infrastructure Shake Off Friday’s Rout?",
-        "url": "https://finnhub.io/api/news?id=37663fc847b40eeacdd7a9518ea0e28b2b345fc40624f964b4287c8914805ac9",
-        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
-        "detected_at": "2026-11-03T01:00:42.889676+00:00"
-      }
-    ],
     "AVGO": [
       {
         "headline": "Apollo Global Management Q3 Earnings Call Highlights",
@@ -147,15 +139,15 @@
         "url": "https://finnhub.io/api/news?id=e3e5d09dd08f446ad694e16cbdc6c8405666890ced7a32015993f627c8abd7c0",
         "condition": "Best-in-class cyclical — low-cost EAF + scale + product breadth ทำให้ทำกำไรได้แม้ down-cycle (ที่คู่แข่งขาดทุน) — เป็น Cornered Resource (scrap network) + Process Power",
         "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      },
-      {
-        "headline": "Can NUE's Strong Balance Sheet Power Bigger Shareholder Returns Ahead?",
-        "url": "https://finnhub.io/api/news?id=e3e5d09dd08f446ad694e16cbdc6c8405666890ced7a32015993f627c8abd7c0",
-        "condition": "Best-in-class cyclical — low-cost EAF + scale + product breadth ทำให้ทำกำไรได้แม้ down-cycle (ที่คู่แข่งขาดทุน) — เป็น Cornered Resource (scrap network) + Process Power",
-        "detected_at": "2026-11-03T20:27:32.684690+00:00"
       }
     ],
     "PTT": [
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-10T20:44:35.181456+00:00"
+      },
       {
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
@@ -179,12 +171,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-09T01:00:39.815782+00:00"
-      },
-      {
-        "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-08T01:00:40.654954+00:00"
       }
     ],
     "JNJ": [
