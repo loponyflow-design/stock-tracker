@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-10T20:44:35.181456+00:00",
+  "last_updated": "2026-11-11T01:00:39.348761+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "5 High-Yield Dividend Stocks That Can Actually Afford Their Payouts",
+        "url": "https://finnhub.io/api/news?id=2d14055e196adf7f149f0c5243935bc52220d81bcbd38396d630e9079bffa620",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
+      {
+        "headline": "Move Cash Now: 3 Ultra-High-Yield Nasdaq Stocks Screaming Buys for December",
+        "url": "https://finnhub.io/api/news?id=5bcb79f1ccd3afab4f3f6843a69999a5653cf0d5303e76660cd240037347a659",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
+      {
+        "headline": "Morgan Stanley Direct Lending: Contrarian Value With A 13% Yield",
+        "url": "https://finnhub.io/api/news?id=2d574bdbe2c0a160f36bc884f3076bd0a3de9e85646f5f68f8eb65cbea2d5c3b",
+        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
       {
         "headline": "Morgan Stanley Direct Lending: Contrarian Value With A 13% Yield",
         "url": "https://finnhub.io/api/news?id=2d574bdbe2c0a160f36bc884f3076bd0a3de9e85646f5f68f8eb65cbea2d5c3b",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=5d4d13d834f32ec57b944a79bac8086aa2cacf30f77d252c323d5172bce67ae3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (November 2026)",
-        "url": "https://finnhub.io/api/news?id=2d7933e41c48901112f5efbd44f69b3100156c2961e77bc20e1d8a52ce4c781e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-08T01:00:40.654954+00:00"
-      },
-      {
-        "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (November 2026)",
-        "url": "https://finnhub.io/api/news?id=2d7933e41c48901112f5efbd44f69b3100156c2961e77bc20e1d8a52ce4c781e",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "How to Turn $300,000 Into Passive Income: A 3-Stock Dividend Strategy",
-        "url": "https://finnhub.io/api/news?id=ec41412bb4710d25df14e419ae6dcf8b35b5e88158c3835bb23d29f1a0a6bcfd",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
       }
     ],
     "PG": [
@@ -121,6 +121,12 @@
     ],
     "V": [
       {
+        "headline": "Visa Inc. (V) Presents at KBW Fintech Ecosystem Conference 2026 Transcript",
+        "url": "https://finnhub.io/api/news?id=8c234c6b393f1ed6a0ad1f194308d3d994876da6cf9e219bd4077861f54aa38a",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
+      {
         "headline": "PayPal’s (PYPL) Turnaround Still Needs Proof",
         "url": "https://finnhub.io/api/news?id=86e4e8396f40f1341092a562656e4b121fc0a9abfdfd7c5adb3fab1990490f87",
         "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
@@ -146,6 +152,12 @@
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
       },
       {
@@ -163,12 +175,6 @@
       {
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.90 จุด ขาย PTTEP-PTT ซื้อ KCE - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUFI2NGdVakhxN0JGZnF4am1mZXVDRXJlN3dwS29MaU9FWXhmSy1RMkdvS1ZMalowajFmdkZtemw1VnBvTEVaLU1lLVJfTUpuMGxNRFpueFdJa0E?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-09T01:00:39.815782+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-09T01:00:39.815782+00:00"
       }
@@ -199,6 +205,14 @@
         "url": "https://finnhub.io/api/news?id=382126d8304f4d2e261142aa40d44fffaafb613ae6e2b3a5f4d3ff2d55cfa579",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
+      }
+    ],
+    "ANET": [
+      {
+        "headline": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
+        "url": "https://finnhub.io/api/news?id=817f7342136799b8aa2b4960d986003382dac67685839d83148aed84690a3764",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       }
     ]
   }
