@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T01:00:39.348761+00:00",
+  "last_updated": "2026-11-11T21:10:12.058107+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -25,15 +25,21 @@
         "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-05T01:00:38.823856+00:00"
-      },
-      {
-        "headline": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
-        "url": "https://finnhub.io/api/news?id=e450ea498b8f23de5b0eaad0757d576e4fec76e9c2160498ae380e11fd54c8be",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "TSLA Stock Climbs After Elon Musk Extends Cybertruck Run Through Summer 2027, Citing ‘Sentimentality’",
+        "url": "https://finnhub.io/api/news?id=e4aeb892e0f61d756cea9df29dcdec93a26bb7fa4157b088fce8b642a444b331",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
+        "headline": "Tesla (TSLA) Forms Special Committee To Review Possible All Stock Merger",
+        "url": "https://finnhub.io/api/news?id=6eebeb6631107359c4dce0293036797b322c327a2b816ca8059eeee8fbb6977d",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
       {
         "headline": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift",
         "url": "https://finnhub.io/api/news?id=ede02bed4ae3127671485effbfe2d3b2320081cbf1619a9d052a433656379158",
@@ -51,18 +57,6 @@
         "url": "https://finnhub.io/api/news?id=d2812e27adcfde2a66b4303816dad8cacbaffcbaf4ea051663063ac89dc1e645",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019",
-        "url": "https://finnhub.io/api/news?id=a9d7c91f688221305cb6f4057c1a4f9d219d97a5f2b94a2eebd832d6d877c6f8",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Cathie Wood's ARK Invest Says Tesla's Robotaxi Cash Flow Could Bankroll SpaceX's AI Ambitions, Backing a Potential Merger of Elon Musk's Two Companies. Is This the Thesis That Finally Reprices Tesla Stock?",
-        "url": "https://finnhub.io/api/news?id=ea3854353e87ff33d904846d6674c4622eaa9267b6e7dd32cdfe7253ba7851cf",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "KBANK": [
@@ -70,34 +64,40 @@
         "headline": "CGSI คาด SET ฟื้นต่อ รับหุ้นโลกบวก-น้ำมันร่วง ชู KBANK-TU หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Z294OTZWdmVmbEVMVjJIOFdQT1oxanVSclFaZ1o2RXRDYXFReXZ4dy0tVWtmTnJmdF9id2I1cXpzUVBaWVNsUGNUTQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       },
       {
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       },
       {
         "headline": "CGSI มอง SET แกว่งกรอบ 1,450–1,480 จุด ชู KBANK-GULF หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kWTFlc0pJQjdic241aFlraEtPejY4UjNMdkN4MUZ0ZVBBUm1oaWV4d1ZTUC1FY3pKSnFvN0JHMG95bGQzQ2xPVXg0WQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       },
       {
         "headline": "CGSI คาด SET ฟื้นต่อ รับหุ้นโลกบวก-น้ำมันร่วง ชู KBANK-TU หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Z294OTZWdmVmbEVMVjJIOFdQT1oxanVSclFaZ1o2RXRDYXFReXZ4dy0tVWtmTnJmdF9id2I1cXpzUVBaWVNsUGNUTQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-10T20:44:35.181456+00:00"
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       },
       {
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-10T20:44:35.181456+00:00"
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "Global Specialty Retailers Market Report 2026 | Capitalize on AI, Omnichannel and Premium Demand as Home Depot, Lowe's, TJX, Ingka and Ross Stores Target $700.43B Revenue Opportunity by 2030",
+        "url": "https://finnhub.io/api/news?id=63ca932090f766a0b48645d3666906a67d01e1e38741e2939094878daf736110",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
       {
         "headline": "Can Home Depot Sustain Comparable Sales Growth Amid Uneven Demand?",
         "url": "https://finnhub.io/api/news?id=e3c99aacfd37cde49b58f13a3904ebecf55aa6cb7e4fec3392272f2bc25c3576",
@@ -121,12 +121,6 @@
         "url": "https://finnhub.io/api/news?id=5c19481197cd73a2eb7223db68ef105eafdc36280d4d426839d74f4b5eb983d1",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "Why Lowe's Companies (LOW) Moved And What Investors Are Weighing Now",
-        "url": "https://finnhub.io/api/news?id=0bfd5df61eb34194047f1cd658ced81ff547906a425249a9f608184d9473ec41",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
-        "detected_at": "2026-11-06T20:19:03.545643+00:00"
       }
     ],
     "COST": [
@@ -163,6 +157,18 @@
     ],
     "TSM": [
       {
+        "headline": "Nvidia: Selloff Into Earnings Sets Up An Upside Guidance Surprise",
+        "url": "https://finnhub.io/api/news?id=24bf768b9a1be5e556841c8a748b6827959369cfbd70efbfd9158f919e17e993",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
+        "headline": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
+        "url": "https://finnhub.io/api/news?id=4478106807dab91cc71e2805a6002115872fb3b6ec5767b7eac675e9709d8526",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
         "headline": "A TSMC Director Bought $300,000 of Stock in the Chip Sell-Off. It’s Up 46% in a Year",
         "url": "https://finnhub.io/api/news?id=15a54ab63a625fae91f44552cf6a6f043eb71ae6ac9ef52803e7ed3f6f24ad05",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -179,18 +185,6 @@
         "url": "https://finnhub.io/api/news?id=9328a5e9cfd169595863a1025c228ff5f4d87277bab6702ee344ead887790659",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Taiwan Just Rebounded. Nvidia Didn’t. The Market Is Pricing a Discount on Jensen Huang",
-        "url": "https://finnhub.io/api/news?id=705a1c5922f169672bcec877a5ced83ef4b953f02fb448374ff4f57d932fa01c",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
-      },
-      {
-        "headline": "TSMC: Celebrating The Opportunity Presented",
-        "url": "https://finnhub.io/api/news?id=9328a5e9cfd169595863a1025c228ff5f4d87277bab6702ee344ead887790659",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "JNJ": [
@@ -225,12 +219,6 @@
         "url": "https://finnhub.io/api/news?id=51f2f8f958ff91f4abac0b716189e29532bb0dd66600b55edd0955709d47779c",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-11-09T23:19:48.279927+00:00"
-      },
-      {
-        "headline": "Should Retail Leadership Reset Require Action From Marzetti (MZTI) Investors?",
-        "url": "https://finnhub.io/api/news?id=5044714678ab8ec618be5db44abf77c5e1fb5ab866d311353523e1f0cfd819b2",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
       }
     ],
     "ABBV": [
@@ -355,15 +343,15 @@
         "url": "https://finnhub.io/api/news?id=79bccf25551be65a4310f55cc65ff263979dd3f424ee9d0400cacf19ac4414df",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
         "detected_at": "2026-11-05T01:00:38.823856+00:00"
-      },
-      {
-        "headline": "The Zacks Analyst Blog Highlights Kratos Defense & Security Solutions, Heico, Curtiss-Wright and AeroVironment",
-        "url": "https://finnhub.io/api/news?id=a0961ecf7fbcddac073a4827c1ea6552619cfe77c3558515e97527cbe1f5388c",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
       }
     ],
     "RBRK": [
+      {
+        "headline": "Rubrik (RBRK) Benefits from Rising Cybersecurity Spending",
+        "url": "https://finnhub.io/api/news?id=57d63804e230b71251d849d1a958d9fd80ec62d2ee5f73b4693235da4f590522",
+        "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
       {
         "headline": "Shares of companies in the broader tech sector are trading higher going into the close as investors weigh US debt limit talks. Additionally, AI momentum has lifted some stocks in the semi and chip space.",
         "url": "https://finnhub.io/api/news?id=d092cdc43530ee8a12410a3cf0b5e88ec0a5fa084ba907c527c1cf183eb62536",
@@ -371,21 +359,25 @@
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
       }
     ],
-    "NUE": [
+    "ZETA": [
       {
-        "headline": "Nucor (NUE) Could Be 5% Undervalued After Strong Earnings And Steady Guidance",
-        "url": "https://finnhub.io/api/news?id=f867356157ed146c32fd8a872ee81b4c412d031b1669c959de40858d4b375331",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-11-04T20:42:58.220901+00:00"
+        "headline": "Zeta Global (ZETA) Stock Jumps On Q3 Earnings And Profit Turn",
+        "url": "https://finnhub.io/api/news?id=35dd15958edda3c800c48761246165b74ab40f4b6103d59c33e538a254f7ec7a",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       },
       {
-        "headline": "Nucor (NUE) Could Be 5% Undervalued After Strong Earnings And Steady Guidance",
-        "url": "https://finnhub.io/api/news?id=f867356157ed146c32fd8a872ee81b4c412d031b1669c959de40858d4b375331",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-11-04T01:00:41.294409+00:00"
-      }
-    ],
-    "ZETA": [
+        "headline": "Earnings Gaps Meet the Moving Averages on a Softer Morning for Stocks",
+        "url": "https://finnhub.io/api/news?id=d2a77a35287415bfcc2e16fed95ccf43769e78b0dae2a6e70939b19a45bc002c",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
+        "headline": "Zeta Global (ZETA) Q3 earnings report preview: what to look for",
+        "url": "https://finnhub.io/api/news?id=d7aa7094375c42eec1213eba2db363e2a49ba7a381adb2278cd258b4e6a1c44e",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
       {
         "headline": "Earnings Gaps Meet the Moving Averages on a Softer Morning for Stocks",
         "url": "https://finnhub.io/api/news?id=d2a77a35287415bfcc2e16fed95ccf43769e78b0dae2a6e70939b19a45bc002c",
@@ -397,24 +389,6 @@
         "url": "https://finnhub.io/api/news?id=d7aa7094375c42eec1213eba2db363e2a49ba7a381adb2278cd258b4e6a1c44e",
         "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
         "detected_at": "2026-11-11T01:00:39.348761+00:00"
-      },
-      {
-        "headline": "Zeta Global Holdings Corp. Reports Positive GAAP Net Income in 3Q’26 and Raises Full Year 2026 Guidance",
-        "url": "https://finnhub.io/api/news?id=8ab03c906db7afa7dde7232b89ce3931842b7a9db7cd1fb40031c4fb8179e77f",
-        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Is Zeta Global Holdings (ZETA) Below Fair Value on Cash Flow?",
-        "url": "https://finnhub.io/api/news?id=5b4e6c2992cdda66e16a475cb8b906fc621f623890407408c431f0d5219e3315",
-        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "Is Zeta Global Holdings (ZETA) Below Fair Value on Cash Flow?",
-        "url": "https://finnhub.io/api/news?id=5b4e6c2992cdda66e16a475cb8b906fc621f623890407408c431f0d5219e3315",
-        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-11-07T01:00:36.536310+00:00"
       }
     ],
     "ARM": [
@@ -477,6 +451,12 @@
     ],
     "LAMR": [
       {
+        "headline": "Winners Of REIT Earnings Season",
+        "url": "https://finnhub.io/api/news?id=e10b8b7663d556f0d6e44c5b98dc7f02402b9cd11ec56a074d87030e6cc23d95",
+        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
         "headline": "Blue Wave Fuels REIT Rally",
         "url": "https://finnhub.io/api/news?id=339f72684beedd7d743f3f576702c1d359f57dd3bbda267e59e17cc92ae9a3b6",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
@@ -499,12 +479,6 @@
         "url": "https://finnhub.io/api/news?id=9251ef39ee98411a31128d730bea2bf2671cdf05a6cd75e0c2a3869fad58789e",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-11-09T01:00:39.815782+00:00"
-      },
-      {
-        "headline": "Lamar Advertising Co (LAMR) Q3 2026 Earnings Call Highlights: Record October Revenue, Raised ...",
-        "url": "https://finnhub.io/api/news?id=1bdf0ba299ea8e23b70af3a1eeb81cc2252ee4d0384cba11c0ce55a62b8c00a1",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
       }
     ],
     "STAG": [
