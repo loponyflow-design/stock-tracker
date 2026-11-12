@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-12T01:00:37.748577+00:00",
+  "last_updated": "2026-11-12T21:22:39.776191+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "4 Ultra-High-Yield Dividend Stocks Paying Up to 16.6%. Are They Safe?",
+        "url": "https://finnhub.io/api/news?id=15abea6e81a420d13c1e3e05b5d76c1da2a78cca8c28c467b54497ed0269ef21",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
+        "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
+        "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
       {
         "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
         "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
@@ -19,22 +31,16 @@
         "url": "https://finnhub.io/api/news?id=2d14055e196adf7f149f0c5243935bc52220d81bcbd38396d630e9079bffa620",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      },
-      {
-        "headline": "Move Cash Now: 3 Ultra-High-Yield Nasdaq Stocks Screaming Buys for December",
-        "url": "https://finnhub.io/api/news?id=5bcb79f1ccd3afab4f3f6843a69999a5653cf0d5303e76660cd240037347a659",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      },
-      {
-        "headline": "Morgan Stanley Direct Lending: Contrarian Value With A 13% Yield",
-        "url": "https://finnhub.io/api/news?id=2d574bdbe2c0a160f36bc884f3076bd0a3de9e85646f5f68f8eb65cbea2d5c3b",
-        "condition": "Credit quality ดีมาก — non-accruals 1.8%, first lien เป็นหลัก, underwriting แข็ง; NAV ไม่ erode",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       }
     ],
     "PG": [
       {
+        "headline": "Johnson & Johnson vs. Procter & Gamble: 64 and 70 Straight Years of Raises. Which Dividend King Pays You More Over the Next Decade?",
+        "url": "https://finnhub.io/api/news?id=f1929cb826d675efd4013034468666243f9e4cdd28b4413415651a97e9fd6fcb",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
         "headline": "After the Democratic Midterm Sweep: 4 Dividend Stocks Built for Gridlock",
         "url": "https://finnhub.io/api/news?id=00e0b213f324e8133296891e45898b7fe18155b32197d7c3b59702a184f4a11f",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -57,20 +63,6 @@
         "url": "https://finnhub.io/api/news?id=b84e7f7f4f09f9a9d5adc12637aa601b57fc9182b2fd350eb21e7a5680fce428",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-09T23:19:48.279927+00:00"
-      },
-      {
-        "headline": "This Dividend King Has Raised Its Payout Through Every Recession Since the 1950s. I'm Buying Before the End of the Year.",
-        "url": "https://finnhub.io/api/news?id=9843f7861128e7ec221db2d4e02bef02ec27a7327627250d9fc0d4ffa7e1c2ec",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-09T01:00:39.815782+00:00"
-      }
-    ],
-    "LEN": [
-      {
-        "headline": "Lennar (LEN) Stock Looks Below Fair Value After 28% Slide",
-        "url": "https://finnhub.io/api/news?id=7075a9ec81978ab6883dea662774e8119af375c23b8987d4702e5359ea6f7e9e",
-        "condition": "Scale + market share strategy — Lennar ยอมกด margin เพื่อรักษา/เพิ่มส่วนแบ่ง; ถ้า housing cycle ฟื้น + cost ลด margin มี room เด้งกลับ (mgmt บอก Q1 = จุดต่ำ)",
-        "detected_at": "2026-11-05T01:00:38.823856+00:00"
       }
     ],
     "LOW": [
@@ -127,6 +119,18 @@
     ],
     "PTT": [
       {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
         "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
@@ -143,18 +147,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-11T01:00:39.348761+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-10T20:44:35.181456+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
       }
     ],
     "JNJ": [
