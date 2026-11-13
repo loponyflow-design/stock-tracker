@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-12T21:22:39.776191+00:00",
+  "last_updated": "2026-11-13T01:00:40.870954+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "China Renaissance Upgraded Apple (AAPL) to Buy. DZ Bank Cut It to Sell. Here’s the Split",
+        "url": "https://finnhub.io/api/news?id=242a7046fc8d208a6f5f0055144d31da3696a301b7c4d375bc47969255ca78b4",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
       {
         "headline": "What Is Going on With Apple Stock on Thursday?",
         "url": "https://finnhub.io/api/news?id=ab065eb8c17210bd0c1584ae88f57bf29683dd0157eeec4d7d4e6a1a19cc1a96",
@@ -25,15 +31,27 @@
         "url": "https://finnhub.io/api/news?id=71bd3a808217df7883648296a79b8dbdcddd7eda813804b2a89f1dee56bc7a3f",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
-      },
-      {
-        "headline": "Apple Won’t “Play in Traffic” on AI. It’s Up 28% in a Year: Too Late to Buy?",
-        "url": "https://finnhub.io/api/news?id=74485eb1000b9c5594b4afa34d98d08ea9af4588518e4f6c0ae44da48bcd4f8f",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-09T01:00:39.815782+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk Makes Bold $10 Trillion Net Worth Remark as He Predicts Tesla Cybercab Will Dominate Ride-Hailing: ‘Obvious to Anyone With Eyes and a Brain’",
+        "url": "https://finnhub.io/api/news?id=fcee69300a13dddbd26e69ba1654b6b2fc9bad6ce9d18987d06eac7086693d24",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
+        "headline": "Musk: It Takes “20 to 30 Million Robots” to Match America’s Output. That’s Optimus’ Market",
+        "url": "https://finnhub.io/api/news?id=71cf25436cbe3f78fb09e6af4bcc6b89e64d378924b59616da7f3b84c2a35da7",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
+        "headline": "Why Retail Investors Are Watching AI Infrastructure Stocks After Tesla SpaceX Merger Talk",
+        "url": "https://finnhub.io/api/news?id=45a49beacb7fd1ade515bf12b038b3e0ae6124ab3e3f9ff9d4533820c9af6fef",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
       {
         "headline": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
         "url": "https://finnhub.io/api/news?id=fd698a88d6b2dc674e8535e54234ab27d68d33bcd158470e77671e7a698dec7f",
@@ -45,24 +63,6 @@
         "url": "https://finnhub.io/api/news?id=350946b7ce032c84a8c26947295b563e87eeaede7d93d60fa957dc7ff3d8fe71",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-12T21:22:39.776191+00:00"
-      },
-      {
-        "headline": "Tesla extends Cybertruck production to clear backlog, Musk says",
-        "url": "https://finnhub.io/api/news?id=eec3b0c01ccfa6c1b0eb2ede12efd139d31884e586d233caf3fb26ea7e366864",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-12T01:00:37.748577+00:00"
-      },
-      {
-        "headline": "TSLA Stock Climbs After Elon Musk Extends Cybertruck Run Through Summer 2027, Citing ‘Sentimentality’",
-        "url": "https://finnhub.io/api/news?id=e4aeb892e0f61d756cea9df29dcdec93a26bb7fa4157b088fce8b642a444b331",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      },
-      {
-        "headline": "Tesla (TSLA) Forms Special Committee To Review Possible All Stock Merger",
-        "url": "https://finnhub.io/api/news?id=6eebeb6631107359c4dce0293036797b322c327a2b816ca8059eeee8fbb6977d",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
       }
     ],
     "KBANK": [
@@ -70,34 +70,46 @@
         "headline": "CGSI คาด SET ฟื้นต่อ รับหุ้นโลกบวก-น้ำมันร่วง ชู KBANK-TU หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Z294OTZWdmVmbEVMVjJIOFdQT1oxanVSclFaZ1o2RXRDYXFReXZ4dy0tVWtmTnJmdF9id2I1cXpzUVBaWVNsUGNUTQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       },
       {
         "headline": "KBANK ปันผลระหว่างกาล 2 บาท #KBANK #ปันผล #หุ้นไทย #หุ้น #set - Facebook",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOVjdxaGZFR3ZUWHdsNENVUDU2SnBEeU55cWpGYzJGN1hZZllFWm5YekJOZFlXM0Jyam1QWjFkQTA5cHhtc1hYSUo5LUdXT0VGMkt0cVRXeWpFUFFLM0VIMTNhTDVyVVI0STByZUJyNkdNbmhZVy1NSTZuMTdCcnN4TlVJempHUXNjY2JkUExCT01PMW5UUnp1UFdLalhLY0hWeksxMi1Od2xLb0oxZWRXSFc3QTdibEtBZXY5U3ZWd0RUSDJPTmNzNE5wdjBleGRfbU9XZ2h4S0x6VVNRaUpoRG1rWjA3bG5uLXdVakN0dmpaOXNNTTZOWjFNSHZyVm9WN3JRUmJGNDhNc3JlWTBtNHdHTU1pVmk5bGtRR2hoYmRPVGxSQkRCRUF4NVV6emNSSWZVVEZJQS1zQ3pLVHhndXlSWlljRHNYdVpUUWVDWFBmMV83NnBmOGtvSHQ4bktuTXN3aGhnSGFMNF9QcEJDNEZLVkpXeWN3cVJzZ1BnSWRwc053bFFiVWNtc3E4YVI0bEswWXZTYjFaUlZxVXJhQ295M25fUDV6LWF2czhoVmRHX2F3eWVnSVNhSy1vZzdKbWN1ekRaMjFoZk5qRXdjYkFkalAxd0Uza1M4Y3JfOGJhbmk1RWZaS3hWdFdsZnQteFRjaWhudVRNM3FKUTJwMndReW1UaUZ0VEpHVWJkZWI4U3hNNUp0dVQyZDJ3WGtBSUZIOQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       },
       {
         "headline": "CGSI มอง SET แกว่งกรอบ 1,450–1,480 จุด ชู KBANK-GULF หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kWTFlc0pJQjdic241aFlraEtPejY4UjNMdkN4MUZ0ZVBBUm1oaWV4d1ZTUC1FY3pKSnFvN0JHMG95bGQzQ2xPVXg0WQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       },
       {
         "headline": "แบงก์ถูกขายหนัก ฉุดหุ้นไทยร่วงเกือบ 31 จุด KBANK ดิ่ง 10 บาท - Thansettakij",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWdXZZQnAzTlplMkM3Vk44ZXZzcXJCSEdJVm9xSi1CMXlMVG1VM2tmeE03WURTTmNjNDdiMjg1NmNCX2RibUxPYmJaOFl3NHoyaVN2QUZzaFQ2Z1VfOGNOZm4wenRJdw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       },
       {
         "headline": "CGSI คาด SET ฟื้นต่อ รับหุ้นโลกบวก-น้ำมันร่วง ชู KBANK-TU หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Z294OTZWdmVmbEVMVjJIOFdQT1oxanVSclFaZ1o2RXRDYXFReXZ4dy0tVWtmTnJmdF9id2I1cXpzUVBaWVNsUGNUTQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-12T01:00:37.748577+00:00"
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
       }
     ],
     "LOW": [
+      {
+        "headline": "What Will Decide Home Depot Stock Over The Next Six Months?",
+        "url": "https://finnhub.io/api/news?id=5e466fc64e9735c6fbdacfcf1d4b050eaa739e39db71dcedc1eafd81006d4ff9",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
+        "headline": "Home Depot Stock Rallies 20% in a Month: Is It Still a Buy?",
+        "url": "https://finnhub.io/api/news?id=caa030ac16f6af5cd1fb0605e55a99971bffa1a5c3cf121e174485a4af30ea94",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
       {
         "headline": "What Will Decide Home Depot Stock Over The Next Six Months?",
         "url": "https://finnhub.io/api/news?id=5e466fc64e9735c6fbdacfcf1d4b050eaa739e39db71dcedc1eafd81006d4ff9",
@@ -115,18 +127,6 @@
         "url": "https://finnhub.io/api/news?id=6a85062f0f518ff7d03d910d4cc615c42ddc31e03d81c6423338221ca1eb20b3",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-11-12T21:22:39.776191+00:00"
-      },
-      {
-        "headline": "Global Specialty Retailers Market Report 2026 | Capitalize on AI, Omnichannel and Premium Demand as Home Depot, Lowe's, TJX, Ingka and Ross Stores Target $700.43B Revenue Opportunity by 2030",
-        "url": "https://finnhub.io/api/news?id=63ca932090f766a0b48645d3666906a67d01e1e38741e2939094878daf736110",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      },
-      {
-        "headline": "Can Home Depot Sustain Comparable Sales Growth Amid Uneven Demand?",
-        "url": "https://finnhub.io/api/news?id=e3c99aacfd37cde49b58f13a3904ebecf55aa6cb7e4fec3392272f2bc25c3576",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       }
     ],
     "COST": [
@@ -199,18 +199,6 @@
         "url": "https://finnhub.io/api/news?id=c85d6b4ad2ae5d86248804a85faa67965c633dc2fcebdea7e881adec6f111bed",
         "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
         "detected_at": "2026-11-12T01:00:37.748577+00:00"
-      },
-      {
-        "headline": "Pfizer (PFE) Stock Looks Attractive for Income Investors",
-        "url": "https://finnhub.io/api/news?id=94e34770c53b3dcc96454415e43564b661a086c4894ced413d7b131c6ab83ec8",
-        "condition": "M&A พึ่งหนี้: net debt โต 2 เท่าใน 1 ปี ถ้าดีล (Intra-Cellular, Shockwave, Abiomed) ให้ ROIC ต่ำกว่าต้นทุนทุน จะกินกำไรหลายปี",
-        "detected_at": "2026-11-06T01:00:36.198058+00:00"
-      },
-      {
-        "headline": "Genmab nine-month revenue rises 22% as late-stage pipeline delivers",
-        "url": "https://finnhub.io/api/news?id=fe65e3a9e6df217d38ecea7cd830bcd85a835f6678fbfec3d533b4256c048f81",
-        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
-        "detected_at": "2026-11-06T01:00:36.198058+00:00"
       }
     ],
     "PG": [
@@ -303,18 +291,6 @@
         "url": "https://finnhub.io/api/news?id=111606acb56395a0a8ed538acb33630cdf7cb2326c1e3267da7077e2fb9fd9a4",
         "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
         "detected_at": "2026-11-06T20:19:03.545643+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences Presents New Tardive Dyskinesia Survey Results Showing Fewer Work and School Disruptions with INGREZZA® (valbenazine) Capsules",
-        "url": "https://finnhub.io/api/news?id=16f19646f7ef156e5cfcc8085ee2c6b09776a19504a2c0762ef3794babbd51a0",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-11-06T01:00:36.198058+00:00"
-      },
-      {
-        "headline": "Neurocrine Biosciences Releases Findings From New Survey Showing Adults With Tardive Dyskinesia Reported Fewer Disruptions To Work, School After Starting Treatment With INGREZZA Capsules",
-        "url": "https://finnhub.io/api/news?id=8ace2b5885b55cdd7025f1d2a5991d9560dabcaa02b9c9589e832a6ecf512b60",
-        "condition": "รายได้กระจุกตัวที่ยาตัวเดียวสูงมาก — INGREZZA เป็น 81% ของยอดขาย ถ้ามีปัญหาด้านความปลอดภัยยา (safety signal) หรือคู่แข่งออกยาใหม่ที่ดีกว่า รายได้บริษัทจะกระทบทันที",
-        "detected_at": "2026-11-06T01:00:36.198058+00:00"
       }
     ],
     "AMZN": [
@@ -421,12 +397,6 @@
         "url": "https://finnhub.io/api/news?id=14296384ad72ad69d8f55a00fa8666d70c75757bc841b48dedbdd37f12e3a753",
         "condition": "Real-time/A2P payments (FedNow, Pix, UPI) อาจ bypass card network ในบางตลาด/use case ระยะยาว",
         "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "GPN Q3 Earnings Beat Estimates on Genius Growth, Margins Rise",
-        "url": "https://finnhub.io/api/news?id=5a71d9e53ae3c532e0ca02766d7eb1f36eb52c84ba58eee73129b5c44a742e40",
-        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
-        "detected_at": "2026-11-06T01:00:36.198058+00:00"
       }
     ],
     "LAMR": [
@@ -491,6 +461,12 @@
     ],
     "BRK.B": [
       {
+        "headline": "Berkshire Hathaway (BRK.A) Got A 19.3% Q3 Earnings Lift From BNSF",
+        "url": "https://finnhub.io/api/news?id=ef388fd3c5ba3504d6a9bce6f27f26f25972ee207f64963380daa293048088df",
+        "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
         "headline": "How Berkshire Hathaway Performed Vs. Warren Buffett's 3 Main Goals",
         "url": "https://finnhub.io/api/news?id=2f3cd8496c055d16ad436dc3a5af4a56edb90fc1eb85cd60f62cdd288386cdf8",
         "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
@@ -513,15 +489,15 @@
         "url": "https://finnhub.io/api/news?id=9ba3ccbc813bfd181ba8d441907a57587fbce1ef4e6a16ee6c8abe84b41d2413",
         "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
         "detected_at": "2026-11-09T01:00:39.815782+00:00"
-      },
-      {
-        "headline": "Berkshire Hathaway (BRK.A) Formalizes Greg Abel Succession After Earnings Slip And $9.6 Billion Repurchase",
-        "url": "https://finnhub.io/api/news?id=29badd479b75bf6cb944fb0e6896909bf05728c6e71604621ff3b17086307a7f",
-        "condition": "net earnings noisy จาก mark-to-market — ต้องเข้าใจว่าดู operating earnings; พอร์ตกระจุกที่ Apple",
-        "detected_at": "2026-11-09T01:00:39.815782+00:00"
       }
     ],
     "UNH": [
+      {
+        "headline": "UnitedHealth Group (UNH) Stock Still Looks Below Fair Value After Board Appointment",
+        "url": "https://finnhub.io/api/news?id=762d0ca36119e558ccce919bb368afde4002cf14265f7b5a5f0cd180fab8d113",
+        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
       {
         "headline": "UnitedHealth Group (UNH) Stock Still Looks Below Fair Value After Board Appointment",
         "url": "https://finnhub.io/api/news?id=762d0ca36119e558ccce919bb368afde4002cf14265f7b5a5f0cd180fab8d113",
@@ -542,6 +518,12 @@
       }
     ],
     "KO": [
+      {
+        "headline": "Coca-Cola Stock Hits 52-Week High: Should You Buy Now or Wait?",
+        "url": "https://finnhub.io/api/news?id=63dd2ced977c45ae6518e783d76b70e4c53aa92b58d060c3e698405c6684abb2",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
       {
         "headline": "Coca-Cola Stock Hits 52-Week High: Should You Buy Now or Wait?",
         "url": "https://finnhub.io/api/news?id=63dd2ced977c45ae6518e783d76b70e4c53aa92b58d060c3e698405c6684abb2",
