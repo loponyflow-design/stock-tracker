@@ -1,0 +1,177 @@
+{
+  "last_updated": "2026-11-14T01:00:41.477882+00:00",
+  "alerts": {
+    "ARCC": [
+      {
+        "headline": "4 Ultra-High-Yield Dividend Stocks Paying Up to 16.6%. Are They Safe?",
+        "url": "https://finnhub.io/api/news?id=15abea6e81a420d13c1e3e05b5d76c1da2a78cca8c28c467b54497ed0269ef21",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
+        "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
+        "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
+        "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
+        "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-12T01:00:37.748577+00:00"
+      },
+      {
+        "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
+        "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      },
+      {
+        "headline": "5 High-Yield Dividend Stocks That Can Actually Afford Their Payouts",
+        "url": "https://finnhub.io/api/news?id=2d14055e196adf7f149f0c5243935bc52220d81bcbd38396d630e9079bffa620",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "5 Dividend Aristocrats and Kings to Consider if the Stock Market Sells Off",
+        "url": "https://finnhub.io/api/news?id=1056be4d229a3c33397f8044752b3bd386e1f604be8504846a376ddfc9d1113a",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-13T20:48:43.899131+00:00"
+      },
+      {
+        "headline": "Procter & Gamble vs. Starbucks: Which Stock Is a Better Buy for 2027?",
+        "url": "https://finnhub.io/api/news?id=8ff5c27e772e05a6ec76a078eb72598e02a611e0366dd71b90293d96131d01ba",
+        "condition": "Brand + Scale Economies — R&D/การตลาดต่อหน่วยถูกกว่าคู่แข่ง, pricing power สม่ำเสมอ, ครองชั้นวาง retailer",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
+        "headline": "Johnson & Johnson vs. Procter & Gamble: 64 and 70 Straight Years of Raises. Which Dividend King Pays You More Over the Next Decade?",
+        "url": "https://finnhub.io/api/news?id=f1929cb826d675efd4013034468666243f9e4cdd28b4413415651a97e9fd6fcb",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      },
+      {
+        "headline": "Johnson & Johnson vs. Procter & Gamble: 64 and 70 Straight Years of Raises. Which Dividend King Pays You More Over the Next Decade?",
+        "url": "https://finnhub.io/api/news?id=f1929cb826d675efd4013034468666243f9e4cdd28b4413415651a97e9fd6fcb",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-12T21:22:39.776191+00:00"
+      },
+      {
+        "headline": "After the Democratic Midterm Sweep: 4 Dividend Stocks Built for Gridlock",
+        "url": "https://finnhub.io/api/news?id=00e0b213f324e8133296891e45898b7fe18155b32197d7c3b59702a184f4a11f",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-10T01:00:38.278647+00:00"
+      }
+    ],
+    "LOW": [
+      {
+        "headline": "4 Dividend Kings That Kept Raising Payouts Through Recessions and High Interest Rates",
+        "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-14T01:00:41.477882+00:00"
+      },
+      {
+        "headline": "4 Dividend Kings That Kept Raising Payouts Through Recessions and High Interest Rates",
+        "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-13T20:48:43.899131+00:00"
+      },
+      {
+        "headline": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
+        "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-08T01:00:40.654954+00:00"
+      },
+      {
+        "headline": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
+        "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-07T18:35:15.810462+00:00"
+      },
+      {
+        "headline": "Lowe’s Just Paid Another Dividend. Its 64-Year Streak Is the Real Story",
+        "url": "https://finnhub.io/api/news?id=25c774c2b58ee71495c0c0806356e7d41a98fe9685fe36dcd3968cca73339779",
+        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
+        "detected_at": "2026-11-07T18:35:15.810462+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Visa Inc. (V) Presents at KBW Fintech Ecosystem Conference 2026 Transcript",
+        "url": "https://finnhub.io/api/news?id=8c234c6b393f1ed6a0ad1f194308d3d994876da6cf9e219bd4077861f54aa38a",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      },
+      {
+        "headline": "PayPal’s (PYPL) Turnaround Still Needs Proof",
+        "url": "https://finnhub.io/api/news?id=86e4e8396f40f1341092a562656e4b121fc0a9abfdfd7c5adb3fab1990490f87",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-11-10T01:00:38.278647+00:00"
+      },
+      {
+        "headline": "PayPal’s (PYPL) Turnaround Still Needs Proof",
+        "url": "https://finnhub.io/api/news?id=86e4e8396f40f1341092a562656e4b121fc0a9abfdfd7c5adb3fab1990490f87",
+        "condition": "Network Economies + Scale + Brand ที่แทบลอกเลียนไม่ได้ — duopoly กับ Mastercard, สร้างมาหลายสิบปี; secular tailwind จาก cash → digital ทั่วโลกยังเหลือ runway ยาว",
+        "detected_at": "2026-11-09T23:19:48.279927+00:00"
+      }
+    ],
+    "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-14T01:00:41.477882+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-14T01:00:41.477882+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-13T20:48:43.899131+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-13T20:48:43.899131+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-13T01:00:40.870954+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Legend Biotech's Carvykti Positioned to Sustain Growth Into 2027, RBC Capital Markets Says",
+        "url": "https://finnhub.io/api/news?id=c4654256af7671e6d53199c92a2c3ae45b86210cc8ecfa15dbcb2ecb365d2466",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-11-11T21:10:12.058107+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Rubrik Stock Gets Cloud Backup Service and AI Cyber Podcast",
+        "url": "https://finnhub.io/api/news?id=7c6edb8dd51cc10f8f89543276a874b568edcadaf4f606fec610b8b4e34e76da",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-11-07T18:35:15.810462+00:00"
+      }
+    ],
+    "ANET": [
+      {
+        "headline": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
+        "url": "https://finnhub.io/api/news?id=817f7342136799b8aa2b4960d986003382dac67685839d83148aed84690a3764",
+        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
+        "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      }
+    ]
+  }
+}

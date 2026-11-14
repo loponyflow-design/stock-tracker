@@ -1,0 +1,169 @@
+{
+  "us": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc."
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc."
+    },
+    {
+      "ticker": "AGNG",
+      "name": "Global X Aging Population ETF"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks"
+    },
+    {
+      "ticker": "ARCC",
+      "name": "Ares Capital Corporation"
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings plc"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom"
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway Inc. (Class B)"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corporation"
+    },
+    {
+      "ticker": "DHI",
+      "name": "D.R. Horton, Inc."
+    },
+    {
+      "ticker": "GE",
+      "name": "GE Aerospace"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc. (Google)"
+    },
+    {
+      "ticker": "HEI.A",
+      "name": "HEICO Corporation (Class A)"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson"
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company"
+    },
+    {
+      "ticker": "LAMR",
+      "name": "Lamar Advertising Company"
+    },
+    {
+      "ticker": "LEN",
+      "name": "Lennar Corporation"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Companies, Inc."
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation"
+    },
+    {
+      "ticker": "NBIX",
+      "name": "Neurocrine Biosciences"
+    },
+    {
+      "ticker": "NDSN",
+      "name": "Nordson Corporation"
+    },
+    {
+      "ticker": "NUE",
+      "name": "Nucor Corporation"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation"
+    },
+    {
+      "ticker": "O",
+      "name": "Realty Income Corporation"
+    },
+    {
+      "ticker": "PG",
+      "name": "The Procter & Gamble Company"
+    },
+    {
+      "ticker": "RBRK",
+      "name": "Rubrik, Inc."
+    },
+    {
+      "ticker": "RH",
+      "name": "RH (Restoration Hardware)"
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SpaceX"
+    },
+    {
+      "ticker": "STAG",
+      "name": "STAG Industrial, Inc."
+    },
+    {
+      "ticker": "STZ",
+      "name": "Constellation Brands"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc."
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing (TSMC)"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Incorporated"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc."
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp."
+    }
+  ],
+  "th": [
+    {
+      "ticker": "PTT",
+      "name": "PTT",
+      "symbol": "PTT.BK"
+    },
+    {
+      "ticker": "KBANK",
+      "name": "KBank",
+      "symbol": "KBANK.BK"
+    },
+    {
+      "ticker": "AOT",
+      "name": "Airports of Thailand",
+      "symbol": "AOT.BK"
+    }
+  ]
+}
