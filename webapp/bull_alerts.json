@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T01:00:41.477882+00:00",
+  "last_updated": "2026-11-14T18:59:16.565542+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -83,21 +83,15 @@
         "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-11-08T01:00:40.654954+00:00"
-      },
-      {
-        "headline": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
-        "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
-      },
-      {
-        "headline": "Lowe’s Just Paid Another Dividend. Its 64-Year Streak Is the Real Story",
-        "url": "https://finnhub.io/api/news?id=25c774c2b58ee71495c0c0806356e7d41a98fe9685fe36dcd3968cca73339779",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
       }
     ],
     "V": [
+      {
+        "headline": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
+        "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-14T18:59:16.565542+00:00"
+      },
       {
         "headline": "Visa Inc. (V) Presents at KBW Fintech Ecosystem Conference 2026 Transcript",
         "url": "https://finnhub.io/api/news?id=8c234c6b393f1ed6a0ad1f194308d3d994876da6cf9e219bd4077861f54aa38a",
@@ -122,6 +116,18 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-14T18:59:16.565542+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-14T18:59:16.565542+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-14T01:00:41.477882+00:00"
       },
       {
@@ -135,18 +141,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       }
     ],
     "JNJ": [
@@ -155,14 +149,6 @@
         "url": "https://finnhub.io/api/news?id=c4654256af7671e6d53199c92a2c3ae45b86210cc8ecfa15dbcb2ecb365d2466",
         "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
         "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      }
-    ],
-    "RBRK": [
-      {
-        "headline": "Rubrik Stock Gets Cloud Backup Service and AI Cyber Podcast",
-        "url": "https://finnhub.io/api/news?id=7c6edb8dd51cc10f8f89543276a874b568edcadaf4f606fec610b8b4e34e76da",
-        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
-        "detected_at": "2026-11-07T18:35:15.810462+00:00"
       }
     ],
     "ANET": [
