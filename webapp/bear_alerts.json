@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-16T01:00:37.579307+00:00",
+  "last_updated": "2026-11-16T23:16:29.241832+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "What's dragging down the S&P 500? Apple in focus",
+        "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
       {
         "headline": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
         "url": "https://finnhub.io/api/news?id=1fc1d13f73bcf983a5eb38cc36c23709e38240955653931730eeff6a5cf85c19",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=242a7046fc8d208a6f5f0055144d31da3696a301b7c4d375bc47969255ca78b4",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-13T01:00:40.870954+00:00"
-      },
-      {
-        "headline": "What Is Going on With Apple Stock on Thursday?",
-        "url": "https://finnhub.io/api/news?id=ab065eb8c17210bd0c1584ae88f57bf29683dd0157eeec4d7d4e6a1a19cc1a96",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Tesla's Cybertruck exit reveals an expensive gamble",
+        "url": "https://finnhub.io/api/news?id=1ea6eb5c06002ff01c9bd2805d9002b02a6c96e47432d2bc31f45b8e34c3dc30",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
       {
         "headline": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
         "url": "https://finnhub.io/api/news?id=d6da09e81d986bd3e0e36c533b314401a7763bf13c8fad26304d4c785bce04ec",
@@ -55,12 +61,6 @@
       {
         "headline": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
         "url": "https://finnhub.io/api/news?id=1f79e4195114993cee92157d7a418ddd5f20890d4ef7e5497e0321b2ce899249",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
-      },
-      {
-        "headline": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
-        "url": "https://finnhub.io/api/news?id=46a8d4fac9cd14a2a54c3ab392f2bee87cabf97174c3b5fdb6e0e9cca0025391",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-15T01:00:35.340106+00:00"
       }
@@ -99,34 +99,34 @@
     ],
     "LOW": [
       {
+        "headline": "Earnings to watch: NVIDIA, Walmart, Home Depot and more report this week",
+        "url": "https://finnhub.io/api/news?id=d662e64834b2e5ba460065d63978a69f1b49b4bfa5e9029fdf199dbc4589bbdb",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
+        "headline": "Home Depot, Lowe's Q3 Results Likely to Dampen Recovery Expectations, Oppenheimer Says",
+        "url": "https://finnhub.io/api/news?id=60a4447210dda2a7febbf2322c3fec7e6cb611c413c91f81efe1e8d18131b453",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
+        "headline": "Home Depot Accelerates Express Delivery: Can It Fuel Growth?",
+        "url": "https://finnhub.io/api/news?id=f7e110bb63432a491020f6205b8a5b4ccbe3d786675f296c93942b8cbee3b77e",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
+        "headline": "Home Depot Is Beating Lowe’s. The November 17 Report Has to Show It in Margins",
+        "url": "https://finnhub.io/api/news?id=3ca03bd7649e1b236d797a413413aa4669ac254445ebb9c50d4569addbf5ad77",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
         "headline": "Home Sales Just Sank to a 16-Year Low. Here’s What This Means for Home Depot and Lowe’s Investors.",
         "url": "https://finnhub.io/api/news?id=2bf28d9333412c3cca34765974a2c4943c9fe95bf19910e026b3edf503ba6082",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
         "detected_at": "2026-11-16T01:00:37.579307+00:00"
-      },
-      {
-        "headline": "Home Depot or Lowe’s: Which Dividend Grower Wins for Long-Term Income?",
-        "url": "https://finnhub.io/api/news?id=b2e020e3d84ab51daf5400b541e7b2ab21460686881bd3671a2503ec3140ad73",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-14T18:59:16.565542+00:00"
-      },
-      {
-        "headline": "Home Depot or Lowe’s: Which Dividend Grower Wins for Long-Term Income?",
-        "url": "https://finnhub.io/api/news?id=b2e020e3d84ab51daf5400b541e7b2ab21460686881bd3671a2503ec3140ad73",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "Buy Home Depot or Lowe's Stock Ahead of Much-Anticipated Q3 Results?",
-        "url": "https://finnhub.io/api/news?id=3f2ea0864d5dd3037a43a2345ccf668f2310e3f0ff5ddd5bfe8031ed0e9006b3",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "Lowe’s Stock Cut to Sell as It Struggles to Catch Up to Home Depot",
-        "url": "https://finnhub.io/api/news?id=1a889fb1bba67812c937410d1122dc068c53afe8bb7b3a22e607a8f265615464",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
       }
     ],
     "COST": [
@@ -163,6 +163,18 @@
     ],
     "TSM": [
       {
+        "headline": "What TSMC Doubters Got Wrong",
+        "url": "https://finnhub.io/api/news?id=12183ee6583e4b1e8da8fa6589478f431e2ed8eb4a786e4b00f51de9671d13bc",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
+        "headline": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+        "url": "https://finnhub.io/api/news?id=9b2c440a0d82812c2cceeb0a9631e38ed603c520785148cd07064298d7e0336c",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
         "headline": "“Being Prudent”: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
         "url": "https://finnhub.io/api/news?id=7dc3e9387df243b4e3b1fac44783ea6562534f91ac24ac24050b69da3a55306e",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -179,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=5f9d5b09bac11ab8b620850577d34082f5b1ad104ce2721c9e77ff1355a142ef",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-14T18:59:16.565542+00:00"
-      },
-      {
-        "headline": "TSMC Confirms Employee Data Leak Through Cloud Provider, Hackers Reportedly Demand 3 Bitcoins to Withhold 46,000 Records",
-        "url": "https://finnhub.io/api/news?id=5f9d5b09bac11ab8b620850577d34082f5b1ad104ce2721c9e77ff1355a142ef",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "TSMC Confirms Employee Data Leak Through Cloud Provider, Hackers Reportedly Demand 3 Bitcoins to Withhold 46,000 Records",
-        "url": "https://finnhub.io/api/news?id=5f9d5b09bac11ab8b620850577d34082f5b1ad104ce2721c9e77ff1355a142ef",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
       }
     ],
     "JNJ": [
@@ -451,6 +451,12 @@
     ],
     "KO": [
       {
+        "headline": "WisdomTree U.S. Dividend Growth (DGRW) Adds Microsoft and Nvidia on Nov. 12",
+        "url": "https://finnhub.io/api/news?id=c7aa21c941604787be28ac6c875d7cf9d92425d6190d75c5dd0850fdd0d1fd2b",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
+      {
         "headline": "Got $1,000 to Invest? Skip Coca-Cola and PepsiCo. This 4%-Yielding Dividend Stock Could Deliver a 160% Return in 10 Years.",
         "url": "https://finnhub.io/api/news?id=4c29bbdff567231556af9b75329c0ec5038a9d0d203bcac43eca5814353f20a8",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
@@ -473,12 +479,6 @@
         "url": "https://finnhub.io/api/news?id=63dd2ced977c45ae6518e783d76b70e4c53aa92b58d060c3e698405c6684abb2",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-11-13T01:00:40.870954+00:00"
-      },
-      {
-        "headline": "Coca-Cola Stock Hits 52-Week High: Should You Buy Now or Wait?",
-        "url": "https://finnhub.io/api/news?id=63dd2ced977c45ae6518e783d76b70e4c53aa92b58d060c3e698405c6684abb2",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-11-12T21:22:39.776191+00:00"
       }
     ],
     "AMZN": [

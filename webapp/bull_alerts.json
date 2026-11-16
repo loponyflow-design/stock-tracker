@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-16T01:00:37.579307+00:00",
+  "last_updated": "2026-11-16T23:16:29.241832+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "3 Financial Stocks to Buy That Pay You 10% to 17% a Year in Dividends",
+        "url": "https://finnhub.io/api/news?id=beb6b25dd6fbefddc8dffad865b294b70b9f453f36a75a2999bafb9685862982",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+      },
       {
         "headline": "A $1 Million Dividend Portfolio Could Pay You $40,000 a Year. A Roth IRA Changes What You Keep",
         "url": "https://finnhub.io/api/news?id=feec815947569aff57fa2432fb55ed55f2434e112f051917d929104726aff0fb",
@@ -25,12 +31,6 @@
         "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-12T21:22:39.776191+00:00"
-      },
-      {
-        "headline": "11% Dividend Yield: What The Market Misses About My Biggest Position",
-        "url": "https://finnhub.io/api/news?id=be4de114cae0f523d3bc48a41c664a3a411fb9b9f7ff3bd409e1b6f5b3cb2bf3",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-12T01:00:37.748577+00:00"
       }
     ],
     "PG": [
