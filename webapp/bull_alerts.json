@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T01:00:35.340106+00:00",
+  "last_updated": "2026-11-16T01:00:37.579307+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -77,12 +77,6 @@
         "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
-        "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-11-08T01:00:40.654954+00:00"
       }
     ],
     "V": [
@@ -122,6 +116,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-16T01:00:37.579307+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-15T01:00:35.340106+00:00"
       },
       {
@@ -141,12 +141,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "หุ้นไทยวันนี้บวกบาง 1.24 จุด PTT-PTTEP นำตลาด ระวังผันผวนข้ามวันหยุด - Thansettakij",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WFdvZlZJZ2FER0Vmb1gwNFhrYWVIcEdXZlBBQTF4cEV3ajBtQXcyaTl6OUtZMGV3YjFiQ1M5WmhhS2ppUGg2eUl0NEZfMWVlTnNKZ0VwSnRXZjRTRXJHUU1wd0R0UQ?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
       }
     ],
     "JNJ": [
@@ -163,6 +157,14 @@
         "url": "https://finnhub.io/api/news?id=817f7342136799b8aa2b4960d986003382dac67685839d83148aed84690a3764",
         "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
         "detected_at": "2026-11-11T01:00:39.348761+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "Broadcom Heads 3 Top Growth Stocks To Watch",
+        "url": "https://finnhub.io/api/news?id=e56632803684741cf9bff40d6927be171b96e0b7952176dd03aea934bb652645",
+        "condition": "โมเดล asset-light + FCF สูง ทำให้จัดสรรทุนได้ยืดหยุ่น ทั้งลดหนี้ คืนผู้ถือหุ้น และลงทุน R&D ต่อได้พร้อมกัน",
+        "detected_at": "2026-11-16T01:00:37.579307+00:00"
       }
     ]
   }
