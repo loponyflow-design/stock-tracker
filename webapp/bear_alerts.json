@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-16T23:16:29.241832+00:00",
+  "last_updated": "2026-11-17T01:00:39.646988+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought",
+        "url": "https://finnhub.io/api/news?id=2c187bcc0c45d3792e728d697d5ab75445f40c510d0907866e90edf00973ed69",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
+      },
+      {
+        "headline": "What's dragging down the S&P 500? Apple in focus",
+        "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
+      },
       {
         "headline": "What's dragging down the S&P 500? Apple in focus",
         "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=983dcf7597b733fd15c5c76fa71ee7fc2ac93d041eaa8ae602c66611345117d7",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "JardogsHealth Forms Strategic Advisory Council with Leaders from Discover Card, MTV, DoorDash and Apple",
-        "url": "https://finnhub.io/api/news?id=c99e731e60cdb317644485ff1663b58a20953d1d9f778163fce7d13394ec8432",
-        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "China Renaissance Upgraded Apple (AAPL) to Buy. DZ Bank Cut It to Sell. Here’s the Split",
-        "url": "https://finnhub.io/api/news?id=242a7046fc8d208a6f5f0055144d31da3696a301b7c4d375bc47969255ca78b4",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Tesla's Cybertruck exit reveals an expensive gamble",
+        "url": "https://finnhub.io/api/news?id=1ea6eb5c06002ff01c9bd2805d9002b02a6c96e47432d2bc31f45b8e34c3dc30",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
+      },
       {
         "headline": "Tesla's Cybertruck exit reveals an expensive gamble",
         "url": "https://finnhub.io/api/news?id=1ea6eb5c06002ff01c9bd2805d9002b02a6c96e47432d2bc31f45b8e34c3dc30",
@@ -55,12 +61,6 @@
       {
         "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
         "url": "https://finnhub.io/api/news?id=f6700a3820f7bffdb5ef4d4afe02f0db8ccf4aa43ba905ca70b0ebec1b4ed931",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
-      },
-      {
-        "headline": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-        "url": "https://finnhub.io/api/news?id=1f79e4195114993cee92157d7a418ddd5f20890d4ef7e5497e0321b2ce899249",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-15T01:00:35.340106+00:00"
       }
@@ -99,34 +99,34 @@
     ],
     "LOW": [
       {
+        "headline": "Home Depot Earnings Will Test If Home Improvement Can Outrun a Sluggish Housing Market",
+        "url": "https://finnhub.io/api/news?id=48ad1db7f54ce4f94df62d98598681023f34d36b7f440daf2e44ae6531f8b4c2",
+        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
+      },
+      {
         "headline": "Earnings to watch: NVIDIA, Walmart, Home Depot and more report this week",
         "url": "https://finnhub.io/api/news?id=d662e64834b2e5ba460065d63978a69f1b49b4bfa5e9029fdf199dbc4589bbdb",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       },
       {
         "headline": "Home Depot, Lowe's Q3 Results Likely to Dampen Recovery Expectations, Oppenheimer Says",
         "url": "https://finnhub.io/api/news?id=60a4447210dda2a7febbf2322c3fec7e6cb611c413c91f81efe1e8d18131b453",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       },
       {
         "headline": "Home Depot Accelerates Express Delivery: Can It Fuel Growth?",
         "url": "https://finnhub.io/api/news?id=f7e110bb63432a491020f6205b8a5b4ccbe3d786675f296c93942b8cbee3b77e",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-16T23:16:29.241832+00:00"
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       },
       {
         "headline": "Home Depot Is Beating Lowe’s. The November 17 Report Has to Show It in Margins",
         "url": "https://finnhub.io/api/news?id=3ca03bd7649e1b236d797a413413aa4669ac254445ebb9c50d4569addbf5ad77",
         "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-16T23:16:29.241832+00:00"
-      },
-      {
-        "headline": "Home Sales Just Sank to a 16-Year Low. Here’s What This Means for Home Depot and Lowe’s Investors.",
-        "url": "https://finnhub.io/api/news?id=2bf28d9333412c3cca34765974a2c4943c9fe95bf19910e026b3edf503ba6082",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-16T01:00:37.579307+00:00"
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       }
     ],
     "COST": [
@@ -237,18 +237,6 @@
         "url": "https://finnhub.io/api/news?id=01f27d753b648a3a3900ba77abc28bf2e166550ba61d52354d72c2facaab9169",
         "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
         "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "Is Procter & Gamble's Beauty Momentum Enough to Lift Growth?",
-        "url": "https://finnhub.io/api/news?id=51f2f8f958ff91f4abac0b716189e29532bb0dd66600b55edd0955709d47779c",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Is Procter & Gamble's Beauty Momentum Enough to Lift Growth?",
-        "url": "https://finnhub.io/api/news?id=51f2f8f958ff91f4abac0b716189e29532bb0dd66600b55edd0955709d47779c",
-        "condition": "Growth ช้า — organic 0–4%; ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง margin + dividend + buyback; ถ้าซื้อที่ valuation premium สูง upside จำกัด",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "ABBV": [
@@ -271,18 +259,6 @@
         "url": "https://finnhub.io/api/news?id=a558fe8c14c30f0788a7e0376e35d4184aa965b3b6f6c280d89867d4101c3ad9",
         "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
-      },
-      {
-        "headline": "Boeing to Lay Off Workers, Report Says, Even as It Struggles to Build More Planes",
-        "url": "https://finnhub.io/api/news?id=a558fe8c14c30f0788a7e0376e35d4184aa965b3b6f6c280d89867d4101c3ad9",
-        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Boeing to Lay Off Workers, Report Says, Even as It Struggles to Build More Planes",
-        "url": "https://finnhub.io/api/news?id=a558fe8c14c30f0788a7e0376e35d4184aa965b3b6f6c280d89867d4101c3ad9",
-        "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "RBRK": [
@@ -345,20 +321,6 @@
         "detected_at": "2026-11-10T20:44:35.181456+00:00"
       }
     ],
-    "V": [
-      {
-        "headline": "Visa Sees 20%‑Plus Services Growth as U.S. Payment Volumes Gain Momentum",
-        "url": "https://finnhub.io/api/news?id=3bb586f2e428fcd179cbdf47a499bdcf81379d1406ddb54b04ccfc3d018dc909",
-        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Visa Sees 20%‑Plus Services Growth as U.S. Payment Volumes Gain Momentum",
-        "url": "https://finnhub.io/api/news?id=3bb586f2e428fcd179cbdf47a499bdcf81379d1406ddb54b04ccfc3d018dc909",
-        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
-      }
-    ],
     "LAMR": [
       {
         "headline": "Billboards and Cell Towers Collect Rent From Brands and Carriers, and $120,000 Across These 3 Stocks Pays $5,077 a Year",
@@ -383,12 +345,6 @@
         "url": "https://finnhub.io/api/news?id=e10b8b7663d556f0d6e44c5b98dc7f02402b9cd11ec56a074d87030e6cc23d95",
         "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
         "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      },
-      {
-        "headline": "Blue Wave Fuels REIT Rally",
-        "url": "https://finnhub.io/api/news?id=339f72684beedd7d743f3f576702c1d359f57dd3bbda267e59e17cc92ae9a3b6",
-        "condition": "REIT — ผูกดอกเบี้ย (interest expense $160M + valuation); rate สูงกด refinance cost + multiple",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "BRK.B": [
@@ -409,18 +365,6 @@
         "url": "https://finnhub.io/api/news?id=2f3cd8496c055d16ad436dc3a5af4a56edb90fc1eb85cd60f62cdd288386cdf8",
         "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
         "detected_at": "2026-11-12T21:22:39.776191+00:00"
-      },
-      {
-        "headline": "Berkshire Hathaway Reports 5.8% Decline in Q3 Operating Earnings to $12.71 Billion",
-        "url": "https://finnhub.io/api/news?id=bd1a057fcedbf1978ef587593cd792c78638a22fbc709624e723b5ffd320062a",
-        "condition": "net earnings noisy จาก mark-to-market — ต้องเข้าใจว่าดู operating earnings; พอร์ตกระจุกที่ Apple",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Berkshire Hathaway Reports 5.8% Decline in Q3 Operating Earnings to $12.71 Billion",
-        "url": "https://finnhub.io/api/news?id=bd1a057fcedbf1978ef587593cd792c78638a22fbc709624e723b5ffd320062a",
-        "condition": "net earnings noisy จาก mark-to-market — ต้องเข้าใจว่าดู operating earnings; พอร์ตกระจุกที่ Apple",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "UNH": [
@@ -435,21 +379,15 @@
         "url": "https://finnhub.io/api/news?id=762d0ca36119e558ccce919bb368afde4002cf14265f7b5a5f0cd180fab8d113",
         "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
         "detected_at": "2026-11-12T21:22:39.776191+00:00"
-      },
-      {
-        "headline": "Leaner and Meaner: Are UNH's Profits Getting Bigger? Buy Now?",
-        "url": "https://finnhub.io/api/news?id=9f06c18e0696b3357c27ef4f4c3affed4b24437800204f20e81b902b0547826f",
-        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
-        "detected_at": "2026-11-10T01:00:38.278647+00:00"
-      },
-      {
-        "headline": "Leaner and Meaner: Are UNH's Profits Getting Bigger? Buy Now?",
-        "url": "https://finnhub.io/api/news?id=9f06c18e0696b3357c27ef4f4c3affed4b24437800204f20e81b902b0547826f",
-        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
-        "detected_at": "2026-11-09T23:19:48.279927+00:00"
       }
     ],
     "KO": [
+      {
+        "headline": "WisdomTree U.S. Dividend Growth (DGRW) Adds Microsoft and Nvidia on Nov. 12",
+        "url": "https://finnhub.io/api/news?id=c7aa21c941604787be28ac6c875d7cf9d92425d6190d75c5dd0850fdd0d1fd2b",
+        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
+        "detected_at": "2026-11-17T01:00:39.646988+00:00"
+      },
       {
         "headline": "WisdomTree U.S. Dividend Growth (DGRW) Adds Microsoft and Nvidia on Nov. 12",
         "url": "https://finnhub.io/api/news?id=c7aa21c941604787be28ac6c875d7cf9d92425d6190d75c5dd0850fdd0d1fd2b",
@@ -473,12 +411,6 @@
         "url": "https://finnhub.io/api/news?id=01f27d753b648a3a3900ba77abc28bf2e166550ba61d52354d72c2facaab9169",
         "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
         "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "Coca-Cola Stock Hits 52-Week High: Should You Buy Now or Wait?",
-        "url": "https://finnhub.io/api/news?id=63dd2ced977c45ae6518e783d76b70e4c53aa92b58d060c3e698405c6684abb2",
-        "condition": "Growth ช้า — organic 4–5% ไม่ใช่หุ้นโตเร็ว ผลตอบแทนพึ่ง dividend + buyback เป็นหลัก; ถ้าซื้อแพงเกินไป upside จำกัด",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       }
     ],
     "AMZN": [
