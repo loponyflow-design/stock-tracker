@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:07:20.010236+00:00",
+  "last_updated": "2026-11-18T01:00:37.088754+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,18 @@
         "headline": "Charlie Bilello Calls Leveraged Single-Stock ETFs ‘One of the Worst Financial Innovations’",
         "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-18T01:00:37.088754+00:00"
+      },
+      {
+        "headline": "3 Bulletproof Passive Income Dividend Kings to Buy and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=c0d82588da86f55d4f66346b00e09120e9e25692f97673db76391cf6e3490423",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-18T01:00:37.088754+00:00"
+      },
+      {
+        "headline": "Charlie Bilello Calls Leveraged Single-Stock ETFs ‘One of the Worst Financial Innovations’",
+        "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
       },
       {
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=1056be4d229a3c33397f8044752b3bd386e1f604be8504846a376ddfc9d1113a",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-13T20:48:43.899131+00:00"
-      },
-      {
-        "headline": "Procter & Gamble vs. Starbucks: Which Stock Is a Better Buy for 2027?",
-        "url": "https://finnhub.io/api/news?id=8ff5c27e772e05a6ec76a078eb72598e02a611e0366dd71b90293d96131d01ba",
-        "condition": "Brand + Scale Economies — R&D/การตลาดต่อหน่วยถูกกว่าคู่แข่ง, pricing power สม่ำเสมอ, ครองชั้นวาง retailer",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
-      },
-      {
-        "headline": "Johnson & Johnson vs. Procter & Gamble: 64 and 70 Straight Years of Raises. Which Dividend King Pays You More Over the Next Decade?",
-        "url": "https://finnhub.io/api/news?id=f1929cb826d675efd4013034468666243f9e4cdd28b4413415651a97e9fd6fcb",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       }
     ],
     "LOW": [
