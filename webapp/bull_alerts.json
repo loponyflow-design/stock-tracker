@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-18T01:00:37.088754+00:00",
+  "last_updated": "2026-11-18T21:45:18.924856+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "5 “Forever Income” Dividend Stocks Yielding 5% and More for Boomers",
+        "url": "https://finnhub.io/api/news?id=5d5672ae65ecafbd5d1594fccde72024371ae3d6818af5b5d970e8e7c0e964ce",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      },
+      {
+        "headline": "A 63-Year-Old Swapped JEPI for GPIX in a $995,000 Portfolio. Here’s What Happened to Her $5,348 Monthly Paycheck",
+        "url": "https://finnhub.io/api/news?id=2fe761d1195b0c65b580b7453dc1563500f5e50c443b1da78b0fdff5fcc44c64",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      },
+      {
+        "headline": "5 Dividend Stocks Yielding Over 5% to Hide in Your Roth IRA",
+        "url": "https://finnhub.io/api/news?id=7579553a990d34740ce178a91029e376f1157ffbf83078ac364fef27cc4410bd",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      },
       {
         "headline": "The IRS Takes Up to 37% of These 5 BDC Dividends (Unless You Move Them)",
         "url": "https://finnhub.io/api/news?id=7b1698dd7397e8856e6978440dd7c37cdd7c2cf89a2ef6ead801dac870a8bfcd",
@@ -13,24 +31,6 @@
         "url": "https://finnhub.io/api/news?id=d8f6e1afb9fd8299e3cd367a6cc7e4569654a23808191581aad509dda9198865",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      },
-      {
-        "headline": "3 Financial Stocks to Buy That Pay You 10% to 17% a Year in Dividends",
-        "url": "https://finnhub.io/api/news?id=beb6b25dd6fbefddc8dffad865b294b70b9f453f36a75a2999bafb9685862982",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-16T23:16:29.241832+00:00"
-      },
-      {
-        "headline": "A $1 Million Dividend Portfolio Could Pay You $40,000 a Year. A Roth IRA Changes What You Keep",
-        "url": "https://finnhub.io/api/news?id=feec815947569aff57fa2432fb55ed55f2434e112f051917d929104726aff0fb",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
-      },
-      {
-        "headline": "$100,000 in These 2 Dividend Stocks Could Pay Over $10,000 a Year",
-        "url": "https://finnhub.io/api/news?id=e15dbc0315359a90b3c041f6e57811b052179c4966459660c7999d789b7e89ba",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
       }
     ],
     "PG": [
@@ -81,6 +81,12 @@
     ],
     "V": [
       {
+        "headline": "Visa vs. American Express: Which Stock Has More Growth Potential?",
+        "url": "https://finnhub.io/api/news?id=0d5c329978ec53368481fd278e86f462977316672eea5702cce4d7a39ebabc41",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      },
+      {
         "headline": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
         "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
@@ -91,15 +97,15 @@
         "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-11-14T18:59:16.565542+00:00"
-      },
-      {
-        "headline": "Visa Inc. (V) Presents at KBW Fintech Ecosystem Conference 2026 Transcript",
-        "url": "https://finnhub.io/api/news?id=8c234c6b393f1ed6a0ad1f194308d3d994876da6cf9e219bd4077861f54aa38a",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -123,28 +129,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-15T01:00:35.340106+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-14T18:59:16.565542+00:00"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "Legend Biotech's Carvykti Positioned to Sustain Growth Into 2027, RBC Capital Markets Says",
-        "url": "https://finnhub.io/api/news?id=c4654256af7671e6d53199c92a2c3ae45b86210cc8ecfa15dbcb2ecb365d2466",
-        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
-        "detected_at": "2026-11-11T21:10:12.058107+00:00"
-      }
-    ],
-    "ANET": [
-      {
-        "headline": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
-        "url": "https://finnhub.io/api/news?id=817f7342136799b8aa2b4960d986003382dac67685839d83148aed84690a3764",
-        "condition": "Switching cost สูงในระดับ infrastructure — เครือข่าย data center ที่ลูกค้าสร้างบน EOS ของ Arista ผูกกับ software stack และ workflow การจัดการเครือข่ายทั้งหมด เปลี่ยนซัพพลายเออร์ต้องออกแบบ/ทดสอบใหม่ทั้งระบบ",
-        "detected_at": "2026-11-11T01:00:39.348761+00:00"
       }
     ],
     "AVGO": [
@@ -153,6 +137,14 @@
         "url": "https://finnhub.io/api/news?id=e56632803684741cf9bff40d6927be171b96e0b7952176dd03aea934bb652645",
         "condition": "โมเดล asset-light + FCF สูง ทำให้จัดสรรทุนได้ยืดหยุ่น ทั้งลดหนี้ คืนผู้ถือหุ้น และลงทุน R&D ต่อได้พร้อมกัน",
         "detected_at": "2026-11-16T01:00:37.579307+00:00"
+      }
+    ],
+    "LEN": [
+      {
+        "headline": "Lennar: A Contrarian Buy As Cost Cuts And Land-Light Shift Positions It Well For Recovery",
+        "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-11-18T21:45:18.924856+00:00"
       }
     ]
   }
