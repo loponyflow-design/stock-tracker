@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-18T21:45:18.924856+00:00",
+  "last_updated": "2026-11-19T01:00:41.185666+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "A December Rate Hike Looks Likely: Buy These 3 Dividend Stocks That Earn More When Rates Rise",
+        "url": "https://finnhub.io/api/news?id=d82d3fe7be9f9976ba82a0f486392cba1d24d01eece7ba89862d1271ddd9aef2",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-19T01:00:41.185666+00:00"
+      },
       {
         "headline": "5 “Forever Income” Dividend Stocks Yielding 5% and More for Boomers",
         "url": "https://finnhub.io/api/news?id=5d5672ae65ecafbd5d1594fccde72024371ae3d6818af5b5d970e8e7c0e964ce",
@@ -23,12 +29,6 @@
       {
         "headline": "The IRS Takes Up to 37% of These 5 BDC Dividends (Unless You Move Them)",
         "url": "https://finnhub.io/api/news?id=7b1698dd7397e8856e6978440dd7c37cdd7c2cf89a2ef6ead801dac870a8bfcd",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      },
-      {
-        "headline": "Here is What to Know Beyond Why Ares Capital Corporation (ARCC) is a Trending Stock",
-        "url": "https://finnhub.io/api/news?id=d8f6e1afb9fd8299e3cd367a6cc7e4569654a23808191581aad509dda9198865",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
       }
@@ -84,6 +84,12 @@
         "headline": "Visa vs. American Express: Which Stock Has More Growth Potential?",
         "url": "https://finnhub.io/api/news?id=0d5c329978ec53368481fd278e86f462977316672eea5702cce4d7a39ebabc41",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
+        "detected_at": "2026-11-19T01:00:41.185666+00:00"
+      },
+      {
+        "headline": "Visa vs. American Express: Which Stock Has More Growth Potential?",
+        "url": "https://finnhub.io/api/news?id=0d5c329978ec53368481fd278e86f462977316672eea5702cce4d7a39ebabc41",
+        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
       },
       {
@@ -100,6 +106,12 @@
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-19T01:00:41.185666+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -123,12 +135,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-16T01:00:37.579307+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
       }
     ],
     "AVGO": [
@@ -140,6 +146,12 @@
       }
     ],
     "LEN": [
+      {
+        "headline": "Lennar: A Contrarian Buy As Cost Cuts And Land-Light Shift Positions It Well For Recovery",
+        "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
+        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
+        "detected_at": "2026-11-19T01:00:41.185666+00:00"
+      },
       {
         "headline": "Lennar: A Contrarian Buy As Cost Cuts And Land-Light Shift Positions It Well For Recovery",
         "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
