@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-19T22:01:49.170441+00:00",
+  "last_updated": "2026-11-20T01:00:50.755827+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
+        "url": "https://finnhub.io/api/news?id=f651be9663f5e6db171be082b341381743ec55ca6369c463dcf5dc2c4cb4a997",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
       {
         "headline": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
         "url": "https://finnhub.io/api/news?id=d1b374a01a979a32f88833503bbe3e671d4c6b3fdb4ebf2e8546bbf8d6871b60",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=2c187bcc0c45d3792e728d697d5ab75445f40c510d0907866e90edf00973ed69",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-17T01:00:39.646988+00:00"
-      },
-      {
-        "headline": "What's dragging down the S&P 500? Apple in focus",
-        "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+        "url": "https://finnhub.io/api/news?id=1cada50a94c693f2f2a479b299ccd1f02e21ffbd6d640f378f00733a58ca9977",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
       {
         "headline": "Tesla Stocks Rise as Musk Pledges More Output From Shanghai Plant",
         "url": "https://finnhub.io/api/news?id=670f77ae7bd46c730200221956e0c1c93f2ba4daf56390875963498b60a67406",
@@ -55,12 +61,6 @@
       {
         "headline": "Skydance’s Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO",
         "url": "https://finnhub.io/api/news?id=f5436d9accb979777a8aec3e8924184fcffa85f1eeb8a171998db249e1b63f20",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time'",
-        "url": "https://finnhub.io/api/news?id=2a75c124e39a09ad39808d1506930b868dde62c11fd8f163ac33563649195fcc",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
@@ -99,6 +99,18 @@
     ],
     "LOW": [
       {
+        "headline": "Lowe's Strategic Investments Broaden Growth Algorithm, UBS Says",
+        "url": "https://finnhub.io/api/news?id=5fb4e884160dac92941a6ebc92dde9a97353de24d996cd902b511a3064c2efc5",
+        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
+      {
+        "headline": "Lowe's Companies (LOW) Could Be 12% Undervalued On Earnings Beat And Higher Guidance",
+        "url": "https://finnhub.io/api/news?id=05e4e97f00f09741931ffe88519d0e1df10b1fe1b32082f4344e7fdbd7e2d84e",
+        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
+      {
         "headline": "Lowe's Companies (LOW) Could Be 12% Undervalued On Earnings Beat And Higher Guidance",
         "url": "https://finnhub.io/api/news?id=05e4e97f00f09741931ffe88519d0e1df10b1fe1b32082f4344e7fdbd7e2d84e",
         "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
@@ -115,21 +127,15 @@
         "url": "https://finnhub.io/api/news?id=51092bc1e07ab94d54a3e48ab796a728c31e6e80c18f7242656024f3343f514f",
         "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
         "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "Lowe's Climbs, Home Depot Stock Eases After Earnings",
-        "url": "https://finnhub.io/api/news?id=01c39eddafa593646c814cff6bab8376379987f47a34c7dc7b0c4113dfffc58c",
-        "condition": "ผูกกับ housing cycle + ดอกเบี้ย (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": rate สูง = home turnover ต่ำ, คนเลื่อนงานรีโนเวต, DIY หด",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "Lowe's Companies Inc (LOW) (Q3 2026) Earnings Call Highlights: Sales Up 9.3% to $22. ...",
-        "url": "https://finnhub.io/api/news?id=1116af0d9865930814023246fae2419178b7082a5cfbf8d5bb17ad5b4fe72873",
-        "condition": "Margin หดต่อเนื่อง 2 ปี — ต้องพิสูจน์ว่า Pro/M&A คืน ROIC ได้ ไม่ใช่แค่ซื้อ growth",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "COST": [
+      {
+        "headline": "Consumers stock doomsday pantries as tech outages cause jitters",
+        "url": "https://finnhub.io/api/news?id=e4b5e6d9a0aedde122dc8ae618d610b7dc0edef5c5f32aa9af55794f7c055b8a",
+        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
       {
         "headline": "Does Costco's Special Dividend Offer Enough Reason to Buy the Stock?",
         "url": "https://finnhub.io/api/news?id=73e18fbbee90973ed9969e484d99fe75a84fd0195a631b7b2fcaf80544cb0b63",
@@ -144,6 +150,18 @@
       }
     ],
     "TSM": [
+      {
+        "headline": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
+        "url": "https://finnhub.io/api/news?id=7d6149caf42466a536399958f230b0a8b09ff6159fbf8ff707c35782ffa5a587",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
+      {
+        "headline": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
+        "url": "https://finnhub.io/api/news?id=eb77753cac79e94cc854f23a10a3f565a7b6761a2b976b593310ccc7a3a3804a",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
       {
         "headline": "Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
         "url": "https://finnhub.io/api/news?id=62a81aedb2f5bc748096d53de54a47607cbdf12ee74716f57d0b1a05e64dc3fc",
@@ -161,18 +179,6 @@
         "url": "https://finnhub.io/api/news?id=93189af6191db226b6350801128365d7e08b551b74c4fa3186dda307e5b64510",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
-        "url": "https://finnhub.io/api/news?id=577b730dc54eeee20d2020cd6580cd5560e373c9c34c7849e191068b5a5900a3",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
-        "url": "https://finnhub.io/api/news?id=fb376024ccb2a5e3aec9745ad97321751a5411ca8e9f9dc12c36f5e5ce12d816",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-18T21:45:18.924856+00:00"
       }
     ],
     "JNJ": [
@@ -243,6 +249,12 @@
     ],
     "ZETA": [
       {
+        "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
+        "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
+      {
         "headline": "ZETA Gains 17% in the Past Month as AI Growth & Margins Accelerate",
         "url": "https://finnhub.io/api/news?id=926b088cdbffb6bfd75e9126e78ceb1b1fb00f6b0bab968f45f4107ef8c1c5f4",
         "condition": "พึ่ง M&A (Marigold) เร่ง growth — organic ต่ำกว่า headline + integration risk",
@@ -301,14 +313,6 @@
         "url": "https://finnhub.io/api/news?id=ed9c575c5718aaafc1e958887bdda4f7259e385a1a29861373587195da50a522",
         "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      }
-    ],
-    "UNH": [
-      {
-        "headline": "UnitedHealth Group (UNH) Stock Still Looks Below Fair Value After Board Appointment",
-        "url": "https://finnhub.io/api/news?id=762d0ca36119e558ccce919bb368afde4002cf14265f7b5a5f0cd180fab8d113",
-        "condition": "Medical cost trend ควบคุมยาก — FY2025 พิสูจน์ว่าต้นทุนพุ่งเกินคาดได้เร็ว กดกำไรทันที (operating −41%); earnings predictability ต่ำกว่าที่เคยเชื่อ",
-        "detected_at": "2026-11-13T01:00:40.870954+00:00"
       }
     ],
     "KO": [

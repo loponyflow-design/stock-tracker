@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-19T22:01:49.170441+00:00",
+  "last_updated": "2026-11-20T01:00:50.755827+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+        "url": "https://finnhub.io/api/news?id=cd827f122b33ced8b1e28ba45088fd0b9a138959de12e6df955ce56e61fc462c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
+      {
+        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
+        "url": "https://finnhub.io/api/news?id=e991683b495d0583b6b2becfa02884061f24afe003b1b9b776b44fe39e3b1039",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+      },
       {
         "headline": "A December Rate Hike Looks Likely: Buy These 3 Dividend Stocks That Earn More When Rates Rise",
         "url": "https://finnhub.io/api/news?id=d82d3fe7be9f9976ba82a0f486392cba1d24d01eece7ba89862d1271ddd9aef2",
@@ -17,18 +29,6 @@
       {
         "headline": "5 “Forever Income” Dividend Stocks Yielding 5% and More for Boomers",
         "url": "https://finnhub.io/api/news?id=5d5672ae65ecafbd5d1594fccde72024371ae3d6818af5b5d970e8e7c0e964ce",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-18T21:45:18.924856+00:00"
-      },
-      {
-        "headline": "A 63-Year-Old Swapped JEPI for GPIX in a $995,000 Portfolio. Here’s What Happened to Her $5,348 Monthly Paycheck",
-        "url": "https://finnhub.io/api/news?id=2fe761d1195b0c65b580b7453dc1563500f5e50c443b1da78b0fdff5fcc44c64",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-18T21:45:18.924856+00:00"
-      },
-      {
-        "headline": "5 Dividend Stocks Yielding Over 5% to Hide in Your Roth IRA",
-        "url": "https://finnhub.io/api/news?id=7579553a990d34740ce178a91029e376f1157ffbf83078ac364fef27cc4410bd",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
       }
