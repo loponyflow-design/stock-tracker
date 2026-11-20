@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T01:00:50.755827+00:00",
+  "last_updated": "2026-11-20T21:43:41.063102+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -67,34 +67,34 @@
     ],
     "KBANK": [
       {
-        "headline": "หุ้นไทยวันนี้ร่วง 2.67 จุด ขาย KBANK-BH ซื้อ GULF - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XSzJabkdFbmtva2JaTnpFa3NmR2ZGalFtMTU5SGNKc3REdFE4eFpYWEZqaGhQOFhWSW1FRHVuWHNVTWJNUExUb0QwbmRWRkxWRHI4SXNaeVJqejlrTHhZcDdzZw?oc=5",
+        "headline": "หุ้นไทยพักเที่ยงร่วง 5.92 จุด ขาย DELTA-HANA ซื้อ KBANK - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxN1BLWkpuQ1NWWklsUTZwN3BPRXFsejlsbm5DS2FfakVmVThSNTctZVZCTEJteG1vSXVJWmtMek0wa1lsQ3k0R0x3SlNEOXBIZElXbWx2LU5IMGM5bXJj?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       },
       {
         "headline": "KSS มอง SET สัปดาห์นี้แกว่งขึ้น ชู KBANK-KTB-TOP หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GdklweUJ4dnFqQTYyRU9mU0lFZXZycEUyREk1UjNreTdoWlhvWjZhcU4tazBTX3VMNEhFa2tlSFZYSEpCNkw1Rkx5dw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "หุ้นไทยพักเที่ยงร่วง 5.92 จุด ขาย DELTA-HANA ซื้อ KBANK - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxN1BLWkpuQ1NWWklsUTZwN3BPRXFsejlsbm5DS2FfakVmVThSNTctZVZCTEJteG1vSXVJWmtMek0wa1lsQ3k0R0x3SlNEOXBIZElXbWx2LU5IMGM5bXJj?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ร่วง 2.67 จุด ขาย KBANK-BH ซื้อ GULF - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XSzJabkdFbmtva2JaTnpFa3NmR2ZGalFtMTU5SGNKc3REdFE4eFpYWEZqaGhQOFhWSW1FRHVuWHNVTWJNUExUb0QwbmRWRkxWRHI4SXNaeVJqejlrTHhZcDdzZw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "หุ้นไทยวันนี้ร่วง 2.67 จุด ขาย KBANK-BH ซื้อ GULF - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XSzJabkdFbmtva2JaTnpFa3NmR2ZGalFtMTU5SGNKc3REdFE4eFpYWEZqaGhQOFhWSW1FRHVuWHNVTWJNUExUb0QwbmRWRkxWRHI4SXNaeVJqejlrTHhZcDdzZw?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-19T22:01:49.170441+00:00"
       }
     ],
     "LOW": [
@@ -141,44 +141,38 @@
         "url": "https://finnhub.io/api/news?id=73e18fbbee90973ed9969e484d99fe75a84fd0195a631b7b2fcaf80544cb0b63",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "Does Costco's Special Dividend Offer Enough Reason to Buy the Stock?",
-        "url": "https://finnhub.io/api/news?id=73e18fbbee90973ed9969e484d99fe75a84fd0195a631b7b2fcaf80544cb0b63",
-        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "Update: Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
+        "url": "https://finnhub.io/api/news?id=b71fc1e62086be3b639f36e2d721fc1300aa6c61e7916273876336d7e73766d9",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "TSMC Tightens Restrictions on Chinese AI Chip Production Following New US Export Rules",
+        "url": "https://finnhub.io/api/news?id=a6915af6a21180a90d7d04f7823c2803f45593ddb2715e8c83e0c479560a076c",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "Taiwan Stocks Just Had Their Worst Week Since 1990 — And The AI Trade Is Unwinding From The East",
+        "url": "https://finnhub.io/api/news?id=3fcbe0f280254c62240ce04e290e65a8d5087719383ccb233d014bd4cd308a9f",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays “Extremely Robust”",
+        "url": "https://finnhub.io/api/news?id=48491b281a1ab46b3ea4f3bc21e198b9f9940b7e14a79c6784097efd93f13d74",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
       {
         "headline": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
         "url": "https://finnhub.io/api/news?id=7d6149caf42466a536399958f230b0a8b09ff6159fbf8ff707c35782ffa5a587",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-20T01:00:50.755827+00:00"
-      },
-      {
-        "headline": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
-        "url": "https://finnhub.io/api/news?id=eb77753cac79e94cc854f23a10a3f565a7b6761a2b976b593310ccc7a3a3804a",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T01:00:50.755827+00:00"
-      },
-      {
-        "headline": "Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
-        "url": "https://finnhub.io/api/news?id=62a81aedb2f5bc748096d53de54a47607cbdf12ee74716f57d0b1a05e64dc3fc",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
-        "url": "https://finnhub.io/api/news?id=61bfd8a2e96c14b75a589d37a8848957001770be9e65eb374fa2f620a380a173",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
-        "url": "https://finnhub.io/api/news?id=93189af6191db226b6350801128365d7e08b551b74c4fa3186dda307e5b64510",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "JNJ": [
@@ -252,13 +246,13 @@
         "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
         "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
         "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       },
       {
-        "headline": "ZETA Gains 17% in the Past Month as AI Growth & Margins Accelerate",
-        "url": "https://finnhub.io/api/news?id=926b088cdbffb6bfd75e9126e78ceb1b1fb00f6b0bab968f45f4107ef8c1c5f4",
-        "condition": "พึ่ง M&A (Marigold) เร่ง growth — organic ต่ำกว่า headline + integration risk",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
+        "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
+        "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-20T01:00:50.755827+00:00"
       }
     ],
     "ARM": [
@@ -375,6 +369,12 @@
     ],
     "GE": [
       {
+        "headline": "Does Raised 2026 Guidance Change The Bull Case For GE Stock?",
+        "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
+        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
         "headline": "Aerospace Market to Reach USD 846.30 Billion by 2035 as Record Backlogs at Boeing, Airbus, GE Aerospace and RTX Meet Supply Chain Limits",
         "url": "https://finnhub.io/api/news?id=088cbe82b30047294ad9cf70d2388e52aefe9c4e4d8efb7f9c7b6f85aa810ec6",
         "condition": "ผูกกับวงจรการผลิตเครื่องบินพาณิชย์โดยตรง — ถ้า Boeing/Airbus ลด build rate (จากปัญหาการผลิต ดีมานด์เที่ยวบินตก หรือเศรษฐกิจถดถอยทำให้สายการบินเลื่อนรับเครื่องบินใหม่) รายได้เครื่องยนต์ใหม่จะกระทบทันที — นี่คือความเสี่ยงที่ตรงข้ามกับ criteria \"ไม่พังทันทีถ้าเศรษฐกิจแย่\" ของคุณ",
@@ -415,6 +415,12 @@
     ],
     "STAG": [
       {
+        "headline": "4 Monthly Dividend Stocks That Pay Roth IRA Investors Tax-Free Every Month",
+        "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
+        "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
         "headline": "Realty Income and 2 More Monthly Dividend Stocks Built for Retirement Income",
         "url": "https://finnhub.io/api/news?id=9368e6ab46d03933a57c5f98ebdd4310c7fff053866e9181addb64d449f7cb20",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
@@ -425,6 +431,36 @@
         "url": "https://finnhub.io/api/news?id=9368e6ab46d03933a57c5f98ebdd4310c7fff053866e9181addb64d449f7cb20",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      }
+    ],
+    "HEI.A": [
+      {
+        "headline": "A $7.4 Billion Fund Dumps These 3 Stocks",
+        "url": "https://finnhub.io/api/news?id=c9b0be79054a1bc0dd73be718c3e67c101776bea60065cb8a2413fcaad27b2f0",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "Has Heico (HEI) Outpaced Other Aerospace Stocks This Year?",
+        "url": "https://finnhub.io/api/news?id=7ef5a42089ad06dfdf4ab0bb472912818ce4a60b2e27caf7a3e3e1715a208317",
+        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      }
+    ],
+    "NUE": [
+      {
+        "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
+        "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Software Stocks Are Throwing a Party. Salesforce Didn’t Get the Invite—Yet.",
+        "url": "https://finnhub.io/api/news?id=bc731f5ed9706bf54e0257d5c2bfed582790ad10b085b752625aad1e62fe97cb",
+        "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ]
   }

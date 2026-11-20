@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-20T01:00:50.755827+00:00",
+  "last_updated": "2026-11-20T21:43:41.063102+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+        "url": "https://finnhub.io/api/news?id=cd827f122b33ced8b1e28ba45088fd0b9a138959de12e6df955ce56e61fc462c",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
+        "headline": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
+        "url": "https://finnhub.io/api/news?id=e991683b495d0583b6b2becfa02884061f24afe003b1b9b776b44fe39e3b1039",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
       {
         "headline": "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
         "url": "https://finnhub.io/api/news?id=cd827f122b33ced8b1e28ba45088fd0b9a138959de12e6df955ce56e61fc462c",
@@ -19,22 +31,16 @@
         "url": "https://finnhub.io/api/news?id=d82d3fe7be9f9976ba82a0f486392cba1d24d01eece7ba89862d1271ddd9aef2",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "A December Rate Hike Looks Likely: Buy These 3 Dividend Stocks That Earn More When Rates Rise",
-        "url": "https://finnhub.io/api/news?id=d82d3fe7be9f9976ba82a0f486392cba1d24d01eece7ba89862d1271ddd9aef2",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "5 “Forever Income” Dividend Stocks Yielding 5% and More for Boomers",
-        "url": "https://finnhub.io/api/news?id=5d5672ae65ecafbd5d1594fccde72024371ae3d6818af5b5d970e8e7c0e964ce",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-18T21:45:18.924856+00:00"
       }
     ],
     "PG": [
       {
+        "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
+        "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+      },
+      {
         "headline": "Charlie Bilello Calls Leveraged Single-Stock ETFs ‘One of the Worst Financial Innovations’",
         "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=c0d82588da86f55d4f66346b00e09120e9e25692f97673db76391cf6e3490423",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      },
-      {
-        "headline": "5 Dividend Aristocrats and Kings to Consider if the Stock Market Sells Off",
-        "url": "https://finnhub.io/api/news?id=1056be4d229a3c33397f8044752b3bd386e1f604be8504846a376ddfc9d1113a",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
       }
     ],
     "LOW": [
@@ -71,12 +71,6 @@
         "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
         "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
         "detected_at": "2026-11-14T01:00:41.477882+00:00"
-      },
-      {
-        "headline": "4 Dividend Kings That Kept Raising Payouts Through Recessions and High Interest Rates",
-        "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-11-13T20:48:43.899131+00:00"
       }
     ],
     "V": [
