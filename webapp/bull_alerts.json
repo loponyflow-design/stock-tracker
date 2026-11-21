@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:00:37.677804+00:00",
+  "last_updated": "2026-11-21T20:25:11.533400+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -35,6 +35,12 @@
     ],
     "PG": [
       {
+        "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
+        "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      },
+      {
         "headline": "Week’s Best: Schwab Claims Dividend King Title",
         "url": "https://finnhub.io/api/news?id=a1de4fea5da67630bfbe8cfb68ebb9f493e3a30bc93decdb78820bdd6d4b2186",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -57,20 +63,6 @@
         "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-18T01:00:37.088754+00:00"
-      },
-      {
-        "headline": "3 Bulletproof Passive Income Dividend Kings to Buy and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=c0d82588da86f55d4f66346b00e09120e9e25692f97673db76391cf6e3490423",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-18T01:00:37.088754+00:00"
-      }
-    ],
-    "LOW": [
-      {
-        "headline": "4 Dividend Kings That Kept Raising Payouts Through Recessions and High Interest Rates",
-        "url": "https://finnhub.io/api/news?id=46e6b58ab21771bc3c5a67248d72e54335c7fb27a06b1a1438ee616b1795ef51",
-        "condition": "Dividend King + buyback — คืนเงินผู้ถือหุ้นสม่ำเสมอแม้ช่วง down cycle",
-        "detected_at": "2026-11-14T01:00:41.477882+00:00"
       }
     ],
     "V": [
@@ -91,15 +83,15 @@
         "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-11-15T01:00:35.340106+00:00"
-      },
-      {
-        "headline": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
-        "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-11-14T18:59:16.565542+00:00"
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -123,15 +115,15 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-17T01:00:39.646988+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-16T01:00:37.579307+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+        "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      },
       {
         "headline": "Broadcom Heads 3 Top Growth Stocks To Watch",
         "url": "https://finnhub.io/api/news?id=e56632803684741cf9bff40d6927be171b96e0b7952176dd03aea934bb652645",
@@ -165,6 +157,20 @@
         "url": "https://finnhub.io/api/news?id=01a2f7e3f5da36b70135d1497be44fca32a24ccf8a0056b77ac2f01c6642e19c",
         "condition": "Fortress balance sheet + anti-fragile — เงินสด $397B + ธุรกิจกระจาย ทำให้ รอด (และได้ประโยชน์) เมื่อ macro แย่ — ตรงสไตล์ \"เลี่ยงหุ้นที่พังเมื่อเศรษฐกิจแย่\" อย่างยิ่ง (Berkshire ซื้อตอนคนอื่นกลัว)",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Global Data Protection and Replication Solutions Market Report 2026 | Capitalize on $18.5B by 2030 as Microsoft, Dell, IBM, Veeam, and Rubrik Drive Ransomware-Resilient Backups",
+        "url": "https://finnhub.io/api/news?id=55d208b25b3c714336fc45dfba5ea2be14d1603401ae9f7d4b3833fdbae3827c",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      },
+      {
+        "headline": "Rubrik (RBRK) Moved, What Is Drawing Attention Now?",
+        "url": "https://finnhub.io/api/news?id=64e0629b2591846fd508066f19ee243283d78480e292403b7ef9a4cf15b56c61",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
       }
     ]
   }
