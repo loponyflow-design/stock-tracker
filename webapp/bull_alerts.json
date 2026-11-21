@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T21:43:41.063102+00:00",
+  "last_updated": "2026-11-21T01:00:37.677804+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -35,6 +35,18 @@
     ],
     "PG": [
       {
+        "headline": "Week’s Best: Schwab Claims Dividend King Title",
+        "url": "https://finnhub.io/api/news?id=a1de4fea5da67630bfbe8cfb68ebb9f493e3a30bc93decdb78820bdd6d4b2186",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
+        "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
+        "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
         "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
         "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=c0d82588da86f55d4f66346b00e09120e9e25692f97673db76391cf6e3490423",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-18T01:00:37.088754+00:00"
-      },
-      {
-        "headline": "Charlie Bilello Calls Leveraged Single-Stock ETFs ‘One of the Worst Financial Innovations’",
-        "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      },
-      {
-        "headline": "3 Bulletproof Passive Income Dividend Kings to Buy and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=c0d82588da86f55d4f66346b00e09120e9e25692f97673db76391cf6e3490423",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-17T22:07:20.010236+00:00"
       }
     ],
     "LOW": [
@@ -157,6 +157,14 @@
         "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
         "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
+      }
+    ],
+    "BRK.B": [
+      {
+        "headline": "Exclusive: Twenty One CEO on Bitcoin, acquisitions, and building value",
+        "url": "https://finnhub.io/api/news?id=01a2f7e3f5da36b70135d1497be44fca32a24ccf8a0056b77ac2f01c6642e19c",
+        "condition": "Fortress balance sheet + anti-fragile — เงินสด $397B + ธุรกิจกระจาย ทำให้ รอด (และได้ประโยชน์) เมื่อ macro แย่ — ตรงสไตล์ \"เลี่ยงหุ้นที่พังเมื่อเศรษฐกิจแย่\" อย่างยิ่ง (Berkshire ซื้อตอนคนอื่นกลัว)",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
     ]
   }

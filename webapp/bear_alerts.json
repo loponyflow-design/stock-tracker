@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T21:43:41.063102+00:00",
+  "last_updated": "2026-11-21T01:00:37.677804+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -35,6 +35,18 @@
     ],
     "TSLA": [
       {
+        "headline": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
+        "url": "https://finnhub.io/api/news?id=baf88d29586e6c395e6b4b8b452d7ecf061b49930186da087bfc63ec17b4257f",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
+        "headline": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
+        "url": "https://finnhub.io/api/news?id=0faa28ea19cc61bbb32e4609b7228eb7488c3a6e7c233a4348e22f1f35397068",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
         "headline": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
         "url": "https://finnhub.io/api/news?id=1cada50a94c693f2f2a479b299ccd1f02e21ffbd6d640f378f00733a58ca9977",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
@@ -51,18 +63,6 @@
         "url": "https://finnhub.io/api/news?id=6d0caa897aeb7966b9fe232a38c5a9864e27acf7fda5404903eedf5dce10b296",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
-        "url": "https://finnhub.io/api/news?id=e5bbc005df9d945b8cb0b4511d2c9395ae3fd94c79708395d6badb134f945313",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
-      },
-      {
-        "headline": "Skydance’s Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO",
-        "url": "https://finnhub.io/api/news?id=f5436d9accb979777a8aec3e8924184fcffa85f1eeb8a171998db249e1b63f20",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "KBANK": [
@@ -70,31 +70,31 @@
         "headline": "หุ้นไทยพักเที่ยงร่วง 5.92 จุด ขาย DELTA-HANA ซื้อ KBANK - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxN1BLWkpuQ1NWWklsUTZwN3BPRXFsejlsbm5DS2FfakVmVThSNTctZVZCTEJteG1vSXVJWmtMek0wa1lsQ3k0R0x3SlNEOXBIZElXbWx2LU5IMGM5bXJj?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "KSS มอง SET สัปดาห์นี้แกว่งขึ้น ชู KBANK-KTB-TOP หุ้นเด่น - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GdklweUJ4dnFqQTYyRU9mU0lFZXZycEUyREk1UjNreTdoWlhvWjZhcU4tazBTX3VMNEhFa2tlSFZYSEpCNkw1Rkx5dw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "หุ้นไทยวันนี้ร่วง 2.67 จุด ขาย KBANK-BH ซื้อ GULF - Thunhoon",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XSzJabkdFbmtva2JaTnpFa3NmR2ZGalFtMTU5SGNKc3REdFE4eFpYWEZqaGhQOFhWSW1FRHVuWHNVTWJNUExUb0QwbmRWRkxWRHI4SXNaeVJqejlrTHhZcDdzZw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "“บล.กรุงศรี” มอง SET ฟื้นตัว ชู DELTA-PTTGC-KBANK หุ้นเด่นสัปดาห์นี้ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GazNYNnVCOHJjOU1sLW41ZTZsQWtXZkFRN2ptNHU2TWRQYmRmQkVEV1JSZkJuYUFkSVZEWEtqaUxuQWtRMUFQT2lkbw?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
-        "headline": "หุ้นไทยวันนี้ร่วง 2.67 จุด ขาย KBANK-BH ซื้อ GULF - Thunhoon",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XSzJabkdFbmtva2JaTnpFa3NmR2ZGalFtMTU5SGNKc3REdFE4eFpYWEZqaGhQOFhWSW1FRHVuWHNVTWJNUExUb0QwbmRWRkxWRHI4SXNaeVJqejlrTHhZcDdzZw?oc=5",
+        "headline": "หุ้นไทยพักเที่ยงร่วง 5.92 จุด ขาย DELTA-HANA ซื้อ KBANK - Thunhoon",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxN1BLWkpuQ1NWWklsUTZwN3BPRXFsejlsbm5DS2FfakVmVThSNTctZVZCTEJteG1vSXVJWmtMek0wa1lsQ3k0R0x3SlNEOXBIZElXbWx2LU5IMGM5bXJj?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "LOW": [
@@ -148,31 +148,31 @@
         "headline": "Update: Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
         "url": "https://finnhub.io/api/news?id=b71fc1e62086be3b639f36e2d721fc1300aa6c61e7916273876336d7e73766d9",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "TSMC Tightens Restrictions on Chinese AI Chip Production Following New US Export Rules",
         "url": "https://finnhub.io/api/news?id=a6915af6a21180a90d7d04f7823c2803f45593ddb2715e8c83e0c479560a076c",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "Taiwan Stocks Just Had Their Worst Week Since 1990 — And The AI Trade Is Unwinding From The East",
         "url": "https://finnhub.io/api/news?id=3fcbe0f280254c62240ce04e290e65a8d5087719383ccb233d014bd4cd308a9f",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
         "headline": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays “Extremely Robust”",
         "url": "https://finnhub.io/api/news?id=48491b281a1ab46b3ea4f3bc21e198b9f9940b7e14a79c6784097efd93f13d74",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       },
       {
-        "headline": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
-        "url": "https://finnhub.io/api/news?id=7d6149caf42466a536399958f230b0a8b09ff6159fbf8ff707c35782ffa5a587",
+        "headline": "Update: Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
+        "url": "https://finnhub.io/api/news?id=b71fc1e62086be3b639f36e2d721fc1300aa6c61e7916273876336d7e73766d9",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-20T01:00:50.755827+00:00"
+        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "JNJ": [
@@ -242,6 +242,12 @@
       }
     ],
     "ZETA": [
+      {
+        "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
+        "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
+        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
       {
         "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
         "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
@@ -343,6 +349,12 @@
     ],
     "AMZN": [
       {
+        "headline": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
+        "url": "https://finnhub.io/api/news?id=5850d7247851659fe14bd0e69ea670d8e74eb776ce92ef4f51a0f0a84253dc25",
+        "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
         "headline": "Natera vs. Tempus AI: Which Blood Test Pioneer Has the Better Stock Buy for 2027?",
         "url": "https://finnhub.io/api/news?id=80e11a0944355d574a43f7c340ee02387570924e260aff1b475f7d448a04f577",
         "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
@@ -368,6 +380,12 @@
       }
     ],
     "GE": [
+      {
+        "headline": "Does Raised 2026 Guidance Change The Bull Case For GE Stock?",
+        "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
+        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
       {
         "headline": "Does Raised 2026 Guidance Change The Bull Case For GE Stock?",
         "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
@@ -418,6 +436,12 @@
         "headline": "4 Monthly Dividend Stocks That Pay Roth IRA Investors Tax-Free Every Month",
         "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
+      {
+        "headline": "4 Monthly Dividend Stocks That Pay Roth IRA Investors Tax-Free Every Month",
+        "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
+        "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
         "detected_at": "2026-11-20T21:43:41.063102+00:00"
       },
       {
@@ -448,6 +472,12 @@
       }
     ],
     "NUE": [
+      {
+        "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
+        "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+      },
       {
         "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
         "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
