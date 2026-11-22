@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T20:25:11.533400+00:00",
+  "last_updated": "2026-11-22T01:00:37.490026+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,12 @@
         "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
         "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-22T01:00:37.490026+00:00"
+      },
+      {
+        "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
+        "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
       },
       {
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-20T21:43:41.063102+00:00"
-      },
-      {
-        "headline": "Charlie Bilello Calls Leveraged Single-Stock ETFs ‘One of the Worst Financial Innovations’",
-        "url": "https://finnhub.io/api/news?id=0bf17098b904e9fccce317f541c13e7b58d9a74fa20fb6213634b461d195073f",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-18T01:00:37.088754+00:00"
       }
     ],
     "V": [
@@ -77,15 +77,15 @@
         "url": "https://finnhub.io/api/news?id=0d5c329978ec53368481fd278e86f462977316672eea5702cce4d7a39ebabc41",
         "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
-      },
-      {
-        "headline": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
-        "url": "https://finnhub.io/api/news?id=d2faa61714c9e1533cbb388dffd58f555a7b4a485a194ecd5b6cbf4a69ad5c04",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-11-15T01:00:35.340106+00:00"
       }
     ],
     "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-22T01:00:37.490026+00:00"
+      },
       {
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
@@ -109,15 +109,15 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-17T22:07:20.010236+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-17T01:00:39.646988+00:00"
       }
     ],
     "AVGO": [
+      {
+        "headline": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+        "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-11-22T01:00:37.490026+00:00"
+      },
       {
         "headline": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
         "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
