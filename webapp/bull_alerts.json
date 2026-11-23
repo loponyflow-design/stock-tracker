@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T01:00:37.490026+00:00",
+  "last_updated": "2026-11-23T01:00:41.784048+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -35,6 +35,12 @@
     ],
     "PG": [
       {
+        "headline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
+        "url": "https://finnhub.io/api/news?id=5201d2c79a3dd0e1b0c44ee5ddbf037c19836a574426c91e96a6a8a522107d9e",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-23T01:00:41.784048+00:00"
+      },
+      {
         "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
         "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
-      },
-      {
-        "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
-        "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "V": [
@@ -84,6 +84,12 @@
         "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-23T01:00:41.784048+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-22T01:00:37.490026+00:00"
       },
       {
@@ -103,12 +109,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-18T21:45:18.924856+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-17T22:07:20.010236+00:00"
       }
     ],
     "AVGO": [
@@ -123,12 +123,6 @@
         "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "Broadcom Heads 3 Top Growth Stocks To Watch",
-        "url": "https://finnhub.io/api/news?id=e56632803684741cf9bff40d6927be171b96e0b7952176dd03aea934bb652645",
-        "condition": "โมเดล asset-light + FCF สูง ทำให้จัดสรรทุนได้ยืดหยุ่น ทั้งลดหนี้ คืนผู้ถือหุ้น และลงทุน R&D ต่อได้พร้อมกัน",
-        "detected_at": "2026-11-16T01:00:37.579307+00:00"
       }
     ],
     "LEN": [
@@ -171,6 +165,14 @@
         "url": "https://finnhub.io/api/news?id=64e0629b2591846fd508066f19ee243283d78480e292403b7ef9a4cf15b56c61",
         "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      }
+    ],
+    "LAMR": [
+      {
+        "headline": "How to Build $6,575 a Month in Tax-Free Dividend Income Inside a Roth IRA Without Selling a Single Share",
+        "url": "https://finnhub.io/api/news?id=2b3791f6aa88a6b1b218f49cb7204f90e8aff382b5f4cf86529e3993bd413be6",
+        "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
+        "detected_at": "2026-11-23T01:00:41.784048+00:00"
       }
     ]
   }
