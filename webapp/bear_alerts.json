@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-24T01:33:26.558171+00:00",
+  "last_updated": "2026-11-24T23:25:52.578251+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
+        "url": "https://finnhub.io/api/news?id=cd3cee1b8e359c3b17e508db134c9d09ee533d2ddf31ddd2857a94f6d203df79",
+        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
+      {
+        "headline": "Why the Jensen Huang rally faded so quickly",
+        "url": "https://finnhub.io/api/news?id=c74d9d12a82b5c61e0ea9883c05952e9d3b6850e9e520b6ad4e12d1b2b168485",
+        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
       {
         "headline": "CrowdStrike Shares Fall 10% After a $44 Billion Zscaler Deal Despite an Earnings Beat and Raised Guidance",
         "url": "https://finnhub.io/api/news?id=e9487030f80754a4c72ee170d230a291ac265dbb244fcf197c292e1233c9e8c9",
@@ -19,18 +31,6 @@
         "url": "https://finnhub.io/api/news?id=92eec84f360a1c226652023656846441cca842a912a92ce54f9751b226513914",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-23T01:00:41.784048+00:00"
-      },
-      {
-        "headline": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-        "url": "https://finnhub.io/api/news?id=f651be9663f5e6db171be082b341381743ec55ca6369c463dcf5dc2c4cb4a997",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-20T01:00:50.755827+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
-        "url": "https://finnhub.io/api/news?id=d1b374a01a979a32f88833503bbe3e671d4c6b3fdb4ebf2e8546bbf8d6871b60",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
       }
     ],
     "TSLA": [
@@ -131,6 +131,12 @@
     ],
     "COST": [
       {
+        "headline": "Walmart Raised Its Outlook and the Stock Fell Anyway. Here’s the New Price Target",
+        "url": "https://finnhub.io/api/news?id=2c536417f437007c644b6a73ea8d9fc3259147e56803f8f86ee099fde4bdcada",
+        "condition": "Growth พึ่งการเปิด warehouse + ขึ้นค่าสมาชิก — runway ยังมีแต่ไม่ใช่หุ้นโตเร็วแบบ tech",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
+      {
         "headline": "Target Has “Out-Comped Walmart Three Quarters in a Row.” Walmart Still Trades at More Than 2x Its Multiple",
         "url": "https://finnhub.io/api/news?id=31eb26d324c4df116f0533f16e8d247947c989161d429241346eac1ff0d7048a",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
@@ -153,15 +159,15 @@
         "url": "https://finnhub.io/api/news?id=de099bc07f282c68d33aedae2a068db2ae4c151401e71fb205b7b94b3719467f",
         "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
         "detected_at": "2026-11-22T01:00:37.490026+00:00"
-      },
-      {
-        "headline": "Costco’s U.S. Comparable Sales Jumped 12.6% in October. Here’s the Number That Shows Its Moat Is Widening.",
-        "url": "https://finnhub.io/api/news?id=de099bc07f282c68d33aedae2a068db2ae4c151401e71fb205b7b94b3719467f",
-        "condition": "Valuation premium สูงมาก — บริษัทเองเตือนว่าราคาหุ้นสะท้อนความคาดหวังสูง; ความเสี่ยงหลักคือราคา ไม่ใช่ธุรกิจ — ถ้า comp/EPS พลาดเล็กน้อย ราคาร่วงแรง",
-        "detected_at": "2026-11-21T20:25:11.533400+00:00"
       }
     ],
     "TSM": [
+      {
+        "headline": "TSMC: Amazing Chance To Double Down On The AI Market Panic",
+        "url": "https://finnhub.io/api/news?id=583080a066d9daca735474eb2e32bb107e356985b283e63921a2c4a4db5d0cf7",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
       {
         "headline": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
         "url": "https://finnhub.io/api/news?id=01998cb66d368dd271cf750d978f01d52568b2c65ced61ce766ec192f6c554a5",
@@ -183,12 +189,6 @@
       {
         "headline": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
         "url": "https://finnhub.io/api/news?id=01998cb66d368dd271cf750d978f01d52568b2c65ced61ce766ec192f6c554a5",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "TSMC: Look At The Warning Signs From Chinese Tech Giants",
-        "url": "https://finnhub.io/api/news?id=059e4b73fe7162f5e599a8cf00c16ef12a5ff70f3db408d72a1a0ccdefa9d75f",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
       }
@@ -227,6 +227,12 @@
     ],
     "ABBV": [
       {
+        "headline": "Best Dividend Stocks to Buy for Dependable Dividend Growth",
+        "url": "https://finnhub.io/api/news?id=ab8372ecfee687d7abf018b7dce66c686ad6cd08febf8c3946af69c275a4cd45",
+        "condition": "หนี้สูง + พึ่ง M&A เติม pipeline — ถ้าดีลแพง/ล้มเหลว กระทบ ROIC และ balance sheet",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
+      {
         "headline": "Is Immunology Emerging as Eli Lilly's Next Growth Driver?",
         "url": "https://finnhub.io/api/news?id=8230ef0a1f7183c07bf49ac39dcab477cd58f414886aea424d64607ea6d7c7bb",
         "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
@@ -240,6 +246,12 @@
       }
     ],
     "ZETA": [
+      {
+        "headline": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
+        "url": "https://finnhub.io/api/news?id=f1a6ff24bf34c49325d0e8d36d2f336aab13d0462f264d7bd7c919fdb9a8838a",
+        "condition": "พึ่ง M&A (Marigold) เร่ง growth — organic ต่ำกว่า headline + integration risk",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
       {
         "headline": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
         "url": "https://finnhub.io/api/news?id=f1a6ff24bf34c49325d0e8d36d2f336aab13d0462f264d7bd7c919fdb9a8838a",
@@ -263,12 +275,6 @@
         "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
         "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
         "detected_at": "2026-11-20T21:43:41.063102+00:00"
-      },
-      {
-        "headline": "Earnings Beat Might Change The Case For Zeta Global Stock",
-        "url": "https://finnhub.io/api/news?id=ff23c2035b6d4201444e22d9ce9a978d87a33298a82ac01cab4d3b63eb031ba2",
-        "condition": "ไม่ตรง investment voice เลย — ยังขาดทุน GAAP, stock comp สูง (dilution), valuation multiple สูง = volatile, อ่อนไหวต่อ rate/sentiment; ตรงข้ามกับ \"พื้นฐานมั่นคง รายได้สม่ำเสมอ\"",
-        "detected_at": "2026-11-20T01:00:50.755827+00:00"
       }
     ],
     "ARM": [
@@ -309,12 +315,6 @@
         "url": "https://finnhub.io/api/news?id=ed9c575c5718aaafc1e958887bdda4f7259e385a1a29861373587195da50a522",
         "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
         "detected_at": "2026-11-18T01:00:37.088754+00:00"
-      },
-      {
-        "headline": "Berkshire Hathaway (BRK.B) Could Be 23% Undervalued As Buybacks Come Into Focus",
-        "url": "https://finnhub.io/api/news?id=ed9c575c5718aaafc1e958887bdda4f7259e385a1a29861373587195da50a522",
-        "condition": "Succession risk — Buffett ส่งต่อ Abel; ความเชื่อมั่นใน capital allocation รุ่นใหม่ยังต้องพิสูจน์ (เป็นคำถามที่ใหญ่ที่สุด)",
-        "detected_at": "2026-11-17T22:07:20.010236+00:00"
       }
     ],
     "KO": [
@@ -469,6 +469,12 @@
     ],
     "NUE": [
       {
+        "headline": "Best Dividend Stocks to Buy for Dependable Dividend Growth",
+        "url": "https://finnhub.io/api/news?id=ab8372ecfee687d7abf018b7dce66c686ad6cd08febf8c3946af69c275a4cd45",
+        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
+      {
         "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
         "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
@@ -519,10 +525,24 @@
     ],
     "JNJ": [
       {
+        "headline": "Johnson & Johnson (JNJ) Stock May Still Trade Below Fair Value Despite TREMFYA Trial News",
+        "url": "https://finnhub.io/api/news?id=c06764b2717fb3fb181665bc2b5e4e3d781a318fe9b90f8abf1e1b5dcf4af9a3",
+        "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
+      },
+      {
         "headline": "Johnson & Johnson (JNJ) Posts Phase 4 STAR Win In Psoriatic Arthritis",
         "url": "https://finnhub.io/api/news?id=f1c75d7b2f03c6941aef849963df2e2f44597e9b396ad42fe48271087c466032",
         "condition": "DARZALEX = 15% ของรายได้ patent หมด US ปี 2029 — อยู่ในกรอบเวลาถือ 3 ปีพอดี เป็น revenue cliff ก้อนใหญ่ที่ biosimilar จะเข้ามากัด",
         "detected_at": "2026-11-23T01:00:41.784048+00:00"
+      }
+    ],
+    "V": [
+      {
+        "headline": "Circle's CPN Gains Traction: Can Payment Growth Accelerate?",
+        "url": "https://finnhub.io/api/news?id=daabd67c75b1a72c4d9161f095398125daf250edca070b2ab22eb607c886bfd1",
+        "condition": "Regulatory/antitrust เป็นความเสี่ยงหลัก — interchange regulation (EU/US merchant litigation) อาจกด take rate; เป็น overhang ถาวร",
+        "detected_at": "2026-11-24T23:25:52.578251+00:00"
       }
     ]
   }
