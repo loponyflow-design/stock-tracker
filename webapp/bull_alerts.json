@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T01:00:36.943191+00:00",
+  "last_updated": "2026-11-24T01:33:26.558171+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,12 @@
         "headline": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
         "url": "https://finnhub.io/api/news?id=e3886098dc99ff144bf7f905b8feb8bbd2af7218089b0f2060586d395cec6585",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-24T01:33:26.558171+00:00"
+      },
+      {
+        "headline": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
+        "url": "https://finnhub.io/api/news?id=e3886098dc99ff144bf7f905b8feb8bbd2af7218089b0f2060586d395cec6585",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-24T01:00:36.943191+00:00"
       },
       {
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "Week’s Best: Schwab Claims Dividend King Title",
-        "url": "https://finnhub.io/api/news?id=a1de4fea5da67630bfbe8cfb68ebb9f493e3a30bc93decdb78820bdd6d4b2186",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
     ],
     "V": [
