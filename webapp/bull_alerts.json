@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T01:00:41.784048+00:00",
+  "last_updated": "2026-11-24T01:00:36.943191+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -35,6 +35,12 @@
     ],
     "PG": [
       {
+        "headline": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
+        "url": "https://finnhub.io/api/news?id=e3886098dc99ff144bf7f905b8feb8bbd2af7218089b0f2060586d395cec6585",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-24T01:00:36.943191+00:00"
+      },
+      {
         "headline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
         "url": "https://finnhub.io/api/news?id=5201d2c79a3dd0e1b0c44ee5ddbf037c19836a574426c91e96a6a8a522107d9e",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
@@ -55,12 +61,6 @@
       {
         "headline": "Week’s Best: Schwab Claims Dividend King Title",
         "url": "https://finnhub.io/api/news?id=a1de4fea5da67630bfbe8cfb68ebb9f493e3a30bc93decdb78820bdd6d4b2186",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
-      },
-      {
-        "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
-        "url": "https://finnhub.io/api/news?id=ebfeaec4c120e1b2bae21f7c56165e0e468982a6509d816893517a97358cfa8d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
