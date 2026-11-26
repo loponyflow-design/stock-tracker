@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T22:59:50.424447+00:00",
+  "last_updated": "2026-11-26T01:00:35.916437+00:00",
   "alerts": {
     "ARCC": [
       {
@@ -38,6 +38,12 @@
         "headline": "If the Fed Hikes on Dec. 9, These 4 Dividend Stocks Are Built to Handle It",
         "url": "https://finnhub.io/api/news?id=7a733858a596635a7992d529d1bbcf2cc9730abd49a737e3671217767fc2f42d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
+      },
+      {
+        "headline": "If the Fed Hikes on Dec. 9, These 4 Dividend Stocks Are Built to Handle It",
+        "url": "https://finnhub.io/api/news?id=7a733858a596635a7992d529d1bbcf2cc9730abd49a737e3671217767fc2f42d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-25T22:59:50.424447+00:00"
       },
       {
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=5201d2c79a3dd0e1b0c44ee5ddbf037c19836a574426c91e96a6a8a522107d9e",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-23T01:00:41.784048+00:00"
-      },
-      {
-        "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
-        "url": "https://finnhub.io/api/news?id=b6d1fa59ef59ce02a68d5e60e425cf14c27dcc6722536e7caad506e46d0c0075",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-22T01:00:37.490026+00:00"
       }
     ],
     "V": [
@@ -162,7 +162,21 @@
         "headline": "Best Dividend Aristocrats For December 2026",
         "url": "https://finnhub.io/api/news?id=94875ef1889ac6238f9b22495500c5bbf5842927527bfe923031c7559ab1f0d0",
         "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
+      },
+      {
+        "headline": "Best Dividend Aristocrats For December 2026",
+        "url": "https://finnhub.io/api/news?id=94875ef1889ac6238f9b22495500c5bbf5842927527bfe923031c7559ab1f0d0",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
         "detected_at": "2026-11-25T22:59:50.424447+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?",
+        "url": "https://finnhub.io/api/news?id=ffdee7482fab9b66c1dc88580c966fce48ac5690a88a2117ff952f75678ea804",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
       }
     ]
   }
