@@ -1,8 +1,20 @@
 {
-  "last_updated": "2026-11-26T01:00:35.916437+00:00",
+  "last_updated": "2026-11-26T22:53:30.053725+00:00",
   "alerts": {
     "ARCC": [
       {
+        "headline": "How Much You’d Need in Dividend Stocks to Generate $5,000 a Month in Passive Income",
+        "url": "https://finnhub.io/api/news?id=2c536c7c8d52da694271ad7debf712c1df4a11d7337fb1ad387217420f6a2f71",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-26T22:53:30.053725+00:00"
+      },
+      {
+        "headline": "8% Yields, Zero Taxes: 4 Dividend Stocks Built for Your Roth IRA",
+        "url": "https://finnhub.io/api/news?id=7bfbda70e9ceba69ef471653816278bb5daf8d5aaf77b40580983a02056da3a4",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-26T22:53:30.053725+00:00"
+      },
+      {
         "headline": "A 68-Year-Old Swapped JEPQ for DIVO in a $1.23 Million Portfolio. Here’s What Happened to His $7,718 Monthly Paycheck",
         "url": "https://finnhub.io/api/news?id=0f6ca4694d4e32919551e1c3da414302c182e41a55a60494dcc97cf76d7b5f6a",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
@@ -19,21 +31,15 @@
         "url": "https://finnhub.io/api/news?id=0f6ca4694d4e32919551e1c3da414302c182e41a55a60494dcc97cf76d7b5f6a",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-25T01:00:41.605596+00:00"
-      },
-      {
-        "headline": "Retire on Dividends: 5 Ultra-High-Yield Stocks Boomers Are Buying and Holding Forever",
-        "url": "https://finnhub.io/api/news?id=e9ffeda86379e6cbfc43bc97f39ea4e3fef09b462184e0ed16d009ea279e9acf",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-25T01:00:41.605596+00:00"
-      },
-      {
-        "headline": "4 Dividend Stocks Yielding 5% to 10% That Pay You Tax-Free in a Roth IRA",
-        "url": "https://finnhub.io/api/news?id=9a46fe5021207cb267312d8472c6bf26a72d6edc1c84c4ebe9fbb54b0ed40a41",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-24T23:25:52.578251+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
+        "url": "https://finnhub.io/api/news?id=15103eca25a63942c0e5ce168433d166cb05e729047c1a0ffbca73cd7703e25c",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-26T22:53:30.053725+00:00"
+      },
       {
         "headline": "If the Fed Hikes on Dec. 9, These 4 Dividend Stocks Are Built to Handle It",
         "url": "https://finnhub.io/api/news?id=7a733858a596635a7992d529d1bbcf2cc9730abd49a737e3671217767fc2f42d",
@@ -57,20 +63,6 @@
         "url": "https://finnhub.io/api/news?id=e3886098dc99ff144bf7f905b8feb8bbd2af7218089b0f2060586d395cec6585",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-24T01:00:36.943191+00:00"
-      },
-      {
-        "headline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
-        "url": "https://finnhub.io/api/news?id=5201d2c79a3dd0e1b0c44ee5ddbf037c19836a574426c91e96a6a8a522107d9e",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-23T01:00:41.784048+00:00"
-      }
-    ],
-    "V": [
-      {
-        "headline": "Visa vs. American Express: Which Stock Has More Growth Potential?",
-        "url": "https://finnhub.io/api/news?id=0d5c329978ec53368481fd278e86f462977316672eea5702cce4d7a39ebabc41",
-        "condition": "New flows + value-added services โตเร็วกว่า core (+20-28%) — ขยาย TAM เกินแค่ consumer payments",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "PTT": [
@@ -91,12 +83,6 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
         "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
-        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "AVGO": [
@@ -111,20 +97,6 @@
         "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
         "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      }
-    ],
-    "LEN": [
-      {
-        "headline": "Lennar: A Contrarian Buy As Cost Cuts And Land-Light Shift Positions It Well For Recovery",
-        "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-11-19T22:01:49.170441+00:00"
-      },
-      {
-        "headline": "Lennar: A Contrarian Buy As Cost Cuts And Land-Light Shift Positions It Well For Recovery",
-        "url": "https://finnhub.io/api/news?id=71a89e53568131039fdd40334aea168f79054c00f5342b9eabf61f2950ce2fc8",
-        "condition": "Millrose asset-light land model — ลด capital ในที่ดิน เพิ่ม ROE/flexibility ถ้าโมเดลพิสูจน์ได้",
-        "detected_at": "2026-11-19T01:00:41.185666+00:00"
       }
     ],
     "BRK.B": [
