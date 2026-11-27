@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T01:00:36.489320+00:00",
+  "last_updated": "2026-11-27T22:35:18.443545+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -163,6 +163,18 @@
     ],
     "TSM": [
       {
+        "headline": "TSMC: Starting To Look Like A Buy Again (Rating Upgrade)",
+        "url": "https://finnhub.io/api/news?id=b274ad1eb0b710d8b52b1536fa11c393bdb3afc90081fef72d408e88c611fddd",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "What Is Going on With Taiwan Semiconductor Stock on Friday?",
+        "url": "https://finnhub.io/api/news?id=8ca80a354288651f4f0c7607f2336ace40b3b1492568c462543cbf2a66372c58",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
         "headline": "Trump to Attend TSMC Arizona Chip Plant Groundbreaking as Chipmaker's US Investment Expands: Report",
         "url": "https://finnhub.io/api/news?id=e70b2a01138578e1250505ba0641b807d619a848aac1db975003ea65da275eea",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
@@ -179,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-26T01:00:35.916437+00:00"
-      },
-      {
-        "headline": "Jim Cramer Backs DuPont, Says Buy Nvidia",
-        "url": "https://finnhub.io/api/news?id=9ad99d5a7b2867abf1e97936d136eb97ea8320e4c29ea01f2161541d6fa723bf",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-26T01:00:35.916437+00:00"
-      },
-      {
-        "headline": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
-        "url": "https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-25T22:59:50.424447+00:00"
       }
     ],
     "PG": [
@@ -220,6 +220,12 @@
       }
     ],
     "ABBV": [
+      {
+        "headline": "GMAB Stock Soars 71% in 3 Months on Pipeline Progress & Sales Growth",
+        "url": "https://finnhub.io/api/news?id=58db23f53e90ffbaec63837863ca35da74be4e2399f76b51070e121ae799d2c0",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
       {
         "headline": "Best Dividend Stocks to Buy for Dependable Dividend Growth",
         "url": "https://finnhub.io/api/news?id=ab8372ecfee687d7abf018b7dce66c686ad6cd08febf8c3946af69c275a4cd45",
@@ -297,12 +303,6 @@
         "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
         "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
-      },
-      {
-        "headline": "Does Raised 2026 Guidance Change The Bull Case For GE Stock?",
-        "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
-        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "NBIX": [
@@ -325,26 +325,14 @@
         "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
-      },
-      {
-        "headline": "4 Monthly Dividend Stocks That Pay Roth IRA Investors Tax-Free Every Month",
-        "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
-        "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "HEI.A": [
       {
-        "headline": "A $7.4 Billion Fund Dumps These 3 Stocks",
-        "url": "https://finnhub.io/api/news?id=c9b0be79054a1bc0dd73be718c3e67c101776bea60065cb8a2413fcaad27b2f0",
+        "headline": "RTX vs. HEI: Which Defense Stock Has Greater Upside Potential?",
+        "url": "https://finnhub.io/api/news?id=29ac09e5c0add95c80d02855babce22e66e51d9bfd2e246d68e712a724a61b69",
         "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
-      },
-      {
-        "headline": "Has Heico (HEI) Outpaced Other Aerospace Stocks This Year?",
-        "url": "https://finnhub.io/api/news?id=7ef5a42089ad06dfdf4ab0bb472912818ce4a60b2e27caf7a3e3e1715a208317",
-        "condition": "Valuation สูงเรื้อรัง — HEICO เทรด P/E premium มานาน สะท้อน execution สมบูรณ์แบบ ถ้าโตช้าลงแม้ชั่วคราว ราคามักถูกลงโทษรุนแรง",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
       }
     ],
     "NUE": [
@@ -365,12 +353,6 @@
         "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
         "detected_at": "2026-11-21T01:00:37.677804+00:00"
-      },
-      {
-        "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
-        "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "RBRK": [
@@ -379,12 +361,6 @@
         "url": "https://finnhub.io/api/news?id=7d21fc30c26be11ab1a6ef5e3d50d61004594c101b918b32722c262d626a55b5",
         "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "Software Stocks Are Throwing a Party. Salesforce Didn’t Get the Invite—Yet.",
-        "url": "https://finnhub.io/api/news?id=bc731f5ed9706bf54e0257d5c2bfed582790ad10b085b752625aad1e62fe97cb",
-        "condition": "ไม่ตรง investment voice — ยังขาดทุน GAAP, stock comp สูง (dilution), IPO ใหม่ valuation multiple สูง = volatile มาก",
-        "detected_at": "2026-11-20T21:43:41.063102+00:00"
       }
     ],
     "ANET": [

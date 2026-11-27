@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-27T01:00:36.489320+00:00",
+  "last_updated": "2026-11-27T22:35:18.443545+00:00",
   "alerts": {
     "ARCC": [
+      {
+        "headline": "2 Overlooked 10%+ Dividends Are Turning Into Buys",
+        "url": "https://finnhub.io/api/news?id=b5a45d9506576db708638fc2741611a457a6c5aa091dbf4b24856521366f0f28",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "2 Black Friday Blue-Chip Dividend Bargains Too Cheap To Ignore",
+        "url": "https://finnhub.io/api/news?id=59c4d23c455ad90fa3a52f8c724a33636a1c091b76a12a91cf58076f45308de3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "How a 66-Year-Old Collects $5,775 a Month From Just Three Tickers: JEPI, O, and ARCC",
+        "url": "https://finnhub.io/api/news?id=15163394875686baeb0fbb418e74b92883d3fb78dbf207a66e199c4a68f7b628",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
       {
         "headline": "How Much You’d Need in Dividend Stocks to Generate $5,000 a Month in Passive Income",
         "url": "https://finnhub.io/api/news?id=2c536c7c8d52da694271ad7debf712c1df4a11d7337fb1ad387217420f6a2f71",
@@ -13,27 +31,15 @@
         "url": "https://finnhub.io/api/news?id=7bfbda70e9ceba69ef471653816278bb5daf8d5aaf77b40580983a02056da3a4",
         "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
         "detected_at": "2026-11-26T22:53:30.053725+00:00"
-      },
-      {
-        "headline": "A 68-Year-Old Swapped JEPQ for DIVO in a $1.23 Million Portfolio. Here’s What Happened to His $7,718 Monthly Paycheck",
-        "url": "https://finnhub.io/api/news?id=0f6ca4694d4e32919551e1c3da414302c182e41a55a60494dcc97cf76d7b5f6a",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-25T22:59:50.424447+00:00"
-      },
-      {
-        "headline": "Retire on Dividends: 5 Ultra-High-Yield Stocks Boomers Are Buying and Holding Forever",
-        "url": "https://finnhub.io/api/news?id=e9ffeda86379e6cbfc43bc97f39ea4e3fef09b462184e0ed16d009ea279e9acf",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-25T22:59:50.424447+00:00"
-      },
-      {
-        "headline": "A 68-Year-Old Swapped JEPQ for DIVO in a $1.23 Million Portfolio. Here’s What Happened to His $7,718 Monthly Paycheck",
-        "url": "https://finnhub.io/api/news?id=0f6ca4694d4e32919551e1c3da414302c182e41a55a60494dcc97cf76d7b5f6a",
-        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
-        "detected_at": "2026-11-25T01:00:41.605596+00:00"
       }
     ],
     "PG": [
+      {
+        "headline": "McDonald’s Joined the Dividend Kings in September, but These 4 Have Been Kings for Decades",
+        "url": "https://finnhub.io/api/news?id=6084e6adc33adf99b31d2150fae5929a0435ca36fd39f17e810a4547d4d1c742",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
       {
         "headline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
         "url": "https://finnhub.io/api/news?id=15103eca25a63942c0e5ce168433d166cb05e729047c1a0ffbca73cd7703e25c",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=7a733858a596635a7992d529d1bbcf2cc9730abd49a737e3671217767fc2f42d",
         "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
         "detected_at": "2026-11-25T22:59:50.424447+00:00"
-      },
-      {
-        "headline": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
-        "url": "https://finnhub.io/api/news?id=e3886098dc99ff144bf7f905b8feb8bbd2af7218089b0f2060586d395cec6585",
-        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
-        "detected_at": "2026-11-24T01:33:26.558171+00:00"
       }
     ],
     "PTT": [
