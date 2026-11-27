@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-11-26T22:53:30.053725+00:00",
+  "last_updated": "2026-11-27T01:00:36.489320+00:00",
   "alerts": {
     "AAPL": [
+      {
+        "headline": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+        "url": "https://finnhub.io/api/news?id=c4079b41499c39a3562eff34451594219699874c9557af1a537f97c58861c560",
+        "condition": "App Store revenue model ถูก challenge พร้อมกันหลายทาง — EU DMA (ปรับ €500M แล้ว ยังมี Article 6(4)), DOJ antitrust, Epic injunction (ห้ามเก็บ commission นอก app) — ถ้า take rate ลดจริง Services margin กระทบโดยตรง",
+        "detected_at": "2026-11-27T01:00:36.489320+00:00"
+      },
       {
         "headline": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
         "url": "https://finnhub.io/api/news?id=c4079b41499c39a3562eff34451594219699874c9557af1a537f97c58861c560",
@@ -25,15 +31,15 @@
         "url": "https://finnhub.io/api/news?id=cd3cee1b8e359c3b17e508db134c9d09ee533d2ddf31ddd2857a94f6d203df79",
         "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
         "detected_at": "2026-11-25T01:00:41.605596+00:00"
-      },
-      {
-        "headline": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
-        "url": "https://finnhub.io/api/news?id=cd3cee1b8e359c3b17e508db134c9d09ee533d2ddf31ddd2857a94f6d203df79",
-        "condition": "AAPL ร่วงจาก all-time high $317 เหลือ ~$290 ภายในสัปดาห์หลัง WWDC — ตลาดอาจสะท้อนความกังวลเรื่อง EU/China exclusion แล้วบางส่วน",
-        "detected_at": "2026-11-24T23:25:52.578251+00:00"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs",
+        "url": "https://finnhub.io/api/news?id=a576a2644b7c0fe65180f26fdab08de6425626e2f474ce4c6b9535baaee95c1c",
+        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
+        "detected_at": "2026-11-27T01:00:36.489320+00:00"
+      },
       {
         "headline": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs",
         "url": "https://finnhub.io/api/news?id=a576a2644b7c0fe65180f26fdab08de6425626e2f474ce4c6b9535baaee95c1c",
@@ -57,12 +63,6 @@
         "url": "https://finnhub.io/api/news?id=8dddda9e784ea509d9f37136165d64d0c78e37e7811e2b73b98aa8e65a9423a5",
         "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
         "detected_at": "2026-11-26T01:00:35.916437+00:00"
-      },
-      {
-        "headline": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
-        "url": "https://finnhub.io/api/news?id=57423974c39a5788070df93a39570953d50651c621f2813f64d7461c476724f7",
-        "condition": "แบรนด์ Tesla ในหลายตลาดเริ่มแตกแยกกับภาพลักษณ์ของ Elon Musk — ถ้า brand damage ลึกขึ้น ราคาลดไม่ช่วยแล้ว",
-        "detected_at": "2026-11-25T22:59:50.424447+00:00"
       }
     ],
     "KBANK": [
@@ -166,6 +166,12 @@
         "headline": "Trump to Attend TSMC Arizona Chip Plant Groundbreaking as Chipmaker's US Investment Expands: Report",
         "url": "https://finnhub.io/api/news?id=e70b2a01138578e1250505ba0641b807d619a848aac1db975003ea65da275eea",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-27T01:00:36.489320+00:00"
+      },
+      {
+        "headline": "Trump to Attend TSMC Arizona Chip Plant Groundbreaking as Chipmaker's US Investment Expands: Report",
+        "url": "https://finnhub.io/api/news?id=e70b2a01138578e1250505ba0641b807d619a848aac1db975003ea65da275eea",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-26T22:53:30.053725+00:00"
       },
       {
@@ -183,12 +189,6 @@
       {
         "headline": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
         "url": "https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-25T22:59:50.424447+00:00"
-      },
-      {
-        "headline": "Jim Cramer Backs DuPont, Says Buy Nvidia",
-        "url": "https://finnhub.io/api/news?id=9ad99d5a7b2867abf1e97936d136eb97ea8320e4c29ea01f2161541d6fa723bf",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-25T22:59:50.424447+00:00"
       }
