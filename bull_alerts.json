@@ -1,0 +1,153 @@
+{
+  "last_updated": "2026-11-28T01:00:40.035798+00:00",
+  "alerts": {
+    "ARCC": [
+      {
+        "headline": "2 Overlooked 10%+ Dividends Are Turning Into Buys",
+        "url": "https://finnhub.io/api/news?id=b5a45d9506576db708638fc2741611a457a6c5aa091dbf4b24856521366f0f28",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "2 Black Friday Blue-Chip Dividend Bargains Too Cheap To Ignore",
+        "url": "https://finnhub.io/api/news?id=59c4d23c455ad90fa3a52f8c724a33636a1c091b76a12a91cf58076f45308de3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "2 Overlooked 10%+ Dividends Are Turning Into Buys",
+        "url": "https://finnhub.io/api/news?id=b5a45d9506576db708638fc2741611a457a6c5aa091dbf4b24856521366f0f28",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "2 Black Friday Blue-Chip Dividend Bargains Too Cheap To Ignore",
+        "url": "https://finnhub.io/api/news?id=59c4d23c455ad90fa3a52f8c724a33636a1c091b76a12a91cf58076f45308de3",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "How a 66-Year-Old Collects $5,775 a Month From Just Three Tickers: JEPI, O, and ARCC",
+        "url": "https://finnhub.io/api/news?id=15163394875686baeb0fbb418e74b92883d3fb78dbf207a66e199c4a68f7b628",
+        "condition": "Yield สูง ~9-10% + dividend คุ้มด้วย NII — สำหรับคนต้องการ income, ARCC เป็น BDC คุณภาพสูงสุด (scale + platform Ares)",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      }
+    ],
+    "PG": [
+      {
+        "headline": "McDonald’s Joined the Dividend Kings in September, but These 4 Have Been Kings for Decades",
+        "url": "https://finnhub.io/api/news?id=6084e6adc33adf99b31d2150fae5929a0435ca36fd39f17e810a4547d4d1c742",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "McDonald’s Joined the Dividend Kings in September, but These 4 Have Been Kings for Decades",
+        "url": "https://finnhub.io/api/news?id=6084e6adc33adf99b31d2150fae5929a0435ca36fd39f17e810a4547d4d1c742",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-27T22:35:18.443545+00:00"
+      },
+      {
+        "headline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
+        "url": "https://finnhub.io/api/news?id=15103eca25a63942c0e5ce168433d166cb05e729047c1a0ffbca73cd7703e25c",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-27T01:00:36.489320+00:00"
+      },
+      {
+        "headline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
+        "url": "https://finnhub.io/api/news?id=15103eca25a63942c0e5ce168433d166cb05e729047c1a0ffbca73cd7703e25c",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-26T22:53:30.053725+00:00"
+      },
+      {
+        "headline": "If the Fed Hikes on Dec. 9, These 4 Dividend Stocks Are Built to Handle It",
+        "url": "https://finnhub.io/api/news?id=7a733858a596635a7992d529d1bbcf2cc9730abd49a737e3671217767fc2f42d",
+        "condition": "Dividend King 69 ปี + FCF $14.6B — ผลตอบแทนสม่ำเสมอ เหมาะเป็นแกน portfolio ระยะยาว",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
+      }
+    ],
+    "PTT": [
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-23T01:00:41.784048+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-22T01:00:37.490026+00:00"
+      },
+      {
+        "headline": "SET ปิดเช้าบวก 2 จุด รับแรงซื้อ PTT-PTTEP หนุนตลาด บ่ายแกว่งไซด์เวย์ - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vSmRlTlFkNjczbkxLZ2hNU1dVQmRDNDVUb0E1aVo2bUF0ZlhHcFRaMHJhQldjcmYxbWtXV2FKYzZhWXV1VU1nYjQwVUl4bGc?oc=5",
+        "condition": "PTTEP (upstream subsidiary) มี production CAGR ~6% คาดการณ์ปี 2025–2028 (Morgan Stanley Overweight target 156 บาท) — ถ้า PTTEP เดินหน้าได้ PTT ได้ประโยชน์ผ่าน dividend",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      }
+    ],
+    "AVGO": [
+      {
+        "headline": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+        "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-11-22T01:00:37.490026+00:00"
+      },
+      {
+        "headline": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+        "url": "https://finnhub.io/api/news?id=fbf2af91c8d5287cd9e4e9b0866a79e35e631a2f324e5879ea24777e86b6a59e",
+        "condition": "Process power ในการออกแบบชิป custom silicon — ความเชี่ยวชาญออกแบบชิป AI เฉพาะทางให้ hyperscaler แต่ละรายสร้างมาหลายปี คู่แข่งใหม่เข้ามาแทนที่ยากในระยะสั้น",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      }
+    ],
+    "RBRK": [
+      {
+        "headline": "Global Data Protection and Replication Solutions Market Report 2026 | Capitalize on $18.5B by 2030 as Microsoft, Dell, IBM, Veeam, and Rubrik Drive Ransomware-Resilient Backups",
+        "url": "https://finnhub.io/api/news?id=55d208b25b3c714336fc45dfba5ea2be14d1603401ae9f7d4b3833fdbae3827c",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      },
+      {
+        "headline": "Rubrik (RBRK) Moved, What Is Drawing Attention Now?",
+        "url": "https://finnhub.io/api/news?id=64e0629b2591846fd508066f19ee243283d78480e292403b7ef9a4cf15b56c61",
+        "condition": "Cyber resilience เป็น secular tailwind — ransomware เพิ่มขึ้น, security budget resilient กว่า IT ทั่วไป; demand structural",
+        "detected_at": "2026-11-21T20:25:11.533400+00:00"
+      }
+    ],
+    "LAMR": [
+      {
+        "headline": "How to Build $6,575 a Month in Tax-Free Dividend Income Inside a Roth IRA Without Selling a Single Share",
+        "url": "https://finnhub.io/api/news?id=2b3791f6aa88a6b1b218f49cb7204f90e8aff382b5f4cf86529e3993bd413be6",
+        "condition": "AFFO + dividend โตสม่ำเสมอ + yield ~5% — เหมาะถือเพื่อ income ระยะยาว; digital billboard conversion เป็น growth lever (เปลี่ยน 1 ป้ายให้โฆษณาหลายราย)",
+        "detected_at": "2026-11-23T01:00:41.784048+00:00"
+      }
+    ],
+    "NUE": [
+      {
+        "headline": "Best Dividend Aristocrats For December 2026",
+        "url": "https://finnhub.io/api/news?id=94875ef1889ac6238f9b22495500c5bbf5842927527bfe923031c7559ab1f0d0",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
+      },
+      {
+        "headline": "Best Dividend Aristocrats For December 2026",
+        "url": "https://finnhub.io/api/news?id=94875ef1889ac6238f9b22495500c5bbf5842927527bfe923031c7559ab1f0d0",
+        "condition": "Dividend Aristocrat 53 ปี — คืนเงินสม่ำเสมอแม้ช่วงกำไรหด",
+        "detected_at": "2026-11-25T22:59:50.424447+00:00"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Could Biosimilar Delay Alter The Investment Case For Johnson & Johnson (JNJ)?",
+        "url": "https://finnhub.io/api/news?id=a7a8661bc7f74baee8c82869287686e136890548fcb65ef2ec39b063aad20b93",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?",
+        "url": "https://finnhub.io/api/news?id=ffdee7482fab9b66c1dc88580c966fce48ac5690a88a2117ff952f75678ea804",
+        "condition": "Scale Economies + Counter-Positioning ใน pipeline: TREMFYA โต +68% operational และ oncology (DARZALEX, CARVYKTI, RYBREVANT) กำลังขึ้นมาชดเชย STELARA — ถ้าทำได้ต่อเนื่องคือพิสูจน์ว่า R&D engine ยังเดินได้จริง",
+        "detected_at": "2026-11-26T01:00:35.916437+00:00"
+      }
+    ]
+  }
+}
