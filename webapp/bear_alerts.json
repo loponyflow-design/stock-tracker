@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T22:35:18.443545+00:00",
+  "last_updated": "2026-11-28T01:00:40.035798+00:00",
   "alerts": {
     "AAPL": [
       {
@@ -67,6 +67,24 @@
     ],
     "KBANK": [
       {
+        "headline": "หุ้นไทยปิดบวก 1440. แรงซื้อ DELTA KBANK GULF\n27.11.2569 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQb1lsRTc3M2Fub3U4UXFRWGxFU3I3LV9BcWhTclRZVGs3ZkVPcHlMRk9tTVRvSkwwSEh1ZTBnRTg2dmt1cWMtcWRKSW5sa3dlX1QxQmZfLTVtZjk0aC1TeTdQYTViYlFqVGxCbVFETVZQN0lWSk1VbHAyR2dzY09Cdy1kLTg5WU1kYVBfeWw0ZTViRF8yVk1vNWZueWVRVmFzMGt5MDVLYk9qdkNMN1I0d0Zoeml6ZUNOWHdLeUZNcEQyTVMzRVhTS0cycjhpUWFqanFKRGJGd3NlQXUwd1FzLUN3Wk5KZU02Z0xtbFc1dFRCZnF5SHFOeFFrVEN2WW5yeldtQ2NsUmk2allZbnJHaGU0YjdvTHdNOHBtUE9HMWJyWC1MQlBsVDdzdV9UYXZCYnFac0RsVExsdklDQU1BWUdfZUZadmQ0TXlpczlQMWJCV0dXMW96TWZhMm9NN1lMenhIZHFGSllBLWhWU05LZWh6clVmMmszdkhvVkIycGg0N1N4V05xVW1EUQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "เปิด 5 อันดับหุ้นต่างชาติขายสุทธิผ่าน NVDR พบ KBANK สูงสุด 635 ล้านบาท - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NS0FLdHplTjNvVmtKLVZxa1FjVENzTnk5UzhlT1hzeG9sX2VreDc3TDdqd0tSeGJuOUN1clNRZ01YdW1lT3hhQzhNVQ?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "TTB-KBANK มีแวว จ่ายปันผลเพิ่มขึ้นอีก หลังเงินเหลือจากซื้อหุ้นคืน - Share2Trade",
+        "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPcUJRRkxseFNhMHoxUGVuNzJwek5YQjJQbS1rNnMxTFpCcWVLTGVuOUpaRlJ5UDRDaE5GeTBkdGVkam8zb2pRT3FwSUY0cE82aGE5dVdjX216VEw2Qnh1NkRodXplOWFYamR5Q0lIZVdkWFlBWWctTHdvVERiVzB3SnV5VUxxX3I4Q2FvWjNkOEp1cms2WkdBanJ0bG80N1dNT25sQVloT0FEX1hPVTBxTHdObkRzZHAtcHVXb0dQLXFiVHJCQ0hHYlo3OUZ0Zm4zYmROZ0VCZDJ5MkhoRTVkajB0Nkp2SDFOSjRQYnhOb1RQVmtkZHg4VmRYeVBHSHVHbTNRZWpKeG0yQV9CYmFpNDhuOUxIamlYOGcxeHN4WFhNLXBZREtqTEFka2xWRG5Fd1A0aERGd2lLNV9IS2Fpd2dWM2VPelhqSlczNVZUd1U5ZDZVc1Q2Q21TTllESkhDYzJCNlhyQ3dFUVh1TUp4MVBXZkkzNmNzdDczUG1sbWdjNnNVOG9NNmwwVkFncVU5Mm05Z0lpOTY3YXgtdDR3dEUxUEtFNFd4cEVJLUd4cUJaMm5yMDBJVUFWT1AzUmFEQVRYQ2gwSVZBdGFsMEdZTTRydHNqQ2RvYnllclpZZnZuQWJJRzNSNnlNVFFYX2U1Ym0xNFhab2MxWm05bkZEempmdDQ0MnpLTklvNHBianhLX0VTaU8tckdETUJ6emxadGcwY0RmQVV0THlUWTVfZUlGTTV6ZnZONmNKZTRfRzV2cDhxTG9uSzh1ZG9yN3JQTmI3VzYyZURWTEVjZ3gtWkR4N1plclFIMl9kYkNmb2Nzc2RycFZlZ0lOdU1yNzNiZnpCSjFRejRmRG1IWEQyV01QX043U0UwekJmT1QzV3NYWDVVR2liaVBNaEdtU3lRMFVkVjJvRDZLV1dFQm4yNFZaZTRRUE9fZUs5RkhTcUZ4aUlWdVlORkJ5Rlg?oc=5",
+        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
         "headline": "เปิด 5 อันดับหุ้นต่างชาติขายสุทธิผ่าน NVDR พบ KBANK สูงสุด 635 ล้านบาท - ข่าวหุ้นธุรกิจออนไลน์",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NS0FLdHplTjNvVmtKLVZxa1FjVENzTnk5UzhlT1hzeG9sX2VreDc3TDdqd0tSeGJuOUN1clNRZ01YdW1lT3hhQzhNVQ?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
@@ -77,24 +95,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOSktMVncwYk01d09Ed2pwczEwWjBZWTlwVlBrQXVwOTlzUWVRQVVXLXkxVFdzaHlxREM3VmU3UDVjNW1pU1VnMzNURWU5VkdaTElaRFVuLXMtRzNGellfOFRQSmlGZHJyc1FMWnplUThxc2FsdlhLRDVNZXlyS1dKcG5RZlRmaWRmTGdLMFhxQmVzRUJneDEyNUMyY0NUM3BFbk1Bd2s1aVAxU19RcFc0dWhpaGZKdFlxeTJULU42TVVkYTRmV2lTcmlFZGxERW44c1AxQXktNUhac1lBQVpGSUhEdzdZdmFIZ1FfVmw4ejVmQlI3U2VJZFctcFFoLXU1QjZ3U3RHVjZENk9GWEV3OVlSSzZoTV8zZWZkSloxN1ktTlFzVVhkLUhySWh2S1FDdWZyT2lYN3k5aFJhUW1pT01QS29uV1B2THlZS213MThTS0Zhd0k0Mzh1ZkxaM0syLW9hTExnbkFHb2d4RkE3TTNxZnhtemRURWdtTFVpNU41N1BITS1ndmplR2RUTHBBbHh0VGhvOUR5dmxCN0locFg1WldRakxnU0pCTTVabS1Dc2REQl92NWdBelpmcXI2a0pYT0ZjWVRQMnE2UzFRZnR4eFRnOFFLZzMyZ1R1Qy1IbnhYNG5vMEhMaW5XbV9nSjNmVDFleHh6N184OWt3OGZ4MzFmWlN3bXZRaWFfczIxbnlmRDRsM2tLcE1iM2VWQmUwS2R3?oc=5",
         "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
         "detected_at": "2026-11-26T22:53:30.053725+00:00"
-      },
-      {
-        "headline": "TTB-KBANK มีแวว จ่ายปันผลเพิ่มขึ้นอีก หลังเงินเหลือจากซื้อหุ้นคืน - Share2Trade",
-        "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPcUJRRkxseFNhMHoxUGVuNzJwek5YQjJQbS1rNnMxTFpCcWVLTGVuOUpaRlJ5UDRDaE5GeTBkdGVkam8zb2pRT3FwSUY0cE82aGE5dVdjX216VEw2Qnh1NkRodXplOWFYamR5Q0lIZVdkWFlBWWctTHdvVERiVzB3SnV5VUxxX3I4Q2FvWjNkOEp1cms2WkdBanJ0bG80N1dNT25sQVloT0FEX1hPVTBxTHdObkRzZHAtcHVXb0dQLXFiVHJCQ0hHYlo3OUZ0Zm4zYmROZ0VCZDJ5MkhoRTVkajB0Nkp2SDFOSjRQYnhOb1RQVmtkZHg4VmRYeVBHSHVHbTNRZWpKeG0yQV9CYmFpNDhuOUxIamlYOGcxeHN4WFhNLXBZREtqTEFka2xWRG5Fd1A0aERGd2lLNV9IS2Fpd2dWM2VPelhqSlczNVZUd1U5ZDZVc1Q2Q21TTllESkhDYzJCNlhyQ3dFUVh1TUp4MVBXZkkzNmNzdDczUG1sbWdjNnNVOG9NNmwwVkFncVU5Mm05Z0lpOTY3YXgtdDR3dEUxUEtFNFd4cEVJLUd4cUJaMm5yMDBJVUFWT1AzUmFEQVRYQ2gwSVZBdGFsMEdZTTRydHNqQ2RvYnllclpZZnZuQWJJRzNSNnlNVFFYX2U1Ym0xNFhab2MxWm05bkZEempmdDQ0MnpLTklvNHBianhLX0VTaU8tckdETUJ6emxadGcwY0RmQVV0THlUWTVfZUlGTTV6ZnZONmNKZTRfRzV2cDhxTG9uSzh1ZG9yN3JQTmI3VzYyZURWTEVjZ3gtWkR4N1plclFIMl9kYkNmb2Nzc2RycFZlZ0lOdU1yNzNiZnpCSjFRejRmRG1IWEQyV01QX043U0UwekJmT1QzV3NYWDVVR2liaVBNaEdtU3lRMFVkVjJvRDZLV1dFQm4yNFZaZTRRUE9fZUs5RkhTcUZ4aUlWdVlORkJ5Rlg?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-26T22:53:30.053725+00:00"
-      },
-      {
-        "headline": "CGSI มอง SET ฟื้นตามตลาดโลก รับ “เจนเซน หวง” คืนทัพ Nvidia ชู DELTA-KBANK - ข่าวหุ้นธุรกิจออนไลน์",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LOWEzdVFBLTVGNGwyM0RfbzRfR1VLaDN2VzhsS3VNYzRUUUhvV0lsb3FULWpLZTA0WUxOdjJDdzFBcE5ON1puSkdrWQ?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-26T01:00:35.916437+00:00"
-      },
-      {
-        "headline": "KBANK ส่องหุ้นร้อน 6 ส.ค. 69 - Share2Trade",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG9EZVA5ZENtZXBneDA2Q29IcnJ3ZFBYdVVOQTFadTA5N1NXcmJsclAxcjFSSkZmTVpxZEVDV2xjd2x2VFJGdThCYnFZMzNBV3Z2MjVZSnRWOUNLNFdRNHZBd3VJTXMyRnlkVUFPYzdEcl8xZUtqVlVzdVI4dHNwcEZ2YXBGZzljZVFyMzFwMVNQOW1yWnpiZUJDbzJsc0c4NkktZnlmOUhNeE41elc0dDFHOGtabk1DZ21jLUwxazhTOWswdjNDYVFRSUtBcVh5VF90WXIyWGlaQms3ZXlySC1CT192cWMxbFVTeS1abUJINk9tQzhoUWFIQjVSN1ZsaWJWMEhPYXY?oc=5",
-        "condition": "KBANK เปิดเผยเองว่า 10% ของ portfolio มีความเสี่ยงจาก Middle East conflict — ถ้าสถานการณ์ยืดเยื้อ NPL จะขึ้นเกินคาด H2 2026",
-        "detected_at": "2026-11-26T01:00:35.916437+00:00"
       }
     ],
     "LOW": [
@@ -166,6 +166,18 @@
         "headline": "TSMC: Starting To Look Like A Buy Again (Rating Upgrade)",
         "url": "https://finnhub.io/api/news?id=b274ad1eb0b710d8b52b1536fa11c393bdb3afc90081fef72d408e88c611fddd",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "What Is Going on With Taiwan Semiconductor Stock on Friday?",
+        "url": "https://finnhub.io/api/news?id=8ca80a354288651f4f0c7607f2336ace40b3b1492568c462543cbf2a66372c58",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "TSMC: Starting To Look Like A Buy Again (Rating Upgrade)",
+        "url": "https://finnhub.io/api/news?id=b274ad1eb0b710d8b52b1536fa11c393bdb3afc90081fef72d408e88c611fddd",
+        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-27T22:35:18.443545+00:00"
       },
       {
@@ -179,18 +191,6 @@
         "url": "https://finnhub.io/api/news?id=e70b2a01138578e1250505ba0641b807d619a848aac1db975003ea65da275eea",
         "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
         "detected_at": "2026-11-27T01:00:36.489320+00:00"
-      },
-      {
-        "headline": "Trump to Attend TSMC Arizona Chip Plant Groundbreaking as Chipmaker's US Investment Expands: Report",
-        "url": "https://finnhub.io/api/news?id=e70b2a01138578e1250505ba0641b807d619a848aac1db975003ea65da275eea",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-26T22:53:30.053725+00:00"
-      },
-      {
-        "headline": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
-        "url": "https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495",
-        "condition": "ความเสี่ยงไต้หวัน-จีน = existential — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro/geopolitics แย่\" อย่างรุนแรง: ความขัดแย้งทางทหารกระทบ supply chain ชิปโลกและ TSMC โดยตรง",
-        "detected_at": "2026-11-26T01:00:35.916437+00:00"
       }
     ],
     "PG": [
@@ -220,6 +220,12 @@
       }
     ],
     "ABBV": [
+      {
+        "headline": "GMAB Stock Soars 71% in 3 Months on Pipeline Progress & Sales Growth",
+        "url": "https://finnhub.io/api/news?id=58db23f53e90ffbaec63837863ca35da74be4e2399f76b51070e121ae799d2c0",
+        "condition": "Patent cliff รุ่นถัดไป: Skyrizi/Rinvoq จะหมด exclusivity กลางทศวรรษ 2030s — concentration เดิมๆ กลับมา (เหมือน Humira) ต้องมี pipeline มาแทนอีกรอบ",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
       {
         "headline": "GMAB Stock Soars 71% in 3 Months on Pipeline Progress & Sales Growth",
         "url": "https://finnhub.io/api/news?id=58db23f53e90ffbaec63837863ca35da74be4e2399f76b51070e121ae799d2c0",
@@ -273,10 +279,16 @@
     ],
     "AMZN": [
       {
-        "headline": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
-        "url": "https://finnhub.io/api/news?id=5850d7247851659fe14bd0e69ea670d8e74eb776ce92ef4f51a0f0a84253dc25",
+        "headline": "Meta’s (META) Muse Could Unlock a New Revenue Stream",
+        "url": "https://finnhub.io/api/news?id=6c0b1d8a81b7a16611173daa81e760f9518d0e515d9496b2b0ffc6437b553dc5",
         "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
+      },
+      {
+        "headline": "What Amazon.com (AMZN)'s UK Car Marketplace Launch Means For Shareholders",
+        "url": "https://finnhub.io/api/news?id=afbb76dcd5ae34a77c9b99cad46e4e5220155be940ce27689cfe682e32f82eb9",
+        "condition": "Capex AI สูงกว่ารายได้ AI ที่เกิดขึ้นจริงมาก — AWS AI revenue run rate $15B เทียบ capex ปีนี้ $200B เป็นช่องว่างใหญ่ ถ้าดีมานด์ AI ไม่โตทันการลงทุน จะกดดัน FCF และ ROIC ในระยะกลาง",
+        "detected_at": "2026-11-28T01:00:40.035798+00:00"
       }
     ],
     "GE": [
@@ -297,12 +309,6 @@
         "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
         "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "Does Raised 2026 Guidance Change The Bull Case For GE Stock?",
-        "url": "https://finnhub.io/api/news?id=bae007af1832ae105f877a8919a97eaa8e70f86a8a1bb6f58dc18cf75e63eb04",
-        "condition": "พึ่งพา supply chain ของซัพพลายเออร์ภายนอกสูง — กว่า 80% ของปัญหาการส่งมอบที่ผ่านมาโยงกับ supply chain หากติดขัดอีกจะกระทบทั้งรายได้ใหม่และการขยาย margin",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
     ],
     "NBIX": [
@@ -319,12 +325,6 @@
         "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
         "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
         "detected_at": "2026-11-21T20:25:11.533400+00:00"
-      },
-      {
-        "headline": "4 Monthly Dividend Stocks That Pay Roth IRA Investors Tax-Free Every Month",
-        "url": "https://finnhub.io/api/news?id=7e5f36559ca424e2937fff16a5f86a735bca7d401d59401fb371364b04d13cae",
-        "condition": "การเปลี่ยน dividend จากรายเดือนเป็นรายไตรมาส อาจลดเสน่ห์สำหรับนักลงทุน income บางกลุ่ม",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
     ],
     "HEI.A": [
@@ -347,12 +347,6 @@
         "url": "https://finnhub.io/api/news?id=ab8372ecfee687d7abf018b7dce66c686ad6cd08febf8c3946af69c275a4cd45",
         "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
         "detected_at": "2026-11-24T23:25:52.578251+00:00"
-      },
-      {
-        "headline": "Nucor (NYSE:NUE): Strong Growth Meets a Tight Technical Setup",
-        "url": "https://finnhub.io/api/news?id=6f852677ac44b6500a6364ed6aea5e25865a1bdab121359ce6dc838dabe45143",
-        "condition": "Cyclical เต็มตัว (macro-coupled) — ขัดกับเงื่อนไข \"เลี่ยงหุ้นที่พังเมื่อ macro แย่\": ราคาเหล็ก + construction demand ควบคุมไม่ได้ กำไร swing รุนแรง (EPS $28 → $7.5)",
-        "detected_at": "2026-11-21T01:00:37.677804+00:00"
       }
     ],
     "RBRK": [
